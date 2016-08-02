@@ -26,8 +26,8 @@ junto config simple_config
 
 Current status :  for some reason , junto generated output file in Step 1 in my laptop and Harsha's laptop are different , due to which this fails in my laptop.
 
-* Update : copy_output.py copies all label_prop_output in STEP1 to no_gold or 
-with_gold as per arguments
- 
+* Update : A video has been added for the running demo
+
+It takes a total of 20 minutes to run .
  
 
