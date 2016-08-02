@@ -1,6 +1,6 @@
 import os
 from shutil import copyfile# copy files
-
+import sys
 #This program copies all label_prop_outputs from copy_argument to copy_argument+1
 # ex : 1 to 2 , 2 to 3
 def copy(loc):
@@ -26,10 +26,19 @@ def copy(loc):
 			current_part = "/part"+str(i)
 			fname = "/label_prop_output"
 			srcfile = src+current_part+fname+".txt"
-			destfile = dest+current_part+fname+"_step"+str(i)+".txt"
+			destfile = dest+current_part+fname+"_step"+str(loc)+".txt"
 			
+			if os.path.isfile(destfile):
+				print "removing older copies in part",str(i),"\n"
+				os.system("rm -f "+destfile)
+
 			copyfile(srcfile,destfile)
-			print 'Copied for part',i,'\n'
+			if os.path.isfile(destfile):
+				print 'Copied for part',i,'\n'
+			else:
+				print 'Failure !exit'
+				sys.exit()
+
 			if loc==2:
 				#copy prop output as well as input graph1 and 2 for step 2 --> 3
 				fname="/input_graph"
@@ -37,6 +46,13 @@ def copy(loc):
 				srcfile2 = "STEP2"+current_part+fname+".txt"
 				destfile1 = "STEP3"+current_part+fname+"_step1.txt"
 				destfile2 = "STEP3"+current_part+fname+"_step2.txt"
+				
+				if os.path.isfile(destfile1):
+					print "removing older copies in part",str(i),"\n"
+					os.system("rm -f "+destfile1)				
+				if os.path.isfile(destfile2):
+					print "removing older copies in part",str(i),"\n"
+					os.system("rm -f "+destfile2)
 
 				copyfile(srcfile1,destfile1)
 				copyfile(srcfile2,destfile2)

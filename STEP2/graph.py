@@ -52,11 +52,11 @@ def main(n):
 	seeds_string = ""
 	for each in data:
 		if len(each.split("\t"))<2:
-			print "Error"
+			#print "Error"# removed with Harsha's consent
 			continue
 		temp_s = each.split("\t")[0]
 		temp_s += '\t'
-		print each
+		#print each#used for debugging
 		if each.split("\t")[1] != "":
 			temp_s += each.split("\t")[1].split(" ")[0]+'\t'
 			temp_s += each.split("\t")[1].split(" ")[1]+'\n'
@@ -85,7 +85,7 @@ def main(n):
 	f3.close()
 	print "part",n,count,"done"
 
-#for i in range(11,12):
+#for i in range(1,31):
 #	if i in [5,10,12,18,22,24]:
 #		continue
 #	main(i)

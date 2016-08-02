@@ -253,7 +253,7 @@ def main_new():
 	count_list = [["PART","L1","L2","Total","Vruddhi","Not Vruddhi","Not sure"]]
 	count_list.append(main(1,True,[],False,"",1,count_list))
 	# main(2,False,["a"],False,"",2,count_list)
-	# count_list.append(main(3,True,[],False,"",1,count_list))
+	count_list.append(main(3,True,[],False,"",1,count_list))
 	# count_list.append(main(4,True,["f","F"],False,"",2,count_list))
 	count_list.append(main(6,"No",[],False,"",1,count_list))
 	# main(7,True,["u","o"],False,"",2,count_list)
