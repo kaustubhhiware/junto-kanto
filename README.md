@@ -24,10 +24,18 @@ junto config simple_config
 
 * calls *simplify_looper_for3.py* running *graph.py* and *merge.py* in STEP3 for each of these parts
 
-Current status :  for some reason , junto generated output file in Step 1 in my laptop and Harsha's laptop are different , due to which this fails in my laptop.
-
 * Update : A video has been added for the running demo
 
 It takes a total of 20 minutes to run .
  
+## Results
+
+To generate a proper result text file (demo : results/ ), run
+`
+python result_gen.py
+
+`
+
+It asks 2 parameters , partnum and STEPnum . The generated output file can be viewed at
+results/step_STEPnum_part_partnum_.txt
 

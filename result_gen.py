@@ -143,12 +143,12 @@ def analyzeForStep(STEPnum,partnum):
 		precision1 = 100.0*len(L1common)/L1predictnum
 		#print "L1 predictions : ",len(L1common)," common : : predicted ",L1predictnum
 	else:
-		precision1 = "NA"
+		precision1 = "-"
 	if L2predictnum!=0:
 		precision2 = 100.0*len(L2common)/L2predictnum
 		#print "L2 predictions : ",len(L2common)," common : : predicted ",L2predictnum
 	else:
-		precision2 = "NA"
+		precision2 = "-"
 
 #	print "Precisions : ",precision1," and ",precision2
 	statsTable.add_row(['Precision',precision1,precision2])
@@ -156,11 +156,11 @@ def analyzeForStep(STEPnum,partnum):
 	if(len(L1g)!=0):
 		recall1 = 100.0*len(L1common)/len(L1g)
 	else:
-		recall1 = "NA"
+		recall1 = "-"
 	if(len(L2g)!=0):
 		recall2 = 100.0*len(L2common)/len(L2g)
 	else:
-		recall2 = "NA"	
+		recall2 = "-"	
 
 #	print "Recall : ",recall1," and ",recall2
 	statsTable.add_row(['Recall',recall1,recall2])
@@ -169,7 +169,7 @@ def analyzeForStep(STEPnum,partnum):
 	if(len(Lg)!=0):
 		accuracy = 100.0*(len(L1common) + len(L2common))/len(Lg)
 	else:
-		accuracy = "NA"# Possible only when output not generated
+		accuracy = "-"# Possible only when output not generated
 
 #	print "accuracy: ",accuracy
 	statsTable.add_row(['Accuracy','=>',accuracy])
@@ -195,16 +195,16 @@ def analyzeForStep(STEPnum,partnum):
 				if index in Lg:
 					given = Lg[index]
 				else:
-					given = "None"
+					given = "-"
 
 				if index in Lp:
 					predicted = Lp[index]
 					L1val = L1p[index]
 					L2val = L2p[index]
 				else:
-					predicted = "None"
-					L1val = "NA"
-					L2val = "NA"
+					predicted = "-"
+					L1val = "-"
+					L2val = "-"
 
 				connectionTable.add_row([index,mapping,given,predicted,L1val,L2val])
 
