@@ -56,18 +56,18 @@ k = raw_input("Build junto once ? Enter y for building : ")
 if k=="y":
 	build_junto()
 
-is_first = raw_input("Build part 1 ? y for yes : ")
-if is_first=="y":
-	part1()
-
+#is_first = raw_input("Build part 1 ? y for yes : ")
+#if is_first=="y":
+#	part1()
+part1()
 
 print '\n+--- Copying all output files to STEP 2---+\n'
 simply_copy.copy(1)
 
-is_second = raw_input("Build part 2 ? y for yes : ")
-if is_second:
-	part2()
-
+#is_second = raw_input("Build part 2 ? y for yes : ")
+#if is_second:
+#	part2()
+part2()
 print '\n+--- Copying all output files to STEP 3---+\n'
 simply_copy.copy(2)
 

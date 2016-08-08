@@ -1,0 +1,20 @@
+{
+    "1": {
+        "mEtreya": [
+            "mEtra 1", 
+            [
+                1, 
+                0, 
+                0, 
+                0
+            ]
+        ]
+    }, 
+
+
+    dic[each] = ecah is 1
+    dic[each]
+
+    for x in dic:
+        for each in dic[x]:
+            print each,dic[x][each][0].split(" ")[0]

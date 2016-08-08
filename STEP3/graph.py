@@ -74,7 +74,7 @@ def main(n):
 	err_count = 0
 	for each in data:
 		if len(each.split("\t"))<2:
-			print "Error"
+			#print "Error"
 			continue
 		temp_s = each.split("\t")[0]
 		temp_s += '\t'
