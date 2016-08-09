@@ -9,6 +9,39 @@ import csv
 import datetime
 from prettytable import PrettyTable
 
+
+def nodesFrom(filename,U):
+	"""
+		open that file and add nodes to U
+	"""
+
+	if not os.path.isfile(filename):
+		print filename,"missing ! Closing now..."
+		quit()
+
+	filer = open(filename,'r')
+	text = filer.read()
+	data = text.split("\n")
+	for each in data:
+		if len(each.split("\t"))<2:
+			continue
+		node = each.split("\t")[0]
+		U[node] = node
+
+	filer.close()
+
+
+def createUniversal():
+	"""
+		add all nodes worth considering to a dict to be used later
+	"""
+	U = dict()
+	nodesFrom("gold_labels.txt",U)
+	nodesFrom("seeds.txt",U)
+	#print "\nI matter : \n",U
+	return U
+
+
 def getLList(L,L1,L2):
 	"""
 		opens gold_labels.txt and sorts all nodes into L1 or L2
@@ -33,15 +66,18 @@ def getLList(L,L1,L2):
 			L2[key] = L[key]
 		else:
 			L1[key] = L[key]
+
+	goldy.close()
 	#print "The lists"
 	#print L		
 	#print L1
 	#print L2
 
 
-def getPredicted(Lp,L1p,L2p):
+def getPredicted(Lp,L1p,L2p,U):
 	"""
 		go to label_prop_output.txt and get predicted values for labels
+		a node is stored only if it is in the relevant set U
 	"""
 	if not os.path.isfile("label_prop_output.txt"):
 		print "Output file missing ! Did you run junto for each part ? "
@@ -58,14 +94,16 @@ def getPredicted(Lp,L1p,L2p):
 		label_predict = each.split("\t")[3].split(" ")[0]
 		predom_val = each.split("\t")[3].split(" ")[1]
 		other_val = each.split("\t")[3].split(" ")[3]
-
-		Lp[node] = label_predict
-		if label_predict=="L2":
-			L2p[node] = predom_val
-			L1p[node] = other_val
-		else:
-			L1p[node] = predom_val
-			L2p[node] = other_val
+		if node in U:
+			Lp[node] = label_predict
+			if label_predict=="L2":
+				L2p[node] = predom_val
+				L1p[node] = other_val
+			else:
+				L1p[node] = predom_val
+				L2p[node] = other_val
+		#else:
+		#	print node,"not relevant\n"
 	"""
 	for node in Lp:
 		if Lp[node]=="L2" or Lp[node]=="L1":
@@ -82,6 +120,7 @@ def getPredicted(Lp,L1p,L2p):
 		elif Lp[node]=="L1":
 			L1prediction += 1
 
+	out.close()
 	return L1prediction,L2prediction
 		
 
@@ -109,6 +148,11 @@ def analyzeForStep(STEPnum,partnum):
 	"""
 	os.chdir("STEP"+str(STEPnum)+"/part"+str(partnum)+"/")
 	#print "dir : "+os.getcwd()
+
+	#first , generate a universal set comprising of nodes in seeds and gold_labels
+	#rest are to be skipped
+	U = createUniversal()
+
 	Lg = dict()#The g stands for gold
 	L1g = dict()
 	L2g = dict()
@@ -118,9 +162,9 @@ def analyzeForStep(STEPnum,partnum):
 	Lp = dict()#p stands for prediction value
 	L1p = dict()#L1 p and L2 p hold the predicted values 
 	L2p = dict()#
-
+	#print "\nI matter : \n",U
 	#go to label_prop_output
-	L1predictnum,L2predictnum =  getPredicted(Lp,L1p,L2p)
+	L1predictnum,L2predictnum =  getPredicted(Lp,L1p,L2p,U)
 	#print "prediction numbers : ",L1predictnum," and ",L2predictnum
 
 	#print "The sizes are Lg :",len(Lg),"and Lp : ",len(Lp)
@@ -132,7 +176,8 @@ def analyzeForStep(STEPnum,partnum):
 
 #report stats
 	now = datetime.datetime.now()
-	result_string = "+---\tResults for Step "+str(STEPnum)+" part "+str(partnum)+"---+\n\n"
+	result_string = "+---\tResults for Step "+str(STEPnum)+" part "+str(partnum)
+	result_string += "\t---+\n\n"
 	result_string += "\nResults as compiled on "+now.strftime("%d-%m-%Y %H:%M")+"\n\n"
 
 	print result_string
