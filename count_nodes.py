@@ -6,7 +6,6 @@ import json
 import io
 import random
 import csv
-import datetime
 from prettytable import PrettyTable
 
 
@@ -74,7 +73,7 @@ def getNodesFromPart(i,data):
 	L1gold,L2gold,golds,goldnode = getCountFrom("gold_labels.txt")
 	Unique = dict()
 
-	Unique = getUnion(seednode,goldnode)
+	Unique = getUnion(goldnode,seednode)
 
 	#print Unique
 	data[i] = L1seed,L2seed,seeds,L1gold,L2gold,golds,len(Unique)

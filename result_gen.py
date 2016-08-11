@@ -102,8 +102,8 @@ def getPredicted(Lp,L1p,L2p,U):
 			else:
 				L1p[node] = predom_val
 				L2p[node] = other_val
-		#else:
-		#	print node,"not relevant\n"
+		else:
+			print node,"not relevant\n"
 	"""
 	for node in Lp:
 		if Lp[node]=="L2" or Lp[node]=="L1":
@@ -137,7 +137,7 @@ def  getIntersection(L,M,label):
 		elif M[key]!=label:
 			continue
 		else:
-			common[key] = key;#the value of common[key] doesn't matter here
+			common[key] = key#the value of common[key] doesn't matter here
 
 	return common
 
