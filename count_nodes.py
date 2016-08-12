@@ -62,6 +62,30 @@ def getCountFrom(filename):
 	return countL1,countL2,countAll,U
 
 
+
+def InputNodes():
+	"""
+		open input_graph.txt and return count of nodes
+	"""
+	filename="input_graph.txt"
+	if not os.path.isfile(filename):
+		print filename,"missing ! Closing now..."
+		quit()
+	U = dict()
+	filer = open(filename,'r')
+	text = filer.read()
+	data = text.split("\n")
+	for each in data:
+		if len(each.split("\t"))<2:
+			continue
+		n1 = each.split("\t")[0]
+		n2 = each.split("\t")[1]
+		U[n1] = n1
+		U[n2] = n2
+
+	filer.close()
+	return U
+
 def getNodesFromPart(i,data):
 	"""
 		get nodes from part i
@@ -74,9 +98,9 @@ def getNodesFromPart(i,data):
 	Unique = dict()
 
 	Unique = getUnion(goldnode,seednode)
-
+	graphnode = InputNodes()
 	#print Unique
-	data[i] = L1seed,L2seed,seeds,L1gold,L2gold,golds,len(Unique)
+	data[i] = L1seed,L2seed,seeds,L1gold,L2gold,golds,len(Unique),len(graphnode)
 
 
 	os.chdir("..")
@@ -92,9 +116,9 @@ if STEPnum not in range(1,4):
 	print "Not valid"
 	quit()
 
-contentTable = PrettyTable(['Part#','+--','Seeds','--+','+-','Gold label','-+','Total unique'])
-contentTable.add_row([' ','L1','L2','Total','L1gold','L2gold','Totalgold','nodes'])
-
+contentTable = PrettyTable(['Part#','+--','Seeds','--+','+-','Gold label','-+','Total unique','Nodes in'])
+contentTable.add_row([' ','L1','L2','Total','L1gold','L2gold','Totalgold','nodes','Graph'])
+contentTable.add_row(['','','','','','','','',''])
 dataHolder = dict()
 os.chdir("STEP"+str(STEPnum))
 nope = (5,10,12,18,22,24)
@@ -109,7 +133,7 @@ out_string = "+---\tNodes in Step "+str(STEPnum)+"\t---+\n\n"
 
 for each in dataHolder:
 	arr = dataHolder[each]
-	contentTable.add_row([each,arr[0],arr[1],arr[2],arr[3],arr[4],arr[5],arr[6]])
+	contentTable.add_row([each,arr[0],arr[1],arr[2],arr[3],arr[4],arr[5],arr[6],arr[7]])
 
 #print contentTable
 out_string += contentTable.get_string()
