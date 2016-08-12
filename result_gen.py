@@ -102,8 +102,8 @@ def getPredicted(Lp,L1p,L2p,U):
 			else:
 				L1p[node] = predom_val
 				L2p[node] = other_val
-		else:
-			print node,"not relevant\n"
+		#else:
+		#	print node,"not relevant\n"
 	"""
 	for node in Lp:
 		if Lp[node]=="L2" or Lp[node]=="L1":
@@ -236,6 +236,8 @@ def analyzeForStep(STEPnum,partnum):
 				#print "N",each," :",x,"->",
 				#dic[each][x][0].split(" ")[0],"L1",L1p["N"+each],"L2",L2p["N"+each]
 				index = "N"+each
+				if index not in U:
+					continue
 				mapping = x+"->"+dic[each][x][0].split(" ")[0]
 				if index in Lg:
 					given = Lg[index]
