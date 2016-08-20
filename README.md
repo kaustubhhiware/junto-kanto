@@ -3,6 +3,7 @@ Python files by Harsha and me(corrected some for script suitability)
 
 ## Script
 `
+python hunt_duplicates.py &&
 python simplify.py
 `
 * Asks if junto is to compiled before running
