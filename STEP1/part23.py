@@ -220,7 +220,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 	count += x
 	print removed,fish
 
-	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi]					
+	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]					
 	return (node_dict,string,count,seeds_string,count_0,count_list)
 					
 
@@ -268,7 +268,7 @@ def main_new():
 	# main(20,"No",[],False,"",1)
 	# main(21,"No",[],False,"",1)
 	# main(22,"No",[],False,"",1)
-	print main(23,True,["u","U","f"],True,"k",4)
+	return main(23,True,["u","U","f"],True,"k",4)
 	# main(24,"No",[],False,"",1)
 	# main(25,False,[],False,"",1)
 	# main(26,"No",["a"],False,"",2)

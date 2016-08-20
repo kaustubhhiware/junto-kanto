@@ -5,6 +5,22 @@ import json
 import io
 import random
 import csv
+import os
+
+def edgesInPart(index):
+	"""
+		returns number of edges in input graph
+	"""
+	os.chdir("part"+str(index))
+	filer = open("input_graph.txt",'r')
+	text = filer.read()
+	data = text.split("\n")
+	
+	#if index==29:
+	#	print data
+	os.chdir("..")
+	return len(data)
+
 
 def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,total,count_list):
 	string = ""
@@ -224,7 +240,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 	not_sure_vruddhi = len(not_sure)
 	count += x
 	
-	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi]
+	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]
 	return (node_dict,string,count,seeds_string,count_0,count_list)
 					
 
@@ -248,7 +264,7 @@ def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list):
 	print "part",n,count-1,"done"	
 	return count_list
 
-
+#(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,total,count_list):
 def main_new():
 	count_list = [["PART","L1","L2","Total","Vruddhi","Not Vruddhi","Not sure"]]
 	count_list.append(main(1,True,[],False,"",1,count_list))
@@ -283,6 +299,8 @@ def main_new():
 				writer.writerow(eachrow)
 			except UnicodeEncodeError:
 				continue
+
+	return main(29,"No",[],False,"y",2,count_list)
 
 def run(n):
 	count_list = [["PART","L1","L2","Total","Vruddhi","Not Vruddhi","Not sure"]]

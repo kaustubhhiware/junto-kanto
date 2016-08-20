@@ -45,7 +45,8 @@ def main(n):
 			source['N'+key]= temp.split(" ")[0]
 		else:
 			source['N'+key]= temp
-	
+
+	result_vector = {}
 	string = ""
 	for key in nodes:
 		for each in nodes[key]:
@@ -53,6 +54,17 @@ def main(n):
 			s1 = source[key]
 			s2 = source[each]
 			maximum = 0.0
+
+			if s1 in vector_data[indices[s1[0]]]:
+				result_vector[s1] = len(vector_data[indices[s1[0]]][s1])
+			else:
+				result_vector[s1] = 0
+
+			if s2 in vector_data[indices[s2[0]]]:
+				result_vector[s2] = len(vector_data[indices[s2[0]]][s2])
+			else:
+				result_vector[s2] = 0			
+
 			if s1 in vector_data[indices[s1[0]]] and s2 in vector_data[indices[s2[0]]]:
 				for every1 in vector_data[indices[s1[0]]][s1]:
 					for every2 in vector_data[indices[s2[0]]][s2]:
@@ -109,6 +121,9 @@ def main(n):
 	print n,"done"
 	f3.write(seeds_string)
 	f3.close()
+
+	with io.open("../results/"+"step_3_part"+str(n)+"_"+"vector_dict.txt", "w", encoding="utf8") as ft:
+		ft.write(unicode(json.dumps(result_vector,indent=4,ensure_ascii=False,sort_keys=True)))
 """
 for i in range(11,12):
 	if i in [5,10,12,18,22,24]:

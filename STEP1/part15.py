@@ -4,6 +4,7 @@ import json
 import io
 import random
 
+
 def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,starts_with,total):
 	string = ""
 	seeds_string = ""
@@ -213,7 +214,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,starts_w
 	not_sure_vruddhi = len(not_sure)
 	count += x
 
-	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,]
+	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]
 	return (node_dict,string,count,seeds_string,count_0,count_list)
 	
 					
@@ -241,6 +242,6 @@ def main(n,vruddhi,ends_with,two_vowels,starts_with,total):
 
 def main_new():
 	
-	print main(15,"No",["i","pati"],True,"n",4)
+	return main(15,"No",["i","pati"],True,"n",4)
 
 #main_new()

@@ -1,0 +1,7 @@
+import csv
+
+
+with open('count_data.csv','wb') as csvfile:
+	writer = csv.writer(csvfile , delimiter = ',')
+	for eachrow in count_data : 
+		 writer.writerow(eachrow)

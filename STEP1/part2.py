@@ -257,7 +257,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 		not_vruddhi = len(yes)
 	not_sure_vruddhi = len(not_sure)
 	count += x
-	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,num_gold,false_ground]
+	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n")),num_gold,false_ground]
 	return (node_dict,string,count,seeds_string,gold_string,count_0,count_list)
 					
 
@@ -289,5 +289,6 @@ def main_new():
 	count_list = []
 	count_list = main(2,False,["a"],False,"",2,count_list)
 	print count_list
+	return count_list
 
 #main_new()

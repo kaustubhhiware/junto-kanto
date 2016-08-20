@@ -9,35 +9,16 @@ import part26
 import time
 from shutil import copyfile
 import os
+import csv
 
-def juntofy(i):
-	"""
-		generate all outputs file
-	"""
-	#copy the simple_config to generate output
-	copyfile("simple_config","part"+str(i)+"/simple_config")
-	#go to each part
-	os.chdir("part"+str(i))
-
-	if os.path.isfile("label_prop_output.txt"):
-		print "\t\t\t\tremoving older builds for part",i
-		os.system("rm -f label_prop_output.txt")
-	
-	if i==1:
-		os.system("junto config simple_config")
-	else:
-		os.system("touch dump")
-		os.system("junto config simple_config > dump")
-	print '+--- output for part',i,'generated'
-	#return to main STEP dir for next parts
-	os.chdir("..")
-	time.sleep(0.5)#used for debugging
 
 run_separate = (2,4,15,19,23,26)
 separate_exe = {'2':part2,'4':part4,'15':part15,'19':part19,'23':part23,'26':part26}
 nope = (5,10,12,18,22,24)
-# i is the iterator to run all parts
+imp_part = (2,15,23,26,29)
 
+# i is the iterator to run all parts
+count_data = [["partnum","Negative","Positive","Total","num_vruddhi","not_vruddhi","not_sure_vruddhi","Edges"]]
 for i in range(1,31):
 	#part removed
 	if i in nope:
@@ -48,7 +29,7 @@ for i in range(1,31):
 
 		#use input for graph
 		print '\nRunning part',i,'\n'
-		Step1.main_new()
+		count_data.append(Step1.main_new())
 		print 'Part',i,'graph generated\n'
 
 		#juntofy(i)
@@ -58,13 +39,26 @@ for i in range(1,31):
 	#separate run
 	else :
 		print '\nRunning part',i,'\n'
-		separate_exe[str(i)].main_new()	
-		print 'part',i,'graph generated\n'
+		if i not in imp_part:
+			separate_exe[str(i)].main_new()	
+		else:
+			count_data.append(separate_exe[str(i)].main_new())
 
+		print 'part',i,'graph generated\n'
 		#juntofy(i)
 		time.sleep(0.5)
 
+
+print 'Writing now'
+#print count_data
+with open('../results/step1_counts.csv','wb') as csvfile:
+	writer = csv.writer(csvfile , delimiter = ',')
+	for eachrow in count_data : 
+		 writer.writerow(eachrow)
+
+"""
 print '+--- Initiate Graph Generation ---+\n'
 for i in range(1,31):
-	if i not in nope:
-		juntofy(i)
+	if i in imp_part:
+		count_data.append(m)
+		"""
