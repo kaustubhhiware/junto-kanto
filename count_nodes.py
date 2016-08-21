@@ -116,6 +116,9 @@ if STEPnum not in range(1,4):
 	print "Not valid"
 	quit()
 
+nodes_data = [['Part#','+--','Seeds','--+','+-','Gold label','-+','Total unique','Nodes in']]
+nodes_data.append([' ','L1','L2','Total','L1gold','L2gold','Totalgold','nodes','Graph'])
+
 contentTable = PrettyTable(['Part#','+--','Seeds','--+','+-','Gold label','-+','Total unique','Nodes in'])
 contentTable.add_row([' ','L1','L2','Total','L1gold','L2gold','Totalgold','nodes','Graph'])
 contentTable.add_row(['','','','','','','','',''])
@@ -134,6 +137,7 @@ out_string = "+---\tNodes in Step "+str(STEPnum)+"\t---+\n\n"
 for each in dataHolder:
 	arr = dataHolder[each]
 	contentTable.add_row([each,arr[0],arr[1],arr[2],arr[3],arr[4],arr[5],arr[6],arr[7]])
+	nodes_data.append([each,arr[0],arr[1],arr[2],arr[3],arr[4],arr[5],arr[6],arr[7]])
 
 #print contentTable
 out_string += contentTable.get_string()
@@ -141,6 +145,12 @@ os.chdir("..")
 os.system("mkdir results")
 outstr = os.getcwd()+"/results/step_"+str(STEPnum)+"_nodes.txt"
 	
+
+with open('results/step'+str(STEPnum)+'_nodes.csv','wb') as csvfile:
+	writer = csv.writer(csvfile , delimiter = ',')
+	for eachrow in nodes_data : 
+		 writer.writerow(eachrow)
+
 #print out_string
 if os.path.isfile(outstr):
 	os.system("rm -f "+outstr)
