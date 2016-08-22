@@ -166,7 +166,7 @@ def StepremoveCopy(STEPnum):
 	"""
 		loop for each step
 	"""
-	os.chdir("STEP"+str(STEPnum))
+	#os.chdir("STEP"+str(STEPnum))
 	nope = (5,10,12,18,22,24)
 	for i in range(1,31):
 		print "part",i,"\n"
@@ -175,7 +175,7 @@ def StepremoveCopy(STEPnum):
 		else:
 			partRemoveCopy(i)
 
-	os.chdir("..")
+	#os.chdir("..")
 
 
 #main interface

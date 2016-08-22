@@ -9,6 +9,7 @@ import part26
 import time
 from shutil import copyfile
 import os
+import hunt_duplicates_step1
 
 def juntofy(i):
 	"""
@@ -63,6 +64,9 @@ for i in range(1,31):
 
 		#juntofy(i)
 		time.sleep(0.5)
+
+#remove duplicates and normalize
+hunt_duplicates_step1.StepremoveCopy(1)
 
 print '+--- Initiate Graph Generation ---+\n'
 for i in range(1,31):

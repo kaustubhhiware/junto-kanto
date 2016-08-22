@@ -3,6 +3,8 @@ import os
 import simply_copy
 from shutil import copyfile
 import time
+import hunt_duplicates
+
 
 def build_junto():
 	#compile junto once

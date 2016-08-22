@@ -8,7 +8,7 @@ import random
 import csv
 import datetime
 from prettytable import PrettyTable
-
+import time
 
 def nodesFrom(filename,U):
 	"""
@@ -96,10 +96,11 @@ def getPredicted(Lp,L1p,L2p,U):
 		other_val = each.split("\t")[3].split(" ")[3]
 		if node in U:
 			Lp[node] = label_predict
+			#print type(label_predict),"Type hai\n"
 			if label_predict=="L2":
 				L2p[node] = predom_val
 				L1p[node] = other_val
-			else:
+			elif label_predict=="L1":
 				L1p[node] = predom_val
 				L2p[node] = other_val
 		#else:
@@ -141,6 +142,32 @@ def  getIntersection(L,M,label):
 
 	return common
 
+def allcounts(L1g,L2g,Lg,Lp):
+	"""
+		classify all nodes for computation
+	"""
+	# consider only those nodes whose output is known
+	givenL1predictL1 = 0
+	givenL1predictL2 = 0
+	givenL2predictL1 = 0
+	givenL2predictL2 = 0
+
+	for key in Lg :
+		if key in Lp:
+			if key in L1g:
+				if Lp[key]=="L1":
+					givenL1predictL1 += 1
+				elif Lp[key]=="L2":
+					givenL1predictL2 += 1
+			elif key in L2g:
+				if Lp[key]=="L1":
+					givenL2predictL1 += 1
+				elif Lp[key]=="L2":
+					givenL2predictL2 += 1
+				time.sleep(0.5)
+
+	return givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2
+
 
 def analyzeForStep(STEPnum,partnum):
 	"""
@@ -168,11 +195,15 @@ def analyzeForStep(STEPnum,partnum):
 	#print "prediction numbers : ",L1predictnum," and ",L2predictnum
 
 	#print "The sizes are Lg :",len(Lg),"and Lp : ",len(Lp)
-	L1common = getIntersection(L1g,Lp,"L1")
-	L2common = getIntersection(L2g,Lp,"L2")
-
+	#L1common = getIntersection(L1g,Lp,"L1")
+	#L2common = getIntersection(L2g,Lp,"L2")
 	#print "L1 common: ",L1common
 	#print "L2 common: ",L2common
+
+	print'+--- Computing...'
+	givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2 = allcounts(L1g,L2g,Lg,Lp)
+	print "Stats"
+	print givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2 
 
 #report stats
 	now = datetime.datetime.now()
@@ -184,26 +215,30 @@ def analyzeForStep(STEPnum,partnum):
 
 	statsTable = PrettyTable(['Detail','L1','L2'])
 #precision
-	if L1predictnum!=0:
-		precision1 = 100.0*len(L1common)/L1predictnum
+	if ((givenL1predictL1+givenL1predictL2)!=0):
+		precision1 = 100.0*givenL1predictL1/(givenL1predictL1+givenL1predictL2)
 		#print "L1 predictions : ",len(L1common)," common : : predicted ",L1predictnum
+		precision1 = 0.001 * int(1000*precision1)
 	else:
 		precision1 = "-"
-	if L2predictnum!=0:
-		precision2 = 100.0*len(L2common)/L2predictnum
+	if ((givenL2predictL1+givenL2predictL2)!=0):
+		precision2 = 100.0*givenL2predictL2/(givenL2predictL1+givenL2predictL2)
 		#print "L2 predictions : ",len(L2common)," common : : predicted ",L2predictnum
+		precision2 = 0.001 * int(1000*precision2)
 	else:
 		precision2 = "-"
 
 #	print "Precisions : ",precision1," and ",precision2
 	statsTable.add_row(['Precision',precision1,precision2])
 #recall
-	if(len(L1g)!=0):
-		recall1 = 100.0*len(L1common)/len(L1g)
+	if ((givenL1predictL1+givenL2predictL1)!=0):
+		recall1 = 100.0*givenL1predictL1/(givenL1predictL1+givenL2predictL1)
+		recall1 = 0.001 * int(1000*recall1)
 	else:
 		recall1 = "-"
-	if(len(L2g)!=0):
-		recall2 = 100.0*len(L2common)/len(L2g)
+	if ((givenL1predictL2+givenL2predictL2)!=0):
+		recall2 = 100.0*givenL2predictL2/(givenL1predictL2+givenL2predictL2)
+		recall2 = 0.001 * int(1000*recall2)
 	else:
 		recall2 = "-"	
 
@@ -211,8 +246,10 @@ def analyzeForStep(STEPnum,partnum):
 	statsTable.add_row(['Recall',recall1,recall2])
 
 #accuracy
-	if(len(Lg)!=0):
-		accuracy = 100.0*(len(L1common) + len(L2common))/len(Lg)
+	if((givenL1predictL2+givenL2predictL2+givenL1predictL1+givenL2predictL1)!=0):
+		accuracy = 100.0*(givenL1predictL1+givenL2predictL2)
+		accuracy /= (givenL1predictL2+givenL2predictL2+givenL1predictL1+givenL2predictL1)
+		accuracy = 0.001 * int(1000*accuracy)
 	else:
 		accuracy = "-"# Possible only when output not generated
 
@@ -225,6 +262,8 @@ def analyzeForStep(STEPnum,partnum):
 
 #Everything now calculated , now write this into a results folder
 
+	label_data = [['Node','Mapping','Goldlabel','Predict',
+		'L1 confidence','L2confidence']]
 	connectionTable = PrettyTable(['Node','Mapping','Goldlabel','Predict',
 		'L1 confidence','L2confidence'])
 	#make connections between edges and their code names
@@ -246,15 +285,16 @@ def analyzeForStep(STEPnum,partnum):
 
 				if index in Lp:
 					predicted = Lp[index]
-					L1val = L1p[index]
-					L2val = L2p[index]
+					if predicted!="__DUMMY__":
+						L1val = 0.001 * int( 1000 * float(L1p[index]))
+						L2val = 0.001 * int( 1000 * float(L2p[index]))
 				else:
 					predicted = "-"
 					L1val = "-"
 					L2val = "-"
 
 				connectionTable.add_row([index,mapping,given,predicted,L1val,L2val])
-
+				label_data.append([index,mapping,given,predicted,L1val,L2val])
 	connections = connectionTable.get_string()
 	#print connections
 	result_string += "\n"+connections+"\n"
@@ -263,6 +303,12 @@ def analyzeForStep(STEPnum,partnum):
 	os.system("mkdir results")
 	outstr = "results/step_"+str(STEPnum)+"_part_"+str(partnum)+"_.txt"
 	
+
+	with open('results/step'+str(STEPnum)+"_part_"+str(partnum)+'_results.csv','wb') as csvfile:
+		writer = csv.writer(csvfile , delimiter = ',')
+		for eachrow in label_data : 
+			 writer.writerow(eachrow)
+
 	if os.path.isfile(outstr):
 		os.system("rm -f "+outstr)
 		print "Updating results ..."
@@ -275,36 +321,36 @@ def analyzeForStep(STEPnum,partnum):
 
 
 #MAIN PART
+if __name__=="__main__":
+	#validate part
+	print "Checking if format available.... "
+	os.system("pip install PrettyTable")
 
-#validate part
-print "Checking if format available.... "
-os.system("pip install PrettyTable")
+	partnum = raw_input("Enter part num : ")
+	nope = (5,10,12,18,22,24)
+	partnum = int(partnum)
 
-partnum = raw_input("Enter part num : ")
-nope = (5,10,12,18,22,24)
-partnum = int(partnum)
+	if partnum in range(1,31):
+		if partnum in nope:
+			print "This is an ignored part"
+			quit()
+	else : 
+		print "not even in range"
 
-if partnum in range(1,31):
-	if partnum in nope:
-		print "This is an ignored part"
+	STEPnum = raw_input("Enter which Step : ")
+	STEPnum = int(STEPnum)
+	if STEPnum not in range(1,4):
+		print "Not valid"
 		quit()
-else : 
-	print "not even in range"
 
-STEPnum = raw_input("Enter which Step : ")
-STEPnum = int(STEPnum)
-if STEPnum not in range(1,4):
-	print "Not valid"
-	quit()
-
-base_path = "STEP"+str(STEPnum)+"/part"+str(partnum)+"/"
-gold = "gold_labels.txt"
-out = "label_prop_output.txt"
-if not os.path.isfile(base_path+gold):
-	print "Gold labels missing! ...Closing"
-	quit()
-elif not os.path.isfile(base_path+out):
-	print "Output file missing! ...Closing"
-	quit()
-else:
-	analyzeForStep(STEPnum,partnum)
+	base_path = "STEP"+str(STEPnum)+"/part"+str(partnum)+"/"
+	gold = "gold_labels.txt"
+	out = "label_prop_output.txt"
+	if not os.path.isfile(base_path+gold):
+		print "Gold labels missing! ...Closing"
+		quit()
+	elif not os.path.isfile(base_path+out):
+		print "Output file missing! ...Closing"
+		quit()
+	else:
+		analyzeForStep(STEPnum,partnum)
