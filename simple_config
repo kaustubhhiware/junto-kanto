@@ -1,8 +1,8 @@
 graph_file = input_graph.txt
 data_format = edge_factored
 seed_file = seeds.txt
-gold_labels_file = gold_labels.txt
-test_file = gold_labels.txt
+#gold_labels_file = gold_labels.txt
+#test_file = gold_labels.txt
 iters = 10
 verbose = false
 prune_threshold = 0

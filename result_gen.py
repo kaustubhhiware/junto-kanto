@@ -285,6 +285,8 @@ def analyzeForStep(STEPnum,partnum):
 
 				if index in Lp:
 					predicted = Lp[index]
+					L1val = 0
+					L2val = 0
 					if predicted!="__DUMMY__":
 						L1val = 0.001 * int( 1000 * float(L1p[index]))
 						L2val = 0.001 * int( 1000 * float(L2p[index]))

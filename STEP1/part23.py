@@ -4,7 +4,7 @@ import json
 import io
 import random
 
-def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,total):
+def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,total,seed_analyze=0):
 	string = ""
 	seeds_string = ""
 
@@ -221,11 +221,17 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 	print removed,fish
 
 	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]					
-	return (node_dict,string,count,seeds_string,count_0,count_list)
+	if seed_analyze==1:
+		return (node_dict,string,count,seeds_string,count_0,count_list,yes,no,not_sure)
+	else:
+		return (node_dict,string,count,seeds_string,count_0,count_list)
 					
 
-def main(n,vruddhi,ends_with,two_vowels,last_second,total):
+def main(n,vruddhi,ends_with,two_vowels,last_second,total,seed_analyze=0):
 	count = 1
+	yes = []
+	no = []
+	not_sure = []	
 	node_dict = defaultdict(lambda : defaultdict(lambda : str))
 	input_dict = defaultdict(lambda : defaultdict(lambda : list()))
 	with open("part"+str(n)+"/"+"part"+str(n)+"_algo_file.txt") as f:
@@ -233,7 +239,10 @@ def main(n,vruddhi,ends_with,two_vowels,last_second,total):
 	f1 = open("part"+str(n)+"/"+"input_graph.txt",'wb')
 	f2 = open("part"+str(n)+"/"+"seeds.txt",'wb')
 	for key in input_dict:
-		(node_dict,string,count,seeds_string,count_0,count_list) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total)
+		if seed_analyze==1:
+			(node_dict,string,count,seeds_string,count_0,count_list,yes,no,not_sure) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,seed_analyze)
+		else:	
+			(node_dict,string,count,seeds_string,count_0,count_list) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,seed_analyze)
 	f1.write(string)
 	f2.write(seeds_string)
 	f1.close()
@@ -242,10 +251,13 @@ def main(n,vruddhi,ends_with,two_vowels,last_second,total):
 	with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
 		ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
 	print "part",n,count,"done"
-	return count_list
+	if seed_analyze==1:
+		return count_list,yes,no,not_sure
+	else:
+		return count_list
 
 
-def main_new():
+def main_new(seed_analyze=0):
 	
 	# main(1,True,[],False,"",1)
 	# main(2,False,["a"],False,"",2)
@@ -268,7 +280,7 @@ def main_new():
 	# main(20,"No",[],False,"",1)
 	# main(21,"No",[],False,"",1)
 	# main(22,"No",[],False,"",1)
-	return main(23,True,["u","U","f"],True,"k",4)
+	return main(23,True,["u","U","f"],True,"k",4,seed_analyze)
 	# main(24,"No",[],False,"",1)
 	# main(25,False,[],False,"",1)
 	# main(26,"No",["a"],False,"",2)
