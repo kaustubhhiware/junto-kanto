@@ -5,6 +5,30 @@ import io
 import random
 import csv
 import sample
+import os
+import time
+
+def getNodes(filename):
+	"""
+		return a dict containing all nodes in gold labels
+	"""
+	#filename="gold_labels.txt"
+	if not os.path.isfile(filename):
+		print filename,"missing ! Closing now..."
+		quit()
+	U = dict()
+	filer = open(filename,'r')
+	text = filer.read()
+	data = text.split("\n")
+	for each in data:
+		if len(each.split("\t"))<2:
+			continue
+		node = each.split("\t")[0]
+		label = each.split("\t")[1]
+		U[node] = label
+	filer.close()
+	return U
+
 
 def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,
 				total,count_list,seed_analyze=0):
@@ -192,6 +216,33 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			node_dict[x+count] = temp_dic
 			x+=1
 
+	setG = dict()
+
+	data = gold_string.split("\n")
+	#print data
+	for each in data:
+		if len(each.split("\t"))<2:
+			continue
+		node = each.split("\t")[0]
+		label = each.split("\t")[1]
+		setG[node] = label
+	print "setG",setG
+
+	setS = {}
+###	Generate set for seeds
+	
+	data = seeds_string.split("\n")
+	for each in data:
+		if len(each.split("\t"))<2:
+			continue
+		node = each.split("\t")[0]
+		label = each.split("\t")[1]
+		#U[node] = label
+		if node not in setG:
+			setS[node] = label
+
+###	
+	edgeVSG = 0
 	for i in range(len(yes)):
 		for j in range(i+1,len(yes)):
 			weight = 0
@@ -200,7 +251,14 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					weight += 1
 			weight = float(weight)/float(total)
 			string += yes[i][0]+'\t'+yes[j][0]+'\t'+str(weight)+"\n"
-
+			if yes[i][0] in setG and yes[j][0] in setS:
+				edgeVSG += 1
+			elif yes[i][0] in setS and yes[j][0] in setG:
+				edgeVSG += 1
+	print "setS",setS
+	time.sleep(1)
+	print "Vruddhi edges between Gold and Seeds : ",edgeVSG,"\n"
+	edgenVSG = 0
 	for i in range(len(no)):
 		for j in range(i+1,len(no)):
 			weight = 0
@@ -210,6 +268,13 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			weight = float(weight)/float(total)
 			string += no[i][0]+'\t'+no[j][0]+'\t'+str(weight)+"\n"
 
+			if no[i][0] in setG and no[j][0] in setS:
+				edgenVSG += 1
+			elif no[i][0] in setS and no[j][0] in setG:
+				edgenVSG += 1
+		#print no[i][0],"\n"
+		#time.sleep(0.01)
+	
 	for i in range(len(no)):
 		for j in range(i+1,len(verb_nodes)):
 			weight = 0
@@ -218,6 +283,11 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					weight += 1
 			weight = float(weight)/float(total)
 			string += no[i][0]+'\t'+verb_nodes[j][0]+'\t'+str(weight)+"\n"
+			if no[i][0] in setG and verb_nodes[j][0] in setS:
+				edgenVSG += 1
+			elif no[i][0] in setS and verb_nodes[j][0] in setG:
+				edgenVSG += 1
+	print "non Vruddhi edges between Gold and Seeds : ",edgenVSG,"\n"
 
 	for i in range(len(not_sure)):
 		for j in range(i+1,len(not_sure)):
@@ -290,25 +360,21 @@ def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyz
 	f2.close()
 	f3.close()
 	node_dict = OrderedDict(sorted(node_dict.items(), key=lambda t: t[0]))
-	with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
-		ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
+	#with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
+	#	ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
 	print "part",n,count-1,"done"
 	if seed_analyze==1:
 		return count_list,yes,no,not_sure
 	else :
 		return count_list
 
-def main_new(seed_analyze=0):
+def main_new(seed_analyze=1):
 	count_list = []
 	yes = []
 	no = []
 	not_sure = []
-	if seed_analyze==1:
-		count_list,yes,no,not_sure = main(2,False,["a"],False,"",2,count_list,seed_analyze)
-	else:
-		count_list = main(2,False,["a"],False,"",2,count_list,seed_analyze)
-
-	print count_list
+	count_list,yes,no,not_sure = main(2,False,["a"],False,"",2,count_list,seed_analyze)
+	#print count_list
 	if seed_analyze==1:
 		return count_list,yes,no,not_sure
 	else :

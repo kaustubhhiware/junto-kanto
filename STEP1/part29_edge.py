@@ -1,9 +1,26 @@
+#!/usr/bin/env python
 from collections import defaultdict
 from collections import OrderedDict
 import json
 import io
 import random
 import csv
+import os
+
+def edgesInPart(index):
+	"""
+		returns number of edges in input graph
+	"""
+	os.chdir("part"+str(index))
+	filer = open("input_graph.txt",'r')
+	text = filer.read()
+	data = text.split("\n")
+	
+	#if index==29:
+	#	print data
+	os.chdir("..")
+	return len(data)
+
 
 def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze=0):
 	string = ""
@@ -21,20 +38,18 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 	yes = []
 	no = []
 	not_sure = []
-	test = ""
+
 	count_0 = 0
 	count_1 = 0
 	report = 0
+
+
 	for key in dic:
-		#print x
 		for each in dic[key]:
-			#check is 1 if VqxXi. 0 else not. -1 if not sure
 			result = [0,0,0,0]
 			temp = 0
 			check = 100
 			if len(each.split(" "))>2:
-				#print "fish",each,key
-				fish += 1
 				continue
 			elif len(each.split(" "))==2:
 				source = each.split(" ")[0]
@@ -42,6 +57,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 				source = each
 			derived = key
 			vowel_count = 0
+			
 			if two_vowels:
 				for char in source:
 					if char in l_vow or char in s_vow:
@@ -59,14 +75,13 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 						result[3] = 0
 				except IndexError:
 					result[3] = 0
-					# print "Source length less than 2??",each,key
+				
 			else:
 				result[3] = 0
+
 			if len(source)<=2:
-				# print "Report"
-				report += 1
-				x+=1
 				continue
+
 			while(temp<len(source)):
 				if source[temp] in s_vow:
 					if source[temp] == "a":
@@ -77,16 +92,12 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 							check = 0
 							break
 					if source[temp] == "e" or source[temp] == "i" or source[temp] == "I":
-						try:
-							if derived[temp] == "E":
-								check = 1
-								break
-							else:
-								check = 0
-								break
-						except IndexError:
-							print source,derived
-							continue
+						if derived[temp] == "E":
+							check = 1
+							break
+						else:
+							check = 0
+							break
 					if source[temp] == "u" or source[temp] =="o" or source[temp] == "U":
 						if derived[temp] == "O":
 							check = 1
@@ -109,40 +120,38 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					break
 				temp += 1
 				if temp>=len(source):
-					# print "Error",each,key
 					break
-			if type(vruddhi) is bool:
-				if check is 1:
-					if vruddhi:
+
+			if type(vruddhi) == bool:
+				if check == 1:
+					if vruddhi == True:
 						ans = 1
 					else:
 						ans = 0
-				elif check is 0:
-					if vruddhi:
+				elif check == 0:
+					if vruddhi == True:
 						ans = 0
 					else:
 						ans = 1
-				elif check is -1:
+				elif check == -1:
 					ans = -1
-				elif check is 100:
-					errors+=1
-					Error.append(x)
-					# print "check not assigned before",each,key
-					check = -1
+				elif check == 100:
+					continue
 			else:
 				ans = check			
 
-			if str(source)[len(source)-1] in ends_with:
-				result[1] = 1
+			if len(ends_with)>0:
+				if str(source)[len(source)-1] in ends_with:
+					result[1] = 1
+				else:
+					result[1] = 0
 			else:
 				result[1] = 0
-				ans = 0
-	
 
 			if len(each.split(" "))>1:
-				if int(each.split(" ")[1]) is 0:
+				if int(each.split(" ")[1]) == 0:
 					count_0 += 1
-				elif int(each.split(" ")[1]) is 1:
+				elif int(each.split(" ")[1]) == 1:
 					count_1 += 1
 				else:
 					print "WTF"
@@ -159,12 +168,14 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			temp_node_list = []
 			temp_node_list.append("N"+str(count+x))
 			temp_node_list.append(result)
-			if ans is 1:
+	
+			if ans == 1:
 				yes.append(temp_node_list)
-			elif ans is 0:
+			elif ans == 0:
 				no.append(temp_node_list)
-			elif ans is -1:
+			elif ans == -1:
 				not_sure.append(temp_node_list)
+
 			temp_dic = {}
 			temp_dic[key] = [each,result]
 			node_dict[x+count] = temp_dic
@@ -205,7 +216,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					weight += 1
 			weight = float(weight)/(2*float(total))
 			string += not_sure[i][0]+'\t'+yes[j][0]+'\t'+str(weight)+"\n"
-	
+			
 		for j in range(len(no)):
 			weight = 0
 			for k in range(4):
@@ -215,6 +226,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			if weight<0:
 				print "**** ERROR ****"
 			string += not_sure[i][0]+'\t'+no[j][0]+'\t'+str(weight)+"\n"
+	
 	num_vruddhi = 0
 	not_vruddhi = 0
 	if vruddhi == True or type(vruddhi)!=bool:
@@ -227,8 +239,8 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 		not_vruddhi = len(yes)
 	not_sure_vruddhi = len(not_sure)
 	count += x
-
-	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]		
+	
+	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]
 	if seed_analyze==1:
 		return (node_dict,string,count,seeds_string,count_0,count_list,yes,no,not_sure)
 	else:
@@ -248,36 +260,75 @@ def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyz
 	for key in input_dict:
 		if seed_analyze==1:
 			(node_dict,string,count,seeds_string,count_0,count_list,yes,no,not_sure) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze)
-		else:	
-			(node_dict,string,count,seeds_string,count_0,count_list) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze)
+		else:
+			(node_dict,string,count,seeds_string,count_0,count_list) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,count_list)
 	f1.write(string)
 	f2.write(seeds_string)
 	f1.close()
 	f2.close()
 	node_dict = OrderedDict(sorted(node_dict.items(), key=lambda t: t[0]))
-	with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
-		ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
-	print "part",n,count-1,"done"
+	# with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
+	# 	ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
+	print "part",n,count-1,"done"	
 	if seed_analyze==1:
 		return count_list,yes,no,not_sure
 	else:
 		return count_list
 
+#(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,total,count_list):
 def main_new(seed_analyze=0):
-	count_list = []
+
 	yes = []
 	no = []
-	not_sure = []	
+	not_sure = []
+	counter = []
+	count_list = [["PART","L1","L2","Total","Vruddhi","Not Vruddhi","Not sure"]]
+	count_list.append(main(1,True,[],False,"",1,count_list))
+	# main(2,False,["a"],False,"",2,count_list)
+	count_list.append(main(3,True,[],False,"",1,count_list))
+	# count_list.append(main(4,True,["f","F"],False,"",2,count_list))
+	count_list.append(main(6,"No",[],False,"",1,count_list))
+	# main(7,True,["u","o"],False,"",2,count_list)
+	count_list.append(main(8,False,[],False,"",1,count_list))
+	count_list.append(main(9,"No",[],False,"",1,count_list))
+	# main(11,False,["a"],False,"",2,count_list)
+	count_list.append(main(13,False,[],False,"",1,count_list))
+	count_list.append(main(14,"No",[],False,"",1,count_list))
+	count_list.append(main(16,"No",["i","I"],False,"",2,count_list))
+	# main(17,False,["u"],False,"",1,count_list)
+	# main(19,"No",[],False,"",1,count_list)
+	count_list.append(main(20,"No",[],False,"",1,count_list))
+	count_list.append(main(21,"No",[],False,"",1,count_list))
+	# main(22,"No",[],False,"",1,count_list)
+	# main(23,True,["u","U","f"],True,"k",4,count_list)
+	count_list.append(main(25,False,[],False,"",1,count_list))
+	# main(26,"No",["a"],False,"",2,count_list)
+	count_list.append(main(27,"No",[],False,"",1,count_list))
+	count_list.append(main(28,True,["u","U"],False,"",2,count_list))
+	
 	if seed_analyze==1:
-		count_list,yes,no,not_sure=  main(26,"No",["a"],False,"",2,count_list,seed_analyze)
+		counter,yes,no,not_sure = main(29,"No",[],False,"y",2,count_list,seed_analyze)
+		count_list.append(counter)
 	else:
-		count_list =  main(26,"No",["a"],False,"",2,count_list,seed_analyze)
+		count_list.append(main(29,"No",[],False,"y",2,count_list))
+	count_list.append(main(30,"No",[],False,"",1,count_list))
 
-	print main(11,False,["a"],False,"",2,count_list)
-	print main(7,True,["u","o"],False,"",2,count_list)
-	print main(17,False,["u"],False,"",1,count_list)
+	with open('total_counts.csv', 'wb') as csvfile:
+		writer = csv.writer(csvfile, delimiter=',')
+		for eachrow in count_list:
+			try:
+				writer.writerow(eachrow)
+			except UnicodeEncodeError:
+				continue
+
 	if seed_analyze==1:
-		return count_list,yes,no,not_sure
-	else :
-		return count_list
-#main_new()
+		return counter,yes,no,not_sure
+	else:
+		return main(29,"No",[],False,"y",2,count_list)
+
+def run(n):
+	count_list = [["PART","L1","L2","Total","Vruddhi","Not Vruddhi","Not sure"]]
+	print main(n,"No",[],False,"y",2,count_list)
+
+#print 'begin'
+#run(1)

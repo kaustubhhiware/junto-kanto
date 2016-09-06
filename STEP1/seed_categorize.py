@@ -10,7 +10,8 @@ import time
 from shutil import copyfile
 import os
 import csv
-
+import io
+import json
 
 def standardize(set):
 	"""
@@ -80,10 +81,12 @@ if __name__=="__main__":
 	not_sure = []
 	i = 1
 	for i in to_run:
-
+		i = 2
 		print '\n+--- Running for part',i,'\n'
 		#count list is not needed here , just for completion sake
 		count_list,yes,no,not_sure = separate_exe[str(i)].main_new(1)
+		with io.open("part2_yes.json", "w", encoding="utf8") as ft:
+			ft.write(unicode(json.dumps(yes,indent=4,ensure_ascii=False,sort_keys=True)))
 		yes = standardize(yes)
 		no = standardize(no)
 		not_sure = standardize(not_sure)	
@@ -92,20 +95,19 @@ if __name__=="__main__":
 		L2 = dict()
 		getList(i,L1,L2)
 
-		"""		vruddhiL1 = 0 
-		vruddhiL2 = 0 
-		nonvruddhiL1 = 0 
-		nonvruddhiL2 = 0 
-		confusedL1 = 0 	
-		confusedL2 = 0 
-		"""
+		#with io.open('../results/step1_part2.json','wb',encoding="utf8") as csvfile:
+		#	json.dump(yes,csvfile,indent=4,ensure_ascii=False,sort_keys=True)
+	#	with open("test.txt", "w") as f:
+	#	    f.write(yes)
+
+
 		vruddhiL1,nonvruddhiL1,confusedL1 = countFrom(L1,yes,no,not_sure)
 		vruddhiL2,nonvruddhiL2,confusedL2 = countFrom(L2,yes,no,not_sure)
 
 		tots = 0
 		tots += vruddhiL1+vruddhiL2+nonvruddhiL1+nonvruddhiL2+confusedL1+confusedL2
 		seeds_data.append([i,vruddhiL1,vruddhiL2,nonvruddhiL1,nonvruddhiL2,confusedL1,confusedL2,len(yes),len(no),len(not_sure),tots])
-
+		exit()
 
 	print 'Writing now'
 	#print seeds_data
