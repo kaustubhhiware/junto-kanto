@@ -31,7 +31,7 @@ def getNodes(filename):
 
 
 def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_second,
-				total,count_list,seed_analyze=0):
+				total,count_list):
 	string = ""
 	seeds_string = ""
 
@@ -226,7 +226,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 		node = each.split("\t")[0]
 		label = each.split("\t")[1]
 		setG[node] = label
-	print "setG",setG
+	#print "setG",setG
 
 	setS = {}
 ###	Generate set for seeds
@@ -243,6 +243,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 
 ###	
 	edgeVSG = 0
+	edgeVSUL = 0
 	for i in range(len(yes)):
 		for j in range(i+1,len(yes)):
 			weight = 0
@@ -255,10 +256,19 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 				edgeVSG += 1
 			elif yes[i][0] in setS and yes[j][0] in setG:
 				edgeVSG += 1
-	print "setS",setS
-	time.sleep(1)
-	print "Vruddhi edges between Gold and Seeds : ",edgeVSG,"\n"
+
+			# vruddhi unlabeled and seeds
+			if yes[i][0] not in setG and yes[i][0] not in setS and yes[j][0] in setS:
+				edgeVSUL += 1
+			elif yes[i][0] in setS and yes[j][0] not in setG and yes[j][0] not in setS:
+				edgeVSUL += 1
+
+	#print "setS",setS
+	#time.sleep(1)
+	#print "Vruddhi edges between Gold and Seeds : ",edgeVSG,"\n"
 	edgenVSG = 0
+	edgenVSUL = 0
+
 	for i in range(len(no)):
 		for j in range(i+1,len(no)):
 			weight = 0
@@ -272,8 +282,11 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 				edgenVSG += 1
 			elif no[i][0] in setS and no[j][0] in setG:
 				edgenVSG += 1
-		#print no[i][0],"\n"
-		#time.sleep(0.01)
+
+			if no[i][0] not in setG and no[i][0] not in setS and no[j][0] in setS:
+				edgenVSUL += 1
+			elif no[i][0] in setS and no[j][0] not in setG and no[j][0] not in setS:
+				edgenVSUL += 1
 	
 	for i in range(len(no)):
 		for j in range(i+1,len(verb_nodes)):
@@ -287,7 +300,16 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 				edgenVSG += 1
 			elif no[i][0] in setS and verb_nodes[j][0] in setG:
 				edgenVSG += 1
-	print "non Vruddhi edges between Gold and Seeds : ",edgenVSG,"\n"
+
+			if no[i][0] not in setG and no[i][0] not in setS and verb_nodes[j][0] in setS:
+				edgenVSUL += 1
+			elif no[i][0] in setS and verb_nodes[j][0] not in setG and verb_nodes[j][0] not in setS:
+				edgenVSUL += 1
+					
+	#print "non Vruddhi edges between Gold and Seeds : ",edgenVSG,"\n"
+	#time.sleep(1)
+	edgeCSG = 0 	# confused nodes
+	edgeCSUL = 0
 
 	for i in range(len(not_sure)):
 		for j in range(i+1,len(not_sure)):
@@ -297,6 +319,16 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					weight += 1
 			weight = float(weight)/float(total)
 			string += not_sure[i][0]+'\t'+not_sure[j][0]+'\t'+str(weight)+"\n"
+			
+			if not_sure[i][0] in setG and not_sure[j][0] in setS:
+				edgeCSG += 1
+			elif not_sure[i][0] in setS and not_sure[j][0] in setG:
+				edgeCSG += 1
+
+			if not_sure[i][0] not in setG and not_sure[i][0] not in setS and not_sure[j][0] in setS:
+				edgeCSUL += 1
+			elif not_sure[i][0] in setS and not_sure[j][0] not in setG and not_sure[j][0] not in setS:
+				edgeCSUL += 1
 
 	for i in range(len(not_sure)):
 		for j in range(len(yes)):
@@ -306,6 +338,18 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					weight += 1
 			weight = float(weight)/(2*float(total))
 			string += not_sure[i][0]+'\t'+yes[j][0]+'\t'+str(weight)+"\n"
+
+			if not_sure[i][0] in setG and yes[j][0] in setS:
+				edgeCSG += 1
+			elif not_sure[i][0] in setS and yes[j][0] in setG:
+				edgeCSG += 1
+
+			if not_sure[i][0] not in setG and not_sure[i][0] not in setS and yes[j][0] in setS:
+				edgeCSUL += 1
+			elif not_sure[i][0] in setS and yes[j][0] not in setG and yes[j][0] not in setS:
+				edgeCSUL += 1
+
+
 		for j in range(len(no)):
 			weight = 0
 			for k in range(4):
@@ -315,7 +359,20 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			if weight<0:
 				print "**** ERROR ****"
 			string += not_sure[i][0]+'\t'+no[j][0]+'\t'+str(weight)+"\n"
-	
+
+			if not_sure[i][0] in setG and no[j][0] in setS:
+				edgeCSG += 1
+			elif not_sure[i][0] in setS and no[j][0] in setG:
+				edgeCSG += 1
+
+			if not_sure[i][0] not in setG and not_sure[i][0] not in setS and no[j][0] in setS:
+				edgeCSUL += 1
+			elif not_sure[i][0] in setS and no[j][0] not in setG and no[j][0] not in setS:
+				edgeCSUL += 1
+
+	#print "confused edges between Gold and Seeds : ",edgeCSG,"\n"
+	#time.sleep(1)
+
 	num_vruddhi = 0
 	not_vruddhi = 0
 	if vruddhi == True or type(vruddhi)!=bool:
@@ -330,53 +387,24 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 	count += x
 	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n")),num_gold,false_ground]
 	
-	if seed_analyze==1:
-		return (node_dict,string,count,seeds_string,gold_string,count_0,count_list,yes,no,not_sure)
-	else:
-		return (node_dict,string,count,seeds_string,gold_string,count_0,count_list)					
+	return edgeVSG,edgeVSUL,edgenVSG,edgenVSUL,edgeCSG,edgeCSUL,len(string.split("\n"))		
 
-def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze=0):
+def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list):
 	count = 1
-	yes = []
-	no = []
-	not_sure = []
 	node_dict = defaultdict(lambda : defaultdict(lambda : str))
 	input_dict = defaultdict(lambda : defaultdict(lambda : list()))
 	with open("part"+str(n)+"/"+"part"+str(n)+"_algo_file.txt") as f:
 		input_dict = json.loads(f.read())
-	f1 = open("part"+str(n)+"/"+"input_graph.txt",'wb')
-	f2 = open("part"+str(n)+"/"+"seeds.txt",'wb')
-	f3 = open("part"+str(n)+"/gold_labels.txt",'wb')
 	for key in input_dict:
-		if seed_analyze==1:
-			(node_dict,string,count,seeds_string,gold_string,count_0,count_list,yes,no,not_sure) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze)
-		else:
-			(node_dict,string,count,seeds_string,gold_string,count_0,count_list) = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze)
+		edgeVSG,edgeVSUL,edgenVSG,edgenVSUL,edgeCSG,edgeCSUL,numEdge = combinations(n,node_dict,input_dict[key],count,vruddhi,ends_with,two_vowels,last_second,total,count_list)
 
-	f1.write(string)
-	f2.write(seeds_string)
-	f3.write(gold_string)
-	f1.close()
-	f2.close()
-	f3.close()
-	node_dict = OrderedDict(sorted(node_dict.items(), key=lambda t: t[0]))
-	#with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
-	#	ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
-	print "part",n,count-1,"done"
-	if seed_analyze==1:
-		return count_list,yes,no,not_sure
-	else :
-		return count_list
+	print "part",n,"done"
+	return edgeVSG,edgeVSUL,edgenVSG,edgenVSUL,edgeCSG,edgeCSUL,numEdge			
 
-def main_new(seed_analyze=1):
+
+def main_new():
 	count_list = []
-	yes = []
-	no = []
-	not_sure = []
-	count_list,yes,no,not_sure = main(2,False,["a"],False,"",2,count_list,seed_analyze)
-	#print count_list
-	if seed_analyze==1:
-		return count_list,yes,no,not_sure
-	else :
-		return count_list
+
+	return main(2,False,["a"],False,"",2,count_list)
+
 #main_new()
