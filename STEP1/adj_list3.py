@@ -4,7 +4,7 @@ import csv
 import os
 
 d = defaultdict(lambda : list())
-
+# same file as adj_list , only for 3 uncommented
 def getSet(filename):
 	"""
 		Get elements from file
@@ -26,15 +26,15 @@ def getSet(filename):
 
 def evalScore(i):
 
-	y = 0											#
+##	y = 0											#
 	f = open("part"+str(i)+"/input_graph.txt","r")
 	string = f.read().split("\n")
 	f.close()
 	for line in string :
 
-		y+= 1										#
-		if(y%100000)==0:							#
-			print y									# speed check
+##		y+= 1										#
+##		if(y%100000)==0:							#
+##			print y									# speed check
 		try:
 			word = line.split("\t")
 			if word[0] == "":
@@ -77,16 +77,13 @@ def evalScore(i):
 			for subnodestr in d[node[0]]:# second neighbor
 				subnode=subnodestr.split(" ")
 
-#	3rd neighbor skipped , for part 15 very high number of 
-#	2nd neighbors itself
-				"""
 				for fartheststr in d[subnode[0]]: # third neighbor , farthest
 					farthest=fartheststr.split(" ")
 
 					if farthest[0] in S:
 						score[each] += float (farthest[1])*1
 						n3[each] += 1
-				"""
+
 				if subnode[0] in S:
 					score[each] += float(subnode[1])*2
 					n2[each] += 1
@@ -110,6 +107,6 @@ def evalScore(i):
 
 
 imp_part = (2,15,23,26,29)
-for i in imp_part:
-	print "Periphery condition for part",i
-	evalScore(i)
+#for i in imp_part:
+#	print "Periphery condition for part",i
+#	evalScore(i)
