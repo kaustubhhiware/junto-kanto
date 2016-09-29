@@ -245,9 +245,9 @@ def evalScore(i):
 
 
 
-imp_part = (2,15,23,26,29)
-for i in imp_part:
-	print("Periphery condition for part",i)
-	evalScore(i)
+#imp_part = (2,15,23,26,29)
+#for i in imp_part:
+#	print("Periphery condition for part",i)
+#	evalScore(i)
 
-#evalScore(3)
+evalScore(23)

@@ -86,7 +86,7 @@ def evalScore(i):
 			print(line)
 
 	#with io.open("graph.txt", "w", encoding="utf8") as f:
-	#	f.write(unicode(json.dumps(d,f,indent=4,ensure_ascii=False,sort_keys=True)))
+	#	f.write(json.dumps(d,f,indent=4,ensure_ascii=False,sort_keys=True))
 	print("start")
 
 
@@ -109,75 +109,6 @@ def evalScore(i):
 	print("start for sure")
 	x=0					#
 	for each in G:
-		L1score[each] = 0
-		L2score[each] = 0
-		n11[each] = 0
-		n21[each] = 0
-		n31[each] = 0
-		n12[each] = 0
-		n22[each] = 0
-		n32[each] = 0
-		x += 1			#
-		if (x%10)==0:	#
-			print(x)		# speed check
-		if each not in d:
-			continue
-
-
-		for nodestr in d[each]:# each neighbor
-			node=nodestr.split(" ")
-			
-			for subnodestr in d[node[0]]:# second neighbor
-				subnode=subnodestr.split(" ")
-
-#	3rd neighbor skipped , for part 15 very high number of 
-#	2nd neighbors itself
-
-#				for fartheststr in d[subnode[0]]: # third neighbor , farthest
-#					farthest=fartheststr.split(" ")
-#
-#					if farthest[0] in S:
-#						if d[farthest[0]]=="L1":
-#							L1score[each] += float (farthest[1])*1
-#							n31[each] += 1
-#						else:
-#							L2score[each] += float (farthest[1])*1
-#							n32[each] += 1
-
-				if subnode[0] in S:
-					if d[subnode[0]]=="L1":
-						L1score[each] += float(subnode[1])*2
-						n21[each] += 1
-					else:
-						L2score[each] += float(subnode[1])*2
-						n22[each] += 1
-
-			if node[0] in S:
-				if d[node[0]]=="L1":
-					L1score[each] += float(node[1])*3
-					n11[each] += 1
-				else:
-					L2score[each] += float(node[1])*3
-					n12[each] += 1
-
-		
-
-	l=list()
-	l.append(("Node(Gold)","L1Score","L2Score","#1st nb L1","#1st nb L2","#2nd nb L1","#2nd nb L2","#3rd nb L1","#3rd nb L2",))
-	for each in G:
-		l.append((each,L1score[each],L2score[each],n11[each],n12[each],n21[each],n22[each],n31[each],n32[each]))
-
-	outfile = "../results/periphery/part"+str(i)+"_gold.csv"
-	with open(outfile,'w') as csvfile:
-		writer = csv.writer(csvfile , delimiter = ',')
-		for eachrow in l : 
-			 writer.writerow(eachrow)
-
-	print("Gold labels analysis done ..Repeating for unlabelled nodes")
-#same code repeated
-	print("start for sure")
-	x=0					#
-	for each in U:
 		L1score[each] = 0
 		L2score[each] = 0
 		n11[each] = 0
@@ -232,6 +163,75 @@ def evalScore(i):
 		
 
 	l=list()
+	l.append(("Node(Gold)","L1Score","L2Score","#1st nb L1","#1st nb L2","#2nd nb L1","#2nd nb L2","#3rd nb L1","#3rd nb L2",))
+	for each in G:
+		l.append((each,L1score[each],L2score[each],n11[each],n12[each],n21[each],n22[each],n31[each],n32[each]))
+
+	outfile = "../results/periphery/part"+str(i)+"_gold.csv"
+	with open(outfile,'w') as csvfile:
+		writer = csv.writer(csvfile , delimiter = ',')
+		for eachrow in l : 
+			 writer.writerow(eachrow)
+
+	print("Gold labels analysis done ..Repeating for unlabelled nodes")
+#same code repeated
+	print("start for sure")
+	x=0					#
+	for each in U:
+		L1score[each] = 0
+		L2score[each] = 0
+		n11[each] = 0
+		n21[each] = 0
+		n31[each] = 0
+		n12[each] = 0
+		n22[each] = 0
+		n32[each] = 0
+		x += 1			#
+		if (x%10)==0:	#
+			print(x)		# speed check
+		if each not in d:
+			continue
+
+
+		for nodestr in d[each]:# each neighbor
+			node=nodestr.split(" ")
+			
+			for subnodestr in d[node[0]]:# second neighbor
+				subnode=subnodestr.split(" ")
+
+#	3rd neighbor skipped , for part 15 very high number of 
+#	2nd neighbors itself
+
+#				for fartheststr in d[subnode[0]]: # third neighbor , farthest
+#					farthest=fartheststr.split(" ")
+#
+#					if farthest[0] in S:
+#						if d[farthest[0]]=="L1":
+#							L1score[each] += float (farthest[1])*1
+#							n31[each] += 1
+#						else:
+#							L2score[each] += float (farthest[1])*1
+#							n32[each] += 1
+
+				if subnode[0] in S:
+					if d[subnode[0]]=="L1":
+						L1score[each] += float(subnode[1])*2
+						n21[each] += 1
+					else:
+						L2score[each] += float(subnode[1])*2
+						n22[each] += 1
+
+			if node[0] in S:
+				if d[node[0]]=="L1":
+					L1score[each] += float(node[1])*3
+					n11[each] += 1
+				else:
+					L2score[each] += float(node[1])*3
+					n12[each] += 1
+
+		
+
+	l=list()
 	l.append(("Node(Unlabel)","L1Score","L2Score","#1st nb L1","#1st nb L2","#2nd nb L1","#2nd nb L2","#3rd nb L1","#3rd nb L2",))
 	for each in U:
 		l.append((each,L1score[each],L2score[each],n11[each],n12[each],n21[each],n22[each],n31[each],n32[each]))
@@ -245,9 +245,9 @@ def evalScore(i):
 
 
 
-imp_part = (2,15,23,26,29)
-for i in imp_part:
-	print("Periphery condition for part",i)
-	evalScore(i)
+#imp_part = (2,15,23,26,29)
+#for i in imp_part:
+#	print("Periphery condition for part",i)
+#	evalScore(i)
 
-#evalScore(3)
+evalScore(15)

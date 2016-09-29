@@ -206,7 +206,7 @@ def evalScore(i):
 #					farthest=fartheststr.split(" ")
 #
 #					if farthest[0] in S:
-#						if S[farthest[0]]=="L1":
+#						if d[farthest[0]]=="L1":
 #							L1score[each] += float (farthest[1])*1
 #							n31[each] += 1
 #						else:
@@ -214,7 +214,7 @@ def evalScore(i):
 #							n32[each] += 1
 
 				if subnode[0] in S:
-					if S[subnode[0]]=="L1":
+					if d[subnode[0]]=="L1":
 						L1score[each] += float(subnode[1])*2
 						n21[each] += 1
 					else:
@@ -222,7 +222,7 @@ def evalScore(i):
 						n22[each] += 1
 
 			if node[0] in S:
-				if S[node[0]]=="L1":
+				if d[node[0]]=="L1":
 					L1score[each] += float(node[1])*3
 					n11[each] += 1
 				else:
@@ -245,9 +245,9 @@ def evalScore(i):
 
 
 
-imp_part = (2,15,23,26,29)
-for i in imp_part:
-	print("Periphery condition for part",i)
-	evalScore(i)
+#imp_part = (2,15,23,26,29)
+#for i in imp_part:
+#	print("Periphery condition for part",i)
+#	evalScore(i)
 
-#evalScore(3)
+evalScore(29)
