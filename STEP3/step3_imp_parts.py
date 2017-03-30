@@ -5,6 +5,9 @@ from shutil import copyfile
 import os
 import time
 
+# same as simplify_loop_for3, but only generates output files,
+# does not run junto
+
 nope = (5,10,12,18,22,24)
 # i is the iterator to run all parts
 print '+--- Initiate Graph Generation ---+\n'

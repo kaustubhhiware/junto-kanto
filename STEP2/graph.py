@@ -2,6 +2,8 @@ import io
 import json
 from collections import defaultdict
 
+# Author: Harsha
+
 def main(n):
 	edge_weight = defaultdict(lambda:defaultdict(lambda:float))
 	node_dict = defaultdict(lambda : defaultdict(lambda : str))
@@ -19,9 +21,9 @@ def main(n):
 		for key in dic1[each]:
 			data.append([each,key,dic1[each][key][0].split(" ")[0]])
 			temp_dic = {}
-			temp_dic[key] = dic1[each][key][0] 
+			temp_dic[key] = dic1[each][key][0]
 			node_dict[each] = temp_dic
-			count+=1 
+			count+=1
 	dic = {}
 	max_weight = 0.0
 	for i in range(len(data)):
@@ -78,7 +80,7 @@ def main(n):
 				else:
 					temp_s += each.split("\t")[3].split(" ")[j]+'\t'+each.split("\t")[3].split(" ")[j+1]+'\n'
 				j+=2
-	
+
 		seeds_string += temp_s
 
 	f3.write(seeds_string)

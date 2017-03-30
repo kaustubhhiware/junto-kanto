@@ -7,6 +7,8 @@ import random
 import csv
 import os
 
+# written by Harsha originally in July 2016
+
 def edgesInPart(index):
 	"""
 		returns number of edges in input graph
@@ -15,7 +17,7 @@ def edgesInPart(index):
 	filer = open("input_graph.txt",'r')
 	text = filer.read()
 	data = text.split("\n")
-	
+
 	#if index==29:
 	#	print data
 	os.chdir("..")
@@ -28,13 +30,13 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 
 	s_vow = ["a","e","i","o","u","f","U","I"]
 	l_vow = ["A","E","O","F"]
-	
+
 	Error = []
 	x = 0
 	errors = 0
-	fish = 0	
+	fish = 0
 	count_num = [0,0,0]
-	
+
 	yes = []
 	no = []
 	not_sure = []
@@ -57,7 +59,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 				source = each
 			derived = key
 			vowel_count = 0
-			
+
 			if two_vowels:
 				for char in source:
 					if char in l_vow or char in s_vow:
@@ -66,7 +68,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					result[2] = 1
 			else:
 				result[2] = 0
-			
+
 			if last_second != "":
 				try:
 					if source[-2] == last_second:
@@ -75,7 +77,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 						result[3] = 0
 				except IndexError:
 					result[3] = 0
-				
+
 			else:
 				result[3] = 0
 
@@ -138,7 +140,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 				elif check == 100:
 					continue
 			else:
-				ans = check			
+				ans = check
 
 			if len(ends_with)>0:
 				if str(source)[len(source)-1] in ends_with:
@@ -168,7 +170,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			temp_node_list = []
 			temp_node_list.append("N"+str(count+x))
 			temp_node_list.append(result)
-	
+
 			if ans == 1:
 				yes.append(temp_node_list)
 			elif ans == 0:
@@ -216,7 +218,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 					weight += 1
 			weight = float(weight)/(2*float(total))
 			string += not_sure[i][0]+'\t'+yes[j][0]+'\t'+str(weight)+"\n"
-			
+
 		for j in range(len(no)):
 			weight = 0
 			for k in range(4):
@@ -226,7 +228,7 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 			if weight<0:
 				print "**** ERROR ****"
 			string += not_sure[i][0]+'\t'+no[j][0]+'\t'+str(weight)+"\n"
-	
+
 	num_vruddhi = 0
 	not_vruddhi = 0
 	if vruddhi == True or type(vruddhi)!=bool:
@@ -239,18 +241,18 @@ def combinations(index,node_dict,dic,count,vruddhi,ends_with,two_vowels,last_sec
 		not_vruddhi = len(yes)
 	not_sure_vruddhi = len(not_sure)
 	count += x
-	
+
 	count_list = ["part"+str(index),count_0,count_1,count-1,num_vruddhi,not_vruddhi,not_sure_vruddhi,len(string.split("\n"))]
 	if seed_analyze==1:
 		return (node_dict,string,count,seeds_string,count_0,count_list,yes,no,not_sure)
 	else:
-		return (node_dict,string,count,seeds_string,count_0,count_list)					
+		return (node_dict,string,count,seeds_string,count_0,count_list)
 
 def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyze=0):
 	count = 1
 	yes = []
 	no = []
-	not_sure = []	
+	not_sure = []
 	node_dict = defaultdict(lambda : defaultdict(lambda : str))
 	input_dict = defaultdict(lambda : defaultdict(lambda : list()))
 	with open("part"+str(n)+"/"+"part"+str(n)+"_algo_file.txt") as f:
@@ -269,7 +271,7 @@ def main(n,vruddhi,ends_with,two_vowels,last_second,total,count_list,seed_analyz
 	node_dict = OrderedDict(sorted(node_dict.items(), key=lambda t: t[0]))
 	# with io.open("part"+str(n)+"/"+"nodes_dict.txt", "w", encoding="utf8") as ft:
 	# 	ft.write(unicode(json.dumps(node_dict,indent=4,ensure_ascii=False,sort_keys=True)))
-	print "part",n,count-1,"done"	
+	print "part",n,count-1,"done"
 	if seed_analyze==1:
 		return count_list,yes,no,not_sure
 	else:
@@ -305,7 +307,7 @@ def main_new(seed_analyze=0):
 	# main(26,"No",["a"],False,"",2,count_list)
 	count_list.append(main(27,"No",[],False,"",1,count_list))
 	count_list.append(main(28,True,["u","U"],False,"",2,count_list))
-	
+
 	if seed_analyze==1:
 		counter,yes,no,not_sure = main(29,"No",[],False,"y",2,count_list,seed_analyze)
 		count_list.append(counter)
