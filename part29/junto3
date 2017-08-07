@@ -1,0 +1,14 @@
+graph_file = Step3/input_graph.txt
+data_format = edge_factored
+seed_file = Step3/seeds.txt
+#gold_labels_file = gold_labels.txt
+#test_file = gold_labels.txt
+iters = 10
+verbose = false
+prune_threshold = 0
+algo = mad
+mu1 = 1
+mu2 = 1e-2
+mu3 = 1e-2
+beta = 2
+output_file = Step3/label_prop_output.txt

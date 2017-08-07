@@ -1,0 +1,6320 @@
+{
+    "in": {
+	"Akarin": [
+            "Akara 1"
+        ], 
+        "Aqambarin": [
+            "Aqambara 1"
+        ], 
+        "JarJarin": [
+            "JarJara 1"
+        ], 
+        "Sarin": [
+            "Sf", 
+            "SF"
+        ], 
+        "arin": [
+            "f", 
+            "F"
+        ], 
+        "garin": [
+            "gf", 
+            "gF"
+        ], 
+        "harin": [
+            "hf"
+        ], 
+        "jarin": [
+            "jarA 1"
+        ], 
+        "karin": [
+            "kf", 
+            "kF"
+        ], 
+        "kzarin": [
+            "kzara 1"
+        ], 
+        "makarin": [
+            "makara 1"
+        ], 
+        "maskarin": [
+            "maskara 1"
+        ], 
+        "matsarin": [
+            "matsara 1"
+        ], 
+        "nirJarin": [
+            "nirJara 1"
+        ], 
+        "pArASarin": [
+            "pArASara 1"
+        ], 
+        "praharin": [
+            "prahara 1"
+        ], 
+        "puzkarin": [
+            "puzkara 1"
+        ], 
+        "saMkarin": [
+            "saMkf", 
+            "saMkF"
+        ], 
+        "saMsarin": [
+            "saMsf"
+        ], 
+        "sarin": [
+            "sf", 
+            "sF"
+        ], 
+        "udarin": [
+            "udara 1", 
+            "udf"
+        ], 
+        "vikarin": [
+            "vikf", 
+            "vikF"
+        ],
+        "ABAzin": [
+            "ABAza", 
+            "ABAz"
+        ], 
+        "ABaraRin": [
+            "ABaraRa"
+        ], 
+        "ABogin": [
+            "ABoga", 
+            "ABogi"
+        ], 
+        "ADAyin": [
+            "ADAya"
+        ], 
+        "AQyarogin": [
+            "AQyaroga"
+        ], 
+        "ASOcin": [
+            "ASOca"
+        ], 
+        "ASaNkin": [
+            "ASaNka", 
+            "ASaNkA", 
+            "ASaNk"
+        ], 
+        "ASin": [
+            "ASa", 
+            "ASA", 
+            "ASI", 
+            "AS"
+        ], 
+        "ASramin": [
+            "ASrama 1"
+        ], 
+        "ASrayin": [
+            "ASraya 1", 
+            "ASrayI"
+        ], 
+        "AcArin": [
+            "AcAra", 
+            "AcArA"
+        ], 
+        "AdAyin": [
+            "AdAya", 
+            "AdAyI"
+        ], 
+        "AdarSin": [
+            "AdarSa"
+        ], 
+        "Adin": [
+            "Ada", 
+            "AdA", 
+            "Adi", 
+            "AdI"
+        ], 
+        "AdityaparRin": [
+            "AdityaparRI"
+        ], 
+        "Adizwin": [
+            "Adizwa"
+        ], 
+        "Adyotin": [
+            "Adyota"
+        ], 
+        "AgAmin": [
+            "AgAmi"
+        ], 
+        "Agamin": [
+            "Agama", 
+            "Agam"
+        ], 
+        "AhArin": [
+            "AhAra"
+        ], 
+        "AhlAdin": [
+            "AhlAda"
+        ], 
+        "AjIvin": [
+            "AjIva", 
+            "AjIv"
+        ], 
+        "AjYAyin": [
+            "AjYAya"
+        ], 
+        "AkANkzin": [
+            "AkANkza", 
+            "AkANkzA", 
+            "AkANkz"
+        ], 
+        "Akampin": [
+            "Akampa", 
+            "Akamp"
+        ], 
+        "Akarzin": [
+            "Akarza"
+        ], 
+        "Akledin": [
+            "Akleda"
+        ], 
+        "Akrandin": [
+            "Akranda", 
+            "Akrand"
+        ], 
+        "AkroSin": [
+            "AkroSa"
+        ], 
+        "Akzepin": [
+            "Akzepa"
+        ], 
+        "AlAlamehin": [
+            "AlAlameha"
+        ], 
+        "Alambin": [
+            "Alamba", 
+            "Alambi", 
+            "Alamb"
+        ], 
+        "Alokin": [
+            "Aloka", 
+            "Alok"
+        ], 
+        "AmAtisArin": [
+            "AmAtisAra"
+        ], 
+        "AmarSin": [
+            "AmarSa"
+        ], 
+        "Amardin": [
+            "Amarda"
+        ], 
+        "Amayin": [
+            "Amaya"
+        ], 
+        "Amodin": [
+            "Amoda"
+        ], 
+        "AnAhin": [
+            "AnAha"
+        ], 
+        "Anandin": [
+            "Ananda", 
+            "AnandA", 
+            "Anandi", 
+            "AnandI", 
+            "Anand"
+        ], 
+        "ApIqin": [
+            "ApIqa"
+        ], 
+        "ApyAyin": [
+            "ApyAya"
+        ], 
+        "Arakzin": [
+            "Arakza", 
+            "ArakzA", 
+            "ArakzI", 
+            "Arakz"
+        ], 
+        "AramBin": [
+            "AramBa"
+        ], 
+        "Arohin": [
+            "Aroha", 
+            "Aroh"
+        ], 
+        "Asanin": [
+            "Asana", 
+            "AsanA", 
+            "AsanI", 
+            "Asan"
+        ], 
+        "AtatAyin": [
+            "AtatAyI"
+        ], 
+        "AtmaGAtin": [
+            "AtmaGAta", 
+            "AtmaGAtI"
+        ], 
+        "AtmatyAgin": [
+            "AtmatyAga", 
+            "AtmatyAgI"
+        ], 
+        "AvAhin": [
+            "AvAha"
+        ], 
+        "AvAsin": [
+            "AvAsa", 
+            "AvAs"
+        ], 
+        "AvItin": [
+            "AvIta"
+        ], 
+        "Avartin": [
+            "Avarta", 
+            "AvartA"
+        ], 
+        "AveSin": [
+            "AveSa"
+        ], 
+        "AyAmin": [
+            "AyAma"
+        ], 
+        "AyAsin": [
+            "AyAsa"
+        ], 
+        "AyoDin": [
+            "AyoDa"
+        ], 
+        "AyuDin": [
+            "AyuDa 1", 
+            "AyuD"
+        ], 
+        "Ayurvedin": [
+            "Ayurveda"
+        ], 
+        "BARqArin": [
+            "BARqAra 1"
+        ], 
+        "BAgin": [
+            "BAga", 
+            "BAgI"
+        ], 
+        "BAjin": [
+            "BAjA", 
+            "BAjI", 
+            "BAj"
+        ], 
+        "BAlukin": [
+            "BAluka", 
+            "BAluki"
+        ], 
+        "BArin": [
+            "BAra", 
+            "BAri", 
+            "BArI"
+        ], 
+        "BAsin": [
+            "BAs 0", 
+            "BAsa", 
+            "BAsI"
+        ], 
+        "BAzin": [
+            "BAza", 
+            "BAzA", 
+            "BAz"
+        ], 
+        "BUtahArin": [
+            "BUtahAri"
+        ], 
+        "BUzin": [
+            "BUzA", 
+            "BUz"
+        ], 
+        "BaNgin": [
+            "BaNga 1", 
+            "BaNgA", 
+            "BaNgi", 
+            "BaNgI"
+        ], 
+        "BaYjin": [
+            "BaYja", 
+            "BaYjA", 
+            "BaYji", 
+            "BaYjI", 
+            "BaYj"
+        ], 
+        "BagAlin": [
+            "BagAla 1"
+        ], 
+        "Bagin": [
+            "Baga 1"
+        ], 
+        "Bajin": [
+            "Baj 0", 
+            "Baji", 
+            "BajI"
+        ], 
+        "Bakzin": [
+            "Bakza", 
+            "Bakz"
+        ], 
+        "Basmin": [
+            "Basma", 
+            "BasmI", 
+            "Basm"
+        ], 
+        "Bedin": [
+            "Beda", 
+            "BedI"
+        ], 
+        "BfNgamohin": [
+            "BfNgamohI"
+        ], 
+        "BfNgin": [
+            "BfNga 1", 
+            "BfNgi", 
+            "BfNgI"
+        ], 
+        "Bikzin": [
+            "BikzA", 
+            "Bikz"
+        ], 
+        "Billin": [
+            "Billa", 
+            "BillI"
+        ], 
+        "Bogin": [
+            "Boga 1", 
+            "Bogi", 
+            "BogI"
+        ], 
+        "Bojin": [
+            "Boja", 
+            "BojA", 
+            "Boj"
+        ], 
+        "BrAjin": [
+            "BrAj 0", 
+            "BrAja", 
+            "BrAji"
+        ], 
+        "BrAmin": [
+            "BrAma"
+        ], 
+        "BraMSin": [
+            "BraMS 0", 
+            "BraMSa"
+        ], 
+        "Bramin": [
+            "Bram 0", 
+            "Brama", 
+            "Brami"
+        ], 
+        "BuSuRqin": [
+            "BuSuRqa", 
+            "BuSuRqi", 
+            "BuSuRqI"
+        ], 
+        "CAtrin": [
+            "CAtrA"
+        ], 
+        "CAyin": [
+            "CAya", 
+            "CAyA"
+        ], 
+        "Cadin": [
+            "Cada", 
+            "Cadi", 
+            "Cad"
+        ], 
+        "Cadmin": [
+            "Cadman 1", 
+            "Cadma", 
+            "CadmA"
+        ], 
+        "Calin": [
+            "Cala 1"
+        ], 
+        "Catrin": [
+            "Catra 1"
+        ], 
+        "Cattrin": [
+            "Cattra", 
+            "CattrA", 
+            "CattrI"
+        ], 
+        "Cedin": [
+            "Ceda", 
+            "Cedi"
+        ], 
+        "Cidrin": [
+            "Cidra", 
+            "CidrA"
+        ], 
+        "DAnin": [
+            "DAna", 
+            "DAnA", 
+            "DAnI"
+        ], 
+        "DArin": [
+            "Df 1", 
+            "DAra", 
+            "DArA", 
+            "DAri", 
+            "DArI"
+        ], 
+        "DArmin": [
+            "DArma"
+        ], 
+        "DUmAvalokin": [
+            "DUmAvaloka"
+        ], 
+        "DUmaveDin": [
+            "DUmaveDa"
+        ], 
+        "Danin": [
+            "Dana 1", 
+            "DanA", 
+            "DanI"
+        ], 
+        "DanuzkamBin": [
+            "DanuzkamBa"
+        ], 
+        "Danvin": [
+            "Danva", 
+            "DanvA", 
+            "DanvI", 
+            "Danv"
+        ], 
+        "Darmin": [
+            "Darme 1", 
+            "Darma"
+        ], 
+        "Darzin": [
+            "Darza"
+        ], 
+        "Davalapakzin": [
+            "Davalapakza"
+        ], 
+        "Dawin": [
+            "Dawa 1"
+        ], 
+        "Doyin": [
+            "DoyI"
+        ], 
+        "DvaMsin": [
+            "DvaMsa", 
+            "DvaMsi", 
+            "DvaMs"
+        ], 
+        "Dvajin": [
+            "Dvaja 1", 
+            "Dvaji", 
+            "DvajI"
+        ], 
+        "DyAnin": [
+            "DyAna", 
+            "DyAni"
+        ], 
+        "Etareyin": [
+            "Etareya 1"
+        ], 
+        "GAtin": [
+            "GAta", 
+            "GAti", 
+            "GAtI"
+        ], 
+        "Gawin": [
+            "Gawa 1"
+        ], 
+        "GfRin": [
+            "GfRa", 
+            "GfRA", 
+            "GfRi", 
+            "GfR"
+        ], 
+        "GoRin": [
+            "GoRA 1", 
+            "GoRI"
+        ], 
+        "Gozin": [
+            "Goza", 
+            "GozA", 
+            "Gozi"
+        ], 
+        "ISin": [
+            "IS 0", 
+            "ISa", 
+            "ISA"
+        ], 
+        "Ikzin": [
+            "Ikza", 
+            "IkzA", 
+            "Ikzi", 
+            "Ikz"
+        ], 
+        "Irin": [
+            "Ir 0", 
+            "Ira", 
+            "IrI"
+        ], 
+        "Irzyin": [
+            "Irzya", 
+            "IrzyA", 
+            "Irzy"
+        ], 
+        "JaNkArin": [
+            "JaNkAra"
+        ], 
+        "Jallin": [
+            "Jalla"
+        ], 
+        "Jillin": [
+            "Jilli", 
+            "JillI"
+        ], 
+        "KAdin": [
+            "KAda", 
+            "KAdi", 
+            "KAd"
+        ], 
+        "KaRqin": [
+            "KaRqa", 
+            "KaRq"
+        ], 
+        "Kaqgin": [
+            "Kaqga", 
+            "Kaqgi", 
+            "KaqgI"
+        ], 
+        "KawvANgin": [
+            "KawvANga", 
+            "KawvANgI"
+        ], 
+        "PaRin": [
+            "PaRA 1", 
+            "PaRa", 
+            "PaRi", 
+            "PaRI", 
+            "PaR"
+        ], 
+        "Palakin": [
+            "Palaka", 
+            "PalakA"
+        ], 
+        "Palin": [
+            "Pal 0", 
+            "Pala 1", 
+            "PalA", 
+            "Pali", 
+            "PalI"
+        ], 
+        "PatkArin": [
+            "PatkAra 1"
+        ], 
+        "PetkArin": [
+            "PetkAra"
+        ], 
+        "PiraNgin": [
+            "PiraMga 1"
+        ], 
+        "QAlin": [
+            "QAla 1"
+        ], 
+        "Rin": [
+            "Ra", 
+            "Ri", 
+            "R"
+        ], 
+        "SAKin": [
+            "SAK 0", 
+            "SAKA 1", 
+            "SAKa", 
+            "SAKi", 
+            "SAKI"
+        ], 
+        "SAdvalin": [
+            "SAdvala"
+        ], 
+        "SAlin": [
+            "SAlA 1", 
+            "SAla", 
+            "SAli", 
+            "SAlI", 
+            "SAl"
+        ], 
+        "SArNgin": [
+            "SArNga 1", 
+            "SArNgi", 
+            "SArNgI"
+        ], 
+        "SAradin": [
+            "SArada", 
+            "SAradA", 
+            "SAradI"
+        ], 
+        "SAsin": [
+            "SAs 0", 
+            "SAsa", 
+            "SAsi"
+        ], 
+        "SAstrin": [
+            "SAstra 1"
+        ], 
+        "SAyin": [
+            "SAya"
+        ], 
+        "SIGrin": [
+            "SIGra 1"
+        ], 
+        "SIlin": [
+            "SIla 0", 
+            "SIl 0", 
+            "SIlA"
+        ], 
+        "SItamehin": [
+            "SItameha"
+        ], 
+        "SItkArin": [
+            "SItkAra", 
+            "SItkArI"
+        ], 
+        "SUlapARin": [
+            "SUlapARi"
+        ], 
+        "SUlin": [
+            "SUl 0", 
+            "SUla", 
+            "SUli", 
+            "SUlI"
+        ], 
+        "SaMsin": [
+            "SaMsa", 
+            "SaMsA", 
+            "SaMs"
+        ], 
+        "SaNKin": [
+            "SaNKa 1", 
+            "SaNKA"
+        ], 
+        "SaNkin": [
+            "SaNkA 1", 
+            "SaNk"
+        ], 
+        "SaSANkin": [
+            "SaSANka"
+        ], 
+        "SaSaGAtin": [
+            "SaSaGAtI"
+        ], 
+        "SaSin": [
+            "SaS 0", 
+            "SaSa", 
+            "SaSi", 
+            "SaSI"
+        ], 
+        "SabdaveDin": [
+            "SabdaveDa"
+        ], 
+        "Sakalin": [
+            "Sakala 1", 
+            "SakalI"
+        ], 
+        "Saktin": [
+            "Sakta", 
+            "Sakti", 
+            "SaktI"
+        ], 
+        "Sakulin": [
+            "Sakula"
+        ], 
+        "SalAkin": [
+            "SalAka", 
+            "SalAkA"
+        ], 
+        "Salin": [
+            "Sal 0", 
+            "Sala"
+        ], 
+        "Salkalin": [
+            "Salkana 1"
+        ], 
+        "Salkin": [
+            "Salka 1"
+        ], 
+        "Salpin": [
+            "Salpa"
+        ], 
+        "Samin": [
+            "Sam 0", 
+            "Sama", 
+            "SamA", 
+            "Sami", 
+            "SamI"
+        ], 
+        "SanErmehin": [
+            "SanErmeha"
+        ], 
+        "SarAsanin": [
+            "SarAsana"
+        ], 
+        "SarIrin": [
+            "SarIra 1", 
+            "SarIrI"
+        ], 
+        "Sastrin": [
+            "Sastr 1", 
+            "Sastra", 
+            "SastrI"
+        ], 
+        "SataGnin": [
+            "SataGni", 
+            "SataGnI"
+        ], 
+        "SataveDin": [
+            "SataveDa", 
+            "SataveDI"
+        ], 
+        "Satin": [
+            "Sata", 
+            "SatA", 
+            "SatI", 
+            "Sat"
+        ], 
+        "SatruGAtin": [
+            "SatruGAta"
+        ], 
+        "SfNgArin": [
+            "SfNgAra 1", 
+            "SfNgArA", 
+            "SfNgArI", 
+            "SfNgAr"
+        ], 
+        "SfNgin": [
+            "SfNga 1", 
+            "SfNgI"
+        ], 
+        "SiKaRqin": [
+            "SiKaRqa", 
+            "SiKaRqi", 
+            "SiKaRqI"
+        ], 
+        "SiKin": [
+            "SiKa", 
+            "SiKA", 
+            "SiKI"
+        ], 
+        "Silpin": [
+            "Silpa 1", 
+            "Silpi", 
+            "SilpI"
+        ], 
+        "SlAGin": [
+            "SlAG 0", 
+            "SlAGa", 
+            "SlAGA"
+        ], 
+        "SlIpadin": [
+            "SlIpada"
+        ], 
+        "SlezmAtakin": [
+            "SlezmAtaka", 
+            "SlezmAtakI"
+        ], 
+        "SoBin": [
+            "SoBa", 
+            "SoBA"
+        ], 
+        "SoDin": [
+            "SoDa"
+        ], 
+        "SoPin": [
+            "SoPa", 
+            "SoPA"
+        ], 
+        "SoTin": [
+            "SoTa"
+        ], 
+        "Sozin": [
+            "Soza", 
+            "SozA", 
+            "Soz"
+        ], 
+        "SrAdDin": [
+            "SrAdDa"
+        ], 
+        "SrIkArin": [
+            "SrIkAra", 
+            "SrIkArI"
+        ], 
+        "SradDin": [
+            "SradDa", 
+            "SradDA"
+        ], 
+        "Sramin": [
+            "Sram 0", 
+            "Srama", 
+            "SramI"
+        ], 
+        "SrezWin": [
+            "SrezWa", 
+            "SrezWA", 
+            "SrezWI"
+        ], 
+        "Srutin": [
+            "Sruta", 
+            "Sruti"
+        ], 
+        "SuNgin": [
+            "SuNgA 1", 
+            "SuNga", 
+            "SuNgI"
+        ], 
+        "SuRqin": [
+            "SuRqaRini 1"
+        ], 
+        "SuSrUzin": [
+            "SuSrUzA", 
+            "SuSrUz"
+        ], 
+        "Suklamehin": [
+            "Suklameha"
+        ], 
+        "Suklin": [
+            "Sukla", 
+            "SuklA", 
+            "SuklI"
+        ], 
+        "Sukramehin": [
+            "Sukrameha"
+        ], 
+        "Suzmin": [
+            "Suzmi"
+        ], 
+        "SvAsin": [
+            "SvAsa 1"
+        ], 
+        "SvetavAjin": [
+            "SvetavAjI"
+        ], 
+        "Svitrin": [
+            "Svitra 1", 
+            "SvitrA"
+        ], 
+        "UrDvaliNgin": [
+            "UrDvaliNga"
+        ], 
+        "UrmimAlin": [
+            "UrmimAlA"
+        ], 
+        "Urmin": [
+            "Urmi"
+        ], 
+        "aBAgin": [
+            "aBAga", 
+            "aBAgI"
+        ], 
+        "aBImAnin": [
+            "aBImAna"
+        ], 
+        "aBedin": [
+            "aBeda"
+        ], 
+        "aBiBAzin": [
+            "aBiBAzA", 
+            "aBiBAz"
+        ], 
+        "aBiDAyin": [
+            "DA 1", 
+            "aBiDAya"
+        ], 
+        "aBiGAtin": [
+            "aBiGAta", 
+            "aBiGAtI"
+        ], 
+        "aBiSaMsin": [
+            "SaMs 1", 
+            "aBiSaMs"
+        ], 
+        "aBiSaNkin": [
+            "aBiSaNkA", 
+            "aBiSaNk"
+        ], 
+        "aBicArin": [
+            "aBicAra"
+        ], 
+        "aBikANkzin": [
+            "aBikANkzA", 
+            "aBikANkz"
+        ], 
+        "aBilAzin": [
+            "aBilAza"
+        ], 
+        "aBimAnin": [
+            "aBimAna", 
+            "aBimAnI"
+        ], 
+        "aBimarSin": [
+            "aBimfS 0", 
+            "aBimarSa"
+        ], 
+        "aBimarzin": [
+            "aBimfz 0", 
+            "aBimarza"
+        ], 
+        "aBinandin": [
+            "aBinanda", 
+            "aBinandA", 
+            "aBinand"
+        ], 
+        "aBiniveSin": [
+            "aBiniveSa"
+        ], 
+        "aBipAtin": [
+            "aBipAta"
+        ], 
+        "aBirakzin": [
+            "aBirakzA", 
+            "aBirakz"
+        ], 
+        "aBitApin": [
+            "aBitApa"
+        ], 
+        "aBivAdin": [
+            "aBivAda"
+        ], 
+        "aBivyApin": [
+            "Ap 1"
+        ], 
+        "aBiyogin": [
+            "aBiyoga", 
+            "aBiyogI"
+        ], 
+        "aBizyandin": [
+            "aBizyanda", 
+            "aBizyandi", 
+            "aBizyand"
+        ], 
+        "aBogin": [
+            "aBoga"
+        ], 
+        "aByAsin": [
+            "aByAsa"
+        ], 
+        "aByarTin": [
+            "aByarTI", 
+            "aByarT"
+        ], 
+        "aByasUyin": [
+            "aByasUya", 
+            "aByasUyA", 
+            "aByasUy"
+        ], 
+        "aDItin": [
+            "aDIta 1", 
+            "aDIti"
+        ], 
+        "aDaHSayyin": [
+            "aDaHSayya", 
+            "aDaHSayyA"
+        ], 
+        "aDanin": [
+            "aDana", 
+            "aDanA"
+        ], 
+        "aDarmin": [
+            "aDarma"
+        ], 
+        "aDikArin": [
+            "aDikAra 1", 
+            "aDikArI"
+        ], 
+        "aDirohin": [
+            "aDiroha", 
+            "aDirohI"
+        ], 
+        "aDivAsin": [
+            "aDivAsa", 
+            "aDivAsI", 
+            "aDivAs"
+        ], 
+        "aDyAtmin": [
+            "aDyAtma", 
+            "aDyAtmA"
+        ], 
+        "aDyAyin": [
+            "aDyAya 1"
+        ], 
+        "aDyavasAyin": [
+            "aDyavasAya"
+        ], 
+        "aGAtin": [
+            "aGAta"
+        ], 
+        "aGfRin": [
+            "aGfRa"
+        ], 
+        "aMSaBAgin": [
+            "aMSaBAgI", 
+            "aMSaBAg"
+        ], 
+        "aMSin": [
+            "aMSa", 
+            "aMSI", 
+            "aMS"
+        ], 
+        "aMSumAlin": [
+            "aMSumAlA", 
+            "aMSumAlI"
+        ], 
+        "aNgadin": [
+            "aNgada", 
+            "aNgadA"
+        ], 
+        "aNgin": [
+            "aNga", 
+            "aNgI", 
+            "aNg"
+        ], 
+        "aSAyin": [
+            "aSAya"
+        ], 
+        "aSarIrin": [
+            "aSarIra"
+        ], 
+        "aSilpin": [
+            "aSilpa"
+        ], 
+        "aSmaBedin": [
+            "aSmaBeda"
+        ], 
+        "aSrAdDin": [
+            "aSrAdDa"
+        ], 
+        "aSvameDin": [
+            "aSvameDa"
+        ], 
+        "aSvasAdin": [
+            "aSvasAda"
+        ], 
+        "aSvin": [
+            "aSva", 
+            "aSvA"
+        ], 
+        "aTarvavedin": [
+            "aTarvaveda"
+        ], 
+        "aTarvin": [
+            "aTarva", 
+            "aTarvI"
+        ], 
+        "abIjin": [
+            "abIja"
+        ], 
+        "adAhin": [
+            "adAha"
+        ], 
+        "adaMzwrin": [
+            "adaMzwra"
+        ], 
+        "adamBin": [
+            "adamBa"
+        ], 
+        "adehin": [
+            "adeha"
+        ], 
+        "adrohin": [
+            "adroha"
+        ], 
+        "advayavAdin": [
+            "advayavAda", 
+            "advayavAdI"
+        ], 
+        "agarBin": [
+            "agarBa"
+        ], 
+        "agnihotrin": [
+            "agnihotra", 
+            "agnihotrI"
+        ], 
+        "agrAhin": [
+            "agrAha"
+        ], 
+        "agragAmin": [
+            "agragAmI"
+        ], 
+        "agrayoDin": [
+            "agrayoDI"
+        ], 
+        "ahaMvAdin": [
+            "ahaMvAda"
+        ], 
+        "ahammAnin": [
+            "ahammAna"
+        ], 
+        "ajIrRin": [
+            "ajIrRa", 
+            "ajIrRi"
+        ], 
+        "ajYAnin": [
+            "ajYAna", 
+            "ajYAnA"
+        ], 
+        "ajapin": [
+            "ajapa", 
+            "ajapA"
+        ], 
+        "ajinin": [
+            "ajina"
+        ], 
+        "akAmin": [
+            "akAma"
+        ], 
+        "akaRwakin": [
+            "akaRwaka"
+        ], 
+        "akledin": [
+            "akleda"
+        ], 
+        "akuRqalin": [
+            "akuRqala"
+        ], 
+        "akzamin": [
+            "akzama", 
+            "akzamA", 
+            "akzam"
+        ], 
+        "akzayin": [
+            "akzaya"
+        ], 
+        "akzetrin": [
+            "akzetra"
+        ], 
+        "alABin": [
+            "alABa"
+        ], 
+        "alIkin": [
+            "alIka 1"
+        ], 
+        "alaMkArin": [
+            "alaMkAra"
+        ], 
+        "aliNgin": [
+            "aliNga"
+        ], 
+        "alin": [
+            "al 1", 
+            "ala", 
+            "ali", 
+            "alI"
+        ], 
+        "amAnin": [
+            "amAna"
+        ], 
+        "amAyin": [
+            "amAya", 
+            "amAyA"
+        ], 
+        "amantrin": [
+            "amantra"
+        ], 
+        "amarzin": [
+            "amarza"
+        ], 
+        "amlamehin": [
+            "amlameha"
+        ], 
+        "anASin": [
+            "anASa"
+        ], 
+        "anASramin": [
+            "anASrama"
+        ], 
+        "anAkANkzin": [
+            "anAkANkzA"
+        ], 
+        "anAramBin": [
+            "anAramBa"
+        ], 
+        "anDakArin": [
+            "anDakAra", 
+            "anDakAri", 
+            "anDakArI"
+        ], 
+        "anaBilAzin": [
+            "anaBilAza", 
+            "anaBilAzA"
+        ], 
+        "anaBizvaNgin": [
+            "anaBizvaNga"
+        ], 
+        "anaDikArin": [
+            "anaDikAra"
+        ], 
+        "ananubanDin": [
+            "ananubanDa"
+        ], 
+        "anapAyin": [
+            "anapAya 1", 
+            "anapAyA"
+        ], 
+        "anapakArin": [
+            "anapakAra"
+        ], 
+        "anaparADin": [
+            "anaparADa"
+        ], 
+        "anapavAdin": [
+            "anapavAda"
+        ], 
+        "anapekzin": [
+            "anapekza", 
+            "anapekzA"
+        ], 
+        "anarTin": [
+            "anarTa"
+        ], 
+        "anasUyin": [
+            "anasUya", 
+            "anasUyA"
+        ], 
+        "anavaboDin": [
+            "anavaboDa"
+        ], 
+        "anavekzin": [
+            "anavekza", 
+            "anavekzA"
+        ], 
+        "anekAntavAdin": [
+            "anekAntavAda"
+        ], 
+        "anfRin": [
+            "anfRa"
+        ], 
+        "anftin": [
+            "anfta"
+        ], 
+        "antAvasAyin": [
+            "antAvasAyI"
+        ], 
+        "antarvartin": [
+            "antarvarta"
+        ], 
+        "antaryAmin": [
+            "antaryAma"
+        ], 
+        "antevAsin": [
+            "antevAsa", 
+            "antevAsI"
+        ], 
+        "anuBAzin": [
+            "anuBAz"
+        ], 
+        "anuSAsin": [
+            "anuSAs"
+        ], 
+        "anuSayin": [
+            "anuSaya", 
+            "anuSayI"
+        ], 
+        "anubaMDin": [
+            "anubaMDa 1"
+        ], 
+        "anubanDin": [
+            "anubanDa", 
+            "anubanD"
+        ], 
+        "anudarSin": [
+            "anudarSa"
+        ], 
+        "anugAmin": [
+            "anugAmI"
+        ], 
+        "anugrAhin": [
+            "anugrAhI"
+        ], 
+        "anujIvin": [
+            "anujIva 1", 
+            "anujIvI", 
+            "anujIv"
+        ], 
+        "anukANkzin": [
+            "anukANkzA", 
+            "anukANkz"
+        ], 
+        "anukArin": [
+            "anukAra", 
+            "anukArI"
+        ], 
+        "anukampin": [
+            "anukampA", 
+            "anukamp"
+        ], 
+        "anukarzin": [
+            "anukarza"
+        ], 
+        "anukroSin": [
+            "anukroSa"
+        ], 
+        "anulepin": [
+            "anulepa"
+        ], 
+        "anulomin": [
+            "anuloma"
+        ], 
+        "anunAdin": [
+            "anunAda"
+        ], 
+        "anupAlin": [
+            "anupAl"
+        ], 
+        "anupAtakin": [
+            "anupAtaka"
+        ], 
+        "anupAtin": [
+            "anupAta"
+        ], 
+        "anupAyin": [
+            "anupAya"
+        ], 
+        "anupaGAtin": [
+            "anupaGAta"
+        ], 
+        "anupatApin": [
+            "anupatApa"
+        ], 
+        "anupayogin": [
+            "anupayoga"
+        ], 
+        "anupraveSin": [
+            "anupraveSa"
+        ], 
+        "anurAgin": [
+            "anurAga 1", 
+            "anurAgI"
+        ], 
+        "anurUpin": [
+            "anurUpa"
+        ], 
+        "anurakzin": [
+            "anurakz"
+        ], 
+        "anuroDin": [
+            "anuroDa 1"
+        ], 
+        "anusArin": [
+            "sf 1", 
+            "anusAra", 
+            "anusArI"
+        ], 
+        "anusarpin": [
+            "anusarpa"
+        ], 
+        "anutApin": [
+            "anutApa"
+        ], 
+        "anutsekin": [
+            "anutseka 1"
+        ], 
+        "anuvAdin": [
+            "anuvAda"
+        ], 
+        "anuvartin": [ 
+            "anuvartI"
+        ], 
+        "anuyAyin": [
+            "anuyAyI"
+        ], 
+        "anuyogin": [
+            "anuyoga"
+        ], 
+        "anuzANgin": [
+            "zaMj 1"
+        ], 
+        "anuzaNgin": [
+            "anuzaNga"
+        ], 
+        "anvavekzin": [
+            "anvavekzA", 
+            "anvavekz"
+        ], 
+        "anvayavyatirekin": [
+            "anvayavyatireka"
+        ], 
+        "anvayin": [
+            "anvaya"
+        ], 
+        "anvezin": [
+            "anveza", 
+            "anvez"
+        ], 
+        "anyAyin": [
+            "anyAya 1", 
+            "anyAyI"
+        ], 
+        "apAkin": [
+            "apAka", 
+            "apAkA", 
+            "apAk"
+        ], 
+        "apApin": [
+            "pApa 1"
+        ], 
+        "apAyin": [
+            "apAya"
+        ], 
+        "apUrvin": [
+            "apUrva", 
+            "apUrvI"
+        ], 
+        "apacArin": [
+            "apacAra"
+        ], 
+        "apacAyin": [
+            "apacAy"
+        ], 
+        "apadeSin": [
+            "apadeSa"
+        ], 
+        "apahArin": [
+            "apahAra", 
+            "apahArI"
+        ], 
+        "apakArin": [
+            "kf 1", 
+            "apakAra"
+        ], 
+        "apakzin": [
+            "apakza", 
+            "apakzi"
+        ], 
+        "apalASin": [
+            "apalASa"
+        ], 
+        "apalApin": [
+            "apalApa"
+        ], 
+        "apamAnin": [
+            "apamAna"
+        ], 
+        "aparADin": [
+            "aparADa", 
+            "aparADI", 
+            "aparAD"
+        ], 
+        "apariRAmin": [
+            "apariRAma"
+        ], 
+        "apasArin": [
+            "apasAra"
+        ], 
+        "apasmArin": [
+            "apasmAra"
+        ], 
+        "apatAnakin": [
+            "apatAnaka"
+        ], 
+        "apavAdin": [
+            "apavAda", 
+            "apavAdI"
+        ], 
+        "apavargin": [
+            "apavarga"
+        ], 
+        "apekzin": [
+            "apekza", 
+            "apekzA", 
+            "apekz"
+        ], 
+        "aprARin": [
+            "aprARa"
+        ], 
+        "apracArin": [
+            "apracAra"
+        ], 
+        "apradAyin": [
+            "apradAya"
+        ], 
+        "apramAdin": [
+            "apramAda"
+        ], 
+        "aprasAdin": [
+            "aprasAda"
+        ], 
+        "aprasaNgin": [
+            "aprasaNga"
+        ], 
+        "apratApin": [
+            "apratApa"
+        ], 
+        "apratiGAtin": [
+            "apratiGAta"
+        ], 
+        "apratikArin": [
+            "apratikAra"
+        ], 
+        "aputrin": [
+            "aputra"
+        ], 
+        "arAgin": [
+            "arAga"
+        ], 
+        "arDin": [
+            "arDa 1"
+        ], 
+        "arTasambanDin": [
+            "arTasambanDa"
+        ], 
+        "arTin": [
+            "arT 1", 
+            "arTa",  
+            "arTi", 
+            "arTI"
+        ], 
+        "arUpin": [
+            "arUpa", 
+            "arUpA"
+        ], 
+        "araRyavAsin": [
+            "araRyavAsa"
+        ], 
+        "araTin": [
+            "araTa", 
+            "araTI"
+        ], 
+        "arbudin": [
+            "arbuda", 
+            "arbudi"
+        ], 
+        "arcin": [
+            "arc 0", 
+            "arca", 
+            "arcA", 
+            "arci"
+        ], 
+        "ardin": [
+            "ardi", 
+            "ard"
+        ], 
+        "arditin": [
+            "ardita", 
+            "arditA"
+        ], 
+        "arizwanemin": [
+            "arizwanemi", 
+            "arizwanemI"
+        ], 
+        "arocakin": [
+            "arocaka"
+        ], 
+        "arogin": [
+            "aroga", 
+            "arogA"
+        ], 
+        "asTAyin": [
+            "asTAyI"
+        ], 
+        "asaMBogin": [
+            "asaMBoga"
+        ], 
+        "asaMbanDin": [
+            "asaMbanDa"
+        ], 
+        "asaMcArin": [
+            "asaMcAra"
+        ], 
+        "asaMjYin": [
+            "asaMjYa", 
+            "asaMjYA"
+        ], 
+        "asaMpAtin": [
+            "asaMpAta"
+        ], 
+        "asaMsArin": [
+            "asaMsAra"
+        ], 
+        "asaMsfzwin": [
+            "asaMsfzwa", 
+            "asaMsfzwi"
+        ], 
+        "asaMviBAgin": [
+            "asaMviBAga"
+        ], 
+        "asaNgin": [
+            "asaNga"
+        ], 
+        "asamavAyin": [
+            "asamavAya"
+        ], 
+        "askandin": [
+            "askanda"
+        ], 
+        "asrapittin": [
+            "asrapitta"
+        ], 
+        "asrin": [
+            "asra"
+        ], 
+        "asteyin": [
+            "asteya"
+        ], 
+        "asuKin": [
+            "asuKa"
+        ], 
+        "asvedin": [
+            "asveda"
+        ], 
+        "atIsArakin": [
+            "atIsAraka"
+        ], 
+        "atIsArin": [
+            "atIsAra"
+        ], 
+        "atandrin": [
+            "atandra", 
+            "atandrI"
+        ], 
+        "atiBedin": [
+            "atiBeda"
+        ], 
+        "atiSaNkin": [
+            "atiSaNkA", 
+            "atiSaNk"
+        ], 
+        "atiSayin": [
+            "atiSaya"
+        ], 
+        "aticArin": [
+            "aticAra"
+        ], 
+        "atikramin": [
+            "atikrama", 
+            "atikram"
+        ], 
+        "atilaNGin": [
+            "atilaNG"
+        ], 
+        "atimAnin": [
+            "atimAna"
+        ], 
+        "atipAtakin": [
+            "atipAtaka"
+        ], 
+        "atipAtin": [
+            "atipAta"
+        ], 
+        "atirekin": [
+            "atireka"
+        ], 
+        "atisArin": [
+            "atisAra"
+        ], 
+        "ativAdin": [
+            "ativAda"
+        ], 
+        "atyAgin": [
+            "atyAga"
+        ], 
+        "avAjin": [
+            "avAj"
+        ], 
+        "avAkin": [
+            "avAk"
+        ], 
+        "avaBAsin": [
+            "avaBAsa", 
+            "avaBAs"
+        ], 
+        "avaDArin": [
+            "avaDAra"
+        ], 
+        "avaDIrin": [
+            "avaDIr"
+        ], 
+        "avaGAtin": [
+            "avaGAta"
+        ], 
+        "avaboDin": [
+            "avaboDa"
+        ], 
+        "avadohin": [
+            "avadoha"
+        ], 
+        "avagAhin": [
+            "avagAha", 
+            "avagAh"
+        ], 
+        "avakIrRin": [
+            "avakIrRa 1"
+        ], 
+        "avakeSin": [
+            "avakeSa"
+        ], 
+        "avalambin": [
+            "avalamba", 
+            "avalamb"
+        ], 
+        "avalehin": [
+            "avaleha"
+        ], 
+        "avalokin": [
+            "avaloka", 
+            "avalok"
+        ], 
+        "avamAnin": [
+            "avamAna"
+        ], 
+        "avamarSin": [
+            "avamarSa"
+        ], 
+        "avamardin": [
+            "avamarda"
+        ], 
+        "avanAmin": [
+            "avanAma"
+        ], 
+        "avapAtin": [
+            "avapAta"
+        ], 
+        "avaroDin": [
+            "avaroDa 1"
+        ], 
+        "avarohin": [
+            "avaroha"
+        ], 
+        "avasAdin": [
+            "avasAda"
+        ], 
+        "avasAyin": [
+            "avasAya"
+        ], 
+        "avasTAyin": [
+            "avasTAyI"
+        ], 
+        "avasarpin": [
+            "avasarpa"
+        ], 
+        "avatArin": [
+            "avatAra"
+        ], 
+        "avazwamBin": [
+            "avazwamBa", 
+            "avazwamB"
+        ], 
+        "avedin": [
+            "aveda"
+        ], 
+        "avegin": [
+            "avega"
+        ], 
+        "avekzin": [
+            "avekzA", 
+            "avekz"
+        ], 
+        "aviDAyin": [
+            "aviDAya"
+        ], 
+        "aviSozin": [
+            "aviSoza"
+        ], 
+        "aviSvAsin": [
+            "aviSvAsa", 
+            "aviSvAsI"
+        ], 
+        "avicArin": [
+            "avicAra"
+        ], 
+        "avikArin": [
+            "avikAra"
+        ], 
+        "avinASin": [
+            "avinASa", 
+            "avinASI"
+        ], 
+        "avinivartin": [
+            "avinivartI"
+        ], 
+        "avipAkin": [
+            "avipAka"
+        ], 
+        "aviroDin": [
+            "aviroDa"
+        ], 
+        "avisaMvAdin": [
+            "avisaMvAda"
+        ], 
+        "avisargin": [
+            "avisarga"
+        ], 
+        "avivAdin": [
+            "avivAda"
+        ], 
+        "avivAhin": [
+            "avivAha"
+        ], 
+        "avivekin": [
+            "aviveka"
+        ], 
+        "aviyogin": [
+            "aviyoga"
+        ], 
+        "avizAdin": [
+            "avizAda"
+        ], 
+        "avratin": [
+            "avrata"
+        ], 
+        "avyAyAmin": [
+            "avyAyAma"
+        ], 
+        "avyaBicArin": [
+            "avyaBicAra"
+        ], 
+        "avyasanin": [
+            "avyasana"
+        ], 
+        "avyavasAyin": [
+            "avyavasAya"
+        ], 
+        "avyayin": [
+            "avyaya"
+        ], 
+        "awwahAsin": [
+            "awwahAsa"
+        ], 
+        "ayogin": [
+            "ayoga"
+        ], 
+        "azwAdaSin": [
+            "azwAdaSa"
+        ], 
+        "bADin": [
+            "bADa", 
+            "bADA", 
+            "bAD"
+        ], 
+        "bARin": [
+            "bARa", 
+            "bARA", 
+            "bARi", 
+            "bARI"
+        ], 
+        "bAhuSAlin": [
+            "bAhuSAla", 
+            "bAhuSAlI"
+        ], 
+        "bAhyakin": [
+            "bAhyaka", 
+            "bAhyakA"
+        ], 
+        "bAlin": [
+            "bAla 1"
+        ], 
+        "bEqAlavratin": [
+            "bEqAlavrata", 
+            "bEqAlavrati"
+        ], 
+        "bIjin": [
+            "bIja 1", 
+            "bIjA", 
+            "bIjI"
+        ], 
+        "badDagudin": [
+            "badDaguda"
+        ], 
+        "bahurUpin": [
+            "bahurUpa", 
+            "bahurUpA", 
+            "bahurUpI"
+        ], 
+        "bakavratin": [
+            "bakavrata"
+        ], 
+        "balAkin": [
+            "balAkA 1", 
+            "balAka"
+        ], 
+        "baliDvaMsin": [
+            "baliDvaMsI"
+        ], 
+        "balin": [
+            "bal 0", 
+            "bala", 
+            "balA", 
+            "bali", 
+            "balI"
+        ], 
+        "banDakin": [
+            "banDaka", 
+            "banDakI"
+        ], 
+        "banDin": [
+            "banDa", 
+            "banDi", 
+            "banD"
+        ], 
+        "bandin": [
+            "bandi", 
+            "bandI"
+        ], 
+        "barhin": [
+            "barh 0", 
+            "barha", 
+            "barhi"
+        ], 
+        "bfMhin": [
+            "bfMha", 
+            "bfMh"
+        ], 
+        "bilavAsin": [
+            "bilavAsa"
+        ], 
+        "boDin": [
+            "boDa", 
+            "boDA", 
+            "boDi"
+        ], 
+        "brAhmaRAcCaMsin": [
+            "brAhmaRe 1"
+        ], 
+        "brahmacArin": [
+            "brahmacArI"
+        ], 
+        "brahmasUtrin": [
+            "brahmasUtra"
+        ], 
+        "brahmavarcasin": [
+            "brahmavarcasa", 
+            "brahmavarcas"
+        ], 
+        "budDin": [
+            "budDa", 
+            "budDi"
+        ], 
+        "cAlin": [
+            "cAla"
+        ], 
+        "cApin": [
+            "cApa"
+        ], 
+        "cArin": [
+            "cAra", 
+            "cArI"
+        ], 
+        "cEtrin": [
+            "cEtra", 
+            "cEtrA", 
+            "cEtri", 
+            "cEtrI"
+        ], 
+        "cIrin": [
+            "cIra", 
+            "cIri", 
+            "cIrI"
+        ], 
+        "cUlin": [
+            "cUla", 
+            "cUlI"
+        ], 
+        "caRqin": [
+            "caRqa", 
+            "caRqA", 
+            "caRqi", 
+            "caRqI"
+        ], 
+        "cakravartin": [
+            "cakravarta", 
+            "cakravarti", 
+            "cakravartI"
+        ], 
+        "cakrin": [
+            "cakra", 
+            "cakrA", 
+            "cakri", 
+            "cakrI"
+        ], 
+        "candrakin": [
+            "candraka", 
+            "candrakI"
+        ], 
+        "candramOlin": [
+            "candramOli"
+        ], 
+        "candrikApAyin": [
+            "candrikApAyI"
+        ], 
+        "candrin": [
+            "candra", 
+            "candrA", 
+            "candrI"
+        ], 
+        "carmakArin": [
+            "carmakAra"
+        ], 
+        "carmin": [
+            "carma", 
+            "carmI"
+        ], 
+        "carpawin": [
+            "carpawa"
+        ], 
+        "caturaNgin": [
+            "caturaNga", 
+            "caturaNgI"
+        ], 
+        "caturvedin": [
+            "caturveda"
+        ], 
+        "catuzkin": [
+            "catuzka"
+        ], 
+        "cezwin": [
+            "cezwa", 
+            "cezwA", 
+            "cezwi", 
+            "cezw"
+        ], 
+        "ciraMjIvin": [
+            "ciraMjIva"
+        ], 
+        "cirajIvin": [
+            "cirajIvI"
+        ], 
+        "cirakArin": [
+            "cirakAra", 
+            "cirakAri"
+        ], 
+        "citrayoDin": [
+            "citrayoDI"
+        ], 
+        "citrin": [
+            "citra", 
+            "citrA", 
+            "citrI", 
+            "citr"
+        ], 
+        "culukin": [
+            "culuka", 
+            "culukI"
+        ], 
+        "cumbin": [
+            "cumb 0", 
+            "cumba"
+        ], 
+        "dAhin": [
+            "dAha"
+        ], 
+        "dAkzAyaRin": [
+            "dAkzAyaRa", 
+            "dAkzAyaRI"
+        ], 
+        "dAnin": [
+            "dAna", 
+            "dAn"
+        ], 
+        "dArin": [
+            "dAra", 
+            "dAri", 
+            "dArI"
+        ], 
+        "dAyin": [
+            "dAya", 
+            "dAy"
+        ], 
+        "dEvin": [
+            "dEva 1"
+        ], 
+        "dIkzin": [
+            "dIkzA", 
+            "dIkz"
+        ], 
+        "dIpin": [
+            "dIpa", 
+            "dIp"
+        ], 
+        "dIptin": [
+            "dIpta", 
+            "dIptA", 
+            "dIpti"
+        ], 
+        "dIrGadarSin": [
+            "dIrGadarSI"
+        ], 
+        "dIrGasUtrin": [
+            "dIrGasUtra"
+        ], 
+        "dUradarSin": [
+            "dUradarSI"
+        ], 
+        "dUzin": [
+            "dUza", 
+            "dUzi", 
+            "dUzI"
+        ], 
+        "daMzwrin": [
+            "daMzwrA 1", 
+            "daMzwra", 
+            "daMzwrI"
+        ], 
+        "daRqaDArin": [
+            "daRqaDAra", 
+            "daRqaDArI"
+        ], 
+        "daRqahastin": [
+            "daRqahasta"
+        ], 
+        "daRqin": [
+            "daRqa 1", 
+            "daRqi", 
+            "daRqI", 
+            "daRq"
+        ], 
+        "daSamin": [
+            "daSamI 1"
+        ], 
+        "daSin": [
+            "daSan 1", 
+            "daSa", 
+            "daSA"
+        ], 
+        "damBin": [
+            "damBa", 
+            "damB"
+        ], 
+        "dantarogin": [
+            "dantaroga"
+        ], 
+        "dantin": [
+            "danta 1", 
+            "danti", 
+            "dantI"
+        ], 
+        "dantolUKalin": [
+            "dantolUKala"
+        ], 
+        "darBin": [
+            "darBa", 
+            "darBA", 
+            "darBi", 
+            "darBI"
+        ], 
+        "darSin": [
+            "darSa", 
+            "darSA", 
+            "darSI"
+        ], 
+        "daridrin": [
+            "daridra", 
+            "daridrA", 
+            "daridrI"
+        ], 
+        "deSin": [
+            "deSa", 
+            "deSI"
+        ], 
+        "dehin": [
+            "deha 1"
+        ], 
+        "devin": [
+            "deva", 
+            "devA", 
+            "devi", 
+            "devI", 
+            "dev"
+        ], 
+        "dfzwin": [
+            "dfzwa", 
+            "dfzwi"
+        ], 
+        "dohin": [
+            "doha"
+        ], 
+        "dozin": [ 
+            "doza", 
+            "dozA", 
+            "dozI", 
+            "doz"
+        ], 
+        "drekin": [
+            "drekA", 
+            "drek"
+        ], 
+        "drohin": [
+            "droha"
+        ], 
+        "duHKaduHKin": [
+            "duHKaduHKa"
+        ], 
+        "duHKin": [
+            "duHKa 1"
+        ], 
+        "duScArin": [
+            "duScAra"
+        ], 
+        "dunduBin": [
+            "dunduBa", 
+            "dunduBi", 
+            "dunduBI"
+        ], 
+        "durAcArin": [
+            "durAcAra"
+        ], 
+        "durBAzin": [
+            "durBAza"
+        ], 
+        "durboDin": [
+            "durboDa"
+        ], 
+        "durmantrin": [
+            "durmantra"
+        ], 
+        "durmelin": [
+            "durmela"
+        ], 
+        "duzkftin": [
+            "duzkfta", 
+            "duzkfti", 
+            "duzkft"
+        ], 
+        "duzpraDarzin": [
+            "duzpraDarza", 
+            "duzpraDarzA"
+        ], 
+        "dvAdaSin": [
+            "dvAdaSa", 
+            "dvAdaSI"
+        ], 
+        "dvArin": [
+            "dvAra", 
+            "dvAri", 
+            "dvArI", 
+            "dvAr"
+        ], 
+        "dvEtin": [
+            "dvEta 1"
+        ], 
+        "dvIpin": [
+            "dvIpa 1", 
+            "dvIpi", 
+            "dvIpI"
+        ], 
+        "dvaMdvin": [
+            "dvaMdva"
+        ], 
+        "dvezin": [
+            "dveza 1", 
+            "dvezI"
+        ], 
+        "dvijaliNgin": [
+            "dvijaliNgI"
+        ], 
+        "dvimuKin": [
+            "dvimuKa"
+        ], 
+        "dvitIyin": [
+            "dvitIya 1"
+        ], 
+        "dviwsevin": [
+            "dviwsevA"
+        ], 
+        "dyotin": [
+            "dyota", 
+            "dyoti"
+        ], 
+        "ekAkin": [
+            "ekAkI"
+        ], 
+        "ekAntin": [
+            "ekAnta"
+        ], 
+        "ekadeSin": [
+            "ekadeSa"
+        ], 
+        "ekapAtin": [
+            "ekapAta", 
+            "ekapAt"
+        ], 
+        "ekin": [
+            "eka", 
+            "ekA", 
+            "ekI"
+        ], 
+        "enasvin": [
+            "enas 1", 
+            "enasvI"
+        ], 
+        "ezin": [
+            "eza", 
+            "ezA"
+        ], 
+        "fRin": [
+            "fRa", 
+            "fRI", 
+            "fR"
+        ], 
+        "fgvedin": [
+            "fgveda"
+        ], 
+        "fkTin": [
+            "fkTa", 
+            "fkTA"
+        ], 
+        "gADin": [
+            "gADa", 
+            "gADi", 
+            "gAD"
+        ], 
+        "gARqIvin": [
+            "gARqIva"
+        ], 
+        "gATin": [
+            "gATa", 
+            "gATA", 
+            "gATi"
+        ], 
+        "gAhin": [
+            "gAh 0", 
+            "gAha"
+        ], 
+        "gAmin": [
+            "gAmI", 
+            "gAm"
+        ], 
+        "gErin": [
+            "gEra", 
+            "gErI"
+        ], 
+        "gaRadIkzin": [
+            "gaRadIkzA"
+        ], 
+        "gaRin": [
+            "gaRa", 
+            "gaR"
+        ], 
+        "gaRqamAlin": [
+            "gaRqamAla", 
+            "gaRqamAlI"
+        ], 
+        "gadin": [
+            "gad 0", 
+            "gada", 
+            "gadA", 
+            "gadi"
+        ], 
+        "galagaRqin": [
+            "galagaRqa"
+        ], 
+        "ganDavAhin": [
+            "ganDavAha"
+        ], 
+        "ganDin": [
+            "ganDa", 
+            "ganDA", 
+            "ganDi", 
+            "ganDI", 
+            "ganD"
+        ], 
+        "ganDopajIvin": [
+            "ganDopajIvI"
+        ], 
+        "garBin": [
+            "garBa"
+        ], 
+        "garDin": [
+            "garDa"
+        ], 
+        "gavAkzin": [
+            "gavAkza", 
+            "gavAkzI"
+        ], 
+        "gavezin": [
+            "gaveza", 
+            "gavez"
+        ], 
+        "gayin": [
+            "gaya", 
+            "gayA", 
+            "gayI"
+        ], 
+        "gfdDin": [
+            "gfdDa", 
+            "gfdDi"
+        ], 
+        "gfhASramin": [
+            "gfhASrama"
+        ], 
+        "gfhakArin": [
+            "gfhakArI"
+        ], 
+        "gfhameDin": [
+            "gfhameDa", 
+            "gfhameDI"
+        ], 
+        "gfhavAsin": [
+            "gfhavAsa", 
+            "gfhavAsA"
+        ], 
+        "gfhin": [
+            "gfha", 
+            "gfhi", 
+            "gfhI", 
+            "gfh"
+        ], 
+        "gomUtrin": [
+            "gomUtra"
+        ], 
+        "gomin": [
+            "gomI"
+        ], 
+        "gotrin": [
+            "gotra", 
+            "gotrA", 
+            "gotrI"
+        ], 
+        "govratin": [
+            "govrata"
+        ], 
+        "grAhin": [
+            "grAha"
+        ], 
+        "grAmin": [
+            "grAma 0", 
+            "grAmi", 
+            "grAmI"
+        ], 
+        "grahin": [
+            "grah 0", 
+            "graha", 
+            "grahi"
+        ], 
+        "granTin": [
+            "granTa", 
+            "granTi", 
+            "granT"
+        ], 
+        "guRin": [
+            "guRa", 
+            "guRA", 
+            "guRi", 
+            "guRI", 
+            "guR"
+        ], 
+        "gucCin": [
+            "gucCa"
+        ], 
+        "gudakIlin": [
+            "gudakIla"
+        ], 
+        "guhAvAsin": [
+            "guhAvAsa"
+        ], 
+        "gulmin": [
+            "gulma", 
+            "gulmI"
+        ], 
+        "gurutalpin": [
+            "gurutalpa"
+        ], 
+        "hAlin": [
+            "hAla", 
+            "hAlA"
+        ], 
+        "hAridramehin": [
+            "hAridrameha"
+        ], 
+        "hArin": [
+            "hAra", 
+            "hAri", 
+            "hArI"
+        ], 
+        "hAsin": [
+            "hAsa"
+        ], 
+        "hInavAdin": [
+            "hInavAda"
+        ], 
+        "haWayogin": [
+            "haWayoga", 
+            "haWayogI"
+        ], 
+        "halin": [
+            "hal 0", 
+            "hala", 
+            "halA", 
+            "hali", 
+            "halI"
+        ], 
+        "haridrAmehin": [
+            "haridrAmeha"
+        ], 
+        "harzin": [
+            "harza"
+        ], 
+        "hastavartin": [
+            "hastavartI"
+        ], 
+        "hastimehin": [
+            "hastimeha"
+        ], 
+        "hastin": [
+            "hasta", 
+            "hastA", 
+            "hasti", 
+            "hastI"
+        ], 
+        "helin": [
+            "helA", 
+            "heli", 
+            "hel"
+        ], 
+        "hetuvAdin": [
+            "hetuvAda"
+        ], 
+        "hevAkin": [
+            "hevAka 1"
+        ], 
+        "hfdayin": [
+            "hfdaya 1"
+        ], 
+        "hiDmin": [
+            "hiDmA"
+        ], 
+        "hikkin": [
+            "hikkA", 
+            "hikk"
+        ], 
+        "hikvin": [
+            "hikvA"
+        ], 
+        "hlAdin": [
+            "hlAd 1", 
+            "hlAda", 
+            "hlAdA"
+        ], 
+        "homin": [
+            "homa", 
+            "homi"
+        ], 
+        "hotrin": [
+            "hotra", 
+            "hotrA", 
+            "hotrI"
+        ], 
+        "hrAdin": [
+            "hrAda", 
+            "hrAdA"
+        ], 
+        "hrAsin": [
+            "hrAsa", 
+            "hrAsI"
+        ], 
+        "hradin": [
+            "hrada"
+        ], 
+        "hutASin": [
+            "hutASa"
+        ], 
+        "ikzumehin": [
+            "ikzumeha"
+        ], 
+        "ilin": [
+            "il 0", 
+            "ila", 
+            "ilA", 
+            "ilI"
+        ], 
+        "in": [
+            "i 0", 
+            "a", 
+            "A", 
+            "I"
+        ], 
+        "jAjin": [
+            "jAjI"
+        ], 
+        "jAlin": [
+            "jAla", 
+            "jAlI"
+        ], 
+        "jApin": [
+            "jApa"
+        ], 
+        "jArin": [
+            "jAra", 
+            "jArA", 
+            "jArI"
+        ], 
+        "jAyin": [
+            "jAyA"
+        ], 
+        "jImUtavAhin": [
+            "jImUtavAha", 
+            "jImUtavAhI"
+        ], 
+        "jIvin": [
+            "jIv 0", 
+            "jIva 1", 
+            "jIvA", 
+            "jIvi", 
+            "jIvI"
+        ], 
+        "jYAnin": [
+            "jYAna 1", 
+            "jYAnA", 
+            "jYAnI"
+        ], 
+        "jalaSAyin": [
+            "jalaSAyI"
+        ], 
+        "jalapakzin": [
+            "jalapakzI"
+        ], 
+        "jalpin": [
+            "jalpa", 
+            "jalpi", 
+            "jalp"
+        ], 
+        "jamBaBedin": [
+            "jamBaBedI"
+        ], 
+        "jambumAlin": [
+            "jambumAlI"
+        ], 
+        "janmin": [
+            "janman 1", 
+            "janma", 
+            "janmI"
+        ], 
+        "japin": [
+            "japa", 
+            "japA", 
+            "jap"
+        ], 
+        "jawin": [
+            "jawA 1", 
+            "jawa", 
+            "jawi", 
+            "jawI", 
+            "jaw"
+        ], 
+        "jayin": [
+            "jaya", 
+            "jayA", 
+            "jayI"
+        ], 
+        "jfmBin": [
+            "jfmBa", 
+            "jfmBA", 
+            "jfmB"
+        ], 
+        "jitakASin": [
+            "jitakASi"
+        ], 
+        "jvAlin": [
+            "jvAla", 
+            "jvAlA"
+        ], 
+        "kANkzin": [
+            "kANkza", 
+            "kANkzA", 
+            "kANkzI", 
+            "kANkz"
+        ], 
+        "kASin": [
+            "kAS 0", 
+            "kASa", 
+            "kASA", 
+            "kASi", 
+            "kASI"
+        ], 
+        "kAlamehin": [
+            "kAlameha"
+        ], 
+        "kAlanemin": [
+            "kAlanemi"
+        ], 
+        "kAlayogin": [
+            "kAlayoga"
+        ], 
+        "kAlin": [
+            "kAla 0", 
+            "kAlA", 
+            "kAlI"
+        ], 
+        "kAmAvasAyin": [
+            "kAmAvasAya"
+        ], 
+        "kAmalin": [
+            "kAmala", 
+            "kAmalA", 
+            "kAmali"
+        ], 
+        "kAmarUpin": [
+            "kAmarUpa", 
+            "kAmarUpA"
+        ], 
+        "kAmin": [
+            "kAma", 
+            "kAmA", 
+            "kAmI", 
+            "kAm"
+        ], 
+        "kApAlin": [
+            "kApAla", 
+            "kApAli", 
+            "kApAlI"
+        ], 
+        "kArin": [
+            "kAra", 
+            "kArA", 
+            "kArI"
+        ], 
+        "kArmukin": [
+            "kArmuka"
+        ], 
+        "kAryin": [
+            "kArya", 
+            "kAryA", 
+            "kAryI"
+        ], 
+        "kAsin": [
+            "kAs 0", 
+            "kAsa", 
+            "kAsI"
+        ], 
+        "kAyin": [
+            "kAya"
+        ], 
+        "kAzAyin": [
+            "kAzAya", 
+            "kAzAyI"
+        ], 
+        "kAzin": [
+            "kAza", 
+            "kAzi"
+        ], 
+        "kIwin": [
+            "kIwa", 
+            "kIw"
+        ], 
+        "kOtukin": [
+            "kOtuka", 
+            "kOtuki"
+        ], 
+        "kUjin": [
+            "kUj 0", 
+            "kUja"
+        ], 
+        "kUrcakin": [
+            "kUrcaka"
+        ], 
+        "kaPaviroDin": [
+            "kaPaviroDi"
+        ], 
+        "kaRWin": [
+            "kaRWa", 
+            "kaRWI", 
+            "kaRW"
+        ], 
+        "kaRwakin": [
+            "kaRwaka", 
+            "kaRwaki", 
+            "kaRwakI"
+        ], 
+        "kaRwin": [
+            "kaRwa", 
+            "kaRwI", 
+            "kaRw"
+        ], 
+        "kaYcukin": [
+            "kaYcuka", 
+            "kaYcukI"
+        ], 
+        "kadalin": [
+            "kadala", 
+            "kadalI"
+        ], 
+        "kadarTin": [
+            "kadarTa", 
+            "kadarT"
+        ], 
+        "kakudmin": [
+            "kakudmi"
+        ], 
+        "kalApin": [
+            "kalApa", 
+            "kalApi", 
+            "kalApI"
+        ], 
+        "kalaNkin": [
+            "kalaNka", 
+            "kalaNk"
+        ], 
+        "kalahin": [
+            "kalaha", 
+            "kalahA"
+        ], 
+        "kalkin": [
+            "kalka", 
+            "kalki"
+        ], 
+        "kaluzin": [
+            "kaluza", 
+            "kaluzA"
+        ], 
+        "kalyARin": [
+            "kalyARa", 
+            "kalyARI"
+        ], 
+        "kampin": [
+            "kamp 0", 
+            "kampa", 
+            "kampA"
+        ], 
+        "kandin": [
+            "kanda", 
+            "kandA"
+        ], 
+        "kapAlin": [
+            "kapAla", 
+            "kapAli", 
+            "kapAlI"
+        ], 
+        "kapardin": [
+            "kaparda", 
+            "kapardA", 
+            "kapardi", 
+            "kapardI"
+        ], 
+        "kapawin": [
+            "kapawa", 
+            "kapawA"
+        ], 
+        "karAlin": [
+            "karAla", 
+            "karAlA", 
+            "karAlI"
+        ], 
+        "karRin": [
+            "karRa", 
+            "karRi", 
+            "karRI", 
+            "karR"
+        ], 
+        "karawin": [
+            "karawa", 
+            "karawI"
+        ], 
+        "karkin": [
+            "karka", 
+            "karki", 
+            "karkI", 
+            "kark"
+        ], 
+        "karmasAkzin": [
+            "karmasAkzI"
+        ], 
+        "karmin": [
+            "karma"
+        ], 
+        "kavacin": [
+            "kavaca"
+        ], 
+        "kavalin": [
+            "kavala", 
+            "kavalI", 
+            "kaval"
+        ], 
+        "kawin": [
+            "kawa", 
+            "kawi", 
+            "kawI"
+        ], 
+        "kazAyin": [
+            "kazAya", 
+            "kazAyA", 
+            "kazAyI"
+        ], 
+        "keSin": [
+            "keSa 1", 
+            "keSi", 
+            "keSI"
+        ], 
+        "kekin": [
+            "kekA", 
+            "kekI"
+        ], 
+        "ketumAlin": [
+            "ketumAla", 
+            "ketumAlA", 
+            "ketumAli"
+        ], 
+        "kevalin": [
+            "kevala", 
+            "kevalA", 
+            "kevalI"
+        ], 
+        "kfcCrin": [
+            "kfcCra", 
+            "kfcCr"
+        ], 
+        "kfmin": [
+            "kfmi", 
+            "kfmI"
+        ], 
+        "kftin": [
+            "kfta", 
+            "kftA", 
+            "kfti", 
+            "kftI", 
+            "kft"
+        ], 
+        "kfzRAjinin": [
+            "kfzRAjina"
+        ], 
+        "kiNkiRIkin": [
+            "kiNkiRIka", 
+            "kiNkiRIkA"
+        ], 
+        "kilAsin": [
+            "kilAsa"
+        ], 
+        "kilbizin": [
+            "kilbiza", 
+            "kilbizI"
+        ], 
+        "kirIwin": [
+            "kirIwa", 
+            "kirIwI"
+        ], 
+        "kisalayin": [
+            "kisalaya"
+        ], 
+        "kleSin": [
+            "kleS 0", 
+            "kleSa"
+        ], 
+        "kledin": [
+            "kleda"
+        ], 
+        "koSin": [
+            "koSa", 
+            "koSA", 
+            "koSI"
+        ], 
+        "kodaRqin": [
+            "kodaRqa"
+        ], 
+        "kopin": [
+            "kopa"
+        ], 
+        "kowiveDin": [
+            "kowiveDI"
+        ], 
+        "kozWAgArin": [
+            "kozWAgAra"
+        ], 
+        "kozWin": [
+            "kozWa", 
+            "kozWI"
+        ], 
+        "krATin": [
+            "krATa", 
+            "krAT"
+        ], 
+        "krIqin": [
+            "krIqa", 
+            "krIqA", 
+            "krIqi", 
+            "krIqI", 
+            "krIq"
+        ], 
+        "kratuDvaMsin": [
+            "kratuDvaMsI"
+        ], 
+        "krayavikrayin": [
+            "krayavikraya"
+        ], 
+        "krayin": [
+            "kraya"
+        ], 
+        "kroDin": [
+            "kroDa", 
+            "kroDA", 
+            "kroDI"
+        ], 
+        "ktin": [
+            "kta"
+        ], 
+        "kuRqASin": [
+            "kuRqASI"
+        ], 
+        "kuRqaBedin": [
+            "kuRqaBeda", 
+            "kuRqaBedI"
+        ], 
+        "kuRqalin": [
+            "kuRqala", 
+            "kuRqalA", 
+            "kuRqalI"
+        ], 
+        "kuRqin": [
+            "kuRqa", 
+            "kuRqi", 
+            "kuRqI"
+        ], 
+        "kuSalin": [
+            "kuSala", 
+            "kuSalA", 
+            "kuSali", 
+            "kuSalI"
+        ], 
+        "kuTumin": [
+            "kuTuma", 
+            "kuTumi", 
+            "kuTumI"
+        ], 
+        "kumBin": [
+            "kumB 0", 
+            "kumBa", 
+            "kumBA", 
+            "kumBi", 
+            "kumBI"
+        ], 
+        "kumantrin": [
+            "kumantra"
+        ], 
+        "kunaKin": [
+            "kunaKa", 
+            "kunaKI"
+        ], 
+        "kuntalin": [
+            "kuntala", 
+            "kuntalI"
+        ], 
+        "kururin": [
+            "kururI"
+        ], 
+        "kusIdin": [
+            "kusIda"
+        ], 
+        "kutUhalin": [
+            "kutUhala"
+        ], 
+        "kutukin": [
+            "kutuka"
+        ], 
+        "kuwumbin": [
+            "kuwumba", 
+            "kuwumbI"
+        ], 
+        "kuyogin": [
+            "kuyoga", 
+            "kuyogI"
+        ], 
+        "kuzWin": [
+            "kuzWa"
+        ], 
+        "kvin": [
+            "kva", 
+            "kvi"
+        ], 
+        "kzAramehin": [
+            "kzArameha"
+        ], 
+        "kzIrakaYcukin": [
+            "kzIrakaYcuka"
+        ], 
+        "kzIrin": [
+            "kzIra 1", 
+            "kzIrA", 
+            "kzIrI"
+        ], 
+        "kzOdramehin": [
+            "kzOdrameha"
+        ], 
+        "kzaRaBaNgin": [
+            "kzaRaBaNga"
+        ], 
+        "kzaRin": [
+            "kzaRa 1", 
+            "kzaR"
+        ], 
+        "kzamin": [
+            "kzama", 
+            "kzamA", 
+            "kzam"
+        ], 
+        "kzatin": [
+            "kzata", 
+            "kzati", 
+            "kzatI"
+        ], 
+        "kzatrin": [
+            "kzatra"
+        ], 
+        "kzayin": [
+            "kzaya 1", 
+            "kzayi"
+        ], 
+        "kzemadarSin": [
+            "kzemadarSa"
+        ], 
+        "kzemin": [
+            "kzema 1", 
+            "kzemA"
+        ], 
+        "kzetrin": [
+            "kzetra 1", 
+            "kzetrI"
+        ], 
+        "kzoBin": [
+            "kzoBa"
+        ], 
+        "kzodin": [
+            "kzoda"
+        ], 
+        "kzurin": [
+            "kzura 1"
+        ], 
+        "kzveqin": [
+            "kzveqa", 
+            "kzveqA"
+        ], 
+        "lABin": [
+            "lABa 0", 
+            "lAB"
+        ], 
+        "lANgalin": [
+            "lANgala", 
+            "lANgali", 
+            "lANgalI"
+        ], 
+        "lANgulin": [
+            "lANgula"
+        ], 
+        "lakulin": [
+            "lakula"
+        ], 
+        "lakzaRin": [
+            "lakzaRa", 
+            "lakzaRA"
+        ], 
+        "lakzin": [
+            "lakza", 
+            "lakzI", 
+            "lakz"
+        ], 
+        "lamBin": [
+            "lamBa", 
+            "lamB"
+        ], 
+        "lambin": [
+            "lamb 0", 
+            "lamba", 
+            "lambA"
+        ], 
+        "lavaRamehin": [
+            "lavaRameha"
+        ], 
+        "leKin": [
+            "leKa", 
+            "leKA"
+        ], 
+        "lehin": [
+            "leha", 
+            "lehI"
+        ], 
+        "lelin": [
+            "lelA"
+        ], 
+        "lepin": [
+            "lep 0", 
+            "lepa", 
+            "lepI"
+        ], 
+        "liNgin": [
+            "liNga", 
+            "liNgI", 
+            "liNg"
+        ], 
+        "lohitapittin": [
+            "lohitapitta"
+        ], 
+        "lokAkzin": [
+            "lokAkzi"
+        ], 
+        "lokasAkzin": [
+            "lokasAkzi"
+        ], 
+        "lokin": [
+            "lok 0", 
+            "loka"
+        ], 
+        "lolin": [
+            "lola", 
+            "lolA"
+        ], 
+        "lopin": [
+            "lopa"
+        ], 
+        "lumbin": [
+            "lumb 0"
+        ], 
+        "mAYjizWamehin": [
+            "mAYjizWameha"
+        ], 
+        "mAdin": [
+            "mAda"
+        ], 
+        "mAlin": [
+            "mAla", 
+            "mAlA", 
+            "mAli", 
+            "mAl"
+        ], 
+        "mAnin": [
+            "mAn 0", 
+            "mAna", 
+            "mAni", 
+            "mAnI"
+        ], 
+        "mArgin": [
+            "mArg 0", 
+            "mArga"
+        ], 
+        "mArin": [
+            "mAra", 
+            "mAri", 
+            "mArI"
+        ], 
+        "mAtrin": [
+            "mAtra", 
+            "mAtrA"
+        ], 
+        "mAyin": [
+            "mAyA 1", 
+            "mAya", 
+            "mAyi", 
+            "mAyI"
+        ], 
+        "mETunin": [
+            "mETuna", 
+            "mETunI"
+        ], 
+        "mInaGAtin": [
+            "mInaGAtI"
+        ], 
+        "mOlin": [
+            "mOla", 
+            "mOlA", 
+            "mOli"
+        ], 
+        "mOnin": [
+            "mOna 1", 
+            "mOni", 
+            "mOnI"
+        ], 
+        "mUlin": [
+            "mUl 0", 
+            "mUla 1", 
+            "mUlA", 
+            "mUlI"
+        ], 
+        "mUtrAGAtin": [
+            "mUtrAGAta"
+        ], 
+        "mUtrakfcCrin": [
+            "mUtrakfcCra"
+        ], 
+        "maDumehin": [
+            "maDumeha"
+        ], 
+        "maRqalin": [
+            "maRqala 1", 
+            "maRqalA", 
+            "maRqalI"
+        ], 
+        "maSakin": [
+            "maSaka 1"
+        ], 
+        "maYcakASrayin": [
+            "maYcakASraya"
+        ], 
+        "maYjizWAmehin": [
+            "maYjizWAmeha"
+        ], 
+        "mahABogin": [
+            "mahABoga"
+        ], 
+        "mahAmAlin": [
+            "mahAmAla"
+        ], 
+        "mahAnandin": [
+            "mahAnanda", 
+            "mahAnandA", 
+            "mahAnandi"
+        ], 
+        "mahApAtakin": [
+            "mahApAtaka"
+        ], 
+        "mahApakzin": [
+            "mahApakza"
+        ], 
+        "mahArogin": [
+            "mahAroga"
+        ], 
+        "mahAtyAgin": [
+            "mahAtyAga", 
+            "mahAtyAgI"
+        ], 
+        "mahAvratin": [
+            "mahAvrata"
+        ], 
+        "mahasvin": [
+            "mahas  1"
+        ], 
+        "majjamehin": [
+            "majjameha"
+        ], 
+        "manIzin": [
+            "manIzA 1", 
+            "manIzI"
+        ], 
+        "manTin": [
+            "manTa", 
+            "manTA", 
+            "manTi", 
+            "manT"
+        ], 
+        "manasvin": [
+            "manas 1", 
+            "manasvi"
+        ], 
+        "manohArin": [
+            "manohArI"
+        ], 
+        "mantrin": [
+            "mantra", 
+            "mantrI", 
+            "mantr"
+        ], 
+        "marIcimAlin": [
+            "marIcimAlI"
+        ], 
+        "marIcin": [
+            "marIci 1", 
+            "marIca", 
+            "marIcI"
+        ], 
+        "mardin": [
+            "marda"
+        ], 
+        "maryAdin": [
+            "maryAdA 1", 
+            "maryAda"
+        ], 
+        "marzin": [
+            "marza"
+        ], 
+        "matsyaGAtin": [
+            "matsyaGAta", 
+            "matsyaGAtI"
+        ], 
+        "mayUKamAlin": [
+            "mayUKamAlA"
+        ], 
+        "mayUKin": [
+            "mayUKa"
+        ], 
+        "meGAnandin": [
+            "meGAnanda", 
+            "meGAnandA", 
+            "meGAnandI"
+        ], 
+        "meGamAlin": [
+            "meGamAla", 
+            "meGamAlA"
+        ], 
+        "meGanAdin": [
+            "meGanAda", 
+            "meGanAdA"
+        ], 
+        "meKalin": [
+            "meKalA 1", 
+            "meKala"
+        ], 
+        "medasvin": [
+            "medas 1"
+        ], 
+        "mehin": [
+            "meha"
+        ], 
+        "mfRAlin": [
+            "mfRAla 1", 
+            "mfRAlI"
+        ], 
+        "mftajIvin": [
+            "mftajIva"
+        ], 
+        "mfzAvAdin": [
+            "mfzAvAda", 
+            "mfzAvAdI"
+        ], 
+        "miTyAvAdin": [
+            "miTyAvAda", 
+            "miTyAvAdI"
+        ], 
+        "mocin": [
+            "moca", 
+            "mocA", 
+            "moci"
+        ], 
+        "modin": [
+            "moda", 
+            "modA"
+        ], 
+        "mohin": [
+            "moha", 
+            "mohA"
+        ], 
+        "mokzin": [
+            "mokza", 
+            "mokzA", 
+            "mokz"
+        ], 
+        "muKaprekzin": [
+            "muKaprekza"
+        ], 
+        "muRqin": [
+            "muRqa", 
+            "muRqI", 
+            "muRq"
+        ], 
+        "mukulin": [
+            "mukula", 
+            "mukulI", 
+            "mukul"
+        ], 
+        "mukuwin": [
+            "mukuwa", 
+            "mukuwA"
+        ], 
+        "musalin": [
+            "musala 1", 
+            "musalI"
+        ], 
+        "nAKin": [
+            "naKa 1"
+        ], 
+        "nASin": [
+            "nASa", 
+            "nASI"
+        ], 
+        "nAdin": [
+            "na 1", 
+            "nad 0", 
+            "nAda", 
+            "nAdi"
+        ], 
+        "nAgaboDin": [
+            "nAgaboDa", 
+            "nAgaboDI"
+        ], 
+        "nAkin": [
+            "nAka 1"
+        ], 
+        "nAlin": [
+            "nAla", 
+            "nAlA", 
+            "nAli", 
+            "nAlI"
+        ], 
+        "nAmin": [
+            "nAma", 
+            "nAmi", 
+            "nAm"
+        ], 
+        "nAndin": [
+            "nand 0"
+        ], 
+        "nArakin": [
+            "naraka 1", 
+            "nAraka"
+        ], 
+        "nAyin": [
+            "nAya"
+        ], 
+        "nIcakin": [
+            "nicaka 1"
+        ], 
+        "nIlamehin": [
+            "nIlameha"
+        ], 
+        "naKin": [
+            "naK 0", 
+            "naKa", 
+            "naKI"
+        ], 
+        "nakulin": [
+            "nakula", 
+            "nakulI"
+        ], 
+        "nakzatrin": [
+            "nakzatra 1"
+        ], 
+        "nalin": [
+            "nal 0", 
+            "nala", 
+            "nalI"
+        ], 
+        "nandakin": [
+            "nandaka 1"
+        ], 
+        "nandin": [
+            "nanda", 
+            "nandA", 
+            "nandi", 
+            "nandI", 
+            "nand"
+        ], 
+        "netrin": [
+            "netra", 
+            "netrI"
+        ], 
+        "niGAtin": [
+            "niGAta", 
+            "niGAti"
+        ], 
+        "niSAcArin": [
+            "niSAcAra", 
+            "niSAcArI"
+        ], 
+        "niScayin": [
+            "niScaya"
+        ], 
+        "nibanDin": [
+            "nibanDa", 
+            "nibanD"
+        ], 
+        "nicayin": [
+            "nicaya"
+        ], 
+        "nideSin": [
+            "nideSa 1"
+        ], 
+        "nigAdin": [
+            "nigAda"
+        ], 
+        "nikAyin": [
+            "nikAya"
+        ], 
+        "ninAdin": [
+            "ninAda"
+        ], 
+        "nipAtin": [
+            "nipAta"
+        ], 
+        "nirASin": [
+            "nirASa", 
+            "nirAS"
+        ], 
+        "nirAkANkzin": [
+            "nirAkANkza"
+        ], 
+        "nirAtaNkin": [
+            "nirAtaNka"
+        ], 
+        "nirGAtin": [
+            "nirGAta"
+        ], 
+        "niraparADin": [
+            "niraparADa", 
+            "niraparADI"
+        ], 
+        "nirayin": [
+            "niraya"
+        ], 
+        "nirbIjin": [
+            "nirbIja", 
+            "nirbIjA"
+        ], 
+        "nirbanDin": [
+            "nirbanDa", 
+            "nirbanD"
+        ], 
+        "nirhArin": [
+            "nirhAra"
+        ], 
+        "nirlepin": [
+            "nirlepa"
+        ], 
+        "nirmUlin": [
+            "nirmUla"
+        ], 
+        "niroDin": [
+            "niroDa"
+        ], 
+        "nirudgArin": [
+            "nirudgAra"
+        ], 
+        "nirvARin": [
+            "nirvARa", 
+            "nirvARI"
+        ], 
+        "nirvAhin": [
+            "nirvAha"
+        ], 
+        "nirvamin": [
+            "nirvama", 
+            "nirvam"
+        ], 
+        "nirvikArin": [
+            "nirvikAra"
+        ], 
+        "nisarpin": [
+            "nisarpa"
+        ], 
+        "nitambin": [
+            "nitaMba 1", 
+            "nitamba"
+        ], 
+        "nivAhin": [
+            "nivAha"
+        ], 
+        "nivArin": [
+            "nivAra", 
+            "nivArA"
+        ], 
+        "nivAsin": [
+            "nivAsa 0", 
+            "nivAsI"
+        ], 
+        "nivItin": [
+            "nivIta"
+        ], 
+        "niveSin": [
+            "niveSa"
+        ], 
+        "niyAmin": [
+            "niyAma"
+        ], 
+        "niyamin": [
+            "niyama", 
+            "niyam"
+        ], 
+        "niyogin": [
+            "niyoga 1", 
+            "niyogI"
+        ], 
+        "nizAdin": [
+            "nizAda 1", 
+            "nizAdI"
+        ], 
+        "nizaNgin": [
+            "nizaNga 1", 
+            "nizaNgI"
+        ], 
+        "nizevin": [
+            "nizeva", 
+            "nizevA", 
+            "nizev"
+        ], 
+        "nizpratidvaMdvin": [
+            "nizpratidvaMdva"
+        ], 
+        "nodin": [
+            "noda"
+        ], 
+        "nyAsin": [
+            "nyAsa 1"
+        ], 
+        "oGin": [
+            "oGa"
+        ], 
+        "ojasvin": [
+            "ojas 1"
+        ], 
+        "pARqukin": [
+            "pARquka"
+        ], 
+        "pASin": [
+            "pASa", 
+            "pASI"
+        ], 
+        "pAWin": [
+            "pAWa", 
+            "pAWA"
+        ], 
+        "pAcin": [
+            "pAcA", 
+            "pAci", 
+            "pAcI"
+        ], 
+        "pAdacArin": [
+            "pAdacAra"
+        ], 
+        "pAdin": [
+            "pAda 1", 
+            "pAdi", 
+            "pAd"
+        ], 
+        "pAkin": [
+            "pAka"
+        ], 
+        "pAlin": [
+            "pAl 0", 
+            "pAla", 
+            "pAli", 
+            "pAlI"
+        ], 
+        "pApin": [
+            "pApa 1", 
+            "pApI"
+        ], 
+        "pAtakin": [
+            "pAtaka", 
+            "pAtakI"
+        ], 
+        "pAtin": [
+            "pAta", 
+            "pAti", 
+            "pAt"
+        ], 
+        "pAtrin": [
+            "pAtra", 
+            "pAtrA", 
+            "pAtrI"
+        ], 
+        "pAwin": [
+            "pAwa", 
+            "pAwI", 
+            "pAw"
+        ], 
+        "pAyin": [
+            "pAya", 
+            "pAy"
+        ], 
+        "pAzARaBedin": [
+            "pAzARaBeda"
+        ], 
+        "pAzARin": [
+            "pAzARa", 
+            "pAzARI"
+        ], 
+        "pAzARqin": [
+            "pAzARqa"
+        ], 
+        "pAzaRqin": [
+            "pAzaRqa", 
+            "pAzaRqI"
+        ], 
+        "pESunin": [
+            "pESuna"
+        ], 
+        "pITin": [
+            "pITi", 
+            "pITI"
+        ], 
+        "pIWasarpin": [
+            "pIWasarpa"
+        ], 
+        "pInasin": [
+            "pInasa", 
+            "pInasA"
+        ], 
+        "pIqin": [
+            "pIqa", 
+            "pIqA", 
+            "pIq"
+        ], 
+        "pOtrin": [
+            "pOtra", 
+            "pOtrI"
+        ], 
+        "pUrin": [
+            "pUr 0", 
+            "pUra", 
+            "pUri", 
+            "pUrI"
+        ], 
+        "pUrvavAdin": [
+            "pUrvavAda", 
+            "pUrvavAdI"
+        ], 
+        "pUrvin": [
+            "pUrva 1", 
+            "pUrvA", 
+            "pUrvI"
+        ], 
+        "paNkin": [
+            "paNka"
+        ], 
+        "paRin": [
+            "paRa 0", 
+            "paRi", 
+            "paR"
+        ], 
+        "paSurakzin": [
+            "paSurakzi"
+        ], 
+        "paYcakolakin": [
+            "paYcakolaka"
+        ], 
+        "padAtin": [
+            "padAta 1", 
+            "padAti", 
+            "padAt"
+        ], 
+        "padmin": [
+            "padma 1", 
+            "padmA", 
+            "padmI"
+        ], 
+        "pakzacCedin": [
+            "pakzacCeda"
+        ], 
+        "pakzapAtin": [
+            "pakzapAta"
+        ], 
+        "pakzin": [
+            "pakza 1", 
+            "pakzi", 
+            "pakzI", 
+            "pakz"
+        ], 
+        "palASin": [
+            "palASa", 
+            "palASA", 
+            "palASI"
+        ], 
+        "palAyin": [
+            "palAy"
+        ], 
+        "palitin": [
+            "palita", 
+            "palitA"
+        ], 
+        "parAkramin": [
+            "parAkrama", 
+            "parAkram"
+        ], 
+        "parIkzin": [
+            "parIkzA", 
+            "parIkz"
+        ], 
+        "parItin": [
+            "parIta", 
+            "parIti"
+        ], 
+        "parIvAdin": [
+            "parIvAda"
+        ], 
+        "parRin": [
+            "parRa 1", 
+            "parRI", 
+            "parR"
+        ], 
+        "paraSvaDin": [
+            "paraSvaDa"
+        ], 
+        "parameSin": [
+            "parameSa"
+        ], 
+        "paramezWin": [
+            "paramezWa 1", 
+            "paramezWi", 
+            "paramezWI"
+        ], 
+        "pariDvaMsin": [
+            "pariDvaMsa", 
+            "pariDvaMs"
+        ], 
+        "pariRAhin": [
+            "pariRAha 1"
+        ], 
+        "pariRAmin": [
+            "pariRAma"
+        ], 
+        "pariSaNkin": [
+            "pariSaNkA", 
+            "pariSaNk"
+        ], 
+        "pariSozin": [
+            "pariSoza"
+        ], 
+        "pariboDin": [
+            "pariboDa"
+        ], 
+        "paricArin": [
+            "paricAra"
+        ], 
+        "paridevin": [
+            "parideva", 
+            "paridev"
+        ], 
+        "parigrAhin": [
+            "parigrAha"
+        ], 
+        "parihArin": [
+            "parihAra"
+        ], 
+        "parikartin": [
+            "parikarta"
+        ], 
+        "parikledin": [
+            "parikleda"
+        ], 
+        "parikzepin": [
+            "parikzepa"
+        ], 
+        "parilehin": [
+            "parilehI"
+        ], 
+        "parimARin": [
+            "parimARa"
+        ], 
+        "paripanTin": [
+            "paripanTI"
+        ], 
+        "parirakzin": [
+            "parirakzA", 
+            "parirakzI", 
+            "parirakz"
+        ], 
+        "pariramBin": [
+            "pariramBa"
+        ], 
+        "parisarpin": [
+            "parisarpa"
+        ], 
+        "parisraMsin": [
+            "parisraMs"
+        ], 
+        "parityAgin": [
+            "parityAga"
+        ], 
+        "parivAdin": [
+            "parivAda", 
+            "parivAdI"
+        ], 
+        "parivartin": [
+            "parivarta"
+        ], 
+        "parivepin": [
+            "parivep"
+        ], 
+        "parivezin": [
+            "pariveza"
+        ], 
+        "parivikrayin": [
+            "parivikraya"
+        ], 
+        "paryavasAyin": [
+            "paryavasAya"
+        ], 
+        "patAkin": [
+            "patAkA 1", 
+            "patAka"
+        ], 
+        "pataMgin": [
+            "pataMga", 
+            "pataMgI"
+        ], 
+        "pataNgin": [
+            "pataMga 1"
+        ], 
+        "patatrin": [
+            "patatra 1", 
+            "patatri", 
+            "patatrI"
+        ], 
+        "pattin": [
+            "patti"
+        ], 
+        "pattramAlin": [
+            "pattramAla"
+        ], 
+        "pattrin": [
+            "pattra", 
+            "pattri", 
+            "pattrI"
+        ], 
+        "pavanASin": [
+            "pavanASa"
+        ], 
+        "pavitrin": [
+            "pavitra", 
+            "pavitrA", 
+            "pavitrI", 
+            "pavitr"
+        ], 
+        "pawwiSin": [
+            "pawwiSa"
+        ], 
+        "pawwin": [
+            "pawwa", 
+            "pawwi"
+        ], 
+        "payasvin": [
+            "payas 1"
+        ], 
+        "piRqin": [
+            "piMqa 1", 
+            "piRqa", 
+            "piRqA", 
+            "piRqi", 
+            "piRqI"
+        ], 
+        "piSAcin": [
+            "piSAca", 
+            "piSAci", 
+            "piSAcI"
+        ], 
+        "piSitASin": [
+            "piSitASa"
+        ], 
+        "pinAkin": [
+            "pinAka 1", 
+            "pinAkI"
+        ], 
+        "pipAsin": [
+            "pipAsA 1", 
+            "pipAs"
+        ], 
+        "piqakin": [
+            "piqaka", 
+            "piqakA"
+        ], 
+        "pittaraktin": [
+            "pittarakta"
+        ], 
+        "pittin": [
+            "pitta"
+        ], 
+        "pizwamehin": [
+            "pizwameha"
+        ], 
+        "plIhin": [
+            "plIha", 
+            "plIhA"
+        ], 
+        "potrin": [
+            "potra 1", 
+            "potri", 
+            "potrI"
+        ], 
+        "prARAyAmin": [
+            "prARAyAma"
+        ], 
+        "prARin": [
+            "prARa 1", 
+            "prARi", 
+            "prARI", 
+            "prAR"
+        ], 
+        "prASin": [
+            "prASa", 
+            "prASA", 
+            "prAS"
+        ], 
+        "prAYjalin": [
+            "prAMjali 1"
+        ], 
+        "prAcInAvItin": [
+            "prAcInAvIta"
+        ], 
+        "prAhlAdin": [
+            "prAhlAdi"
+        ], 
+        "prAjin": [
+            "aj 1"
+        ], 
+        "prApin": [
+            "prApa", 
+            "prApI", 
+            "prAp"
+        ], 
+        "prArTin": [ 
+            "prArTa", 
+            "prArT"
+        ], 
+        "prAyaScittin": [
+            "prAyaScitta 1", 
+            "prAyaScitti"
+        ],  
+        "praBAsin": [
+            "praBAsa", 
+            "praBAs"
+        ], 
+        "praBAzin": [
+            "praBAza", 
+            "praBAz"
+        ], 
+        "praBedin": [
+            "praBeda"
+        ], 
+        "praDvaMsin": [
+            "praDvaMsa", 
+            "praDvaMs"
+        ], 
+        "praGAtin": [
+            "praGAta"
+        ], 
+        "praRASin": [
+            "praRASa"
+        ], 
+        "praRAdin": [
+            "praRAda"
+        ], 
+        "praRAmin": [
+            "praRAma"
+        ], 
+        "praRayin": [
+            "praRaya 1", 
+            "praRayI"
+        ], 
+        "praRipAtin": [
+            "praRipAta"
+        ], 
+        "praSaMsin": [
+            "praSaMsA", 
+            "praSaMsI", 
+            "praSaMs"
+        ], 
+        "praSozin": [
+            "praSoza"
+        ], 
+        "praboDin": [
+            "praboDa"
+        ], 
+        "pracArin": [
+            "pracAra"
+        ], 
+        "pracalAkin": [
+            "pracalAka 1", 
+            "pracalAkI"
+        ], 
+        "pracodin": [
+            "pracoda"
+        ], 
+        "pradAyin": [
+            "pradAya"
+        ], 
+        "pradIpin": [
+            "pradIpa", 
+            "pradIp"
+        ], 
+        "pradarSin": [
+            "pradarSa"
+        ], 
+        "prahArin": [
+            "prahAra", 
+            "prahArI"
+        ], 
+        "prahAsin": [
+            "prahAsa", 
+            "prahAsI"
+        ], 
+        "praharzin": [
+            "praharza"
+        ], 
+        "prahlAdin": [
+            "prahlAda", 
+            "prahlAdI"
+        ], 
+        "prajYin": [
+            "prajYA 0"
+        ], 
+        "prakASin": [
+            "prakASa 1", 
+            "prakASA", 
+            "prakAS"
+        ], 
+        "prakArin": [
+            "prakAra"
+        ], 
+        "prakampin": [
+            "prakampa", 
+            "prakamp"
+        ], 
+        "prakledin": [
+            "prakleda"
+        ], 
+        "prakopin": [
+            "prakopa"
+        ], 
+        "pralApin": [
+            "pralApa"
+        ], 
+        "pralambin": [
+            "pralamba", 
+            "pralambA", 
+            "pralamb"
+        ], 
+        "pralayin": [
+            "pralaya"
+        ], 
+        "pramATin": [
+            "pramATa", 
+            "pramATI"
+        ], 
+        "pramAdin": [
+            "pramAda"
+        ], 
+        "pramaTin": [
+            "pramaTa", 
+            "pramaTA", 
+            "pramaT"
+        ], 
+        "pramardin": [
+            "pramarda"
+        ], 
+        "pramehin": [
+            "prameha"
+        ], 
+        "pramohin": [
+            "pramoha"
+        ], 
+        "prapAdin": [
+            "prapAda"
+        ], 
+        "prapAkin": [
+            "prapAka"
+        ], 
+        "prapAtin": [
+            "prapAta", 
+            "prapAtI"
+        ], 
+        "prapalAyin": [
+            "prapalAyI", 
+            "prapalAy"
+        ], 
+        "prarohin": [
+            "praroha"
+        ], 
+        "prasAdin": [
+            "prasAda"
+        ], 
+        "prasArin": [
+            "prasAra"
+        ], 
+        "prasaNgin": [
+            "prasaNga"
+        ], 
+        "prasarpin": [
+            "prasarpa", 
+            "prasarp"
+        ], 
+        "prasekin": [
+            "praseka"
+        ], 
+        "praskandin": [
+            "praskanda", 
+            "praskandI", 
+            "praskand"
+        ], 
+        "praspandin": [
+            "praspanda", 
+            "praspand"
+        ], 
+        "prasraMsin": [
+            "sraMs 0"
+        ], 
+        "prastArin": [
+            "prastAra"
+        ], 
+        "prasvedin": [
+            "prasveda"
+        ], 
+        "prasyandin": [
+            "prasyanda", 
+            "prasyand"
+        ], 
+        "pratAnin": [
+            "pratAna 1"
+        ], 
+        "pratApin": [
+            "pratApa"
+        ], 
+        "pratIkzin": [
+            "pratIkza", 
+            "pratIkzA", 
+            "pratIkz"
+        ], 
+        "pratIveSin": [
+            "prativeSa 1"
+        ], 
+        "pratiGAtin": [
+            "pratiGAta"
+        ], 
+        "pratiSyAyin": [
+            "pratiSyAya"
+        ], 
+        "pratibanDin": [
+            "pratibanDa", 
+            "pratibanDi", 
+            "pratibanD"
+        ], 
+        "pratiboDin": [
+            "pratiboDa"
+        ], 
+        "pratidvaMdvin": [
+            "pratidvaMdva"
+        ], 
+        "pratigrAhin": [
+            "pratigrAha", 
+            "pratigrAhI"
+        ], 
+        "pratigrahin": [
+            "pratigraha 1", 
+            "pratigrah"
+        ], 
+        "pratikArin": [
+            "pratikAra"
+        ], 
+        "pratilABin": [
+            "pratilABa"
+        ], 
+        "pratilomin": [
+            "pratiloma"
+        ], 
+        "pratirUpin": [
+            "pratirUpa"
+        ], 
+        "pratiroDin": [
+            "pratiroDa", 
+            "pratiroDI"
+        ], 
+        "pratisparDin": [
+            "pratisparDA", 
+            "pratisparDI", 
+            "pratisparD"
+        ], 
+        "prativAdin": [
+            "prati 1", 
+            "prativAda", 
+            "prativAdI"
+        ], 
+        "prativeSin": [
+            "prativeSa 1"
+        ], 
+        "pratiyogin": [
+            "pratiyoga", 
+            "pratiyogi", 
+            "pratiyogI"
+        ], 
+        "pratizeDin": [
+            "pratizeDa"
+        ], 
+        "pratyakzin": [
+            "pratyakza 1"
+        ], 
+        "pratyapakArin": [
+            "pratyapakAra"
+        ], 
+        "pratyarTin": [
+            "pratyarT"
+        ], 
+        "pratyayin": [
+            "pratyaya 1"
+        ], 
+        "pravAdin": [
+            "pravAda"
+        ], 
+        "pravAhin": [
+            "pravAha", 
+            "pravAhI", 
+            "pravAh"
+        ], 
+        "pravApin": [
+            "pravApa"
+        ], 
+        "pravAsin": [
+            "pravAsa"
+        ], 
+        "pravartin": [
+            "pravarta"
+        ], 
+        "pravarzin": [
+            "pravarza"
+        ], 
+        "praveSin": [
+            "praveSa"
+        ], 
+        "pravedin": [
+            "praveda"
+        ], 
+        "pravilambin": [
+            "pravilamb"
+        ], 
+        "pravrAjin": [
+            "pravrAja", 
+            "pravrAj"
+        ], 
+        "pravrajin": [
+            "pravraj"
+        ], 
+        "prayogin": [
+            "prayoga"
+        ], 
+        "prekzin": [
+            "prekzA", 
+            "prekzI", 
+            "prekz"
+        ], 
+        "premin": [
+            "preman 1"
+        ], 
+        "priyavAdin": [
+            "priyavAda", 
+            "priyavAdI"
+        ], 
+        "proTin": [
+            "proTa 1"
+        ], 
+        "pucCin": [
+            "pucCa 1"
+        ], 
+        "pudgalin": [
+            "pudgala"
+        ], 
+        "pulAkin": [
+            "pulAka 1"
+        ], 
+        "pulakin": [
+            "pulaka 1", 
+            "pulakA", 
+            "pulakI", 
+            "pulak"
+        ], 
+        "punarAvartin": [
+            "punarAvarta"
+        ], 
+        "purogAmin": [
+            "purogAmI"
+        ], 
+        "putrin": [
+            "putra 1", 
+            "putrI", 
+            "putr"
+        ], 
+        "puzpaSakalin": [
+            "puzpaSakalI"
+        ], 
+        "puzpin": [
+            "puzpa 1", 
+            "puzpI", 
+            "puzp"
+        ], 
+        "qiRqin": [
+            "qiRqi"
+        ], 
+        "rAgin": [
+            "raga 1", 
+            "rAga", 
+            "rAgi"
+        ], 
+        "rAjayakzmin": [
+            "rAjayakzma", 
+            "rAjayakzmA"
+        ], 
+        "rAjin": [
+            "rAj 0", 
+            "rAja", 
+            "rAjA", 
+            "rAji", 
+            "rAjI"
+        ], 
+        "rUpin": [
+            "rUpa 0", 
+            "rUpa  1", 
+            "rUpA", 
+            "rUp"
+        ], 
+        "raMhasin": [
+            "raMhasa", 
+            "raMhas"
+        ], 
+        "raRapakzin": [
+            "raRapakzI"
+        ], 
+        "raTakuwumbin": [
+            "raTakuwumba", 
+            "raTakuwumbI"
+        ], 
+        "raTin": [
+            "raTa 1", 
+            "raTI"
+        ], 
+        "radanin": [
+            "radana"
+        ], 
+        "raktakaRWin": [
+            "raktakaRWa"
+        ], 
+        "raktamehin": [
+            "raktameha"
+        ], 
+        "raktapAyin": [
+            "raktapAyI"
+        ], 
+        "raktapittin": [
+            "raktapitta"
+        ], 
+        "raktin": [
+            "rakta", 
+            "raktA", 
+            "rakti"
+        ], 
+        "rakzin": [
+            "rakz  1", 
+            "rakza", 
+            "rakzA"
+        ], 
+        "rasAyanin": [
+            "rasAyana", 
+            "rasAyanA", 
+            "rasAyanI"
+        ], 
+        "rasaBedin": [
+            "rasaBeda"
+        ], 
+        "recin": [
+            "reca", 
+            "recI"
+        ], 
+        "rikTin": [
+            "rikTa"
+        ], 
+        "roDin": [
+            "roDa"
+        ], 
+        "rodin": [
+            "roda"
+        ], 
+        "rogahArin": [
+            "rogahAra"
+        ], 
+        "rogin": [
+            "roga", 
+            "rogi", 
+            "rogI"
+        ], 
+        "rohin": [
+            "roha", 
+            "rohi", 
+            "rohI"
+        ], 
+        "ropin": [
+            "ropa", 
+            "ropi"
+        ], 
+        "ruRqin": [
+            "ruRqa"
+        ], 
+        "rukmamAlin": [
+            "rukmamAlI"
+        ], 
+        "rukmin": [
+            "rukma 1", 
+            "rukmi", 
+            "rukmI"
+        ], 
+        "sADin": [
+            "sADa", 
+            "sAD"
+        ], 
+        "sAdin": [
+            "sAda", 
+            "sAdi"
+        ], 
+        "sAhasin": [
+            "sAhasa 1"
+        ], 
+        "sAkzin": [
+            "saha 1", 
+            "sAkza", 
+            "sAkzi", 
+            "sAkzI", 
+            "sAkz"
+        ], 
+        "sAmavedin": [
+            "sAmaveda"
+        ], 
+        "sAndramehin": [
+            "sAndrameha"
+        ], 
+        "sArin": [
+            "sAra 0", 
+            "sArA", 
+            "sAri", 
+            "sArI", 
+            "sAr"
+        ], 
+        "sAtyakin": [
+            "sAtyaka", 
+            "sAtyaki"
+        ], 
+        "sEkatin": [
+            "sEkata"
+        ], 
+        "sImantin": [
+            "sImanta"
+        ], 
+        "sIrin": [
+            "sIra 1"
+        ], 
+        "sOganDin": [
+            "sOganDa"
+        ], 
+        "sOnandin": [
+            "sOnanda 1"
+        ], 
+        "sPuwin": [
+            "sPuwa", 
+            "sPuwi", 
+            "sPuwI", 
+            "sPuw"
+        ], 
+        "sTAnin": [
+            "sTAna", 
+            "sTAni"
+        ], 
+        "sTAyin": [
+            "sTAya", 
+            "sTAyI"
+        ], 
+        "sTOrin": [
+            "sTOra 1"
+        ], 
+        "sTUlin": [
+            "sTUla 1"
+        ], 
+        "sUcin": [
+            "sUca 0", 
+            "sUci", 
+            "sUcI", 
+            "sUc"
+        ], 
+        "sUnin": [
+            "sUnA 1", 
+            "sUna"
+        ], 
+        "sUrin": [
+            "sUra", 
+            "sUri", 
+            "sUrI", 
+            "sUr"
+        ], 
+        "sUtrin": [
+            "sUtra 1", 
+            "sUtrA", 
+            "sUtrI", 
+            "sUtr"
+        ], 
+        "saDarmin": [
+            "saDarma"
+        ], 
+        "saMDAyin": [
+            "saMDAya"
+        ], 
+        "saMDin": [
+            "saMDa", 
+            "saMDA", 
+            "saMDi"
+        ], 
+        "saMSayin": [
+            "saMSaya"
+        ], 
+        "saMcArin": [
+            "saMcAra", 
+            "saMcAri"
+        ], 
+        "saMdohin": [
+            "saMdoha"
+        ], 
+        "saMgamin": [
+            "saMgama", 
+            "saMgam"
+        ], 
+        "saMgin": [
+            "saMga", 
+            "saMgA"
+        ], 
+        "saMgrAhin": [
+            "saMgrAha"
+        ], 
+        "saMgrahin": [
+            "saMgraha", 
+            "saMgrahI", 
+            "saMgrah"
+        ], 
+        "saMhArin": [
+            "saMhAra", 
+            "saMhArI"
+        ], 
+        "saMharzin": [
+            "saMharza", 
+            "saMharzA"
+        ], 
+        "saMhlAdin": [
+            "saMhlAda"
+        ], 
+        "saMhrAdin": [
+            "saMhrAda", 
+            "saMhrAdi"
+        ], 
+        "saMjIvin": [
+            "saMjIva", 
+            "saMjIv"
+        ], 
+        "saMjYin": [
+            "saMjYa", 
+            "saMjYA"
+        ], 
+        "saMkarzin": [
+            "saMkarza"
+        ], 
+        "saMkocin": [
+            "saMkoca"
+        ], 
+        "saMkrAmin": [
+            "saMkrAma"
+        ], 
+        "saMkzoBin": [
+            "saMkzoBa"
+        ], 
+        "saMnipAtin": [
+            "saMnipAta"
+        ], 
+        "saMniveSin": [
+            "saMniveSa"
+        ], 
+        "saMnyAsin": [
+            "saMnyAsa", 
+            "saMnyAsI"
+        ], 
+        "saMramBin": [
+            "saMramBa 1"
+        ], 
+        "saMroDin": [
+            "saMroDa"
+        ], 
+        "saMrohin": [
+            "saMroha"
+        ], 
+        "saMsArin": [
+            "saMsAra 1"
+        ], 
+        "saMsargin": [
+            "saMsarga 1", 
+            "saMsargI"
+        ], 
+        "saMsarpin": [
+            "saMsarpa 1"
+        ], 
+        "saMsevin": [
+            "saMsevA", 
+            "saMsev"
+        ], 
+        "saMsfzwin": [
+            "saMsfzwa", 
+            "saMsfzwi"
+        ], 
+        "saMsparDin": [
+            "saMsparDA", 
+            "saMsparD"
+        ], 
+        "saMsparSin": [
+            "saMsparSa", 
+            "saMsparSA", 
+            "saMsparS"
+        ], 
+        "saMstamBin": [
+            "saMstamBa", 
+            "saMstamB"
+        ], 
+        "saMsvedin": [
+            "saMsveda"
+        ], 
+        "saMtAnin": [
+            "saMtAna"
+        ], 
+        "saMtApin": [
+            "saMtApa"
+        ], 
+        "saMtozin": [
+            "saMtoza"
+        ], 
+        "saMtyAgin": [
+            "saMtyAga"
+        ], 
+        "saMvAdin": [
+            "saMvAda 1"
+        ], 
+        "saMvAsin": [
+            "saMvAsa"
+        ], 
+        "saMvartakin": [
+            "saMvartaka 1"
+        ], 
+        "saMveSin": [
+            "saMveSa"
+        ], 
+        "saMviBAgin": [
+            "saMviBAga 1"
+        ], 
+        "saMyamin": [
+            "saMyama", 
+            "saMyamI", 
+            "saMyam"
+        ], 
+        "saMyogin": [
+            "saMyoga 1"
+        ], 
+        "saNgin": [
+            "saNga", 
+            "saNgI"
+        ], 
+        "saYjYin": [
+            "saYjYA 1"
+        ], 
+        "sahADyAyin": [
+            "sahADyAyI"
+        ], 
+        "sahAyin": [
+            "sahAya", 
+            "sahAyI"
+        ], 
+        "sahaDarmin": [
+            "sahaDarma"
+        ], 
+        "sahacArin": [
+            "sahacAra"
+        ], 
+        "sahakArin": [
+            "sahakAra", 
+            "sahakArI"
+        ], 
+        "sahasraveDin": [
+            "sahasraveDa", 
+            "sahasraveDI"
+        ], 
+        "sahasrin": [
+            "sahasra 1", 
+            "sahasrA"
+        ], 
+        "sahavAsin": [
+            "sahavAsa", 
+            "sahavAsI"
+        ], 
+        "sahin": [
+            "sah 0", 
+            "saha", 
+            "sahA", 
+            "sahi"
+        ], 
+        "saliNgin": [
+            "saliNga"
+        ], 
+        "samADin": [
+            "samADA", 
+            "samADi"
+        ], 
+        "samAcArin": [
+            "samAcAra"
+        ], 
+        "samAkarzin": [
+            "samAkarza"
+        ], 
+        "samAlamBin": [
+            "samAlamBa"
+        ], 
+        "samAlokin": [
+            "samAloka", 
+            "samAlok"
+        ], 
+        "samAsin": [
+            "samAsa", 
+            "samAs"
+        ], 
+        "samBAzin": [
+            "samBAza", 
+            "samBAzA", 
+            "samBAz"
+        ], 
+        "samBogin": [
+            "samBoga"
+        ], 
+        "samIrin": [
+            "samIra", 
+            "samIr"
+        ], 
+        "samUhin": [
+            "samUha", 
+            "samUhA", 
+            "samUh"
+        ], 
+        "samavAyin": [
+            "samavAya 1", 
+            "samavAyi"
+        ], 
+        "samayaBedin": [
+            "samayaBeda"
+        ], 
+        "samayavyaBicArin": [
+            "samayavyaBicAra"
+        ], 
+        "samayin": [
+            "samaya", 
+            "samayA", 
+            "samay"
+        ], 
+        "sambanDin": [
+            "sambanDa 1", 
+            "sambanDi", 
+            "sambanDI", 
+            "sambanD"
+        ], 
+        "samfdDin": [
+            "samfdDa", 
+            "samfdDi"
+        ], 
+        "sammohin": [
+            "sammoha"
+        ], 
+        "sammuKin": [
+            "sammuka 1"
+        ], 
+        "sampAdin": [
+            "sampAda"
+        ], 
+        "sampadin": [
+            "sampada", 
+            "sampad"
+        ], 
+        "sampradAyin": [
+            "sampradAya"
+        ], 
+        "samucCedin": [
+            "samucCeda"
+        ], 
+        "samucCrAyin": [
+            "samucCrAya"
+        ], 
+        "samuccayin": [
+            "samuccaya"
+        ], 
+        "samudAyin": [
+            "samudAya"
+        ], 
+        "samudayin": [
+            "samudaya"
+        ], 
+        "sarpamAlin": [
+            "sarpamAlA"
+        ], 
+        "sarpin": [
+            "sfp 1", 
+            "sarpa", 
+            "sarpi", 
+            "sarpI"
+        ], 
+        "sarvaDArin": [
+            "sarvaDArI"
+        ], 
+        "sarvahArin": [
+            "sarvahAra"
+        ], 
+        "sarvasAkzin": [
+            "sarvasAkzI"
+        ], 
+        "sattrin": [
+            "sattra 1", 
+            "sattri"
+        ], 
+        "savanin": [
+            "savana"
+        ], 
+        "savyasAcin": [
+            "savyasAcI"
+        ], 
+        "secin": [
+            "seca"
+        ], 
+        "senAjIvin": [
+            "senAjIva"
+        ], 
+        "senin": [
+            "sena", 
+            "senA", 
+            "seni"
+        ], 
+        "sevin": [
+            "sev 0", 
+            "seva", 
+            "sevA", 
+            "sevI"
+        ], 
+        "siMhanAdin": [
+            "siMhanAda"
+        ], 
+        "sidDayogin": [
+            "sidDayoga"
+        ], 
+        "sikatAmehin": [
+            "sikatAmeha"
+        ], 
+        "skanDin": [
+            "skanDa 1"
+        ], 
+        "smin": [
+            "smi 0", 
+            "sma", 
+            "smA"
+        ], 
+        "snAnin": [
+            "snAna"
+        ], 
+        "snehin": [
+            "sneha", 
+            "snehI"
+        ], 
+        "somavallin": [
+            "somavallI"
+        ], 
+        "somin": [
+            "soma 1"
+        ], 
+        "spandin": [
+            "spanda", 
+            "spand"
+        ], 
+        "sparDin": [
+            "sparDA 1", 
+            "sparDa", 
+            "sparD"
+        ], 
+        "sparSaveDin": [
+            "sparSaveDa"
+        ], 
+        "sparSin": [
+            "sparSa", 
+            "sparSA", 
+            "sparS"
+        ], 
+        "spfzwin": [
+            "spfzwa", 
+            "spfzwi"
+        ], 
+        "sraMsin": [
+            "sraMs 0", 
+            "sraMsa"
+        ], 
+        "stamBin": [
+            "stamBa", 
+            "stamBi", 
+            "stamB"
+        ], 
+        "stambin": [
+            "stamba"
+        ], 
+        "stanin": [
+            "stana", 
+            "stan"
+        ], 
+        "stavakin": [
+            "stavaka"
+        ], 
+        "steyin": [
+            "steya 1", 
+            "steyi", 
+            "steyI"
+        ], 
+        "strIcittahArin": [
+            "strIcittahArI"
+        ], 
+        "suKin": [
+            "suKa 0", 
+            "suKA", 
+            "suKi", 
+            "suKI", 
+            "suK"
+        ], 
+        "suSIlin": [
+            "suSIla", 
+            "suSIlA"
+        ], 
+        "suganDin": [
+            "suganDa", 
+            "suganDA", 
+            "suganDi"
+        ], 
+        "sukAlin": [
+            "sukAla"
+        ], 
+        "sukandin": [
+            "sukanda", 
+            "sukandA"
+        ], 
+        "sukftin": [
+            "sukfta", 
+            "sukftA", 
+            "sukfti", 
+            "sukft"
+        ], 
+        "sumAlin": [
+            "sumAla", 
+            "sumAlA", 
+            "sumAli", 
+            "sumAlI"
+        ], 
+        "sunandin": [
+            "sunanda", 
+            "sunandA"
+        ], 
+        "supattrin": [
+            "supattra", 
+            "supattrA"
+        ], 
+        "surAmehin": [
+            "surAmeha"
+        ], 
+        "surApin": [
+            "surApa"
+        ], 
+        "surUpin": [
+            "surUpa", 
+            "surUpA", 
+            "surUpI"
+        ], 
+        "suraBin": [
+            "suraBa", 
+            "suraBi", 
+            "suraBI"
+        ], 
+        "sutin": [
+            "suta 1", 
+            "sutA", 
+            "suti", 
+            "sut"
+        ], 
+        "suvarRazWIvin": [
+            "suvarRazWIvi"
+        ], 
+        "suvarRin": [
+            "suvarRa", 
+            "suvarRA", 
+            "suvarRI"
+        ], 
+        "suvarcin": [
+            "suvarca"
+        ], 
+        "svADyAyin": [
+            "svADyAya"
+        ], 
+        "svAmin": [
+            "svAmi", 
+            "svAmI"
+        ], 
+        "svErin": [
+            "svEra", 
+            "svEri"
+        ], 
+        "svapnin": [
+            "svapna"
+        ], 
+        "svarUpin": [
+            "svarUpa", 
+            "svarUpA"
+        ], 
+        "svargin": [
+            "svarga", 
+            "svargi", 
+            "svargI"
+        ], 
+        "svatantrin": [
+            "svatantra", 
+            "svatantrA"
+        ], 
+        "svayaMkftin": [
+            "svayaMkfta"
+        ], 
+        "svedin": [
+            "sveda"
+        ], 
+        "syandin": [
+            "syanda", 
+            "syand"
+        ], 
+        "tARqin": [
+            "tARqa", 
+            "tARqi"
+        ], 
+        "tAlin": [
+            "tAla", 
+            "tAli", 
+            "tAlI"
+        ], 
+        "tApin": [
+            "tApa", 
+            "tApI"
+        ], 
+        "tArin": [
+            "tAra", 
+            "tArA"
+        ], 
+        "tAyin": [
+            "tAya", 
+            "tAyi", 
+            "tAy"
+        ], 
+        "tElin": [
+            "tEla 1"
+        ], 
+        "tIrTasevin": [
+            "tIrTasevA", 
+            "tIrTasevI"
+        ], 
+        "talin": [
+            "tal 0", 
+            "tala", 
+            "talA"
+        ], 
+        "tantrin": [
+            "tantra", 
+            "tantri", 
+            "tantrI", 
+            "tantr"
+        ], 
+        "tapasvin": [
+            "tapas 1", 
+            "tapasvI"
+        ], 
+        "taqinmAlin": [
+            "taqinmAlA"
+        ], 
+        "taraMgin": [
+            "taraMga", 
+            "taraMgA"
+        ], 
+        "tarasvin": [
+            "tarasvI"
+        ], 
+        "tarikin": [
+            "tarika 1"
+        ], 
+        "tarkin": [
+            "tarka", 
+            "tarkA", 
+            "tark"
+        ], 
+        "tattvadarSin": [
+            "tattvadarSa"
+        ], 
+        "tejasvin": [
+            "tejas 1", 
+            "tejasvI"
+        ], 
+        "tejin": [
+            "teja", 
+            "tej"
+        ], 
+        "tftIyin": [
+            "tftIya 1", 
+            "tftIyA"
+        ], 
+        "tilodakin": [
+            "tilodaka"
+        ], 
+        "timirin": [
+            "timira", 
+            "timirA", 
+            "timiri"
+        ], 
+        "toyin": [
+            "toya", 
+            "toyA"
+        ], 
+        "tozin": [
+            "toza"
+        ], 
+        "trAsin": [
+            "trAsa"
+        ], 
+        "triSUlin": [
+            "triSUla", 
+            "triSUlA", 
+            "triSUlI"
+        ], 
+        "tridaRqin": [
+            "tridaRqa", 
+            "tridaRqI"
+        ], 
+        "trisaMDin": [
+            "trisaMDi", 
+            "trisaMDI"
+        ], 
+        "tuRqikerin": [
+            "tuRqikera", 
+            "tuRqikerI"
+        ], 
+        "tuRqin": [
+            "tuRqa 1", 
+            "tuRqi", 
+            "tuRqI"
+        ], 
+        "tundin": [
+            "tunda 1"
+        ], 
+        "turagin": [
+            "turaga 1"
+        ], 
+        "tvagdozin": [
+            "tvagdoza"
+        ], 
+        "tyAgin": [
+            "tyAga"
+        ], 
+        "ucCedin": [
+            "ucCeda"
+        ], 
+        "ucCrAyin": [
+            "ucCrAya"
+        ], 
+        "ucCvAsin": [
+            "ucCvAsa 1"
+        ], 
+        "udAsin": [
+            "udAsa", 
+            "udAsA", 
+            "udAs"
+        ], 
+        "udAvartin": [
+            "udAvarta", 
+            "udAvartA"
+        ], 
+        "udAyin": [
+            "udAya", 
+            "udAyA"
+        ], 
+        "udBAsin": [
+            "udBAsa", 
+            "udBAs"
+        ], 
+        "udakamehin": [
+            "udakameha"
+        ], 
+        "udakin": [
+            "udaka", 
+            "udak"
+        ], 
+        "udayin": [
+            "udaya"
+        ], 
+        "udboDin": [
+            "udboDa"
+        ], 
+        "udgArin": [
+            "udgAra"
+        ], 
+        "udrekin": [
+            "udreka"
+        ], 
+        "udvartin": [
+            "udvarta"
+        ], 
+        "udvepin": [
+            "udvepa", 
+            "udvep"
+        ], 
+        "udyamin": [
+            "udyama", 
+            "udyamI", 
+            "udyam"
+        ], 
+        "udyogin": [
+            "udyoga"
+        ], 
+        "ulUKalin": [
+            "ulUKala"
+        ], 
+        "ulUpin": [
+            "ulUpa", 
+            "ulUpI"
+        ], 
+        "ullApin": [
+            "ullApa"
+        ], 
+        "ullAsin": [
+            "ullAsa", 
+            "ullAsI"
+        ], 
+        "unmATin": [
+            "unmATa"
+        ], 
+        "unmAdin": [
+            "unmAda", 
+            "unmAdI"
+        ], 
+        "unmArgin": [
+            "unmArga"
+        ], 
+        "unmIlin": [
+            "unmIla", 
+            "unmIl"
+        ], 
+        "upAnahin": [
+            "upAnaha", 
+            "upAnah"
+        ], 
+        "upaBogin": [
+            "upaBoga"
+        ], 
+        "upaDAyin": [
+            "upaDAya"
+        ], 
+        "upaGAtin": [
+            "upaGAta"
+        ], 
+        "upaSAyin": [
+            "upaSAya"
+        ], 
+        "upacArin": [
+            "upacAra"
+        ], 
+        "upadeSin": [
+            "upadeSa"
+        ], 
+        "upagrAhin": [
+            "upagrAha"
+        ], 
+        "upahArin": [
+            "upahAra 1"
+        ], 
+        "upahAsin": [
+            "upahAsa"
+        ], 
+        "upajIvin": [
+            "upa_jIv 1", 
+            "upajIva", 
+            "upajIv"
+        ], 
+        "upajalpin": [
+            "upajalp"
+        ], 
+        "upakArin": [
+            "upakAra", 
+            "upakArI"
+        ], 
+        "upakledin": [
+            "upakleda"
+        ], 
+        "upalaBedin": [
+            "upalaBeda", 
+            "upalaBedI"
+        ], 
+        "upalepin": [
+            "upalepa"
+        ], 
+        "upanAyin": [
+            "upanAya"
+        ], 
+        "upapAdin": [
+            "upapAda"
+        ], 
+        "upapAtakin": [
+            "upapAtaka"
+        ], 
+        "uparoDin": [
+            "uparoDa"
+        ], 
+        "upasTAyin": [
+            "upasTAya"
+        ], 
+        "upasarpin": [
+            "upasarpa"
+        ], 
+        "upasevin": [
+            "upasevA", 
+            "upasev"
+        ], 
+        "upasparSin": [
+            "upasparSa"
+        ], 
+        "upatApin": [
+            "upatApa"
+        ], 
+        "upavAdin": [
+            "upavAda"
+        ], 
+        "upavAhin": [
+            "upavAha"
+        ], 
+        "upavAsin": [
+            "upavAsa"
+        ], 
+        "upavItin": [
+            "upavIta"
+        ], 
+        "upaveSin": [
+            "upaveSa", 
+            "upaveSi"
+        ], 
+        "upayogin": [
+            "upayoga"
+        ], 
+        "utKAtin": [
+            "utKAta 1"
+        ], 
+        "utTAyin": [
+            "utTAya"
+        ], 
+        "utkaRWin": [
+            "utkaRWa", 
+            "utkaRWA", 
+            "utkaRW"
+        ], 
+        "utkampin": [
+            "utkampa", 
+            "utkamp"
+        ], 
+        "utkarzin": [
+            "utkarza"
+        ], 
+        "utkleSin": [
+            "utkleSa"
+        ], 
+        "utkledin": [
+            "utkleda"
+        ], 
+        "utkocin": [
+            "utkoca"
+        ], 
+        "utpAdin": [
+            "utpAda"
+        ], 
+        "utpAwin": [
+            "utpAwa"
+        ], 
+        "utpalin": [
+            "utpala 1"
+        ], 
+        "utsAdin": [
+            "utsAda", 
+            "utsAdi"
+        ], 
+        "utsAhin": [
+            "utsAha"
+        ], 
+        "utsaNgin": [
+            "utsaNga", 
+            "utsaNgI"
+        ], 
+        "utsargin": [
+            "utsarga"
+        ], 
+        "utsekin": [
+            "utseka 1"
+        ], 
+        "uttaravAdin": [
+            "uttaravAdI"
+        ], 
+        "uzRIzin": [
+            "uzRIza 1"
+        ], 
+        "vAcin": [
+            "vAca", 
+            "vAcA", 
+            "vAcI", 
+            "vAc"
+        ], 
+        "vAdin": [
+            "vAda", 
+            "vAdi", 
+            "vAdI"
+        ], 
+        "vAgvilAsin": [
+            "vAgvilAsa"
+        ], 
+        "vAhin": [
+            "vAh 0", 
+            "vAha"
+        ], 
+        "vAjasaneyin": [
+            "vAjasaneyI  1"
+        ], 
+        "vAjin": [
+            "vAja 1", 
+            "vAji", 
+            "vAjI"
+        ], 
+        "vAlin": [
+            "vAla", 
+            "vAli", 
+            "vAlI"
+        ], 
+        "vAlmIkin": [
+            "vAlmIka", 
+            "vAlmIki"
+        ], 
+        "vAlukin": [
+            "vAluka", 
+            "vAlukA", 
+            "vAluki", 
+            "vAlukI"
+        ], 
+        "vAmin": [
+            "vAma", 
+            "vAmA", 
+            "vAmI", 
+            "vAm"
+        ], 
+        "vApin": [
+            "vApa", 
+            "vApi", 
+            "vApI"
+        ], 
+        "vArakin": [
+            "vAraka 1"
+        ], 
+        "vArdDuzin": [
+            "vArdDuza 1", 
+            "vArdDuzi", 
+            "vArdDuzI"
+        ], 
+        "vArin": [
+            "vAra", 
+            "vArA", 
+            "vAri", 
+            "vArI", 
+            "vAr"
+        ], 
+        "vAsin": [
+            "vAsa 0", 
+            "vAsA", 
+            "vAsi", 
+            "vAsI", 
+            "vAs"
+        ], 
+        "vAtaSoRitin": [
+            "vAtaSoRita"
+        ], 
+        "vEjayin": [
+            "vEjayi"
+        ], 
+        "vErin": [
+            "vEra 1", 
+            "vErA"
+        ], 
+        "vEtaRqin": [
+            "vEtaRqI"
+        ], 
+        "vIRin": [
+            "vIRA"
+        ], 
+        "vIjin": [
+            "blja 1"
+        ], 
+        "vaMSin": [
+            "vaMSa", 
+            "vaMSI"
+        ], 
+        "vaSin": [
+            "vaS 0", 
+            "vaSa", 
+            "vaSA", 
+            "vaSI"
+        ], 
+        "vajrin": [
+            "vajra 1", 
+            "vajrA", 
+            "vajri", 
+            "vajrI"
+        ], 
+        "vakrin": [
+            "vakra 1", 
+            "vakrA", 
+            "vakri", 
+            "vakrI"
+        ], 
+        "valAkin": [
+            "valAkA 1"
+        ], 
+        "valayin": [
+            "valaya", 
+            "valayI", 
+            "valay"
+        ], 
+        "valgin": [
+            "valg 0", 
+            "valgA"
+        ], 
+        "valkalin": [
+            "valkala", 
+            "valkalA", 
+            "valkalI"
+        ], 
+        "vanamAlin": [
+            "vanamAla", 
+            "vanamAlA", 
+            "vanamAlI"
+        ], 
+        "vanavAsin": [
+            "vanavAsa", 
+            "vanavAsI"
+        ], 
+        "vandin": [
+            "vanda", 
+            "vandA", 
+            "vandi", 
+            "vandI", 
+            "vand"
+        ], 
+        "vanin": [
+            "vana 1"
+        ], 
+        "varDin": [
+            "varDa", 
+            "varD"
+        ], 
+        "varRin": [
+            "varR 0", 
+            "varRa", 
+            "varRA", 
+            "varRI"
+        ], 
+        "varUTin": [
+            "varUTa"
+        ], 
+        "varcasvin": [
+            "varcas 1"
+        ], 
+        "vargin": [
+            "varga", 
+            "vargA"
+        ], 
+        "varjin": [
+            "varja"
+        ], 
+        "varmin": [
+            "varma", 
+            "varmi"
+        ], 
+        "vartin": [
+            "varta", 
+            "varti", 
+            "vartI"
+        ], 
+        "varzapAkin": [
+            "varzapAkI"
+        ], 
+        "varzin": [
+            "varza", 
+            "varzA", 
+            "varz"
+        ], 
+        "vasAmehin": [
+            "vasAmeha"
+        ], 
+        "vayaHstamBin": [
+            "vayaHstamBa"
+        ], 
+        "veDin": [
+            "veDa", 
+            "veDA", 
+            "veD"
+        ], 
+        "vedAntavAdin": [
+            "vedAntavAda"
+        ], 
+        "vedAntin": [
+            "vedAnta", 
+            "vedAntI"
+        ], 
+        "vedin": [
+            "veda", 
+            "vedA", 
+            "vedi", 
+            "vedI"
+        ], 
+        "vegadarSin": [
+            "vegadarSI"
+        ], 
+        "vegin": [
+            "vega 1", 
+            "vegA", 
+            "vegi", 
+            "vegI"
+        ], 
+        "vetanin": [
+            "vetana"
+        ], 
+        "vfTAliNgin": [
+            "vfTAliNga"
+        ], 
+        "vfndin": [
+            "vfnda", 
+            "vfndA"
+        ], 
+        "vfttin": [
+            "vftta", 
+            "vfttA", 
+            "vftti"
+        ], 
+        "vfzalin": [
+            "vfzala", 
+            "vfzalI"
+        ], 
+        "viBedin": [
+            "viBeda"
+        ], 
+        "viDArin": [
+            "viDAra"
+        ], 
+        "viDarmin": [
+            "viDarma"
+        ], 
+        "viDvaMsin": [
+            "viDvaMsa", 
+            "viDvaMs"
+        ], 
+        "viGAtin": [
+            "viGAta"
+        ], 
+        "viMSin": [
+            "viMSa"
+        ], 
+        "viSezin": [
+            "viSeza"
+        ], 
+        "viSozin": [
+            "viSoza"
+        ], 
+        "viSramBin": [
+            "viSramBa", 
+            "viSramB"
+        ], 
+        "viSvAsin": [
+            "viSvAsa"
+        ], 
+        "viSvaDArin": [
+            "viSvaDAra", 
+            "viSvaDArA"
+        ], 
+        "vibanDin": [
+            "vibanDa", 
+            "vibanD"
+        ], 
+        "vicArin": [
+            "vicAra"
+        ], 
+        "vicCedin": [
+            "vicCeda"
+        ], 
+        "vidAhin": [
+            "vidAha"
+        ], 
+        "vidArin": [
+            "vidAra", 
+            "vidAri", 
+            "vidArI"
+        ], 
+        "vidaTin": [
+            "vidaTa", 
+            "vidaTI"
+        ], 
+        "vidvezin": [
+            "vidveza"
+        ], 
+        "vidyunmAlin": [
+            "vidyunmAla", 
+            "vidyunmAlA", 
+            "vidyunmAlI"
+        ], 
+        "vidyutkeSin": [
+            "vidyutkeSa"
+        ], 
+        "viganDin": [
+            "viganDa", 
+            "viganDA", 
+            "viganDi"
+        ], 
+        "vigarhin": [
+            "vigarha", 
+            "vigarhA", 
+            "vigarh"
+        ], 
+        "vigrahin": [
+            "vigraha", 
+            "vigrah"
+        ], 
+        "vihArin": [
+            "vihAra 1", 
+            "vihArI"
+        ], 
+        "vijYAnin": [
+            "vijYAna"
+        ], 
+        "vijayin": [
+            "vijaya", 
+            "vijayA", 
+            "vijayI"
+        ], 
+        "vijitin": [
+            "vijita", 
+            "vijiti"
+        ], 
+        "vikASin": [
+            "kAS 0", 
+            "vikASa", 
+            "vikAS"
+        ], 
+        "vikArin": [
+            "vikAra", 
+            "vikArA"
+        ], 
+        "vikAsin": [
+            "kas 1", 
+            "vikAsa"
+        ], 
+        "vikalpin": [
+            "vikalpa"
+        ], 
+        "vikarAlin": [
+            "vikarAla", 
+            "vikarAlA"
+        ], 
+        "vikartin": [
+            "vikarta"
+        ], 
+        "vikarzin": [
+            "vikarza"
+        ], 
+        "vikramin": [
+            "vikrama", 
+            "vikramI", 
+            "vikram"
+        ], 
+        "vikrayin": [
+            "vikrI 0", 
+            "vikraya"
+        ], 
+        "vilAsin": [
+            "vilAsa 1"
+        ], 
+        "vilaNGin": [
+            "vilaNG"
+        ], 
+        "vilambin": [
+            "vilamba 1", 
+            "vilamb"
+        ], 
+        "vileKin": [
+            "vileKa", 
+            "vileKA"
+        ], 
+        "vilokin": [
+            "viloka", 
+            "vilok"
+        ], 
+        "vilopin": [
+            "vilopa"
+        ], 
+        "vimAnin": [
+            "vimAna"
+        ], 
+        "vimardin": [
+            "vimarda"
+        ], 
+        "vimohin": [
+            "vimoha", 
+            "vimohA"
+        ], 
+        "vimokzin": [
+            "vimokza", 
+            "vimokz"
+        ], 
+        "vinASin": [
+            "vinASa"
+        ], 
+        "vinardin": [
+            "vinard"
+        ], 
+        "vinipAtin": [
+            "vinipAta"
+        ], 
+        "vinodin": [
+            "vinoda"
+        ], 
+        "vipAkin": [
+            "vipAka"
+        ], 
+        "vipaRin": [
+            "vipaRa 1"
+        ], 
+        "vipalAyin": [
+            "vipalAy"
+        ], 
+        "viqBedin": [
+            "viqBeda"
+        ], 
+        "virARin": [
+            "raR 0"
+        ], 
+        "virAgin": [
+            "virAga"
+        ], 
+        "virUpin": [
+            "virUpa 1", 
+            "virUpA", 
+            "virUpI"
+        ], 
+        "virahin": [
+            "viraha 1", 
+            "virah"
+        ], 
+        "virapSin": [
+            "virapSa", 
+            "virapS"
+        ], 
+        "virizwin": [
+            "virizwa"
+        ], 
+        "viroDin": [
+            "ruD 0", 
+            "viroDa", 
+            "viroDi", 
+            "viroDI"
+        ], 
+        "virohin": [
+            "viroha"
+        ], 
+        "visArin": [
+            "visAra"
+        ], 
+        "visPArin": [
+            "visPAra"
+        ], 
+        "visaMvAdin": [
+            "visaMvAda 1"
+        ], 
+        "visargin": [
+            "visarga"
+        ], 
+        "visarpin": [
+            "visarpa", 
+            "visarpi"
+        ], 
+        "visraMsin": [
+            "visraMsa", 
+            "visraMs"
+        ], 
+        "visramBin": [
+            "visramBa", 
+            "visramB"
+        ], 
+        "vistArin": [
+            "vistAra", 
+            "vistArA"
+        ], 
+        "vivAdin": [
+            "vivAda 1", 
+            "vivAdI"
+        ], 
+        "vivarDin": [
+            "vivarD"
+        ], 
+        "vivartin": [
+            "vivarta"
+        ], 
+        "vivekin": [
+            "viveka 1"
+        ], 
+        "viwaNkin": [
+            "viwaNka"
+        ], 
+        "viwapin": [
+            "viwapa 1", 
+            "viwapI"
+        ], 
+        "viyogin": [
+            "viyoga 1"
+        ], 
+        "vizARin": [
+            "vizARa 1", 
+            "vizARI"
+        ], 
+        "vizAdin": [
+            "vizAda 1"
+        ], 
+        "vizaGAtin": [
+            "vizaGAta"
+        ], 
+        "vizayin": [
+            "vizaya 1", 
+            "vizayi", 
+            "vizayI"
+        ], 
+        "vizin": [
+            "viza", 
+            "vizA", 
+            "viz"
+        ], 
+        "vizwamBin": [
+            "vizwamBa", 
+            "vizwamB"
+        ], 
+        "vizyandin": [
+            "vizyanda", 
+            "vizyand"
+        ], 
+        "vraRin": [
+            "vraRa", 
+            "vraR"
+        ], 
+        "vrajin": [
+            "vraj 0", 
+            "vraja", 
+            "vraji"
+        ], 
+        "vratin": [
+            "vrata 1", 
+            "vratI"
+        ], 
+        "vyAhArin": [
+            "vyAhAra"
+        ], 
+        "vyAjin": [
+            "vyAja", 
+            "vyAjI"
+        ], 
+        "vyAlambin": [
+            "vyAlamba", 
+            "vyAlamb"
+        ], 
+        "vyAlin": [
+            "vyAla", 
+            "vyAli", 
+            "vyAlI"
+        ], 
+        "vyApArin": [
+            "vyApAra 0"
+        ], 
+        "vyApin": [
+            "vyApi", 
+            "vyAp"
+        ], 
+        "vyAyAmin": [
+            "vyAyAma"
+        ], 
+        "vyaBicArin": [
+            "vyaBicAra 1", 
+            "vyaBicAri", 
+            "vyaBicArI"
+        ], 
+        "vyapadeSin": [
+            "vyapadeSa"
+        ], 
+        "vyapekzin": [
+            "vyapekza", 
+            "vyapekzA", 
+            "vyapekz"
+        ], 
+        "vyasanin": [
+            "vyasana 1", 
+            "vyasani"
+        ], 
+        "vyatirekin": [
+            "vyatireka 1", 
+            "vyatireki"
+        ], 
+        "vyavAyin": [
+            "vyavAya 1"
+        ], 
+        "vyavacCedin": [
+            "vyavacCeda"
+        ], 
+        "vyavahArin": [
+            "vyavahAra"
+        ], 
+        "vyavasAyin": [
+            "vyavasAya 1"
+        ], 
+        "vyayin": [
+            "vyaya 0", 
+            "vyay 0", 
+            "vyayi", 
+            "vyayI"
+        ], 
+        "waNkArin": [
+            "waNakAra 1"
+        ], 
+        "yAjin": [
+            "yAja", 
+            "yAji", 
+            "yAj"
+        ], 
+        "yAyin": [
+            "yAyI"
+        ], 
+        "yaSasvin": [
+            "yaSas 1"
+        ], 
+        "yaTAkAmin": [
+            "yaTAkAma"
+        ], 
+        "yajYin": [
+            "yajYa", 
+            "yajYA"
+        ], 
+        "yajurvedin": [
+            "yajurveda", 
+            "yajurvedI"
+        ], 
+        "yakzmin": [
+            "yakzma 1"
+        ], 
+        "yamin": [
+            "yam 0", 
+            "yama", 
+            "yamA", 
+            "yamI"
+        ], 
+        "yantrin": [
+            "yantra", 
+            "yantr"
+        ], 
+        "yatin": [
+            "yata 1", 
+            "yati", 
+            "yatI", 
+            "yat"
+        ], 
+        "yoDin": [
+            "yoDa"
+        ], 
+        "yogavAhin": [
+            "yogavAha", 
+            "yogavAhI"
+        ], 
+        "yogin": [
+            "yoga", 
+            "yogA", 
+            "yogI"
+        ], 
+        "zWIvin": [
+            "zWIva", 
+            "zWIvi", 
+            "zWIvI", 
+            "zWIv"
+        ], 
+        "zaqaNgin": [
+            "zaqaNga"
+        ], 
+        "zoqaSin": [
+            "zoqaSan 1", 
+            "zoqaSa", 
+            "zoqaSi", 
+            "zoqaSI"
+        ]
+    }
+}

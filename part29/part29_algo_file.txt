@@ -1,0 +1,8921 @@
+{
+    "aka": {
+        "ABAsaka": [
+            "ABAsa"
+        ], 
+        "ABIraka": [
+            "ABIra", 
+            "aBIra"
+        ], 
+        "ABirUpaka": [
+            "aBirUpa 1"
+        ], 
+        "ABraka": [
+            "ABra", 
+            "aBra"
+        ], 
+        "ADAraka": [
+            "ADAra", 
+            "aDAra"
+        ], 
+        "ADikAraka": [
+            "aDikAra"
+        ], 
+        "ADmAnaka": [
+            "ADmAna"
+        ], 
+        "AKowaka": [
+            "AKowa"
+        ], 
+        "AKyAnaka": [
+            "AKyAna"
+        ], 
+        "AKyaka": [
+            "AKya"
+        ], 
+        "APalaka": [
+            "aPala"
+        ], 
+        "AQaka": [
+            "AQa"
+        ], 
+        "ASOcaka": [
+            "ASOca", 
+            "aSOca"
+        ], 
+        "Abrahmaka": [
+            "Abrahma"
+        ], 
+        "AcAryaka": [
+            "AcArya"
+        ], 
+        "AcCAdaka": [
+            "AcCAda"
+        ], 
+        "AcCuritaka": [
+            "AcCurita"
+        ], 
+        "AcamanIyaka": [
+            "AcamanIya"
+        ], 
+        "AdAyaka": [
+            "AdAya"
+        ], 
+        "AdidIpaka": [
+            "AdidIpa"
+        ], 
+        "AdizoqaSacakraka": [
+            "AdizoqaSacakra"
+        ], 
+        "Adyaka": [
+            "Adya", 
+            "adya"
+        ], 
+        "Agataka": [
+            "Agata", 
+            "agata"
+        ], 
+        "AgrahAyaRaka": [
+            "?AgrahAyaRI pOrRamAsyasmin mAseAgrahAyaRa 1"
+        ], 
+        "AgrayaRaka": [
+            "AgrayaRa"
+        ], 
+        "AhavanIyaka": [
+            "AhavanIya"
+        ], 
+        "AhiMsaka": [
+            "ahiMsa"
+        ], 
+        "Ahitaka": [
+            "Ahita", 
+            "ahita"
+        ], 
+        "AhlAdaka": [
+            "AhlAda"
+        ], 
+        "AhvAyaka": [
+            "AhvAya"
+        ], 
+        "AjIvaka": [
+            "AjIva", 
+            "ajIva"
+        ], 
+        "Ajaka": [
+            "ajAnAM 1"
+        ], 
+        "Ajyaka": [
+            "Ajya"
+        ], 
+        "AkAraka": [
+            "AkAra", 
+            "akAra"
+        ], 
+        "Akallaka": [
+            "Akalla"
+        ], 
+        "AkroSaka": [
+            "AkroSa"
+        ], 
+        "Akzepaka": [
+            "Akzepa"
+        ], 
+        "Alaka": [
+            "Ala", 
+            "ala"
+        ], 
+        "Alaktaka": [
+            "alakta"
+        ], 
+        "Alasyaka": [
+            "Alasya"
+        ], 
+        "AlavAlaka": [
+            "AlavAla", 
+            "alavAla"
+        ], 
+        "Amaka": [
+            "Ama", 
+            "ama"
+        ], 
+        "Amalaka": [
+            "Amala", 
+            "amala"
+        ], 
+        "AmalasAraka": [
+            "amalasAra"
+        ], 
+        "Amardaka": [
+            "Amarda"
+        ], 
+        "AmrAtaka": [
+            "AmrAta", 
+            "amrAta"
+        ], 
+        "Amraka": [
+            "Amra", 
+            "amra"
+        ], 
+        "AnDraka": [
+            "AnDra", 
+            "anDra"
+        ], 
+        "Anaka": [
+            "Ana", 
+            "ana"
+        ], 
+        "Anandaka": [
+            "Ananda", 
+            "ananda"
+        ], 
+        "Anftaka": [
+            "Anfta", 
+            "anfta"
+        ], 
+        "ApAdaka": [
+            "ApAda", 
+            "apAda"
+        ], 
+        "ApAnaka": [
+            "ApAna", 
+            "apAna"
+        ], 
+        "ApInaka": [
+            "ApIna"
+        ], 
+        "ApUraka": [
+            "ApUra", 
+            "apUra"
+        ], 
+        "ApyAyaka": [
+            "ApyAya"
+        ], 
+        "ApyAyanaka": [
+            "ApyAyana"
+        ], 
+        "ArADaka": [
+            "ArADa"
+        ], 
+        "ArAzwraka": [
+            "arAzwra"
+        ], 
+        "AraRyaka": [
+            "araRya 1", 
+            "AraRya"
+        ], 
+        "AraRyopalaka": [
+            "AraRyopala"
+        ], 
+        "ArakUwaka": [
+            "ArakUwa"
+        ], 
+        "Araka": [
+            "Ara", 
+            "ara"
+        ], 
+        "Arakzaka": [
+            "Arakza", 
+            "arakza"
+        ], 
+        "AramBaka": [
+            "AramBa"
+        ], 
+        "AranAlaka": [
+            "AranAla"
+        ], 
+        "Arawwaka": [
+            "Arawwa"
+        ], 
+        "Ardaka": [
+            "ArdrA 1"
+        ], 
+        "Ardraka": [
+            "Ardra"
+        ], 
+        "Arevataka": [
+            "Arevata"
+        ], 
+        "AroDaka": [
+            "AroDa", 
+            "aroDa"
+        ], 
+        "Arohaka": [
+            "Aroha"
+        ], 
+        "Aropaka": [
+            "Aropa"
+        ], 
+        "Arowaka": [
+            "Arowa"
+        ], 
+        "Aryaka": [
+            "Arya", 
+            "arya"
+        ], 
+        "Arzaka": [
+            "Arza"
+        ], 
+        "AsPotaka": [
+            "AsPota"
+        ], 
+        "AsPowaka": [
+            "AsPowa"
+        ], 
+        "Ataka": [
+            "Ata", 
+            "ata"
+        ], 
+        "AtmApahAraka": [
+            "AtmApahAra"
+        ], 
+        "Atmaka": [
+            "Atma"
+        ], 
+        "AvAraka": [
+            "AvAra", 
+            "avAra"
+        ], 
+        "AvAsaka": [
+            "AvAsa"
+        ], 
+        "AvaSyaka": [
+            "avaSya 1"
+        ], 
+        "Avartaka": [
+            "Avarta"
+        ], 
+        "Avedaka": [
+            "aveda"
+        ], 
+        "AwarUzaka": [
+            "AwarUza", 
+            "awarUza"
+        ], 
+        "AyuDIyaka": [
+            "AyuDIya"
+        ], 
+        "BARqaka": [
+            "BARqa", 
+            "BaRqa"
+        ], 
+        "BAgaka": [
+            "BAga", 
+            "Baga"
+        ], 
+        "BAjanaka": [
+            "BAjana", 
+            "Bajana"
+        ], 
+        "BAllAtaka": [
+            "BallAta"
+        ], 
+        "BAraka": [
+            "BAra", 
+            "Bara 0"
+        ], 
+        "BAsaka": [
+            "BAsa"
+        ], 
+        "BAvaboDaka": [
+            "BAvaboDa"
+        ], 
+        "BAwaka": [
+            "BAwa", 
+            "Bawa"
+        ], 
+        "BAzaka": [
+            "BAza", 
+            "Baza"
+        ], 
+        "BImaka": [
+            "BIma"
+        ], 
+        "BImasenaka": [
+            "BImasena"
+        ], 
+        "BIzaRaka": [
+            "BIzaRa"
+        ], 
+        "BIzmaka": [
+            "BIzma"
+        ], 
+        "BUkadambaka": [
+            "BUkadamba"
+        ], 
+        "BUkarbudAraka": [
+            "BUkarbudAra"
+        ], 
+        "BUmikadambaka": [
+            "BUmikadamba"
+        ], 
+        "BUtavfkzaka": [
+            "BUtavfkza"
+        ], 
+        "BaRqaka": [
+            "BaRq 1", 
+            "BaRqa"
+        ], 
+        "BaYjanaka": [
+            "BaYjana"
+        ], 
+        "Badraka": [
+            "Badra"
+        ], 
+        "BadrakaRwaka": [
+            "BadrakaRwa"
+        ], 
+        "BadrakarRaka": [
+            "BadrakarRa"
+        ], 
+        "Badramustaka": [
+            "Badramusta"
+        ], 
+        "BadrapIWaka": [
+            "BadrapIWa"
+        ], 
+        "Badrasenaka": [
+            "Badrasena"
+        ], 
+        "Baktaka": [
+            "Bakta"
+        ], 
+        "Bakzaka": [
+            "Bakza"
+        ], 
+        "BallAtaka": [
+            "BallAta"
+        ], 
+        "Ballaka": [
+            "Balla"
+        ], 
+        "Baratarohaka": [
+            "Barataroha"
+        ], 
+        "BasmagAtraka": [
+            "BasmagAtra"
+        ], 
+        "Basmaka": [
+            "Basma"
+        ], 
+        "BasmasUtaka": [
+            "BasmasUta"
+        ], 
+        "BawwAraka": [
+            "BawwAra"
+        ], 
+        "Bazaka": [
+            "Baza"
+        ], 
+        "Bedaka": [
+            "Beda"
+        ], 
+        "BfNgaka": [
+            "BfNga"
+        ], 
+        "BfNgarAjaka": [
+            "BfNgarAja"
+        ], 
+        "BfgukacCaka": [
+            "BfgukacCa"
+        ], 
+        "Bftaka": [
+            "Bfta"
+        ], 
+        "Bftyaka": [
+            "Bftya"
+        ], 
+        "BiRqaka": [
+            "BiRqa"
+        ], 
+        "Billowaka": [
+            "Billowa"
+        ], 
+        "Bojaka": [
+            "Boja"
+        ], 
+        "BrAjaka": [
+            "BrAja", 
+            "Braja 0"
+        ], 
+        "BrAmaka": [
+            "BrAma", 
+            "Brama"
+        ], 
+        "Bugnaka": [
+            "Bugna"
+        ], 
+        "BujaNgaka": [
+            "BujaNga"
+        ], 
+        "Buktaka": [
+            "Bukta"
+        ], 
+        "CARaka": [
+            "CARa"
+        ], 
+        "CAdaka": [
+            "CAda", 
+            "Cada"
+        ], 
+        "CAgalaka": [
+            "CAgala", 
+            "Cagala"
+        ], 
+        "CAttraka": [
+            "CAttra", 
+            "Cattra"
+        ], 
+        "CagaRaka": [
+            "CagaRa"
+        ], 
+        "Candaka": [
+            "Canda"
+        ], 
+        "Cattraka": [
+            "Cattra"
+        ], 
+        "Cedaka": [
+            "Ceda 0"
+        ], 
+        "Cidraka": [
+            "Cidra 0"
+        ], 
+        "Cinnaka": [
+            "Cinna 0"
+        ], 
+        "Cowanaka": [
+            "Cowana"
+        ], 
+        "DAnaka": [
+            "DAna", 
+            "Dana"
+        ], 
+        "DAneyaka": [
+            "DAneya", 
+            "Daneya"
+        ], 
+        "DAnyABraka": [
+            "DAnyABra"
+        ], 
+        "DAnyAmlaka": [
+            "DAnyAmla"
+        ], 
+        "DAnyaka": [
+            "DAnya", 
+            "Danya"
+        ], 
+        "DArAPalaka": [
+            "DArAPala"
+        ], 
+        "DArAkadambaka": [
+            "DArAkadamba", 
+            "DarAkadamba"
+        ], 
+        "DAraRaka": [
+            "DAraRa 1", 
+            "DaraRa"
+        ], 
+        "DAraka": [
+            "DAra", 
+            "Dara"
+        ], 
+        "DOreyaka": [
+            "DOreya"
+        ], 
+        "DOritaka": [
+            "Dorita 1"
+        ], 
+        "DOrtaka": [
+            "Durta 1"
+        ], 
+        "DOtamUlaka": [
+            "DOtamUla"
+        ], 
+        "DOtasattvaka": [
+            "DOtasattva"
+        ], 
+        "DUmaka": [
+            "DUma"
+        ], 
+        "DUmasAraka": [
+            "DUmasAra"
+        ], 
+        "DUmravarRaka": [
+            "DUmravarRa"
+        ], 
+        "DUpaka": [
+            "DUpa"
+        ], 
+        "DUrtaka": [
+            "DUrta 1"
+        ], 
+        "Danaka": [
+            "Dana 1"
+        ], 
+        "Danarakzaka": [
+            "Danarakza"
+        ], 
+        "Danvaka": [
+            "Danva"
+        ], 
+        "DanvayAsaka": [
+            "DanvayAsa"
+        ], 
+        "DanvayavAsaka": [
+            "DanvayavAsa"
+        ], 
+        "Darmaka": [
+            "Darma"
+        ], 
+        "DattUraka": [
+            "DattUra 1"
+        ], 
+        "Druvaka": [
+            "Druva 1"
+        ], 
+        "DuttUraka": [
+            "DuttUra"
+        ], 
+        "DvaMsaka": [
+            "DvaMsa"
+        ], 
+        "DyAmaka": [
+            "DyAma"
+        ], 
+        "ENgudaka": [
+            "ENguda", 
+            "iNguda"
+        ], 
+        "Eleyaka": [
+            "Eleya"
+        ], 
+        "Endraka": [
+            "Endra", 
+            "indra"
+        ], 
+        "Endriyaka": [
+            "indriya 1", 
+            "Endriya"
+        ], 
+        "Eqaka": [
+            "Eqa", 
+            "eqa", 
+            "iqa", 
+            "Iqa"
+        ], 
+        "ErAvataka": [
+            "ErAvata"
+        ], 
+        "Ezwaka": [
+            "ezwa 0", 
+            "izwa"
+        ], 
+        "GAtaka": [
+            "GAta"
+        ], 
+        "GaRwaka": [
+            "GaRwa"
+        ], 
+        "GanasAraka": [
+            "GanasAra"
+        ], 
+        "Garzaka": [
+            "Garza"
+        ], 
+        "Gawaka": [
+            "Gawa"
+        ], 
+        "Gawwaka": [
+            "Gawwa"
+        ], 
+        "Gawwitaka": [
+            "Gawwita"
+        ], 
+        "GftapUrRaka": [
+            "GftapUrRa"
+        ], 
+        "GftaparRaka": [
+            "GftaparRa"
+        ], 
+        "Gftodaka": [
+            "Gftoda"
+        ], 
+        "Goraka": [
+            "Gora"
+        ], 
+        "Gowaka": [
+            "Gowa"
+        ], 
+        "Gozaka": [
+            "Goza"
+        ], 
+        "GurGuraka": [
+            "GurGura"
+        ], 
+        "ISAnaka": [
+            "ISAna"
+        ], 
+        "IdfSaka": [
+            "IdfSa"
+        ], 
+        "Ihaka": [
+            "Iha"
+        ], 
+        "Irzyaka": [
+            "Irzya"
+        ], 
+        "Jazaka": [
+            "Jaza"
+        ], 
+        "KAdaka": [
+            "KAda"
+        ], 
+        "KAdyaka": [
+            "KAdya"
+        ], 
+        "KAtaka": [
+            "KAta"
+        ], 
+        "KaRqABraka": [
+            "KaRqABra"
+        ], 
+        "KaRqaka": [
+            "KaRqa"
+        ], 
+        "KaYjarIwaka": [
+            "KaYjarIwa"
+        ], 
+        "Kadyotaka": [
+            "Kadyota"
+        ], 
+        "Kalaka": [
+            "Kala"
+        ], 
+        "Kalvaka": [
+            "Kalva"
+        ], 
+        "Kanaka": [
+            "Kana"
+        ], 
+        "Karapattraka": [
+            "Karapattra"
+        ], 
+        "KarjUraka": [
+            "KarjUra"
+        ], 
+        "KarparItutTaka": [
+            "KarparItutTa"
+        ], 
+        "Kewaka": [
+            "Kewa"
+        ], 
+        "Koraka": [
+            "Kora"
+        ], 
+        "Kowaka": [
+            "Kowa"
+        ], 
+        "Kuqaka": [
+            "Kuqa"
+        ], 
+        "Kuraka": [
+            "Kura"
+        ], 
+        "Odaka": [
+            "uda"
+        ], 
+        "OddAlaka": [
+            "OddAla", 
+            "uddAla"
+        ], 
+        "Ojjayanaka": [
+            "ujjayana"
+        ], 
+        "Okzaka": [
+            "ukzan 1"
+        ], 
+        "OpADyAyaka": [
+            "upADyAya 1"
+        ], 
+        "Oparizwaka": [
+            "Oparizwa", 
+            "uparizwa"
+        ], 
+        "OrRaka": [
+            "UrRa 1"
+        ], 
+        "Orasaka": [
+            "Orasa", 
+            "urasa"
+        ], 
+        "Ozwraka": [
+            "uzwra 1", 
+            "Ozwra"
+        ], 
+        "PAlaka": [
+            "PAla", 
+            "Pala"
+        ], 
+        "PaRijjaka": [
+            "PaRijja"
+        ], 
+        "PalAmlaka": [
+            "PalAmla"
+        ], 
+        "PalaBakzaka": [
+            "PalaBakza"
+        ], 
+        "Palaka": [
+            "Pala"
+        ], 
+        "PalapUraka": [
+            "PalapUra"
+        ], 
+        "PalapaYcAmlaka": [
+            "PalapaYcAmla"
+        ], 
+        "Palavfkzaka": [
+            "Palavfkza"
+        ], 
+        "PawkAraka": [
+            "PawkAra"
+        ], 
+        "Penaka": [
+            "Pena"
+        ], 
+        "SAKowaka": [
+            "SAKowa"
+        ], 
+        "SARaka": [
+            "SARa", 
+            "SaRa"
+        ], 
+        "SAkabilvaka": [
+            "SAkabilva"
+        ], 
+        "SAkunaka": [
+            "SAkuna", 
+            "Sakuna"
+        ], 
+        "SAlaNkAyanaka": [
+            "SAlaNkAyana"
+        ], 
+        "SAlmalIkandaka": [
+            "SAlmalIkanda"
+        ], 
+        "SAlmalIvezwaka": [
+            "SAlmalIvezwa"
+        ], 
+        "SAlmalaka": [
+            "SAlmala", 
+            "Salmala"
+        ], 
+        "SAlvaka": [
+            "SAlva", 
+            "Salva"
+        ], 
+        "SAlveyaka": [
+            "SAlveya"
+        ], 
+        "SAntyudaka": [
+            "SAntyuda"
+        ], 
+        "SArIraka": [
+            "SArIra", 
+            "SarIra"
+        ], 
+        "SArNgaka": [
+            "SArNga"
+        ], 
+        "SAsaka": [
+            "SAsa", 
+            "Sasa"
+        ], 
+        "SAtaka": [
+            "SAta", 
+            "Sata"
+        ], 
+        "SAwaka": [
+            "SAwa", 
+            "Sawa"
+        ], 
+        "SAyaka": [
+            "SAya", 
+            "Saya"
+        ], 
+        "SESupAlaka": [
+            "SESupAla", 
+            "SiSupAla"
+        ], 
+        "SElUzaka": [
+            "SElUza", 
+            "SilUza"
+        ], 
+        "SElaka": [
+            "SIla 0", 
+            "SEla", 
+            "Sila"
+        ], 
+        "SEleyaka": [
+            "SEleya", 
+            "Sileya"
+        ], 
+        "SElodaka": [
+            "SEloda"
+        ], 
+        "SEvAlaka": [
+            "SEvAla", 
+            "SevAla"
+        ], 
+        "SEvalaka": [
+            "SEvala", 
+            "Sevala", 
+            "SIvala"
+        ], 
+        "SIrzaka": [
+            "SIrza"
+        ], 
+        "SItaka": [
+            "SIta"
+        ], 
+        "SItalaka": [
+            "SItala"
+        ], 
+        "SItavIryaka": [
+            "SItavIrya"
+        ], 
+        "SOBAYjanaka": [
+            "SOBAYjana", 
+            "SuBAYjana", 
+            "SoBAYjana"
+        ], 
+        "SOcaka": [
+            "SOca", 
+            "Suca", 
+            "Soca"
+        ], 
+        "SOkteyaka": [
+            "SOkteya"
+        ], 
+        "SOnaka": [
+            "SOna", 
+            "Suna", 
+            "SUna"
+        ], 
+        "SOryaka": [
+            "SOrya"
+        ], 
+        "SUdraka": [
+            "SUdra"
+        ], 
+        "SUlaka": [
+            "SUla"
+        ], 
+        "SUnyaka": [
+            "SUnya"
+        ], 
+        "SUrasenaka": [
+            "SUrasena"
+        ], 
+        "SUrpaka": [
+            "SUrpa"
+        ], 
+        "SaMsaka": [
+            "SaMsa"
+        ], 
+        "SaNKaka": [
+            "SaNKa"
+        ], 
+        "SaSaka": [
+            "SaSa"
+        ], 
+        "Sabdaka": [
+            "Sabda"
+        ], 
+        "SabdaveDaka": [
+            "SabdaveDa"
+        ], 
+        "Saka": [
+            "Sa"
+        ], 
+        "SakranIlaka": [
+            "SakranIla"
+        ], 
+        "Sakuntaka": [
+            "Sakunta 1"
+        ], 
+        "Salaka": [
+            "Sala"
+        ], 
+        "Sallaka": [
+            "Salla"
+        ], 
+        "Salyaka": [
+            "Salya"
+        ], 
+        "SamaWaka": [
+            "SamaWa"
+        ], 
+        "Samaka": [
+            "Sama"
+        ], 
+        "Samanaka": [
+            "Samana"
+        ], 
+        "Sambarakandaka": [
+            "Sambarakanda"
+        ], 
+        "SarIraka": [
+            "SarIra"
+        ], 
+        "Sastraka": [
+            "Sastra"
+        ], 
+        "Sataka": [
+            "Sata"
+        ], 
+        "Sataparvaka": [
+            "Sataparva"
+        ], 
+        "Satapattraka": [
+            "Satapattra"
+        ], 
+        "Sataponaka": [
+            "Satapona"
+        ], 
+        "SataveDaka": [
+            "SataveDa"
+        ], 
+        "SayAnaka": [
+            "SayAna"
+        ], 
+        "Sazpaka": [
+            "Sazpa"
+        ], 
+        "Sezaka": [
+            "Seza"
+        ], 
+        "SfNKalaka": [
+            "SfNKala"
+        ], 
+        "SfNgAraka": [
+            "SfNgAra"
+        ], 
+        "SfNgAwaka": [
+            "SfNgAwa"
+        ], 
+        "SfNgaka": [
+            "SfNga"
+        ], 
+        "SiKaRqaka": [
+            "SiKaRqa"
+        ], 
+        "SiKitraka": [
+            "SiKitra"
+        ], 
+        "SiMSumAraka": [
+            "SiMSumAra"
+        ], 
+        "SiNGARaka": [
+            "SiNGARa"
+        ], 
+        "SiSupAlaka": [
+            "SiSupAla"
+        ], 
+        "SigrumUlaka": [
+            "SigrumUla"
+        ], 
+        "Sikzaka": [
+            "Sikza"
+        ], 
+        "SilAputraka": [
+            "SilAputra"
+        ], 
+        "Silaka": [
+            "Sila"
+        ], 
+        "Silpaka": [
+            "Silpa"
+        ], 
+        "Sipivizwaka": [
+            "Sipivizwa"
+        ], 
+        "SirIzaka": [
+            "SirIza"
+        ], 
+        "SitivAraka": [
+            "SitivAra"
+        ], 
+        "Sizyaka": [
+            "Sizya"
+        ], 
+        "SlAGanaka": [
+            "SlAGana"
+        ], 
+        "SlakzRaka": [
+            "SlakzRa"
+        ], 
+        "Slezaka": [
+            "Sleza"
+        ], 
+        "SlezmAntaka": [
+            "SlezmAnta"
+        ], 
+        "SlezmAtaka": [
+            "SlezmAta"
+        ], 
+        "Slezmaka": [
+            "Slezma"
+        ], 
+        "SoBAYjanaka": [
+            "SoBAYjana"
+        ], 
+        "SoDaka": [
+            "SoDa"
+        ], 
+        "SoDanaka": [
+            "SoDana"
+        ], 
+        "SoRaka": [
+            "SoRa"
+        ], 
+        "SozaRaka": [
+            "SozaRa"
+        ], 
+        "Sozaka": [
+            "Soza"
+        ], 
+        "SrAvaRaka": [
+            "SrAvaRa", 
+            "SravaRa"
+        ], 
+        "SrAvastaka": [
+            "SrAvasta"
+        ], 
+        "SrInivAsaka": [
+            "SrInivAsa"
+        ], 
+        "SrIprasUnaka": [
+            "SrIprasUna"
+        ], 
+        "SrIvAsaka": [
+            "SrIvAsa"
+        ], 
+        "SrIvezwaka": [
+            "SrIvezwa"
+        ], 
+        "SramaRaka": [
+            "SramaRa"
+        ], 
+        "SravizWaka": [
+            "SravizWa"
+        ], 
+        "SroRiPalaka": [
+            "SroRiPala"
+        ], 
+        "Srotavyaka": [
+            "Srotavya"
+        ], 
+        "SuBraka": [
+            "SuBra"
+        ], 
+        "SuNgaka": [
+            "SuNga"
+        ], 
+        "SuRqaka": [
+            "SuRq 1"
+        ], 
+        "SudDaSukraka": [
+            "SudDaSukra"
+        ], 
+        "SukapucCaka": [
+            "SukapucCa"
+        ], 
+        "SukatuRqaka": [
+            "SukatuRqa"
+        ], 
+        "Suklapuzpaka": [
+            "Suklapuzpa"
+        ], 
+        "Suklavargaka": [
+            "Suklavarga"
+        ], 
+        "Sukraka": [
+            "Sukra"
+        ], 
+        "Suktaka": [
+            "Sukta"
+        ], 
+        "Sulbaka": [
+            "Sulba"
+        ], 
+        "Sulvaka": [
+            "Sulva"
+        ], 
+        "Sunaka": [
+            "Suna"
+        ], 
+        "Suzkaka": [
+            "Suzka"
+        ], 
+        "SvAnaka": [
+            "SvAna"
+        ], 
+        "SvEtaka": [
+            "SvEta", 
+            "Sveta", 
+            "Svita"
+        ], 
+        "SvadaMzwraka": [
+            "SvadaMzwra"
+        ], 
+        "SvapucCaka": [
+            "SvapucCa"
+        ], 
+        "SvetaSUraRaka": [
+            "SvetaSUraRa"
+        ], 
+        "Svetaka": [
+            "Sveta"
+        ], 
+        "SvetamUlaka": [
+            "SvetamUla"
+        ], 
+        "SvetamandAraka": [
+            "SvetamandAra"
+        ], 
+        "SvetapAzARaka": [
+            "SvetapAzARa"
+        ], 
+        "Svetaporaka": [
+            "Svetapora"
+        ], 
+        "Svetapuzpaka": [
+            "Svetapuzpa"
+        ], 
+        "SyAmaka": [
+            "SyAma"
+        ], 
+        "SyAmasAraka": [
+            "SyAmasAra"
+        ], 
+        "SyAvadantaka": [
+            "SyAvadanta"
+        ], 
+        "Syenaka": [
+            "Syena"
+        ], 
+        "UkAraka": [
+            "UkAra"
+        ], 
+        "UrDvaka": [
+            "UrDva"
+        ], 
+        "UrDvapAtanaka": [
+            "UrDvapAtana"
+        ], 
+        "UrDvapAtanayantraka": [
+            "UrDvapAtanayantra"
+        ], 
+        "UrRaka": [
+            "UrRa"
+        ], 
+        "Uzaka": [
+            "Uza"
+        ], 
+        "Uzmaka": [
+            "Uzma"
+        ], 
+        "aBadraka": [
+            "aBadra"
+        ], 
+        "aBiDAnaka": [
+            "aBiDAna"
+        ], 
+        "aBiDAyaka": [
+            "aBiDAya"
+        ], 
+        "aBiGAtaka": [
+            "aBiGAta"
+        ], 
+        "aBiSaptaka": [
+            "aBiSapta"
+        ], 
+        "aBiSastaka": [
+            "aBiSasta"
+        ], 
+        "aBicAraka": [
+            "aBicAra"
+        ], 
+        "aBimarSaka": [
+            "aBimarSa"
+        ], 
+        "aBimarzaka": [
+            "aBimarza"
+        ], 
+        "aBiniveSaka": [
+            "aBiniveSa"
+        ], 
+        "aBivAdaka": [
+            "aBivAda"
+        ], 
+        "aBraKaRqaka": [
+            "aBraKaRqa"
+        ], 
+        "aBraka": [
+            "aBra"
+        ], 
+        "aByasUyaka": [
+            "aByasUya"
+        ], 
+        "aByupAyaka": [
+            "aByupAya"
+        ], 
+        "aDUmaka": [
+            "aDUma"
+        ], 
+        "aDaHpAtanaka": [
+            "aDaHpAtana"
+        ], 
+        "aDaHpAtanayantraka": [
+            "aDaHpAtanayantra"
+        ], 
+        "aDidantaka": [
+            "aDidanta"
+        ], 
+        "aDimAMsaka": [
+            "aDimAMsa"
+        ], 
+        "aDimAsaka": [
+            "aDimAsa"
+        ], 
+        "aDityaka": [
+            "tyakan 1"
+        ], 
+        "aDyAyaka": [
+            "aDyAya"
+        ], 
+        "aDyavasAyaka": [
+            "aDyavasAya"
+        ], 
+        "aMSaka": [
+            "aMSa"
+        ], 
+        "aMsaka": [
+            "aMsa 0"
+        ], 
+        "aNgAraka": [
+            "aNgAra"
+        ], 
+        "aNgAraparRaka": [
+            "aNgAraparRa"
+        ], 
+        "aNgaka": [
+            "aNga"
+        ], 
+        "aNgamardaka": [
+            "aNgamarda"
+        ], 
+        "aNgulISastraka": [
+            "aNgulISastra"
+        ], 
+        "aNgulIyaka": [
+            "aNgulIya"
+        ], 
+        "aNgulaka": [
+            "aNgula"
+        ], 
+        "aNguzWaka": [
+            "aNguzWa"
+        ], 
+        "aNkolaka": [
+            "aNkola"
+        ], 
+        "aNkollaka": [
+            "aNkolla"
+        ], 
+        "aPalaka": [
+            "aPala"
+        ], 
+        "aPenaka": [
+            "aPena"
+        ], 
+        "aRqaka": [
+            "aRqa"
+        ], 
+        "aSOcaka": [
+            "aSOca"
+        ], 
+        "aSarIraka": [
+            "aSarIra"
+        ], 
+        "aSmaBedaka": [
+            "aSmaBeda"
+        ], 
+        "aSmaka": [
+            "aSma"
+        ], 
+        "aSmakuwwaka": [
+            "aSmakuwwa"
+        ], 
+        "aSmantaka": [
+            "aSmanta"
+        ], 
+        "aSmapuzpaka": [
+            "aSmapuzpa"
+        ], 
+        "aSvaka": [
+            "aSva"
+        ], 
+        "aSvakarRaka": [
+            "aSvakarRa"
+        ], 
+        "aSvamAraka": [
+            "aSvamAra"
+        ], 
+        "aSvaroDaka": [
+            "aSvaroDa"
+        ], 
+        "aYjanaka": [
+            "aYjana"
+        ], 
+        "abDiPenaka": [
+            "abDiPena"
+        ], 
+        "abIjaka": [
+            "abIja"
+        ], 
+        "abdaka": [
+            "abda"
+        ], 
+        "acCodaka": [
+            "acCoda"
+        ], 
+        "acittaka": [
+            "acitta"
+        ], 
+        "advAraka": [
+            "advAra"
+        ], 
+        "adyaka": [
+            "adya"
+        ], 
+        "agAraka": [
+            "agAra"
+        ], 
+        "agarBaka": [
+            "agarBa"
+        ], 
+        "agnijAraka": [
+            "agnijAra"
+        ], 
+        "agnijihvaka": [
+            "agnijihva"
+        ], 
+        "agnikumAraka": [
+            "agnikumAra"
+        ], 
+        "agnimanTaka": [
+            "agnimanTa"
+        ], 
+        "agnizwaka": [
+            "agnizwa"
+        ], 
+        "agrAhyaka": [
+            "agrAhya"
+        ], 
+        "agraka": [
+            "agra"
+        ], 
+        "ahInaka": [
+            "ahIna"
+        ], 
+        "ahaka": [
+            "aha"
+        ], 
+        "ahiMsaka": [
+            "ahiMsa"
+        ], 
+        "ahiPenaka": [
+            "ahiPena"
+        ], 
+        "ahimAraka": [
+            "ahimAra"
+        ], 
+        "ahimedaka": [
+            "ahimeda"
+        ], 
+        "ajAtaka": [
+            "ajAta"
+        ], 
+        "ajIrRaka": [
+            "ajIrRa"
+        ], 
+        "ajYAnaka": [
+            "ajYAna"
+        ], 
+        "ajaka": [
+            "aja"
+        ], 
+        "ajakarRaka": [
+            "ajakarRa"
+        ], 
+        "ajamodaka": [
+            "ajamoda"
+        ], 
+        "ajanaka": [
+            "ajana"
+        ], 
+        "akAraRaka": [
+            "akAraRa"
+        ], 
+        "akAraka": [
+            "akAra"
+        ], 
+        "akAryaka": [
+            "akArya"
+        ], 
+        "akUwaka": [
+            "akUwa"
+        ], 
+        "aka": [
+            "a"
+        ], 
+        "akanizWaka": [
+            "akanizWa"
+        ], 
+        "akaraRaka": [
+            "akaraRa"
+        ], 
+        "akarmaka": [
+            "akarma"
+        ], 
+        "akftAstraka": [
+            "akftAstra"
+        ], 
+        "akftaka": [
+            "akfta"
+        ], 
+        "akriyaka": [
+            "akriya"
+        ], 
+        "aktaka": [
+            "akta"
+        ], 
+        "akuhaka": [
+            "akuha"
+        ], 
+        "akulaka": [
+            "akula"
+        ], 
+        "akzaka": [
+            "akza"
+        ], 
+        "alaMkAraka": [
+            "alaMkAra"
+        ], 
+        "alaka": [
+            "ala"
+        ], 
+        "alaktaka": [
+            "alakta"
+        ], 
+        "alarkaka": [
+            "alarka"
+        ], 
+        "alasaka": [
+            "alasa"
+        ], 
+        "alepaka": [
+            "alepa"
+        ], 
+        "alindaka": [
+            "alinda"
+        ], 
+        "alpaka": [
+            "alpa 1"
+        ], 
+        "amAraka": [
+            "amAra"
+        ], 
+        "amalasAraka": [
+            "amalasAra"
+        ], 
+        "amandaka": [
+            "amanda"
+        ], 
+        "amantraka": [
+            "amantra"
+        ], 
+        "amarakaRwaka": [
+            "amarakaRwa"
+        ], 
+        "ambaka": [
+            "amba"
+        ], 
+        "ambarIzaka": [
+            "ambarIza"
+        ], 
+        "ambazWaka": [
+            "ambazWa"
+        ], 
+        "ambikeyaka": [
+            "ambikA 1"
+        ], 
+        "ambujaka": [
+            "ambuja"
+        ], 
+        "amfRAlaka": [
+            "amfRAla"
+        ], 
+        "amftaka": [
+            "amfta"
+        ], 
+        "amiSraka": [
+            "amiSra"
+        ], 
+        "amitraka": [
+            "amitra"
+        ], 
+        "amlAnaka": [
+            "amlAna"
+        ], 
+        "amlajambIraka": [
+            "amlajambIra"
+        ], 
+        "amlaka": [
+            "amla"
+        ], 
+        "amlapattraka": [
+            "amlapattra"
+        ], 
+        "amlapittaka": [
+            "amlapitta"
+        ], 
+        "amlasAraka": [
+            "amlasAra"
+        ], 
+        "amlavargaka": [
+            "amlavarga"
+        ], 
+        "amlavetasaka": [
+            "amlavetasa"
+        ], 
+        "amrAtaka": [
+            "amrAta"
+        ], 
+        "anASaka": [
+            "anASa"
+        ], 
+        "anATaka": [
+            "anATa"
+        ], 
+        "anAmaka": [
+            "anAma"
+        ], 
+        "anAramBaka": [
+            "anAramBa"
+        ], 
+        "anAryaka": [
+            "anArya"
+        ], 
+        "anAtmaka": [
+            "anAtma"
+        ], 
+        "anAvartaka": [
+            "anAvarta"
+        ], 
+        "anDakAraka": [
+            "anDakAra"
+        ], 
+        "anDaka": [
+            "anDa 1"
+        ], 
+        "anDraka": [
+            "anDra"
+        ], 
+        "anIcaka": [
+            "anIca"
+        ], 
+        "anIhaka": [
+            "anIha"
+        ], 
+        "analaka": [
+            "anala"
+        ], 
+        "analpaka": [
+            "analpa"
+        ], 
+        "anantaka": [
+            "ananta"
+        ], 
+        "anapArTaka": [
+            "anapArTa"
+        ], 
+        "anapekzaka": [
+            "anapekza"
+        ], 
+        "anarTaka": [
+            "anarTa"
+        ], 
+        "anasUyaka": [
+            "anasUya"
+        ], 
+        "anavekzaka": [
+            "anavekza"
+        ], 
+        "aneqaka": [
+            "aneqa"
+        ], 
+        "anilaGnaka": [
+            "anilaGna"
+        ], 
+        "anindraka": [
+            "anindra"
+        ], 
+        "anirudDaka": [
+            "anirudDa"
+        ], 
+        "annaprASanaka": [
+            "annaprASana"
+        ], 
+        "antaka": [
+            "anta"
+        ], 
+        "antarAlaka": [
+            "antarAla"
+        ], 
+        "antarAyaka": [
+            "antarAya"
+        ], 
+        "antarikzaka": [
+            "antarikza"
+        ], 
+        "antraka": [
+            "antra"
+        ], 
+        "anudaka": [
+            "anuda"
+        ], 
+        "anudarSaka": [
+            "anudarSa"
+        ], 
+        "anudeSaka": [
+            "anudeSa"
+        ], 
+        "anugrahaka": [
+            "anugraha"
+        ], 
+        "anukAraka": [
+            "anukAra"
+        ], 
+        "anukarzaka": [
+            "anukarza"
+        ], 
+        "anulomaka": [
+            "anuloma"
+        ], 
+        "anupAnaka": [
+            "anupAna"
+        ], 
+        "anupAtaka": [
+            "anupAta"
+        ], 
+        "anupAyaka": [
+            "anupAya"
+        ], 
+        "anupUrvaka": [
+            "anupUrva"
+        ], 
+        "anupaDAnaka": [
+            "anupaDAna"
+        ], 
+        "anupaGAtaka": [
+            "anupaGAta"
+        ], 
+        "anupraveSaka": [
+            "anupraveSa"
+        ], 
+        "anurADaka": [
+            "anurADa"
+        ], 
+        "anuroDaka": [
+            "anuroDa"
+        ], 
+        "anusAraka": [
+            "anusAra"
+        ], 
+        "anusaMDAnaka": [
+            "anusaMDAna"
+        ], 
+        "anuvindaka": [
+            "anuvinda"
+        ], 
+        "anvADeyaka": [
+            "A 1", 
+            "anvADeya"
+        ], 
+        "anvAhAryaka": [
+            "anvAhArya"
+        ], 
+        "anvezaka": [
+            "anveza"
+        ], 
+        "anyaka": [
+            "anya"
+        ], 
+        "anyaliNgaka": [
+            "anyaliNga"
+        ], 
+        "anyatamaka": [
+            "anyatama"
+        ], 
+        "apAdaka": [
+            "apAda"
+        ], 
+        "apAmArgaka": [
+            "apAmArga"
+        ], 
+        "apAnaka": [
+            "apAna"
+        ], 
+        "apArTaka": [
+            "apArTa"
+        ], 
+        "apAtraka": [
+            "apAtra"
+        ], 
+        "apUpaka": [
+            "apUpa"
+        ], 
+        "apaGAtaka": [
+            "apaGAta"
+        ], 
+        "apahAraka": [
+            "apahAra"
+        ], 
+        "apahastaka": [
+            "apahasta"
+        ], 
+        "apakAraka": [
+            "apakAra"
+        ], 
+        "apakzaka": [
+            "apakza"
+        ], 
+        "apanodaka": [
+            "apanoda"
+        ], 
+        "aparADaka": [
+            "aparADa"
+        ], 
+        "aparAhRaka": [
+            "aparAhRa"
+        ], 
+        "aparAntaka": [
+            "aparAnta"
+        ], 
+        "apararAtraka": [
+            "apararAtra"
+        ], 
+        "apasAraka": [
+            "apasAra"
+        ], 
+        "apatAnaka": [
+            "apatAna"
+        ], 
+        "apatantraka": [
+            "apatantra"
+        ], 
+        "apatyajIvaka": [
+            "apatyajIva"
+        ], 
+        "apavAdaka": [
+            "apavAda"
+        ], 
+        "apavartaka": [
+            "apavarta"
+        ], 
+        "apekzaka": [
+            "apekza"
+        ], 
+        "aprakASaka": [
+            "aprakASa"
+        ], 
+        "aprakftaka": [
+            "aprakfta"
+        ], 
+        "apramARaka": [
+            "apramARa"
+        ], 
+        "aprasAdaka": [
+            "aprasAda"
+        ], 
+        "apratiGAtaka": [
+            "apratiGAta"
+        ], 
+        "apratibudDaka": [
+            "apratibudDa"
+        ], 
+        "aputraka": [
+            "aputra"
+        ], 
+        "arAjaka": [
+            "arAja"
+        ], 
+        "arBaka": [
+            "arBa"
+        ], 
+        "arDAvaBedaka": [
+            "arDAvaBeda"
+        ], 
+        "arDaBedaka": [
+            "arDaBeda"
+        ], 
+        "arDacandraka": [
+            "arDacandra"
+        ], 
+        "arDaka": [
+            "arDa"
+        ], 
+        "arDalANgalaka": [
+            "arDalANgala"
+        ], 
+        "arDarAtraka": [
+            "arDarAtra"
+        ], 
+        "arDeBaka": [
+            "arDeBa"
+        ], 
+        "arRaka": [
+            "arRa"
+        ], 
+        "arSaHkuWAraka": [
+            "arSaHkuWAra"
+        ], 
+        "arTaSAstraka": [
+            "arTaSAstra"
+        ], 
+        "arTaka": [
+            "arTa"
+        ], 
+        "arTasidDaka": [
+            "arTasidDa"
+        ], 
+        "araRyaka": [
+            "araRya"
+        ], 
+        "arakzaka": [
+            "arakza"
+        ], 
+        "arbudaka": [
+            "arbuda"
+        ], 
+        "arcaka": [
+            "arca"
+        ], 
+        "arhaka": [
+            "arha"
+        ], 
+        "arimedaka": [
+            "arimeda"
+        ], 
+        "arizwaka": [
+            "arizwa"
+        ], 
+        "arjunaka": [
+            "arjuna"
+        ], 
+        "arkaka": [
+            "arka"
+        ], 
+        "arocaka": [
+            "aroca"
+        ], 
+        "asADyaka": [
+            "asADya"
+        ], 
+        "asTisaMhAraka": [
+            "asTisaMhAra"
+        ], 
+        "asUyaka": [
+            "asUya"
+        ], 
+        "asaMKyaka": [
+            "asaMKya"
+        ], 
+        "asaMjYaka": [
+            "asaMjYa"
+        ], 
+        "asaMvyavahAraka": [
+            "asaMvyavahAra"
+        ], 
+        "asanaka": [
+            "asana"
+        ], 
+        "asipattraka": [
+            "asipattra"
+        ], 
+        "asnAtaka": [
+            "asnAta"
+        ], 
+        "asraka": [
+            "asra"
+        ], 
+        "astaka": [
+            "asta"
+        ], 
+        "astraka": [
+            "astra"
+        ], 
+        "atIsAraka": [
+            "atIsAra"
+        ], 
+        "atiCattraka": [
+            "atiCattra"
+        ], 
+        "atiganDaka": [
+            "atiganDa"
+        ], 
+        "atihrasvaka": [
+            "atihrasva"
+        ], 
+        "atikAyaka": [
+            "atikAya"
+        ], 
+        "atikfcCraka": [
+            "atikfcCra"
+        ], 
+        "atikrAntaka": [
+            "atikrAnta"
+        ], 
+        "atimAtraka": [
+            "atimAtra"
+        ], 
+        "atimuktaka": [
+            "atimukta"
+        ], 
+        "atipAtaka": [
+            "atipAta"
+        ], 
+        "atipattraka": [
+            "atipattra"
+        ], 
+        "atisAraka": [
+            "atisAra"
+        ], 
+        "ativfdDaka": [
+            "ativfdDa"
+        ], 
+        "atyamlaka": [
+            "atyamla"
+        ], 
+        "atyuccaka": [
+            "atyucca"
+        ], 
+        "avAcaka": [
+            "avAca"
+        ], 
+        "avApaka": [
+            "avApa"
+        ], 
+        "avItaka": [
+            "avIta"
+        ], 
+        "avaBAsaka": [
+            "avaBAsa"
+        ], 
+        "avaBfTaka": [
+            "avaBfTa"
+        ], 
+        "avaDAraka": [
+            "avaDAra"
+        ], 
+        "avaSezaka": [
+            "avaSeza"
+        ], 
+        "avaSizwaka": [
+            "avaSizwa"
+        ], 
+        "avaSyaka": [
+            "avaSya"
+        ], 
+        "avaboDaka": [
+            "avaboDa"
+        ], 
+        "avagAQaka": [
+            "avagAQa"
+        ], 
+        "avahAraka": [
+            "avahAra"
+        ], 
+        "avakASaka": [
+            "avakASa"
+        ], 
+        "avakraka": [
+            "avakra"
+        ], 
+        "avalambaka": [
+            "avalamba"
+        ], 
+        "avalambanaka": [
+            "avalambana"
+        ], 
+        "avalambitaka": [
+            "avalambita"
+        ], 
+        "avalgujaka": [
+            "avalguja"
+        ], 
+        "avalokaka": [
+            "avaloka"
+        ], 
+        "avamanTaka": [
+            "avamanTa"
+        ], 
+        "avamanyaka": [
+            "avamanya"
+        ], 
+        "avapIqaka": [
+            "avapIqa"
+        ], 
+        "avapIqitaka": [
+            "avapIqita"
+        ], 
+        "avarRaka": [
+            "avarRa"
+        ], 
+        "avaroDaka": [
+            "avaroDa"
+        ], 
+        "avasAdaka": [
+            "avasAda"
+        ], 
+        "avasAnaka": [
+            "avasAna"
+        ], 
+        "avatAraka": [
+            "avatAra"
+        ], 
+        "avataMsaka": [
+            "avataMsa"
+        ], 
+        "avicAraka": [
+            "avicAra"
+        ], 
+        "avidyaka": [
+            "avidya"
+        ], 
+        "avikalpaka": [
+            "avikalpa"
+        ], 
+        "avikampaka": [
+            "avikampa"
+        ], 
+        "avimuktaka": [
+            "avimukta"
+        ], 
+        "avisaMvAdaka": [
+            "avisaMvAda"
+        ], 
+        "avitfptaka": [
+            "avitfpta"
+        ], 
+        "avizARaka": [
+            "avizARa"
+        ], 
+        "avizAdaka": [
+            "avizAda"
+        ], 
+        "avraRaka": [
+            "avraRa"
+        ], 
+        "awarUzaka": [
+            "awarUza"
+        ], 
+        "awwAlaka": [
+            "awwAla"
+        ], 
+        "awwahAsaka": [
+            "awwahAsa"
+        ], 
+        "ayuktaka": [
+            "ayukta"
+        ], 
+        "azwAdaSaka": [
+            "azwAdaSa"
+        ], 
+        "azwadaSaka": [
+            "azwadaSa"
+        ], 
+        "azwaka": [
+            "azwa"
+        ], 
+        "azwalohaka": [
+            "azwaloha"
+        ], 
+        "azwamaka": [
+            "azwama"
+        ], 
+        "azwapattraka": [
+            "azwapattra"
+        ], 
+        "azwavargaka": [
+            "azwavarga"
+        ], 
+        "azwottarasahasraka": [
+            "azwottarasahasra"
+        ], 
+        "bADaka": [
+            "bADa", 
+            "baDa"
+        ], 
+        "bARaka": [
+            "bARa"
+        ], 
+        "bAhyaka": [
+            "bAhya"
+        ], 
+        "bAlaka": [
+            "bAla", 
+            "bala"
+        ], 
+        "bAlakrIqanaka": [
+            "bAlakrIqana"
+        ], 
+        "bAlamUlaka": [
+            "bAlamUla"
+        ], 
+        "bAlapattraka": [
+            "bAlapattra"
+        ], 
+        "bAlasUryaka": [
+            "bAlasUrya"
+        ], 
+        "bIjAmlaka": [
+            "bIjAmla"
+        ], 
+        "bIjaka": [
+            "bIja"
+        ], 
+        "bIjapUraka": [
+            "bIjapUra"
+        ], 
+        "bIjapuzpaka": [
+            "bIjapuzpa"
+        ], 
+        "bIjavfkzaka": [
+            "bIjavfkza"
+        ], 
+        "baDiraka": [
+            "baDira"
+        ], 
+        "badarIpattraka": [
+            "badarIpattra"
+        ], 
+        "bahubIjaka": [
+            "bahubIja"
+        ], 
+        "bahukaRwaka": [
+            "bahukaRwa"
+        ], 
+        "bahumUlaka": [
+            "bahumUla"
+        ], 
+        "bahupatraka": [
+            "bahupatra"
+        ], 
+        "bahurUpaka": [
+            "bahurUpa"
+        ], 
+        "bahuvAraka": [
+            "bahuvAra"
+        ], 
+        "baka": [
+            "ba"
+        ], 
+        "balAsaka": [
+            "balAsa"
+        ], 
+        "balaBadraka": [
+            "balaBadra"
+        ], 
+        "banDUkapuzpaka": [
+            "banDUkapuzpa"
+        ], 
+        "banDaka": [
+            "banDa"
+        ], 
+        "banDanaka": [
+            "banDana"
+        ], 
+        "banDujIvaka": [
+            "banDujIva"
+        ], 
+        "bfhadAraRyaka": [
+            "bfhadAraRya"
+        ], 
+        "bilvaka": [
+            "bilva"
+        ], 
+        "biqAlaka": [
+            "biqAla"
+        ], 
+        "biqAlapadaka": [
+            "biqAlapada"
+        ], 
+        "boDaka": [
+            "boDa"
+        ], 
+        "brAhmaRaka": [
+            "brAhmaRa"
+        ], 
+        "braDnaka": [
+            "braDna"
+        ], 
+        "brahmabIjaka": [
+            "brahmabIja"
+        ], 
+        "brahmacaryaka": [
+            "brahmacarya"
+        ], 
+        "brahmadaRqaka": [
+            "brahmadaRqa"
+        ], 
+        "brahmakAzWaka": [
+            "brahmakAzWa"
+        ], 
+        "brahmaka": [
+            "brahma"
+        ], 
+        "brahmaranDraka": [
+            "brahmaranDra"
+        ], 
+        "brahmasTalaka": [
+            "brahmasTala"
+        ], 
+        "brahmatIrTaka": [
+            "brahmatIrTa"
+        ], 
+        "brahmavfkzaka": [
+            "brahmavfkza"
+        ], 
+        "buDaka": [
+            "buDa"
+        ], 
+        "buDnaka": [
+            "buDna"
+        ], 
+        "budbudaka": [
+            "budbuda"
+        ], 
+        "bunDaka": [
+            "bunDa"
+        ], 
+        "cARqAlaka": [
+            "cARqAla", 
+            "caRqAla"
+        ], 
+        "cAmpeyaka": [
+            "cAmpeya"
+        ], 
+        "cApaka": [
+            "cApa", 
+            "capa"
+        ], 
+        "cAraRAyantraka": [
+            "cAraRAyantra"
+        ], 
+        "cAraka": [
+            "cAra", 
+            "cara"
+        ], 
+        "cAturBadraka": [
+            "cAturBadra", 
+            "caturBadra"
+        ], 
+        "cAturTaka": [
+            "cAturTa", 
+            "caturTa"
+        ], 
+        "cAturjAtaka": [
+            "cAturjAta", 
+            "caturjAta"
+        ], 
+        "cAzaka": [
+            "cAza"
+        ], 
+        "cEtraka": [
+            "cEtra", 
+            "citra"
+        ], 
+        "cInaka": [
+            "cIna"
+        ], 
+        "cOraka": [
+            "cOra", 
+            "cora"
+        ], 
+        "cUqaka": [
+            "cUqa"
+        ], 
+        "cUrRaka": [
+            "cUrRa"
+        ], 
+        "caRakAmlaka": [
+            "caRakAmla"
+        ], 
+        "caRaka": [
+            "caRa"
+        ], 
+        "cakraka": [
+            "cakra"
+        ], 
+        "cakramardaka": [
+            "cakramarda"
+        ], 
+        "cakravAkaka": [
+            "cakravAka"
+        ], 
+        "calapattraka": [
+            "calapattra"
+        ], 
+        "calitaka": [
+            "calita"
+        ], 
+        "camaka": [
+            "cama"
+        ], 
+        "campaka": [
+            "campa"
+        ], 
+        "candanapuzpaka": [
+            "candanapuzpa"
+        ], 
+        "candrakAntaka": [
+            "candrakAnta"
+        ], 
+        "candraka": [
+            "candra"
+        ], 
+        "carmakIlaka": [
+            "carmakIla"
+        ], 
+        "caturTaka": [
+            "caturTa"
+        ], 
+        "caturaSraka": [
+            "caturaSra"
+        ], 
+        "caturaka": [
+            "catura"
+        ], 
+        "caturasraka": [
+            "caturasra"
+        ], 
+        "caturdaSaka": [
+            "caturdaSa"
+        ], 
+        "caturjAtaka": [
+            "caturjAta"
+        ], 
+        "caturviMSaka": [
+            "caturviMSa"
+        ], 
+        "cavyaka": [
+            "cavya"
+        ], 
+        "cawaka": [
+            "cawa"
+        ], 
+        "cawwaka": [
+            "cawwa"
+        ], 
+        "cewaka": [
+            "cewa"
+        ], 
+        "cezwaka": [
+            "cezwa"
+        ], 
+        "cihnaka": [
+            "cihna"
+        ], 
+        "cikitsaka": [
+            "cikitsa"
+        ], 
+        "cillaka": [
+            "cilla"
+        ], 
+        "cirabilvaka": [
+            "cirabilva"
+        ], 
+        "citraka": [
+            "citra"
+        ], 
+        "citrapicCaka": [
+            "citrapicCa"
+        ], 
+        "codaka": [
+            "coda"
+        ], 
+        "colaka": [
+            "cola"
+        ], 
+        "coraka": [
+            "cora"
+        ], 
+        "coritaka": [
+            "corita"
+        ], 
+        "cukraka": [
+            "cukra"
+        ], 
+        "culaka": [
+            "cula"
+        ], 
+        "cumbaka": [
+            "cumba"
+        ], 
+        "cumbitaka": [
+            "cumbita"
+        ], 
+        "cunnaka": [
+            "cunna"
+        ], 
+        "dASArRaka": [
+            "dASArRa", 
+            "daSArRa"
+        ], 
+        "dASArhaka": [
+            "dASArha", 
+            "daSArha"
+        ], 
+        "dASeraka": [
+            "dASera 1", 
+            "daSera"
+        ], 
+        "dAhaka": [
+            "dAha", 
+            "daha"
+        ], 
+        "dAnaka": [
+            "dAna"
+        ], 
+        "dAntaka": [
+            "dAnta", 
+            "danta"
+        ], 
+        "dApaka": [
+            "dApa"
+        ], 
+        "dAqimapuzpaka": [
+            "dAqimapuzpa"
+        ], 
+        "dAraka": [
+            "dAra", 
+            "dara"
+        ], 
+        "dAruRaka": [
+            "dAruRa"
+        ], 
+        "dAseraka": [
+            "dAsera 1"
+        ], 
+        "dAtyUhaka": [
+            "dAtyUha"
+        ], 
+        "dAyaka": [
+            "dAya", 
+            "daya"
+        ], 
+        "dEvahataka": [
+            "dEvahata"
+        ], 
+        "dEvaka": [
+            "dEva 1", 
+            "deva", 
+            "diva"
+        ], 
+        "dEvalaka": [
+            "dEvala 1"
+        ], 
+        "dEvasaka": [
+            "divasa"
+        ], 
+        "dIpaka": [
+            "dIpa"
+        ], 
+        "dIpanIyaka": [
+            "dIpanIya"
+        ], 
+        "dIpikAyantraka": [
+            "dIpikAyantra"
+        ], 
+        "dIptaka": [
+            "dIpta"
+        ], 
+        "dIpyaka": [
+            "dIpya"
+        ], 
+        "dIrGaPalaka": [
+            "dIrGaPala"
+        ], 
+        "dIrGaSUkaka": [
+            "dIrGaSUka"
+        ], 
+        "dIrGadaRqaka": [
+            "dIrGadaRqa"
+        ], 
+        "dIrGakIlaka": [
+            "dIrGakIla"
+        ], 
+        "dIrGaka": [
+            "dIrGa"
+        ], 
+        "dIrGakandaka": [
+            "dIrGakanda"
+        ], 
+        "dIrGamUlaka": [
+            "dIrGamUla"
+        ], 
+        "dIrGapattraka": [
+            "dIrGapattra"
+        ], 
+        "dIrGapuzpaka": [
+            "dIrGapuzpa"
+        ], 
+        "dIrGavfntaka": [
+            "dIrGavfnta"
+        ], 
+        "dOrAtmyaka": [
+            "dOrAtmya"
+        ], 
+        "dUtaka": [
+            "dUta 1"
+        ], 
+        "dUzaka": [
+            "dUza"
+        ], 
+        "daMSaka": [
+            "daMSa"
+        ], 
+        "daRqaka": [
+            "daRqa 1"
+        ], 
+        "daSASvameDaka": [
+            "daSASvameDa"
+        ], 
+        "daSaka": [
+            "daSan 1", 
+            "daSa"
+        ], 
+        "daSamUlaka": [
+            "daSamUla"
+        ], 
+        "daSamaka": [
+            "daSama"
+        ], 
+        "daSeraka": [
+            "daSera 1"
+        ], 
+        "daka": [
+            "da"
+        ], 
+        "dakzaka": [
+            "dakza"
+        ], 
+        "dakziRaka": [
+            "dakziRa"
+        ], 
+        "dakziRapUrvaka": [
+            "dakziRapUrva"
+        ], 
+        "dalaka": [
+            "dala"
+        ], 
+        "damBaka": [
+            "damBa"
+        ], 
+        "damaka": [
+            "dama"
+        ], 
+        "damanaka": [
+            "damana"
+        ], 
+        "dandaSUkaka": [
+            "dandaSUka"
+        ], 
+        "dantabIjaka": [
+            "dantabIja"
+        ], 
+        "dantakAzWaka": [
+            "dantakAzWa"
+        ], 
+        "dantaka": [
+            "danta"
+        ], 
+        "dantapuppuwaka": [
+            "dantapuppuwa"
+        ], 
+        "dantavezwaka": [
+            "dantavezwa"
+        ], 
+        "darBaka": [
+            "darBa"
+        ], 
+        "darSaka": [
+            "darSa"
+        ], 
+        "darduraka": [
+            "dardura"
+        ], 
+        "darpaka": [
+            "darpa"
+        ], 
+        "dasraka": [
+            "dasra"
+        ], 
+        "dattaka": [
+            "datta"
+        ], 
+        "dazwaka": [
+            "dazwa"
+        ], 
+        "deSaka": [
+            "deSa"
+        ], 
+        "dehaka": [
+            "deha"
+        ], 
+        "devAntaka": [
+            "devAnta"
+        ], 
+        "devaKAtaka": [
+            "devaKAta"
+        ], 
+        "devajagDaka": [
+            "devajagDa"
+        ], 
+        "devaka": [
+            "deva"
+        ], 
+        "devalaka": [
+            "devala"
+        ], 
+        "devasarzapaka": [
+            "devasarzapa"
+        ], 
+        "dfQasenaka": [
+            "dfQasena"
+        ], 
+        "dikpAlaka": [
+            "dikpAla"
+        ], 
+        "divyaka": [
+            "divya"
+        ], 
+        "dohadaka": [
+            "dohada"
+        ], 
+        "drAvaRaka": [
+            "drAvaRa", 
+            "dravaRa"
+        ], 
+        "drAviqaka": [
+            "drAviqa 1", 
+            "draviqa"
+        ], 
+        "dravyaka": [
+            "dravya"
+        ], 
+        "droRaka": [
+            "droRa"
+        ], 
+        "drohaka": [
+            "droha"
+        ], 
+        "drutasUtaka": [
+            "drutasUta"
+        ], 
+        "duHsparSaka": [
+            "duHsparSa"
+        ], 
+        "dugDaka": [
+            "dugDa"
+        ], 
+        "dugDapAzARaka": [
+            "dugDapAzARa"
+        ], 
+        "durganDaka": [
+            "durganDa"
+        ], 
+        "durvAcaka": [
+            "durvAca"
+        ], 
+        "duzkftaka": [
+            "duzkfta"
+        ], 
+        "dvAdaSaka": [
+            "dvAdaSa"
+        ], 
+        "dvAraka": [
+            "dvAra", 
+            "dvara"
+        ], 
+        "dvArapAlaka": [
+            "dvArapAla"
+        ], 
+        "dvAtriMSaka": [
+            "dvAtriMSa"
+        ], 
+        "dvAviMSaka": [
+            "dvAviMSa"
+        ], 
+        "dvIpaka": [
+            "dvIpa"
+        ], 
+        "dvandvaka": [
+            "dvandva"
+        ], 
+        "dvayaka": [
+            "dvaya"
+        ], 
+        "dvimIQaka": [
+            "dvimIQa"
+        ], 
+        "dvitIyaka": [
+            "dvitIya 1"
+        ], 
+        "dyotaka": [
+            "dyota"
+        ], 
+        "eRaka": [
+            "eRa"
+        ], 
+        "ekAdaSaka": [
+            "ekAdaSa"
+        ], 
+        "ekAmraka": [
+            "ekAmra"
+        ], 
+        "ekArTaka": [
+            "ekArTa"
+        ], 
+        "ekAraka": [
+            "ekAra"
+        ], 
+        "ekaka": [
+            "eka"
+        ], 
+        "ekapAdaka": [
+            "ekapAda"
+        ], 
+        "ekavIraka": [
+            "ekavIra"
+        ], 
+        "ekaviMSaka": [
+            "ekaviMSa"
+        ], 
+        "ekonatriMSaka": [
+            "ekonatriMSa"
+        ], 
+        "eqaka": [
+            "eqa"
+        ], 
+        "eraRqaka": [
+            "eraRqa"
+        ], 
+        "fRaka": [
+            "fRa"
+        ], 
+        "fkzaka": [
+            "fkza"
+        ], 
+        "fzaBaka": [
+            "fzaBa"
+        ], 
+        "fziputraka": [
+            "fziputra"
+        ], 
+        "gATaka": [
+            "gATa"
+        ], 
+        "gAnDAraka": [
+            "gAnDAra", 
+            "ganDAra"
+        ], 
+        "gAnDaka": [
+            "ganDa"
+        ], 
+        "gAtraka": [
+            "gAtra"
+        ], 
+        "gAyaka": [
+            "gAya", 
+            "gaya"
+        ], 
+        "gItaka": [
+            "gIta"
+        ], 
+        "gODeraka": [
+            "gODera", 
+            "guDera", 
+            "goDera"
+        ], 
+        "gOlyaka": [
+            "gOlya", 
+            "gulya"
+        ], 
+        "gOqaka": [
+            "gOqa", 
+            "guqa", 
+            "goqa"
+        ], 
+        "gOrIpAzARaka": [
+            "gOrIpAzARa"
+        ], 
+        "gOraka": [
+            "gOra"
+        ], 
+        "gUQaka": [
+            "gUQa"
+        ], 
+        "gUQapuzpaka": [
+            "gUQapuzpa"
+        ], 
+        "gaRahAsaka": [
+            "gaRahAsa"
+        ], 
+        "gaRaka": [
+            "gaRa"
+        ], 
+        "gaRarUpaka": [
+            "gaRarUpa"
+        ], 
+        "gaReSaka": [
+            "gaReSa"
+        ], 
+        "gaRqaka": [
+            "gaRqa"
+        ], 
+        "gadyARaka": [
+            "gadyARa"
+        ], 
+        "gadyAnaka": [
+            "gadyAna"
+        ], 
+        "galaka": [
+            "gala"
+        ], 
+        "gamBIraka": [
+            "gamBIra"
+        ], 
+        "gamaka": [
+            "gama"
+        ], 
+        "ganDaka": [
+            "ganDa"
+        ], 
+        "ganDamArjAraka": [
+            "ganDamArjAra"
+        ], 
+        "ganDamUlaka": [
+            "ganDamUla"
+        ], 
+        "ganDapalASaka": [
+            "ganDapalASa"
+        ], 
+        "ganDapattraka": [
+            "ganDapattra"
+        ], 
+        "ganDapuzpaka": [
+            "ganDapuzpa"
+        ], 
+        "ganDarAjaka": [
+            "ganDarAja"
+        ], 
+        "ganDarvahastaka": [
+            "ganDarvahasta"
+        ], 
+        "ganDavfkzaka": [
+            "ganDavfkza"
+        ], 
+        "ganDodaka": [
+            "ganDoda"
+        ], 
+        "gaqaka": [
+            "gaqa"
+        ], 
+        "garBadrAvaRaka": [
+            "garBadrAvaRa"
+        ], 
+        "garBaka": [
+            "garBa"
+        ], 
+        "garBayantraka": [
+            "garBayantra"
+        ], 
+        "gardaBaka": [
+            "gardaBa"
+        ], 
+        "gartaka": [
+            "garta"
+        ], 
+        "garuqodgAraka": [
+            "garuqodgAra"
+        ], 
+        "gataka": [
+            "gata"
+        ], 
+        "gavAkzaka": [
+            "gavAkza"
+        ], 
+        "gavezaka": [
+            "gaveza"
+        ], 
+        "gfDraka": [
+            "gfDra"
+        ], 
+        "gfYjanaka": [
+            "gfYjana"
+        ], 
+        "gfhItaka": [
+            "gfhIta"
+        ], 
+        "gfhaDUmaka": [
+            "gfhaDUma"
+        ], 
+        "gfhaka": [
+            "gfha"
+        ], 
+        "gfhakapotaka": [
+            "gfhakapota"
+        ], 
+        "girikadambaka": [
+            "girikadamba"
+        ], 
+        "goDUmaka": [
+            "goDUma"
+        ], 
+        "goDeraka": [
+            "goDera"
+        ], 
+        "goSIrzaka": [
+            "goSIrza"
+        ], 
+        "gokaRwaka": [
+            "gokaRwa"
+        ], 
+        "gokarRaka": [
+            "gokarRa"
+        ], 
+        "gokzuraka": [
+            "gokzura"
+        ], 
+        "gokzveqaka": [
+            "gokzveqa"
+        ], 
+        "golaka": [
+            "gola"
+        ], 
+        "gomUtraka": [
+            "gomUtra"
+        ], 
+        "gomantaka": [
+            "gomanta"
+        ], 
+        "gomayaka": [
+            "gomaya"
+        ], 
+        "gomedaka": [
+            "gomeda"
+        ], 
+        "gopAlaka": [
+            "gopAla"
+        ], 
+        "gopAyaka": [
+            "gopAya"
+        ], 
+        "gopaka": [
+            "gopa"
+        ], 
+        "goprekzaka": [
+            "goprekza"
+        ], 
+        "gopucCaka": [
+            "gopucCa"
+        ], 
+        "gopuraka": [
+            "gopura"
+        ], 
+        "gorakzaka": [
+            "gorakza"
+        ], 
+        "gosTAnaka": [
+            "gosTAna"
+        ], 
+        "gotIrTaka": [
+            "gotIrTa"
+        ], 
+        "gotraka": [
+            "gotra"
+        ], 
+        "grAhaka": [
+            "grAha", 
+            "graha 0"
+        ], 
+        "grAmIyaka": [
+            "grAmIya"
+        ], 
+        "grAmaka": [
+            "grAma"
+        ], 
+        "grAmeyaka": [
+            "grAmeya"
+        ], 
+        "grAsaka": [
+            "grAsa"
+        ], 
+        "grEveyaka": [
+            "grEveya"
+        ], 
+        "grIzmaka": [
+            "grIzma"
+        ], 
+        "granTiBedaka": [
+            "granTiBeda"
+        ], 
+        "guRAQyaka": [
+            "guRAQya"
+        ], 
+        "guRavfkzaka": [
+            "guRavfkza"
+        ], 
+        "guRqaka": [
+            "guRqa"
+        ], 
+        "guYjaka": [
+            "guYja"
+        ], 
+        "gucCaka": [
+            "gucCa"
+        ], 
+        "gucCapuzpaka": [
+            "gucCapuzpa"
+        ], 
+        "gudakIlaka": [
+            "gudakIla"
+        ], 
+        "gudakuwwaka": [
+            "gudakuwwa"
+        ], 
+        "guhyabIjaka": [
+            "guhyabIja"
+        ], 
+        "guhyaka": [
+            "guhya"
+        ], 
+        "gulmaka": [
+            "gulma"
+        ], 
+        "gulucCaka": [
+            "gulucCa"
+        ], 
+        "guptaka": [
+            "gupta"
+        ], 
+        "guptasADanatantraka": [
+            "guptasADanatantra"
+        ], 
+        "guqabIjaka": [
+            "guqabIja"
+        ], 
+        "guqaka": [
+            "guqa"
+        ], 
+        "guqapuzpaka": [
+            "guqapuzpa"
+        ], 
+        "hAlAhalaka": [
+            "hAlAhala", 
+            "halAhala"
+        ], 
+        "hArItaka": [
+            "hArIta", 
+            "harIta"
+        ], 
+        "hArahUraka": [
+            "hArahUra"
+        ], 
+        "hAraka": [
+            "hAra", 
+            "hara"
+        ], 
+        "hAriRaka": [
+            "hAriRa", 
+            "hariRa"
+        ], 
+        "hAridraka": [
+            "hAridra", 
+            "haridra"
+        ], 
+        "hAsaka": [
+            "hAsa", 
+            "hasa"
+        ], 
+        "hAwaka": [
+            "hAwa", 
+            "hawa"
+        ], 
+        "hAyanaka": [
+            "hAyana", 
+            "hayana"
+        ], 
+        "hEraRyagarBaka": [
+            "hEraRyagarBa", 
+            "hiraRyagarBa"
+        ], 
+        "hEyaMgavInaka": [
+            "hEyaMgavIna"
+        ], 
+        "hInaka": [
+            "hIna"
+        ], 
+        "hIraka": [
+            "hIra"
+        ], 
+        "haMsapAkaka": [
+            "haMsapAka"
+        ], 
+        "halImaka": [
+            "halIma"
+        ], 
+        "hallIsaka": [
+            "hallIsa"
+        ], 
+        "hallaka": [
+            "halla"
+        ], 
+        "harItaka": [
+            "harIta"
+        ], 
+        "hariBadraka": [
+            "hariBadra"
+        ], 
+        "haridraka": [
+            "haridra"
+        ], 
+        "haritAlaka": [
+            "haritAla"
+        ], 
+        "haritaka": [
+            "harita"
+        ], 
+        "hastaka": [
+            "hasta"
+        ], 
+        "hastikaraYjaka": [
+            "hastikaraYja"
+        ], 
+        "hastipaka": [
+            "hastipa"
+        ], 
+        "hataka": [
+            "hata"
+        ], 
+        "havizyaka": [
+            "havizya"
+        ], 
+        "hayamAraka": [
+            "hayamAra"
+        ], 
+        "hemABraka": [
+            "hemABra"
+        ], 
+        "hemadugDaka": [
+            "hemadugDa"
+        ], 
+        "hemakAraka": [
+            "hemakAra"
+        ], 
+        "hemaka": [
+            "hema"
+        ], 
+        "hemapuzpaka": [
+            "hemapuzpa"
+        ], 
+        "hemasUtraka": [
+            "hemasUtra"
+        ], 
+        "hematAraka": [
+            "hematAra"
+        ], 
+        "hfdyaganDaka": [
+            "hfdyaganDa"
+        ], 
+        "hiMsaka": [
+            "hiMsa"
+        ], 
+        "hiNgulaka": [
+            "hiNgula"
+        ], 
+        "hindolaka": [
+            "hindola"
+        ], 
+        "hiraRyaka": [
+            "hiraRya"
+        ], 
+        "homaka": [
+            "homa"
+        ], 
+        "hotraka": [
+            "hotra"
+        ], 
+        "hrIveraka": [
+            "hrIvera"
+        ], 
+        "hrasvaka": [
+            "hrasva"
+        ], 
+        "hrasvamUlaka": [
+            "hrasvamUla"
+        ], 
+        "huNkAraka": [
+            "huNkAra"
+        ], 
+        "iNgAlaka": [
+            "iNgAla"
+        ], 
+        "ikzupattraka": [
+            "ikzupattra"
+        ], 
+        "ikzuraka": [
+            "ikzura"
+        ], 
+        "indragopaka": [
+            "indragopa"
+        ], 
+        "indraka": [
+            "indra"
+        ], 
+        "indraluptaka": [
+            "indralupta"
+        ], 
+        "indranIlaka": [
+            "indranIla"
+        ], 
+        "indravfkzaka": [
+            "indravfkza"
+        ], 
+        "itkawaka": [
+            "itkawa"
+        ], 
+        "izwakApaTaka": [
+            "izwakApaTa"
+        ], 
+        "izwaka": [
+            "izwa"
+        ], 
+        "jANgalaka": [
+            "jANgala", 
+            "jaNgala"
+        ], 
+        "jAhaka": [
+            "jAha", 
+            "jaha"
+        ], 
+        "jAlagardaBaka": [
+            "jAlagardaBa"
+        ], 
+        "jAlaka": [
+            "jAla", 
+            "jala"
+        ], 
+        "jAlmaka": [
+            "jAlma"
+        ], 
+        "jApaka": [
+            "jApa", 
+            "japa"
+        ], 
+        "jAraRaka": [
+            "jAraRa", 
+            "jaraRa"
+        ], 
+        "jAraka": [
+            "jAra", 
+            "jara"
+        ], 
+        "jAtIkoSaka": [
+            "jAtIkoSa"
+        ], 
+        "jAtIyaka": [
+            "jAtIya"
+        ], 
+        "jAtaka": [
+            "jAta"
+        ], 
+        "jAtarUpaka": [
+            "jAtarUpa"
+        ], 
+        "jIkaka": [
+            "jIka"
+        ], 
+        "jImUtaka": [
+            "jImUta"
+        ], 
+        "jIrRabuDnaka": [
+            "jIrRabuDna"
+        ], 
+        "jIraka": [
+            "jIra"
+        ], 
+        "jIvaMjIvaka": [
+            "jIvaMjIva"
+        ], 
+        "jIvaYjIvaka": [
+            "jIvaYjIva"
+        ], 
+        "jIvajIvaka": [
+            "jIvajIva"
+        ], 
+        "jIvaka": [
+            "jIva"
+        ], 
+        "jYAnaka": [
+            "jYAna"
+        ], 
+        "jaNGaka": [
+            "jaNGa"
+        ], 
+        "jalaSozaka": [
+            "jalaSoza"
+        ], 
+        "jalakUrmaka": [
+            "jalakUrma"
+        ], 
+        "jalakapotaka": [
+            "jalakapota"
+        ], 
+        "jalakukkuwaka": [
+            "jalakukkuwa"
+        ], 
+        "jalanIlaka": [
+            "jalanIla"
+        ], 
+        "jalayantraka": [
+            "jalayantra"
+        ], 
+        "jalpaka": [
+            "jalpa"
+        ], 
+        "jamBaka": [
+            "jamBa 1"
+        ], 
+        "jambIraka": [
+            "jambIra"
+        ], 
+        "janaka": [
+            "jana"
+        ], 
+        "janmaka": [
+            "janma"
+        ], 
+        "japyaka": [
+            "japya"
+        ], 
+        "jayadevaka": [
+            "jayadeva"
+        ], 
+        "jfmBaka": [
+            "jfmBa"
+        ], 
+        "jfmBitaka": [
+            "jfmBita"
+        ], 
+        "jihvaka": [
+            "jihva"
+        ], 
+        "joNgaka": [
+            "joNga"
+        ], 
+        "juNgaka": [
+            "juNga"
+        ], 
+        "jvarAntaka": [
+            "jvarAnta"
+        ], 
+        "jyotIrasaka": [
+            "jyotIrasa"
+        ], 
+        "kAMsyaka": [
+            "kAMsya"
+        ], 
+        "kANkzaka": [
+            "kANkza"
+        ], 
+        "kARqaka": [
+            "kARqa", 
+            "kaRqa"
+        ], 
+        "kARqatiktaka": [
+            "kARqatikta"
+        ], 
+        "kASmIraka": [
+            "kASmIra", 
+            "kaSmIra"
+        ], 
+        "kAWaka": [
+            "kaWa", 
+            "kAWa"
+        ], 
+        "kAYcanAraka": [
+            "kAYcanAra"
+        ], 
+        "kAYcanaka": [
+            "kAYcana"
+        ], 
+        "kAcaka": [
+            "kAca", 
+            "kaca"
+        ], 
+        "kAdambaka": [
+            "kAdamba", 
+            "kadamba"
+        ], 
+        "kAkARqaka": [
+            "kAkARqa"
+        ], 
+        "kAkaRaka": [
+            "kAkaRa"
+        ], 
+        "kAkalaka": [
+            "kAkala"
+        ], 
+        "kAkamardaka": [
+            "kAkamarda"
+        ], 
+        "kAkapadaka": [
+            "kAkapada"
+        ], 
+        "kAkapakzaka": [
+            "kAkapakza"
+        ], 
+        "kAkatuRqaka": [
+            "kAkatuRqa"
+        ], 
+        "kAlAnusAryaka": [
+            "kAlAnusArya"
+        ], 
+        "kAlIyaka": [
+            "kAlIya"
+        ], 
+        "kAlakUwaka": [
+            "kAlakUwa", 
+            "kalakUwa"
+        ], 
+        "kAlaka": [
+            "kAla", 
+            "kala 0", 
+            "kala"
+        ], 
+        "kAlakaRWaka": [
+            "kAlakaRWa", 
+            "kalakaRWa"
+        ], 
+        "kAlamAlaka": [
+            "kAlamAla"
+        ], 
+        "kAlamUlaka": [
+            "kAlamUla"
+        ], 
+        "kAlamuzkaka": [
+            "kAlamuzka"
+        ], 
+        "kAlapucCaka": [
+            "kAlapucCa"
+        ], 
+        "kAlasUtraka": [
+            "kAlasUtra"
+        ], 
+        "kAleyaka": [
+            "kAleya"
+        ], 
+        "kAlindaka": [
+            "kAlinda", 
+            "kalinda"
+        ], 
+        "kAlodaka": [
+            "kAloda"
+        ], 
+        "kAlpaka": [
+            "kAlpa", 
+            "kalpa"
+        ], 
+        "kAmAvasAyaka": [
+            "kAmAvasAya"
+        ], 
+        "kAmalaka": [
+            "kAmala", 
+            "kamala"
+        ], 
+        "kAmarUpaka": [
+            "kAmarUpa"
+        ], 
+        "kAmavfkzaka": [
+            "kAmavfkza"
+        ], 
+        "kAmodaka": [
+            "kAmoda"
+        ], 
+        "kAmpillaka": [
+            "kAmpilla", 
+            "kampilla"
+        ], 
+        "kAmyaka": [
+            "kAmya"
+        ], 
+        "kAnaka": [
+            "kAna", 
+            "kana"
+        ], 
+        "kAntABraka": [
+            "kAntABra"
+        ], 
+        "kAntAraka": [
+            "kAntAra"
+        ], 
+        "kAntaka": [
+            "kAnta", 
+            "kanta"
+        ], 
+        "kAntalohaka": [
+            "kAntaloha"
+        ], 
+        "kArUzaka": [
+            "kArUza", 
+            "karUza"
+        ], 
+        "kAraRaka": [
+            "kAraRa", 
+            "karaRa"
+        ], 
+        "kAraRqaka": [
+            "kAraRqa", 
+            "karaRqa"
+        ], 
+        "kAraYjaka": [
+            "kAraYja", 
+            "karaYja"
+        ], 
+        "kAraka": [
+            "kAra", 
+            "kara 0"
+        ], 
+        "kAravellaka": [
+            "kAravella"
+        ], 
+        "kArkawaka": [
+            "kArkawa", 
+            "karkawa"
+        ], 
+        "kArmaka": [
+            "kArma", 
+            "karma"
+        ], 
+        "kArpAsaka": [
+            "kArpAsa", 
+            "karpAsa"
+        ], 
+        "kAruzaka": [
+            "kAruza"
+        ], 
+        "kAryaka": [
+            "kArya"
+        ], 
+        "kArzaka": [
+            "kArza", 
+            "karza"
+        ], 
+        "kAsIsaka": [
+            "kAsIsa"
+        ], 
+        "kAsaka": [
+            "kAsa", 
+            "kasa"
+        ], 
+        "kAsamardaka": [
+            "kAsamarda"
+        ], 
+        "kAzAyaka": [
+            "kAzAya", 
+            "kazAya"
+        ], 
+        "kAzWaka": [
+            "kAzWa"
+        ], 
+        "kAzWakukkuwaka": [
+            "kAzWakukkuwa"
+        ], 
+        "kESoraka": [
+            "kESora", 
+            "kiSora"
+        ], 
+        "kElAsaka": [
+            "kElAsa", 
+            "kelAsa", 
+            "kilAsa"
+        ], 
+        "kErAtaka": [
+            "kErAta", 
+            "kirAta"
+        ], 
+        "kErAtatiktaka": [
+            "kirAtatikta"
+        ], 
+        "kEtaka": [
+            "keta", 
+            "kita"
+        ], 
+        "kEvartaka": [
+            "kEvarta", 
+            "kevarta"
+        ], 
+        "kEvartamustaka": [
+            "kEvartamusta"
+        ], 
+        "kIkasaka": [
+            "kIkasa"
+        ], 
+        "kIlaka": [
+            "kIla"
+        ], 
+        "kIwaka": [
+            "kIwa"
+        ], 
+        "kORqinyaka": [
+            "kORqinya"
+        ], 
+        "kOSeyaka": [
+            "kOSeya"
+        ], 
+        "kOTaka": [
+            "kuTa", 
+            "koTa"
+        ], 
+        "kOkzaka": [
+            "kOkza", 
+            "kukza"
+        ], 
+        "kOkzeyaka": [
+            "kOkzeya"
+        ], 
+        "kOlUtaka": [
+            "kOlUta", 
+            "kulUta"
+        ], 
+        "kOlaka": [
+            "kOla", 
+            "kula", 
+            "kUla", 
+            "kola"
+        ], 
+        "kOlatTaka": [
+            "kOlatTa", 
+            "kulatTa"
+        ], 
+        "kOleyaka": [
+            "Qakay 1", 
+            "kOleya", 
+            "kuleya"
+        ], 
+        "kOmAraBftyaka": [
+            "kOmAraBftya"
+        ], 
+        "kOmAraka": [
+            "kumAra", 
+            "kOmAra"
+        ], 
+        "kUpaka": [
+            "kUpa"
+        ], 
+        "kUrcaSIrzaka": [
+            "kUrcaSIrza"
+        ], 
+        "kUrcaka": [
+            "kUrca"
+        ], 
+        "kUrmaka": [
+            "kUrma"
+        ], 
+        "kUrmayantraka": [
+            "kUrmayantra"
+        ], 
+        "kUrpAsaka": [
+            "kUrpAsa"
+        ], 
+        "kUwaka": [
+            "kUwa"
+        ], 
+        "kUzmARqaka": [
+            "kUzmARqa"
+        ], 
+        "kaMsaka": [
+            "kaMsa"
+        ], 
+        "kaNkaRaka": [
+            "kaNkaRa"
+        ], 
+        "kaNkolaka": [
+            "kaNkola"
+        ], 
+        "kaNkuzWaka": [
+            "kaNkuzWa"
+        ], 
+        "kaRWaka": [
+            "kaRWa"
+        ], 
+        "kaRaBaka": [
+            "kaRaBa"
+        ], 
+        "kaRaBakzaka": [
+            "kaRaBakza"
+        ], 
+        "kaRajIraka": [
+            "kaRajIra"
+        ], 
+        "kaRaka": [
+            "kaRa"
+        ], 
+        "kaRavIraka": [
+            "kaRavIra"
+        ], 
+        "kaRqUyanaka": [
+            "kaRqUyana"
+        ], 
+        "kaRqaka": [
+            "kaRqa"
+        ], 
+        "kaRqanaka": [
+            "kaRqana"
+        ], 
+        "kaRwaka": [
+            "kaRwa"
+        ], 
+        "kaWillaka": [
+            "kaWilla"
+        ], 
+        "kaWinapfzWaka": [
+            "kaWinapfzWa"
+        ], 
+        "kaWoraka": [
+            "kaWora"
+        ], 
+        "kacCaka": [
+            "kacCa"
+        ], 
+        "kacCapayantraka": [
+            "kacCapayantra"
+        ], 
+        "kadambaka": [
+            "kadamba"
+        ], 
+        "kakkolaka": [
+            "kakkola"
+        ], 
+        "kakutsTaka": [
+            "kakutsTa"
+        ], 
+        "kakzaka": [
+            "kakza"
+        ], 
+        "kalApaka": [
+            "kalApa"
+        ], 
+        "kalAyaka": [
+            "kalAya"
+        ], 
+        "kalaDOtaka": [
+            "kalaDOta"
+        ], 
+        "kalatraka": [
+            "kalatra"
+        ], 
+        "kaliNgaka": [
+            "kaliNga"
+        ], 
+        "kalkaka": [
+            "kalka"
+        ], 
+        "kalmAzapAdaka": [
+            "kalmAzapAda"
+        ], 
+        "kalpaka": [
+            "kalpa"
+        ], 
+        "kalpitaka": [
+            "kalpita"
+        ], 
+        "kalyARaka": [
+            "kalyARa"
+        ], 
+        "kambalaka": [
+            "kambala"
+        ], 
+        "kampillaka": [
+            "kampilla"
+        ], 
+        "kanInaka": [
+            "kanIna"
+        ], 
+        "kanIyaka": [
+            "kanIya"
+        ], 
+        "kanaka": [
+            "kana"
+        ], 
+        "kandaka": [
+            "kanda"
+        ], 
+        "kanizWaka": [
+            "kanizWa"
+        ], 
+        "kanyaka": [
+            "kanya"
+        ], 
+        "kapAlaka": [
+            "kapAla"
+        ], 
+        "kapAwaka": [
+            "kapAwa"
+        ], 
+        "kapItaka": [
+            "kapIta"
+        ], 
+        "kapardaka": [
+            "kaparda"
+        ], 
+        "kapiSIrzaka": [
+            "kapiSIrza"
+        ], 
+        "kapitTaka": [
+            "kapitTa"
+        ], 
+        "kapolaka": [
+            "kapola"
+        ], 
+        "kapotaka": [
+            "kapota"
+        ], 
+        "kaqAraka": [
+            "kaqAra"
+        ], 
+        "karIraka": [
+            "karIra"
+        ], 
+        "karIzaka": [
+            "karIza"
+        ], 
+        "karRABaraRaka": [
+            "karRABaraRa"
+        ], 
+        "karRAwaka": [
+            "karRAwa"
+        ], 
+        "karRagUTaka": [
+            "karRagUTa"
+        ], 
+        "karRaka": [
+            "karRa"
+        ], 
+        "karRapUraka": [
+            "karRapUra"
+        ], 
+        "karUzaka": [
+            "karUza"
+        ], 
+        "karaBaka": [
+            "karaBa"
+        ], 
+        "karaRqaka": [
+            "karaRqa"
+        ], 
+        "karaYjaka": [
+            "karaYja"
+        ], 
+        "karahAwaka": [
+            "karahAwa"
+        ], 
+        "karamBaka": [
+            "karamBa"
+        ], 
+        "karamardaka": [
+            "karamarda"
+        ], 
+        "karatAlaka": [
+            "karatAla"
+        ], 
+        "karavIraka": [
+            "karavIra"
+        ], 
+        "karawaka": [
+            "karawa"
+        ], 
+        "karbudAraka": [
+            "karbudAra"
+        ], 
+        "karcUraka": [
+            "karcUra"
+        ], 
+        "kardamaka": [
+            "kardama"
+        ], 
+        "karkawaka": [
+            "karkawa"
+        ], 
+        "karkowaka": [
+            "karkowa"
+        ], 
+        "karmAraka": [
+            "karmAra"
+        ], 
+        "karmaka": [
+            "karma"
+        ], 
+        "karpUraka": [
+            "karpUra"
+        ], 
+        "karpUrapawaka": [
+            "karpUrapawa"
+        ], 
+        "karpawaka": [
+            "karpawa"
+        ], 
+        "kartaka": [
+            "karta"
+        ], 
+        "karzaka": [
+            "karza"
+        ], 
+        "kataka": [
+            "kata"
+        ], 
+        "katamaka": [
+            "katama"
+        ], 
+        "kawAhaka": [
+            "kawAha"
+        ], 
+        "kawIraka": [
+            "kawIra"
+        ], 
+        "kawaka": [
+            "kawa"
+        ], 
+        "kaworaka": [
+            "kawora"
+        ], 
+        "kawupattraka": [
+            "kawupattra"
+        ], 
+        "kawutElaka": [
+            "kawutEla"
+        ], 
+        "kawutiktaka": [
+            "kawutikta"
+        ], 
+        "kazAyaka": [
+            "kazAya"
+        ], 
+        "keSaka": [
+            "keSa"
+        ], 
+        "keSarAjaka": [
+            "keSarAja"
+        ], 
+        "keSaraYjanaka": [
+            "keSaraYjana"
+        ], 
+        "kenipAtaka": [
+            "kenipAta"
+        ], 
+        "ketaka": [
+            "keta"
+        ], 
+        "ketumAlaka": [
+            "ketumAla"
+        ], 
+        "kfkalAsaka": [
+            "kfkalAsa"
+        ], 
+        "kfmidantaka": [
+            "kfmidanta"
+        ], 
+        "kfmikarRaka": [
+            "kfmikarRa"
+        ], 
+        "kftArTaka": [
+            "kftArTa"
+        ], 
+        "kftaka": [
+            "kfta"
+        ], 
+        "kftamAlaka": [
+            "kftamAla"
+        ], 
+        "kftrimaka": [
+            "kftrima"
+        ], 
+        "kfzRABraka": [
+            "kfzRABra"
+        ], 
+        "kfzRaDattUraka": [
+            "kfzRaDattUra"
+        ], 
+        "kfzRajIraka": [
+            "kfzRajIra"
+        ], 
+        "kfzRakAzWaka": [
+            "kfzRakAzWa"
+        ], 
+        "kfzRaka": [
+            "kfzRa"
+        ], 
+        "kfzRalaka": [
+            "kfzRala"
+        ], 
+        "kfzRalohaka": [
+            "kfzRaloha"
+        ], 
+        "kfzRanIlaka": [
+            "kfzRanIla"
+        ], 
+        "kfzRasarjaka": [
+            "kfzRasarja"
+        ], 
+        "kfzaka": [
+            "kfza"
+        ], 
+        "kiMnimittaka": [
+            "kiMnimitta"
+        ], 
+        "kiMvarRaka": [
+            "kiMvarRa"
+        ], 
+        "kiNkirAtaka": [
+            "kiNkirAta"
+        ], 
+        "kiSoraka": [
+            "kiSora"
+        ], 
+        "kilAsaka": [
+            "kilAsa"
+        ], 
+        "kilbizaka": [
+            "kilbiza"
+        ], 
+        "kiliYjaka": [
+            "kiliYja"
+        ], 
+        "kirAtaka": [
+            "kirAta"
+        ], 
+        "kirAtatiktaka": [
+            "kirAtatikta"
+        ], 
+        "kiwwaka": [
+            "kiwwa"
+        ], 
+        "kizkinDaka": [
+            "kizkinDa"
+        ], 
+        "klItaka": [
+            "klIta"
+        ], 
+        "klItanaka": [
+            "klItana"
+        ], 
+        "kledaka": [
+            "kleda"
+        ], 
+        "koRaka": [
+            "koRa"
+        ], 
+        "koSARqaka": [
+            "koSARqa"
+        ], 
+        "koSakAraka": [
+            "koSakAra"
+        ], 
+        "koSaka": [
+            "koSa"
+        ], 
+        "kokilAkzaka": [
+            "kokilAkza"
+        ], 
+        "kokilaka": [
+            "kokila"
+        ], 
+        "kolISaka": [
+            "kolISa"
+        ], 
+        "kolaka": [
+            "kola"
+        ], 
+        "komaka": [
+            "koma"
+        ], 
+        "kopaka": [
+            "kopa"
+        ], 
+        "kopanaka": [
+            "kopana"
+        ], 
+        "koraRqaka": [
+            "koraRqa"
+        ], 
+        "koraRwaka": [
+            "koraRwa"
+        ], 
+        "koradUzaka": [
+            "koradUza"
+        ], 
+        "koraka": [
+            "kora"
+        ], 
+        "kosalaka": [
+            "kosala"
+        ], 
+        "kowanaka": [
+            "kowana"
+        ], 
+        "koyazwiBaka": [
+            "koyazwiBa"
+        ], 
+        "kozWaka": [
+            "kozWa"
+        ], 
+        "krAmaRaka": [
+            "krAmaRa", 
+            "kramaRa"
+        ], 
+        "krAmaka": [
+            "krama"
+        ], 
+        "krAyaka": [
+            "kraya"
+        ], 
+        "krIqanIyaka": [
+            "krIqanIya"
+        ], 
+        "krIqanaka": [
+            "krIqana"
+        ], 
+        "krItaka": [
+            "krIta"
+        ], 
+        "krOYcaka": [
+            "krOYca", 
+            "kruYca", 
+            "kroYca"
+        ], 
+        "krUraka": [
+            "krUra"
+        ], 
+        "kraTanaka": [
+            "kraTana"
+        ], 
+        "kramelaka": [
+            "kramela"
+        ], 
+        "krozwukaSIrzaka": [
+            "krozwukaSIrza"
+        ], 
+        "kuRqagolaka": [
+            "kuRqagola"
+        ], 
+        "kuRqaka": [
+            "kuRqa"
+        ], 
+        "kuSaka": [
+            "kuSa"
+        ], 
+        "kuTaka": [
+            "kuTa"
+        ], 
+        "kuWeraka": [
+            "kuWera"
+        ], 
+        "kuYjaka": [
+            "kuYja"
+        ], 
+        "kuberaka": [
+            "kubera"
+        ], 
+        "kubjAmraka": [
+            "kubjAmra"
+        ], 
+        "kubjaka": [
+            "kubja"
+        ], 
+        "kucikarRaka": [
+            "kucikarRa"
+        ], 
+        "kuddAlaka": [
+            "kuddAla"
+        ], 
+        "kuhaka": [
+            "kuha"
+        ], 
+        "kukURaka": [
+            "kukURa"
+        ], 
+        "kukUlaka": [
+            "kukUla"
+        ], 
+        "kukkuwARqaka": [
+            "kukkuwARqa"
+        ], 
+        "kukkuwaka": [
+            "kukkuwa"
+        ], 
+        "kulIraka": [
+            "kulIra"
+        ], 
+        "kulaka": [
+            "kula"
+        ], 
+        "kulapattraka": [
+            "kulapattra"
+        ], 
+        "kulatTaka": [
+            "kulatTa"
+        ], 
+        "kuliNgaka": [
+            "kuliNga"
+        ], 
+        "kumAraka": [
+            "kumAra"
+        ], 
+        "kumBIDAnyaka": [
+            "kumBIDAnya"
+        ], 
+        "kumBaka": [
+            "kumBa"
+        ], 
+        "kumpaka": [
+            "kumpa"
+        ], 
+        "kundaka": [
+            "kunda"
+        ], 
+        "kuntaveDaka": [
+            "kuntaveDa"
+        ], 
+        "kupAtraka": [
+            "kupAtra"
+        ], 
+        "kupyaka": [
+            "kupya"
+        ], 
+        "kuqmalaka": [
+            "kuqmala"
+        ], 
+        "kuraNgaka": [
+            "kuraNga"
+        ], 
+        "kuraRqaka": [
+            "kuraRqa"
+        ], 
+        "kuraRwaka": [
+            "kuraRwa"
+        ], 
+        "kurabaka": [
+            "kuraba"
+        ], 
+        "kurkuwaka": [
+            "kurkuwa"
+        ], 
+        "kuruRwaka": [
+            "kuruRwa"
+        ], 
+        "kuruvaMSaka": [
+            "kuruvaMSa"
+        ], 
+        "kuruvindaka": [
+            "kuruvinda"
+        ], 
+        "kusIdaka": [
+            "kusIda"
+        ], 
+        "kusUlaDAnyaka": [
+            "kusUlaDAnya"
+        ], 
+        "kusumBaka": [
+            "kusumBa"
+        ], 
+        "kusumaka": [
+            "kusuma"
+        ], 
+        "kutsaka": [
+            "kutsa"
+        ], 
+        "kuvalASvaka": [
+            "kuvalASva"
+        ], 
+        "kuvalayASvaka": [
+            "kuvalayASva"
+        ], 
+        "kuwIraka": [
+            "kuwIra"
+        ], 
+        "kuwilaka": [
+            "kuwila"
+        ], 
+        "kuwumbaka": [
+            "kuwumba"
+        ], 
+        "kuwwaka": [
+            "kuwwa"
+        ], 
+        "kuzWaka": [
+            "kuzWa"
+        ], 
+        "kuzmARqaka": [
+            "kuzmARqa"
+        ], 
+        "kvATaka": [
+            "kvATa", 
+            "kvaTa"
+        ], 
+        "kvaRaka": [
+            "kvaRa"
+        ], 
+        "kzAraka": [
+            "kzAra", 
+            "kzara"
+        ], 
+        "kzArasUtraka": [
+            "kzArasUtra"
+        ], 
+        "kzArodaka": [
+            "kzAroda"
+        ], 
+        "kzIRaka": [
+            "kzIRa"
+        ], 
+        "kzIbaka": [
+            "kzIba"
+        ], 
+        "kzIraka": [
+            "kzIra"
+        ], 
+        "kzIrakandaka": [
+            "kzIrakanda"
+        ], 
+        "kzIranIraka": [
+            "kzIranIra"
+        ], 
+        "kzIrapaka": [
+            "kzIrapa"
+        ], 
+        "kzIrodaka": [
+            "kzIroda"
+        ], 
+        "kzOdraka": [
+            "kzOdra", 
+            "kzudra"
+        ], 
+        "kzOmaka": [
+            "kzOma", 
+            "kzoma"
+        ], 
+        "kzamaka": [
+            "kzama"
+        ], 
+        "kzapaRaka": [
+            "kzapaRa"
+        ], 
+        "kzataSukraka": [
+            "kzataSukra"
+        ], 
+        "kzemaka": [
+            "kzema"
+        ], 
+        "kzepaka": [
+            "kzepa"
+        ], 
+        "kzetrapAlaka": [
+            "kzetrapAla"
+        ], 
+        "kzipraka": [
+            "kzipra"
+        ], 
+        "kzitipAlaka": [
+            "kzitipAla"
+        ], 
+        "kzoBaka": [
+            "kzoBa"
+        ], 
+        "kzoRinAgaka": [
+            "kzoRinAga"
+        ], 
+        "kzudrApAmArgaka": [
+            "kzudrApAmArga"
+        ], 
+        "kzudraka": [
+            "kzudra"
+        ], 
+        "kzullaka": [
+            "kzulla"
+        ], 
+        "kzupaka": [
+            "kzupa"
+        ], 
+        "kzuraka": [
+            "kzura"
+        ], 
+        "kzutaka": [
+            "kzuta"
+        ], 
+        "kzuvaka": [
+            "kzuva"
+        ], 
+        "kzveqitaka": [
+            "kzveqita"
+        ], 
+        "lANgalaka": [
+            "lANgala", 
+            "laNgala"
+        ], 
+        "lAlaka": [
+            "lAla", 
+            "lala"
+        ], 
+        "lAmajjaka": [
+            "lAmajja"
+        ], 
+        "lAsaka": [
+            "lAsa", 
+            "lasa"
+        ], 
+        "lOhitaka": [
+            "lOhita", 
+            "lohita"
+        ], 
+        "lagnaka": [
+            "lagna"
+        ], 
+        "laka": [
+            "la"
+        ], 
+        "laktaka": [
+            "lakta"
+        ], 
+        "lakzaRaka": [
+            "lakzaRa"
+        ], 
+        "lakzaka": [
+            "lakza"
+        ], 
+        "lakzmaRaka": [
+            "lakzmaRa"
+        ], 
+        "lalAwaka": [
+            "lalAwa"
+        ], 
+        "lambaka": [
+            "lamba"
+        ], 
+        "lambakeSaka": [
+            "lambakeSa"
+        ], 
+        "latAgfhaka": [
+            "latAgfha"
+        ], 
+        "latAvezwitaka": [
+            "latAvezwita"
+        ], 
+        "lavaMgaka": [
+            "lavaMga"
+        ], 
+        "lavaRaka": [
+            "lavaRa"
+        ], 
+        "lavaRayantraka": [
+            "lavaRayantra"
+        ], 
+        "leKaka": [
+            "leKa"
+        ], 
+        "leKanaka": [
+            "leKana"
+        ], 
+        "leKyaka": [
+            "leKya"
+        ], 
+        "liNgaka": [
+            "liNga"
+        ], 
+        "liptaka": [
+            "lipta"
+        ], 
+        "loDraka": [
+            "loDra"
+        ], 
+        "loRaka": [
+            "loRa"
+        ], 
+        "lohaka": [
+            "loha"
+        ], 
+        "lohakiwwaka": [
+            "lohakiwwa"
+        ], 
+        "lohitaka": [
+            "lohita"
+        ], 
+        "lokapAlaka": [
+            "lokapAla"
+        ], 
+        "lomaka": [
+            "loma"
+        ], 
+        "lopaka": [
+            "lopa"
+        ], 
+        "lozwaka": [
+            "lozwa"
+        ], 
+        "lubDaka": [
+            "lubDa"
+        ], 
+        "mAMsakIlaka": [
+            "mAMsakIla"
+        ], 
+        "mAMsaka": [
+            "mAMsa"
+        ], 
+        "mANgalyaka": [
+            "mANgalya", 
+            "maNgalya"
+        ], 
+        "mARIcaka": [
+            "maRIca"
+        ], 
+        "mARaka": [
+            "mARa", 
+            "maRa"
+        ], 
+        "mARqavyaka": [
+            "mARqavya"
+        ], 
+        "mAYjizWaka": [
+            "mAYjizWa", 
+            "maYjizWa"
+        ], 
+        "mAdaka": [
+            "mAda", 
+            "mada"
+        ], 
+        "mAdraka": [
+            "madra 1"
+        ], 
+        "mAhizaka": [
+            "mAhiza", 
+            "mahiza"
+        ], 
+        "mAlAtfRaka": [
+            "mAlAtfRa"
+        ], 
+        "mAlaka": [
+            "mAla", 
+            "mala"
+        ], 
+        "mAleyaka": [
+            "mAleya"
+        ], 
+        "mAlyaka": [
+            "mAlya"
+        ], 
+        "mAmaka": [
+            "mAma", 
+            "mama"
+        ], 
+        "mAnaka": [
+            "mAna", 
+            "mana"
+        ], 
+        "mAnakandaka": [
+            "mAnakanda"
+        ], 
+        "mAnasavegaka": [
+            "mAnasavega"
+        ], 
+        "mAnojYaka": [
+            "manojYa 1"
+        ], 
+        "mAnuzaka": [
+            "mAnuza", 
+            "manuza"
+        ], 
+        "mAnuzyaka": [
+            "mAnuzya", 
+            "manuzya"
+        ], 
+        "mAraRaka": [
+            "mAraRa", 
+            "maraRa"
+        ], 
+        "mAraka": [
+            "mAra", 
+            "mara"
+        ], 
+        "mArgaSIrzaka": [
+            "mArgaSIrza"
+        ], 
+        "mArgaka": [
+            "mArga", 
+            "marga 0"
+        ], 
+        "mArjAraka": [
+            "mArjAra"
+        ], 
+        "mArttikAvataka": [
+            "mArttikAvata"
+        ], 
+        "mAsaka": [
+            "mAsa", 
+            "masa"
+        ], 
+        "mAsopavAsaka": [
+            "mAsopavAsa"
+        ], 
+        "mAtfvAhaka": [
+            "mAtfvAha"
+        ], 
+        "mAtraka": [
+            "mAtra"
+        ], 
+        "mAtsyaka": [
+            "mAtsya", 
+            "matsya"
+        ], 
+        "mAtulaka": [
+            "mAtula", 
+            "matula"
+        ], 
+        "mAtulaputraka": [
+            "mAtulaputra"
+        ], 
+        "mAtuluNgaka": [
+            "mAtuluNga"
+        ], 
+        "mAyUraka": [
+            "mayUra 1", 
+            "mAyUra"
+        ], 
+        "mAyUratutTaka": [
+            "mayUratutTa"
+        ], 
+        "mAzaka": [
+            "mAza", 
+            "maza"
+        ], 
+        "mEtreyaka": [
+            "mEtreya"
+        ], 
+        "mOlaka": [
+            "mOla", 
+            "mUla"
+        ], 
+        "mUQaka": [
+            "mUQa"
+        ], 
+        "mUlaka": [
+            "mUla"
+        ], 
+        "mUtraka": [
+            "mUtra"
+        ], 
+        "mUzaka": [
+            "mUza"
+        ], 
+        "maDUlaka": [
+            "maDUla"
+        ], 
+        "maDunArikelaka": [
+            "maDunArikela"
+        ], 
+        "maDuraka": [
+            "maDura"
+        ], 
+        "maRIcaka": [
+            "maRIca"
+        ], 
+        "maRiBadraka": [
+            "maRiBadra"
+        ], 
+        "maRibanDaka": [
+            "maRibanDa"
+        ], 
+        "maRipUraka": [
+            "maRipUra"
+        ], 
+        "maRqaka": [
+            "maRqa"
+        ], 
+        "maRqalaka": [
+            "maRqala"
+        ], 
+        "maRqanaka": [
+            "maRqana"
+        ], 
+        "maRqapaka": [
+            "maRqapa"
+        ], 
+        "maSaka": [
+            "maSa"
+        ], 
+        "maYcaka": [
+            "maYca"
+        ], 
+        "madanaka": [
+            "madana"
+        ], 
+        "madguraka": [
+            "madgura"
+        ], 
+        "madraka": [
+            "madra"
+        ], 
+        "madyaka": [
+            "madya"
+        ], 
+        "mahAkalyARaka": [
+            "mahAkalyARa"
+        ], 
+        "mahAntaka": [
+            "mahAnta"
+        ], 
+        "mahApAtaka": [
+            "mahApAta"
+        ], 
+        "mahApaYcamUlaka": [
+            "mahApaYcamUla"
+        ], 
+        "mahArAzwraka": [
+            "mahArAzwra"
+        ], 
+        "mahAtiktaka": [
+            "mahAtikta"
+        ], 
+        "mahAvajraka": [
+            "mahAvajra"
+        ], 
+        "mahIDraka": [
+            "mahIDra"
+        ], 
+        "mahizAkzaka": [
+            "mahizAkza"
+        ], 
+        "makarandaka": [
+            "makaranda"
+        ], 
+        "makuzWaka": [
+            "makuzWa"
+        ], 
+        "makuzwaka": [
+            "makuzwa"
+        ], 
+        "malaka": [
+            "mala"
+        ], 
+        "mallaka": [
+            "malla"
+        ], 
+        "mallikArjunaka": [
+            "mallikArjuna"
+        ], 
+        "manTAnaka": [
+            "manTAna"
+        ], 
+        "mandAraka": [
+            "mandAra"
+        ], 
+        "mandaka": [
+            "manda"
+        ], 
+        "mantraka": [
+            "mantra"
+        ], 
+        "manuzyaka": [
+            "manuzya"
+        ], 
+        "marAlaka": [
+            "marAla"
+        ], 
+        "marIcaka": [
+            "marIca"
+        ], 
+        "mardaka": [
+            "marda"
+        ], 
+        "mardanaka": [
+            "mardana"
+        ], 
+        "markawaka": [
+            "markawa"
+        ], 
+        "marmaka": [
+            "marma"
+        ], 
+        "maruvaka": [
+            "maruva"
+        ], 
+        "masUraka": [
+            "masUra"
+        ], 
+        "mastaka": [
+            "masta"
+        ], 
+        "mataMgaka": [
+            "mataMga"
+        ], 
+        "matkuRaka": [
+            "matkuRa"
+        ], 
+        "matsyAkzaka": [
+            "matsyAkza"
+        ], 
+        "matsyaka": [
+            "matsya"
+        ], 
+        "mayUragrIvaka": [
+            "mayUragrIva"
+        ], 
+        "mayUraka": [
+            "mayUra"
+        ], 
+        "mazaka": [
+            "maza"
+        ], 
+        "meGaka": [
+            "meGa"
+        ], 
+        "meGanAdaka": [
+            "meGanAda"
+        ], 
+        "meRQaka": [
+            "meRQa"
+        ], 
+        "mecaka": [
+            "meca"
+        ], 
+        "medaHpucCaka": [
+            "medaHpucCa"
+        ], 
+        "medaka": [
+            "meda"
+        ], 
+        "melApaka": [
+            "melApa"
+        ], 
+        "melaka": [
+            "mela"
+        ], 
+        "melanaka": [
+            "melana"
+        ], 
+        "mezaka": [
+            "meza"
+        ], 
+        "mfdaNgaka": [
+            "mfdaNga"
+        ], 
+        "mfdaNgayantraka": [
+            "mfdaNgayantra"
+        ], 
+        "mfddAraSfNgaka": [
+            "mfddAraSfNga"
+        ], 
+        "mfdulaka": [
+            "mfdula"
+        ], 
+        "mfdupuzpaka": [
+            "mfdupuzpa"
+        ], 
+        "mfgaDUrtaka": [
+            "mfgaDUrta"
+        ], 
+        "mfgadaMSaka": [
+            "mfgadaMSa"
+        ], 
+        "mftaka": [
+            "mfta"
+        ], 
+        "mftasUtaka": [
+            "mftasUta"
+        ], 
+        "mftkarpawaka": [
+            "mftkarpawa"
+        ], 
+        "mfttAlaka": [
+            "mfttAla"
+        ], 
+        "mfzArTaka": [
+            "mfzArTa"
+        ], 
+        "mfzwaka": [
+            "mfzwa"
+        ], 
+        "miSraka": [
+            "miSra"
+        ], 
+        "milindaka": [
+            "milinda"
+        ], 
+        "mitrAvaruRaka": [
+            "mitrAvaruRa"
+        ], 
+        "mitraka": [
+            "mitra"
+        ], 
+        "mlecCaka": [
+            "mlecCa"
+        ], 
+        "mocaka": [
+            "moca"
+        ], 
+        "mocaniryAsaka": [
+            "mocaniryAsa"
+        ], 
+        "modaka": [
+            "moda"
+        ], 
+        "mohaka": [
+            "moha"
+        ], 
+        "mokzaka": [
+            "mokza"
+        ], 
+        "morawaka": [
+            "morawa"
+        ], 
+        "mozaka": [
+            "moza"
+        ], 
+        "muKamaRqanaka": [
+            "muKamaRqana"
+        ], 
+        "muKyaka": [
+            "muKya"
+        ], 
+        "muRqaka": [
+            "muRqa"
+        ], 
+        "muRqanaka": [
+            "muRqana"
+        ], 
+        "muYjAtaka": [
+            "muYjAta"
+        ], 
+        "muYjaka": [
+            "muYja"
+        ], 
+        "muYjanaka": [
+            "muYjana"
+        ], 
+        "mucakundaka": [
+            "mucakunda"
+        ], 
+        "mudraka": [
+            "mudra"
+        ], 
+        "muhUrtaka": [
+            "muhUrta"
+        ], 
+        "muktaka": [
+            "mukta"
+        ], 
+        "mukundaka": [
+            "mukunda"
+        ], 
+        "murajaka": [
+            "muraja"
+        ], 
+        "mustaka": [
+            "musta"
+        ], 
+        "muzitaka": [
+            "muzita"
+        ], 
+        "muzkaka": [
+            "muzka"
+        ], 
+        "nASaka": [
+            "nASa", 
+            "naSa"
+        ], 
+        "nAgABraka": [
+            "nAgABra"
+        ], 
+        "nAgadantaka": [
+            "nAgadanta"
+        ], 
+        "nAgaka": [
+            "nAga", 
+            "naga"
+        ], 
+        "nAgaraNgaka": [
+            "nAgaraNga"
+        ], 
+        "nAlaka": [
+            "nAla", 
+            "nala"
+        ], 
+        "nAlikAyantraka": [
+            "nAlikAyantra"
+        ], 
+        "nAlikeraka": [
+            "nAlikera"
+        ], 
+        "nAmaka": [
+            "nAma", 
+            "nama"
+        ], 
+        "nArAcaka": [
+            "nArAca", 
+            "narAca"
+        ], 
+        "nArAyaRaka": [
+            "nArAyaRa", 
+            "narAyaRa"
+        ], 
+        "nAraNgaka": [
+            "nAraNga", 
+            "naraNga"
+        ], 
+        "nAradIyaka": [
+            "nAradIya"
+        ], 
+        "nAraka": [
+            "naraka 1", 
+            "nAra", 
+            "nara"
+        ], 
+        "nAwaka": [
+            "nAwa", 
+            "nawa"
+        ], 
+        "nAwitaka": [
+            "Ric 1"
+        ], 
+        "nAyaka": [
+            "nAya", 
+            "naya"
+        ], 
+        "nEpAlaka": [
+            "nEpAla", 
+            "nepAla"
+        ], 
+        "nEtyaka": [
+            "natya 1", 
+            "nitya 1", 
+            "nEtya"
+        ], 
+        "nEvedyaka": [
+            "nEvedya", 
+            "nivedya"
+        ], 
+        "nEzaDaka": [
+            "nEzaDa", 
+            "nizaDa"
+        ], 
+        "nIlaka": [
+            "nIla"
+        ], 
+        "nIlakaRWaka": [
+            "nIlakaRWa"
+        ], 
+        "nIlakapitTaka": [
+            "nIlakapitTa"
+        ], 
+        "nIlaniryAsaka": [
+            "nIlaniryAsa"
+        ], 
+        "nIlaparRaka": [
+            "nIlaparRa"
+        ], 
+        "nIlapuzpaka": [
+            "nIlapuzpa"
+        ], 
+        "nIlaratnaka": [
+            "nIlaratna"
+        ], 
+        "nIlasAraka": [
+            "nIlasAra"
+        ], 
+        "nIlavfntaka": [
+            "nIlavfnta"
+        ], 
+        "nIqaka": [
+            "nIqa"
+        ], 
+        "nUpuraka": [
+            "nUpura"
+        ], 
+        "naKaSaNKaka": [
+            "naKaSaNKa"
+        ], 
+        "nagnAwaka": [
+            "nagnAwa"
+        ], 
+        "nagnaka": [
+            "nagna 1"
+        ], 
+        "naka": [
+            "na"
+        ], 
+        "naktaka": [
+            "nakta"
+        ], 
+        "naktamAlaka": [
+            "naktamAla"
+        ], 
+        "nakzatraka": [
+            "nakzatra"
+        ], 
+        "nalaka": [
+            "nala"
+        ], 
+        "nandaka": [
+            "nanda"
+        ], 
+        "napuMsaka": [
+            "napuMsa"
+        ], 
+        "narAntaka": [
+            "narAnta"
+        ], 
+        "nartaka": [
+            "narta"
+        ], 
+        "nastaka": [
+            "nasta"
+        ], 
+        "navInaka": [
+            "navIna"
+        ], 
+        "navamaka": [
+            "navama"
+        ], 
+        "navanItaka": [
+            "navanIta"
+        ], 
+        "navaratnaka": [
+            "navaratna"
+        ], 
+        "navasAraka": [
+            "navasAra"
+        ], 
+        "nawaka": [
+            "nawa"
+        ], 
+        "nepAlaka": [
+            "nepAla"
+        ], 
+        "netraka": [
+            "netra"
+        ], 
+        "nfpAvartaka": [
+            "nfpAvarta"
+        ], 
+        "niDAyaka": [
+            "niDAya"
+        ], 
+        "niGnaka": [
+            "niGna"
+        ], 
+        "niHSalkaka": [
+            "niHSalka"
+        ], 
+        "niHsAraka": [
+            "niHsAra"
+        ], 
+        "niSAwaka": [
+            "niSAwa"
+        ], 
+        "niScandraka": [
+            "niScandra"
+        ], 
+        "nibanDaka": [
+            "nibanDa"
+        ], 
+        "niculaka": [
+            "nicula 1"
+        ], 
+        "nidAGaka": [
+            "nidAGa"
+        ], 
+        "nidAnaka": [
+            "nidAna"
+        ], 
+        "nigarBaka": [
+            "nigarBa"
+        ], 
+        "nikocaka": [
+            "nikoca"
+        ], 
+        "nikuYjaka": [
+            "nikuYja"
+        ], 
+        "nimbaka": [
+            "nimba"
+        ], 
+        "nimezaka": [
+            "nimeza"
+        ], 
+        "nimittaka": [
+            "nimitta"
+        ], 
+        "nimnaka": [
+            "nimna"
+        ], 
+        "nindaka": [
+            "ninda"
+        ], 
+        "nipAtaka": [
+            "nipAta"
+        ], 
+        "nirAmaka": [
+            "nirAma"
+        ], 
+        "nirAramBaka": [
+            "nirAramBa"
+        ], 
+        "nirBedaka": [
+            "nirBeda"
+        ], 
+        "nirGAtaka": [
+            "nirGAta"
+        ], 
+        "nirGarzaRaka": [
+            "nirGarzaRa"
+        ], 
+        "nirUQaka": [
+            "nirUQa"
+        ], 
+        "nirUpaka": [
+            "nirUpa"
+        ], 
+        "niraMSaka": [
+            "niraMSa"
+        ], 
+        "nirapekzaka": [
+            "nirapekza"
+        ], 
+        "nirarTaka": [
+            "nirarTa"
+        ], 
+        "nirdeSyaka": [
+            "nirdeSya"
+        ], 
+        "nirmokaka": [
+            "nirmoka"
+        ], 
+        "niroDaka": [
+            "niroDa"
+        ], 
+        "nirupAyaka": [
+            "nirupAya"
+        ], 
+        "nirutTaka": [
+            "nirutTa"
+        ], 
+        "nirvAhaka": [
+            "nirvAha"
+        ], 
+        "nirvApaka": [
+            "nirvApa"
+        ], 
+        "nirvikAraka": [
+            "nirvikAra"
+        ], 
+        "nirvikalpaka": [
+            "nirvikalpa"
+        ], 
+        "niryAmaka": [
+            "niryAma"
+        ], 
+        "niryAsaka": [
+            "niryAsa"
+        ], 
+        "nistAraka": [
+            "nistAra"
+        ], 
+        "nivAraka": [
+            "nivAra"
+        ], 
+        "nivAsaka": [
+            "nivAsa"
+        ], 
+        "nivartaka": [
+            "nivarta"
+        ], 
+        "nivfttaka": [
+            "nivftta"
+        ], 
+        "niyAmaka": [
+            "niyAma"
+        ], 
+        "niyamaka": [
+            "niyama"
+        ], 
+        "niyudDaka": [
+            "niyudDa"
+        ], 
+        "nizAdaka": [
+            "nizAda"
+        ], 
+        "nizUdaka": [
+            "nizUda"
+        ], 
+        "nizeDaka": [
+            "nizeDa"
+        ], 
+        "nizkaka": [
+            "nizka"
+        ], 
+        "nizkuwaka": [
+            "nizkuwa"
+        ], 
+        "nizpattraka": [
+            "nizpattra"
+        ], 
+        "nizpramARaka": [
+            "nizpramARa"
+        ], 
+        "nizprapaYcaka": [
+            "nizprapaYca"
+        ], 
+        "nodaka": [
+            "noda"
+        ], 
+        "nyAsaka": [
+            "nyAsa"
+        ], 
+        "oNkAraka": [
+            "oNkAra"
+        ], 
+        "pARigrahaRaka": [
+            "pARigrahaRa"
+        ], 
+        "pASaka": [
+            "pASa"
+        ], 
+        "pAWaka": [
+            "pAWa", 
+            "paWa"
+        ], 
+        "pAYcAlaka": [
+            "pAYcAla", 
+            "paYcAla"
+        ], 
+        "pAcaka": [
+            "paca"
+        ], 
+        "pAdaka": [
+            "pAda", 
+            "pada"
+        ], 
+        "pAdyaka": [
+            "pAdya", 
+            "padya"
+        ], 
+        "pAlaka": [
+            "pAla", 
+            "pala"
+        ], 
+        "pAnaka": [
+            "pAna"
+        ], 
+        "pApaka": [
+            "pApa"
+        ], 
+        "pArAvataka": [
+            "pArAvata", 
+            "parAvata"
+        ], 
+        "pArSvaka": [
+            "pArSva"
+        ], 
+        "pAradaka": [
+            "pArada"
+        ], 
+        "pArevataka": [
+            "pArevata"
+        ], 
+        "pAriBadraka": [
+            "pAriBadra"
+        ], 
+        "pArijAtaka": [
+            "pArijAta", 
+            "parijAta"
+        ], 
+        "pAripArSvaka": [
+            "pAripArSva", 
+            "paripArSva"
+        ], 
+        "pAriyAtraka": [
+            "pAriyAtra"
+        ], 
+        "pArpawaka": [
+            "parpawa"
+        ], 
+        "pArvaka": [
+            "parva"
+        ], 
+        "pArvataka": [
+            "pArvata", 
+            "parvata"
+        ], 
+        "pAsaka": [
+            "pAsa"
+        ], 
+        "pAtAlayantraka": [
+            "pAtAlayantra"
+        ], 
+        "pAtaka": [
+            "pata", 
+            "pAta"
+        ], 
+        "pAtanAyantraka": [
+            "pAtanAyantra"
+        ], 
+        "pAtanaka": [
+            "pAtana", 
+            "patana"
+        ], 
+        "pAtanayantraka": [
+            "pAtanayantra"
+        ], 
+        "pAtraka": [
+            "pAtra"
+        ], 
+        "pAvanaka": [
+            "pAvana", 
+            "pavana"
+        ], 
+        "pAwaka": [
+            "pAwa", 
+            "pawa"
+        ], 
+        "pAwaliputraka": [
+            "pAwaliputra"
+        ], 
+        "pAzARaBedaka": [
+            "pAzARaBeda"
+        ], 
+        "pAzARaka": [
+            "pAzARa"
+        ], 
+        "pEzwaka": [
+            "pEzwa", 
+            "pizwa"
+        ], 
+        "pIWaka": [
+            "pIWa"
+        ], 
+        "pIqaka": [
+            "pIqa"
+        ], 
+        "pIqitaka": [
+            "pIqita"
+        ], 
+        "pItaganDaka": [
+            "pItaganDa"
+        ], 
+        "pItaka": [
+            "pIta"
+        ], 
+        "pItanaka": [
+            "pItana"
+        ], 
+        "pItapAdaka": [
+            "pItapAda"
+        ], 
+        "pItapuzpaka": [
+            "pItapuzpa"
+        ], 
+        "pItaraktaka": [
+            "pItarakta"
+        ], 
+        "pItaratnaka": [
+            "pItaratna"
+        ], 
+        "pItasAraka": [
+            "pItasAra"
+        ], 
+        "pItavarRaka": [
+            "pItavarRa"
+        ], 
+        "pORqarIyaka": [
+            "pORqarIya"
+        ], 
+        "pORqraka": [
+            "pORqra", 
+            "puRqra"
+        ], 
+        "pOtraka": [
+            "pOtra", 
+            "putra", 
+            "potra"
+        ], 
+        "pOzaka": [
+            "pOza", 
+            "puza", 
+            "poza"
+        ], 
+        "pOzpaka": [
+            "pOzpa", 
+            "puzpa"
+        ], 
+        "pUpaka": [
+            "pUpa"
+        ], 
+        "pUrRaka": [
+            "pUrRa"
+        ], 
+        "pUraRaka": [
+            "pUraRa"
+        ], 
+        "pUraka": [
+            "pUra"
+        ], 
+        "pUrvaka": [
+            "pUrva"
+        ], 
+        "pUrvarUpaka": [
+            "pUrvarUpa"
+        ], 
+        "pUtiganDaka": [
+            "pUtiganDa"
+        ], 
+        "pUtikarRaka": [
+            "pUtikarRa"
+        ], 
+        "pUyAlasaka": [
+            "pUyAlasa"
+        ], 
+        "paNktibIjaka": [
+            "paNktibIja"
+        ], 
+        "paRqaka": [
+            "paRqa"
+        ], 
+        "paRqitaka": [
+            "paRqita"
+        ], 
+        "paYcAlaka": [
+            "paYcAla"
+        ], 
+        "paYcAmlaka": [
+            "paYcAmla"
+        ], 
+        "paYcadaSaka": [
+            "paYcadaSa"
+        ], 
+        "paYcagavyaka": [
+            "paYcagavya"
+        ], 
+        "paYcaka": [
+            "paYca"
+        ], 
+        "paYcakolaka": [
+            "paYcakola"
+        ], 
+        "paYcalohaka": [
+            "paYcaloha"
+        ], 
+        "paYcamAhizaka": [
+            "paYcamAhiza"
+        ], 
+        "paYcamUlaka": [
+            "paYcamUla"
+        ], 
+        "paYcamaka": [
+            "paYcama"
+        ], 
+        "paYcanimbaka": [
+            "paYcanimba"
+        ], 
+        "paYcarAtraka": [
+            "paYcarAtra"
+        ], 
+        "paYcaratnaka": [
+            "paYcaratna"
+        ], 
+        "paYcaviMSaka": [
+            "paYcaviMSa"
+        ], 
+        "padaka": [
+            "pada"
+        ], 
+        "padmaka": [
+            "padma"
+        ], 
+        "padmanABaka": [
+            "padmanABa"
+        ], 
+        "padmapattraka": [
+            "padmapattra"
+        ], 
+        "padmarAgaka": [
+            "padmarAga"
+        ], 
+        "pakvabIjaka": [
+            "pakvabIja"
+        ], 
+        "pakzaka": [
+            "pakza"
+        ], 
+        "palASaka": [
+            "palASa"
+        ], 
+        "palAlaka": [
+            "palAla"
+        ], 
+        "palaka": [
+            "pala"
+        ], 
+        "pallaka": [
+            "palla"
+        ], 
+        "pallivAhaka": [
+            "pallivAha"
+        ], 
+        "parAmarSaka": [
+            "parAmarSa"
+        ], 
+        "parAvfttaka": [
+            "parAvftta"
+        ], 
+        "parRaka": [
+            "parRa"
+        ], 
+        "parUzaka": [
+            "parUza"
+        ], 
+        "paramaka": [
+            "parama"
+        ], 
+        "pariRAmaka": [
+            "pariRAma"
+        ], 
+        "paricAraka": [
+            "paricAra"
+        ], 
+        "paridAhaka": [
+            "paridAha"
+        ], 
+        "parigrahaka": [
+            "parigraha"
+        ], 
+        "parikopaka": [
+            "parikopa"
+        ], 
+        "parimARaka": [
+            "parimARa"
+        ], 
+        "parimArjanaka": [
+            "parimArjana"
+        ], 
+        "parimfzwaka": [
+            "parimfzwa"
+        ], 
+        "parimozaka": [
+            "parimoza"
+        ], 
+        "paripizwaka": [
+            "paripizwa"
+        ], 
+        "paripowaka": [
+            "paripowa"
+        ], 
+        "parivAraka": [
+            "parivAra"
+        ], 
+        "parivartaka": [
+            "parivarta"
+        ], 
+        "parivatsaka": [
+            "parivatsa"
+        ], 
+        "pariveSaka": [
+            "pariveSa"
+        ], 
+        "parivezaka": [
+            "pariveza"
+        ], 
+        "parivrAjaka": [
+            "parivrAja"
+        ], 
+        "parpawaka": [
+            "parpawa"
+        ], 
+        "paruzaka": [
+            "paruza"
+        ], 
+        "parvaka": [
+            "parva"
+        ], 
+        "parvataka": [
+            "parvata"
+        ], 
+        "paryuzitaka": [
+            "paryuzita"
+        ], 
+        "pataMgaka": [
+            "pataMga"
+        ], 
+        "pattrABraka": [
+            "pattrABra"
+        ], 
+        "pattraka": [
+            "pattra"
+        ], 
+        "pavitraka": [
+            "pavitra"
+        ], 
+        "pawolaka": [
+            "pawola"
+        ], 
+        "pawwaka": [
+            "pawwa"
+        ], 
+        "pawwaraYjanaka": [
+            "pawwaraYjana"
+        ], 
+        "pelaka": [
+            "pela"
+        ], 
+        "pewaka": [
+            "pewa"
+        ], 
+        "peyaka": [
+            "peya"
+        ], 
+        "pezaka": [
+            "peza"
+        ], 
+        "pfzWaka": [
+            "pfzWa"
+        ], 
+        "pfzadAjyaka": [
+            "pfzadAjya"
+        ], 
+        "piDAnaka": [
+            "piDAna"
+        ], 
+        "piNgalaka": [
+            "piNgala"
+        ], 
+        "piRqAnvAhAryaka": [
+            "piRqAnvAhArya"
+        ], 
+        "piRqAraka": [
+            "piRqAra"
+        ], 
+        "piRqAtaka": [
+            "piRqAta"
+        ], 
+        "piRqItaka": [
+            "piRqIta"
+        ], 
+        "piRqaka": [
+            "piRqa"
+        ], 
+        "piRqamUlaka": [
+            "piRqamUla"
+        ], 
+        "piRqatElaka": [
+            "piRqatEla"
+        ], 
+        "piSAcaka": [
+            "piSAca"
+        ], 
+        "piSaNgaka": [
+            "piSaNga"
+        ], 
+        "piSitASanaka": [
+            "piSitASana"
+        ], 
+        "piYCaka": [
+            "piYCa"
+        ], 
+        "piYjaka": [
+            "piYja"
+        ], 
+        "picCaka": [
+            "picCa"
+        ], 
+        "picCalaka": [
+            "picCala"
+        ], 
+        "picciwaka": [
+            "picciwa"
+        ], 
+        "pipIlaka": [
+            "pipIla"
+        ], 
+        "pippalaka": [
+            "pippala"
+        ], 
+        "pittaka": [
+            "pitta"
+        ], 
+        "pittalaka": [
+            "pittala"
+        ], 
+        "pittavargaka": [
+            "pittavarga"
+        ], 
+        "piwaka": [
+            "piwa"
+        ], 
+        "pizwAtaka": [
+            "pizwAta"
+        ], 
+        "pizwaka": [
+            "pizwa"
+        ], 
+        "plotaka": [
+            "plota"
+        ], 
+        "postaka": [
+            "posta"
+        ], 
+        "potaka": [
+            "pota"
+        ], 
+        "pozaka": [
+            "poza"
+        ], 
+        "prABftaka": [
+            "prABfta 1"
+        ], 
+        "prAGuRaka": [
+            "prAGuRa 1"
+        ], 
+        "prAcyaka": [
+            "prAcya 1"
+        ], 
+        "prAhuRaka": [
+            "prAhuRa"
+        ], 
+        "prAjApatyaka": [
+            "prAjApatya", 
+            "prajApatya"
+        ], 
+        "prAjaka": [
+            "praja"
+        ], 
+        "prAkftaka": [
+            "prAkfta", 
+            "prakfta"
+        ], 
+        "prAlambaka": [
+            "prAlamba 1"
+        ], 
+        "prApaka": [
+            "prApa"
+        ], 
+        "prArTaka": [
+            "prArTa"
+        ], 
+        "prAsaka": [
+            "prAsa 1"
+        ], 
+        "prAtihAraka": [
+            "prAtihAra 1"
+        ], 
+        "prAtiveSmaka": [
+            "prativeSma 1"
+        ], 
+        "prAtiveSyaka": [
+            "prativeSa 1"
+        ], 
+        "prAvAraka": [
+            "prAvAra 1"
+        ], 
+        "praBAsaka": [
+            "praBAsa"
+        ], 
+        "praBAtaka": [
+            "praBAta"
+        ], 
+        "praBadraka": [
+            "praBadra"
+        ], 
+        "praBedaka": [
+            "praBeda"
+        ], 
+        "praDarzaka": [
+            "praDarza"
+        ], 
+        "praDvaMsaka": [
+            "praDvaMsa"
+        ], 
+        "praRASaka": [
+            "praRASa"
+        ], 
+        "praRAmaka": [
+            "praRAma"
+        ], 
+        "praSAntaka": [
+            "praSAnta"
+        ], 
+        "praSizyaka": [
+            "praSizya"
+        ], 
+        "praboDaka": [
+            "praboDa 1"
+        ], 
+        "pracaRqaka": [
+            "pracaRqa"
+        ], 
+        "pracalaka": [
+            "pracala"
+        ], 
+        "pracodaka": [
+            "pracoda"
+        ], 
+        "pradAnaka": [
+            "pradAna"
+        ], 
+        "pradAyaka": [
+            "pradAya"
+        ], 
+        "pradIpaka": [
+            "pradIpa"
+        ], 
+        "pradarSaka": [
+            "pradarSa"
+        ], 
+        "pradarSanaka": [
+            "pradarSana"
+        ], 
+        "pradattaka": [
+            "pradatta"
+        ], 
+        "pradeSaka": [
+            "pradeSa"
+        ], 
+        "pragaRqaka": [
+            "pragaRqa"
+        ], 
+        "prahAraka": [
+            "prahAra"
+        ], 
+        "prahastaka": [
+            "prahasta"
+        ], 
+        "prahfzwaka": [
+            "prahfzwa 1"
+        ], 
+        "prahlAdaka": [
+            "prahlAda"
+        ], 
+        "prajYaka": [
+            "prajYa"
+        ], 
+        "prakARqaka": [
+            "prakARqa"
+        ], 
+        "prakASaka": [
+            "prakASa"
+        ], 
+        "prakAraka": [
+            "prakAra"
+        ], 
+        "prakIrRaka": [
+            "prakIrRa"
+        ], 
+        "prakIryaka": [
+            "prakIrya"
+        ], 
+        "prakopaka": [
+            "prakopa"
+        ], 
+        "prakozWaka": [
+            "prakozWa"
+        ], 
+        "pralambaka": [
+            "pralamba"
+        ], 
+        "pralepaka": [
+            "pralepa"
+        ], 
+        "pralopaka": [
+            "pralopa"
+        ], 
+        "pramARaka": [
+            "pramARa"
+        ], 
+        "pramAdaka": [
+            "pramAda"
+        ], 
+        "pramAraka": [
+            "pramAra"
+        ], 
+        "pramIlaka": [
+            "pramIla"
+        ], 
+        "pramardaka": [
+            "pramarda"
+        ], 
+        "pramehaka": [
+            "prameha"
+        ], 
+        "pramodaka": [
+            "pramoda"
+        ], 
+        "pramohaka": [
+            "pramoha"
+        ], 
+        "prapAWaka": [
+            "prapAWa"
+        ], 
+        "prapOtraka": [
+            "prapOtra"
+        ], 
+        "prasAdaka": [
+            "prasAda"
+        ], 
+        "prasUnaka": [
+            "prasUna 1"
+        ], 
+        "prasannaka": [
+            "prasanna"
+        ], 
+        "prasarpaka": [
+            "prasarpa"
+        ], 
+        "prasevaka": [
+            "praseva 1"
+        ], 
+        "prasftaka": [
+            "prasfta"
+        ], 
+        "prastAraka": [
+            "prastAra"
+        ], 
+        "pratIkzaka": [
+            "pratIkza"
+        ], 
+        "pratItaka": [
+            "pratIta"
+        ], 
+        "pratibanDaka": [
+            "pratibanDa"
+        ], 
+        "pratibimbaka": [
+            "pratibimba"
+        ], 
+        "pratiboDaka": [
+            "pratiboDa"
+        ], 
+        "praticCandaka": [
+            "praticCanda"
+        ], 
+        "pratigrAhaka": [
+            "pratigrAha"
+        ], 
+        "pratihAraka": [
+            "pratihAra"
+        ], 
+        "pratihastaka": [
+            "pratihasta"
+        ], 
+        "pratikIlaka": [
+            "pratikIla"
+        ], 
+        "pratipAdaka": [
+            "pratipAda"
+        ], 
+        "pratirUpaka": [
+            "pratirUpa"
+        ], 
+        "pratiroDaka": [
+            "pratiroDa"
+        ], 
+        "pratisAraRaka": [
+            "pratisAraRa"
+        ], 
+        "pratisUryaka": [
+            "pratisUrya"
+        ], 
+        "prativApaka": [
+            "prativApa"
+        ], 
+        "prativarRaka": [
+            "prativarRa"
+        ], 
+        "pratizWAnaka": [
+            "pratizWAna"
+        ], 
+        "pratizeDaka": [
+            "pratizeDa"
+        ], 
+        "pratyAhAraka": [
+            "pratyAhAra"
+        ], 
+        "pratyAyaka": [
+            "pratyAya"
+        ], 
+        "pratyavamarSaka": [
+            "pratyavamarSa"
+        ], 
+        "pravAhaka": [
+            "pravAha"
+        ], 
+        "pravAlaka": [
+            "pravAla"
+        ], 
+        "pravAsaka": [
+            "pravAsa"
+        ], 
+        "pravartaka": [
+            "pravarta"
+        ], 
+        "praveDaka": [
+            "praveDa"
+        ], 
+        "praveSaka": [
+            "praveSa"
+        ], 
+        "pravepaka": [
+            "pravepa 1"
+        ], 
+        "pravfttaka": [
+            "pravftta 1"
+        ], 
+        "pravizwaka": [
+            "pravizwa 1"
+        ], 
+        "pravrAjaka": [
+            "pravrAja"
+        ], 
+        "prayARaka": [
+            "prayARa"
+        ], 
+        "prayAgaka": [
+            "prayAga"
+        ], 
+        "prayojanaka": [
+            "prayojana"
+        ], 
+        "preNKolitaka": [
+            "preNKolita"
+        ], 
+        "prekzaRIyaka": [
+            "prekzaRIya 1"
+        ], 
+        "prekzaRaka": [
+            "prekzaRa 1"
+        ], 
+        "pretaka": [
+            "preta"
+        ], 
+        "priyaSAlaka": [
+            "priyaSAla"
+        ], 
+        "priyajIvaka": [
+            "priyajIva"
+        ], 
+        "priyaka": [
+            "priya 1"
+        ], 
+        "puMsaka": [
+            "puMsa"
+        ], 
+        "puRqraka": [
+            "puRqra"
+        ], 
+        "puRqravarDanaka": [
+            "puRqravarDana"
+        ], 
+        "puYjaka": [
+            "puYja"
+        ], 
+        "pucCaka": [
+            "pucCa"
+        ], 
+        "pukvasaka": [
+            "pukvasa"
+        ], 
+        "pulaka": [
+            "pula"
+        ], 
+        "pulindaka": [
+            "pulinda"
+        ], 
+        "punarAvartaka": [
+            "punarAvarta"
+        ], 
+        "purARaka": [
+            "purARa"
+        ], 
+        "purIzaka": [
+            "purIza"
+        ], 
+        "puruzAdaka": [
+            "puruzAda"
+        ], 
+        "puruzaSIrzaka": [
+            "puruzaSIrza"
+        ], 
+        "puruzaka": [
+            "puruza"
+        ], 
+        "puryazwaka": [
+            "puryazwa"
+        ], 
+        "pustaka": [
+            "pusta"
+        ], 
+        "putraMjIvaka": [
+            "putraMjIva"
+        ], 
+        "putrajIvaka": [
+            "putrajIva"
+        ], 
+        "putraka": [
+            "putra"
+        ], 
+        "puttalaka": [
+            "puttala"
+        ], 
+        "puwaka": [
+            "puwa"
+        ], 
+        "puwayantraka": [
+            "puwayantra"
+        ], 
+        "puzkaramUlaka": [
+            "puzkaramUla"
+        ], 
+        "puzpARqaka": [
+            "puzpARqa"
+        ], 
+        "puzpAYjanaka": [
+            "puzpAYjana"
+        ], 
+        "puzpaBadraka": [
+            "puzpaBadra"
+        ], 
+        "puzpakAsIsaka": [
+            "puzpakAsIsa"
+        ], 
+        "puzpaka": [
+            "puzpa"
+        ], 
+        "puzpaniryAsaka": [
+            "puzpaniryAsa"
+        ], 
+        "puzpitaka": [
+            "puzpita"
+        ], 
+        "puzwaka": [
+            "puzwa"
+        ], 
+        "puzyaka": [
+            "puzya"
+        ], 
+        "rAjAnaka": [
+            "rAjAna"
+        ], 
+        "rAjAvartaka": [
+            "rAjAvarta"
+        ], 
+        "rAjaDattUraka": [
+            "rAjaDattUra"
+        ], 
+        "rAjaka": [
+            "rAja", 
+            "raja"
+        ], 
+        "rAjanyaka": [
+            "rAjanya"
+        ], 
+        "rAjaputraka": [
+            "rAjaputra"
+        ], 
+        "rAjasarzapaka": [
+            "rAjasarzapa"
+        ], 
+        "rAjavfkzaka": [
+            "rAjavfkza"
+        ], 
+        "rAjyaka": [
+            "rAjya"
+        ], 
+        "rAlaka": [
+            "rAla", 
+            "rala"
+        ], 
+        "rAmaRIyaka": [
+            "ramaRIya 1"
+        ], 
+        "rAmaRyaka": [
+            "ramaRya"
+        ], 
+        "rAmasenaka": [
+            "rAmasena"
+        ], 
+        "rAsaBaka": [
+            "rAsaBa"
+        ], 
+        "rAsaka": [
+            "rasa", 
+            "rAsa"
+        ], 
+        "rAtraka": [
+            "rAtra"
+        ], 
+        "rAzwraka": [
+            "rAzwra"
+        ], 
+        "rEvataka": [
+            "rEvata", 
+            "revata"
+        ], 
+        "rIWAkaraYjaka": [
+            "rIWAkaraYja"
+        ], 
+        "rOhItaka": [
+            "rohIta"
+        ], 
+        "rOhiRaka": [
+            "rOhiRa", 
+            "rohiRa"
+        ], 
+        "rOmaka": [
+            "rOma", 
+            "ruma", 
+            "rUma", 
+            "roma"
+        ], 
+        "rOpyaka": [
+            "rOpya", 
+            "rUpya", 
+            "ropya"
+        ], 
+        "rOpyamAzaka": [
+            "rUpyamAza"
+        ], 
+        "rUkzaganDaka": [
+            "rUkzaganDa"
+        ], 
+        "rUkzaka": [
+            "rUkza"
+        ], 
+        "rUpaka": [
+            "rUpa", 
+            "rUpa 1"
+        ], 
+        "rUpyaka": [
+            "rUpya"
+        ], 
+        "raNgaka": [
+            "raNga"
+        ], 
+        "raNkaka": [
+            "raNka"
+        ], 
+        "raRaraRaka": [
+            "raRaraRa"
+        ], 
+        "raTaka": [
+            "raTa"
+        ], 
+        "raYjaka": [
+            "raYja"
+        ], 
+        "raYjanaka": [
+            "raYjana"
+        ], 
+        "rajaka": [
+            "raja"
+        ], 
+        "rajjudAlaka": [
+            "rajjudAla"
+        ], 
+        "raktacUrRaka": [
+            "raktacUrRa"
+        ], 
+        "raktacandanaka": [
+            "raktacandana"
+        ], 
+        "raktacitraka": [
+            "raktacitra"
+        ], 
+        "raktaka": [
+            "rakta"
+        ], 
+        "raktakaravIraka": [
+            "raktakaravIra"
+        ], 
+        "raktapAzARaka": [
+            "raktapAzARa"
+        ], 
+        "raktaparRaka": [
+            "raktaparRa"
+        ], 
+        "raktapiRqaka": [
+            "raktapiRqa"
+        ], 
+        "raktapuzpaka": [
+            "raktapuzpa"
+        ], 
+        "raktatuRqaka": [
+            "raktatuRqa"
+        ], 
+        "raktavarRaka": [
+            "raktavarRa"
+        ], 
+        "raktavargaka": [
+            "raktavarga"
+        ], 
+        "raktavartmaka": [
+            "raktavartma"
+        ], 
+        "rakzaka": [
+            "rakza"
+        ], 
+        "ramBaka": [
+            "ramBa"
+        ], 
+        "ramaRIyaka": [
+            "ramaRIya"
+        ], 
+        "ramaRaka": [
+            "ramaRa"
+        ], 
+        "ramyaka": [
+            "ramya"
+        ], 
+        "ranDaka": [
+            "ranDa"
+        ], 
+        "ranDraka": [
+            "ranDra"
+        ], 
+        "rasAmlaka": [
+            "rasAmla"
+        ], 
+        "rasabIjaka": [
+            "rasabIja"
+        ], 
+        "rasaganDaka": [
+            "rasaganDa"
+        ], 
+        "rasaka": [
+            "rasa"
+        ], 
+        "rasarAjaka": [
+            "rasarAja"
+        ], 
+        "rasavEkrAntaka": [
+            "rasavEkrAnta"
+        ], 
+        "rasendraka": [
+            "rasendra"
+        ], 
+        "rasonaka": [
+            "rasona"
+        ], 
+        "ratnaka": [
+            "ratna"
+        ], 
+        "raviratnaka": [
+            "raviratna"
+        ], 
+        "rePaka": [
+            "rePa"
+        ], 
+        "recaka": [
+            "reca"
+        ], 
+        "recanaka": [
+            "recana"
+        ], 
+        "revataka": [
+            "revata"
+        ], 
+        "riktaka": [
+            "rikta"
+        ], 
+        "roDaka": [
+            "roDa"
+        ], 
+        "roDrapuzpaka": [
+            "roDrapuzpa"
+        ], 
+        "rocaka": [
+            "roca"
+        ], 
+        "rocanaka": [
+            "rocana"
+        ], 
+        "rohItaka": [
+            "rohIta"
+        ], 
+        "rohantaka": [
+            "rohanta"
+        ], 
+        "rohiRItIrTaka": [
+            "rohiRItIrTa"
+        ], 
+        "rohitaka": [
+            "rohita"
+        ], 
+        "rohizaka": [
+            "rohiza"
+        ], 
+        "romAYcaka": [
+            "romAYca"
+        ], 
+        "romaka": [
+            "roma"
+        ], 
+        "rucaka": [
+            "ruca"
+        ], 
+        "rucyaka": [
+            "rucya"
+        ], 
+        "rudraka": [
+            "rudra"
+        ], 
+        "rukmaka": [
+            "rukma"
+        ], 
+        "sABraka": [
+            "sABra"
+        ], 
+        "sADaka": [
+            "sADa", 
+            "saDa"
+        ], 
+        "sAMsparSaka": [
+            "saMsparSa"
+        ], 
+        "sAMvartaka": [
+            "sAMvarta", 
+            "saMvarta"
+        ], 
+        "sAdaka": [
+            "sAda", 
+            "sada"
+        ], 
+        "sAhAyyaka": [
+            "sAhAyya"
+        ], 
+        "sAhasraka": [
+            "sAhasra", 
+            "sahasra"
+        ], 
+        "sAkuruRqaka": [
+            "sAkuruRqa", 
+            "sakuruRqa"
+        ], 
+        "sAmAtyaka": [
+            "sAmAtya"
+        ], 
+        "sAmaka": [
+            "sAma", 
+            "sama"
+        ], 
+        "sAmarasyaka": [
+            "sAmarasya"
+        ], 
+        "sAmudraka": [
+            "sAmudra", 
+            "samudra"
+        ], 
+        "sAndraka": [
+            "sAndra"
+        ], 
+        "sApatnaka": [
+            "sApatna", 
+            "sapatna"
+        ], 
+        "sArTaka": [
+            "sArTa"
+        ], 
+        "sAraNgaka": [
+            "sAraNga", 
+            "saraNga"
+        ], 
+        "sAraRAyantraka": [
+            "sAraRAyantra"
+        ], 
+        "sAraRaka": [
+            "sAraRa", 
+            "saraRa"
+        ], 
+        "sAraka": [
+            "sAra 0", 
+            "sara"
+        ], 
+        "sAranAlaka": [
+            "sAranAla"
+        ], 
+        "sArpaka": [
+            "sArpa", 
+            "sarpa"
+        ], 
+        "sAtmaka": [
+            "sAtma"
+        ], 
+        "sAtmyaka": [
+            "sAtmya"
+        ], 
+        "sAtyaka": [
+            "sAtya", 
+            "satya"
+        ], 
+        "sAyaka": [
+            "sAya", 
+            "saya"
+        ], 
+        "sEMhalaka": [
+            "sEMhala", 
+            "siMhala"
+        ], 
+        "sErIyaka": [
+            "sErIya"
+        ], 
+        "sEreyaka": [
+            "sEreya"
+        ], 
+        "sEryaka": [
+            "sErya", 
+            "sIrya"
+        ], 
+        "sEsaka": [
+            "sEsa", 
+            "sIsa"
+        ], 
+        "sImantaka": [
+            "sImanta"
+        ], 
+        "sIsaka": [
+            "sIsa"
+        ], 
+        "sOBAgyaka": [
+            "sOBAgya", 
+            "suBAgya"
+        ], 
+        "sObalaka": [
+            "sObala", 
+            "subala"
+        ], 
+        "sOganDaka": [
+            "sOganDa", 
+            "suganDa"
+        ], 
+        "sOkumAraka": [
+            "sukumAra"
+        ], 
+        "sOrAzwraka": [
+            "sOrAzwra", 
+            "surAzwra"
+        ], 
+        "sOrIyaka": [
+            "sOrIya", 
+            "surIya"
+        ], 
+        "sOraBeyaka": [
+            "sOraBeya"
+        ], 
+        "sOraka": [
+            "sOra", 
+            "sura", 
+            "sUra", 
+            "sora"
+        ], 
+        "sOvIraka": [
+            "sOvIra", 
+            "suvIra"
+        ], 
+        "sOvarRaka": [
+            "sOvarRa", 
+            "suvarRa"
+        ], 
+        "sPItaka": [
+            "sPIta"
+        ], 
+        "sPUrjaka": [
+            "sPUrja"
+        ], 
+        "sPowaka": [
+            "sPowa"
+        ], 
+        "sPuliNgaka": [
+            "sPuliNga"
+        ], 
+        "sPuritaka": [
+            "sPurita"
+        ], 
+        "sPuwaka": [
+            "sPuwa"
+        ], 
+        "sTAlaka": [
+            "sTAla", 
+            "sTala"
+        ], 
+        "sTAnaka": [
+            "sTAna"
+        ], 
+        "sTOReyaka": [
+            "sTOReya"
+        ], 
+        "sTUlakandaka": [
+            "sTUlakanda"
+        ], 
+        "sTalaSfNgAwaka": [
+            "sTalaSfNgAwa"
+        ], 
+        "sTalapadmaka": [
+            "sTalapadma"
+        ], 
+        "sTaviraka": [
+            "sTavira"
+        ], 
+        "sTiraka": [
+            "sTira"
+        ], 
+        "sUcaka": [
+            "sUca 0"
+        ], 
+        "sUcipattraka": [
+            "sUcipattra"
+        ], 
+        "sUktaka": [
+            "sUkta"
+        ], 
+        "sUkzmaka": [
+            "sUkzma"
+        ], 
+        "sUkzmapattraka": [
+            "sUkzmapattra"
+        ], 
+        "sUpaka": [
+            "sUpa"
+        ], 
+        "sUryAvartaka": [
+            "sUryAvarta"
+        ], 
+        "sUryaBedanaka": [
+            "sUryaBedana"
+        ], 
+        "sUryaka": [
+            "sUrya"
+        ], 
+        "sUtaka": [
+            "sUta"
+        ], 
+        "sUtraka": [
+            "sUtra"
+        ], 
+        "saDUmaka": [
+            "saDUma"
+        ], 
+        "saDarmaka": [
+            "saDarma"
+        ], 
+        "saMDAnaka": [
+            "saMDAna"
+        ], 
+        "saMDAyaka": [
+            "saMDAya"
+        ], 
+        "saMDivigrahaka": [
+            "saMDivigraha"
+        ], 
+        "saMDyAMSaka": [
+            "saMDyAMSa"
+        ], 
+        "saMGAtaka": [
+            "saMGAta"
+        ], 
+        "saMGAwaka": [
+            "saMGAwa"
+        ], 
+        "saMKyaka": [
+            "saMKya"
+        ], 
+        "saMSaptaka": [
+            "saMSapta"
+        ], 
+        "saMcAraka": [
+            "saMcAra"
+        ], 
+        "saMdaMSaka": [
+            "saMdaMSa"
+        ], 
+        "saMdazwaka": [
+            "saMdazwa"
+        ], 
+        "saMgItaka": [
+            "saMgIta"
+        ], 
+        "saMgrAhaka": [
+            "saMgrAha"
+        ], 
+        "saMhAraka": [
+            "saMhAra"
+        ], 
+        "saMhatASvaka": [
+            "saMhatASva"
+        ], 
+        "saMjIvaka": [
+            "saMjIva"
+        ], 
+        "saMjYaka": [
+            "saMjYa"
+        ], 
+        "saMkalpaka": [
+            "saMkalpa"
+        ], 
+        "saMketaka": [
+            "saMketa"
+        ], 
+        "saMkledaka": [
+            "saMkleda"
+        ], 
+        "saMkocaka": [
+            "saMkoca"
+        ], 
+        "saMkocitaka": [
+            "saMkocita"
+        ], 
+        "saMkrAntaka": [
+            "saMkrAnta"
+        ], 
+        "saMkzepaka": [
+            "saMkzepa"
+        ], 
+        "saMniroDaka": [
+            "saMniroDa"
+        ], 
+        "saMsAraka": [
+            "saMsAra"
+        ], 
+        "saMskAraka": [
+            "saMskAra"
+        ], 
+        "saMsparSaka": [
+            "saMsparSa"
+        ], 
+        "saMtAnaka": [
+            "saMtAna"
+        ], 
+        "saMtApaka": [
+            "saMtApa"
+        ], 
+        "saMvAhaka": [
+            "saMvAha"
+        ], 
+        "saMvartaka": [
+            "saMvarta"
+        ], 
+        "saMveSaka": [
+            "saMveSa"
+        ], 
+        "saSUlaka": [
+            "saSUla"
+        ], 
+        "sabIjaka": [
+            "sabIja"
+        ], 
+        "saccidAnandaka": [
+            "saccidAnanda"
+        ], 
+        "sadozaka": [
+            "sadoza"
+        ], 
+        "sahAyaka": [
+            "sahAya"
+        ], 
+        "sahadevaka": [
+            "sahadeva"
+        ], 
+        "sahakAraka": [
+            "sahakAra"
+        ], 
+        "sahasraka": [
+            "sahasra"
+        ], 
+        "sajIraka": [
+            "sajIra"
+        ], 
+        "sakAraka": [
+            "sakAra"
+        ], 
+        "sakawaka": [
+            "sakawa"
+        ], 
+        "saketaka": [
+            "saketa"
+        ], 
+        "sakumBaka": [
+            "sakumBa"
+        ], 
+        "samAMSaka": [
+            "samAMSa"
+        ], 
+        "samAnaka": [
+            "samAna"
+        ], 
+        "samUhakzAraka": [
+            "samUhakzAra"
+        ], 
+        "samaganDaka": [
+            "samaganDa"
+        ], 
+        "samagraka": [
+            "samagra"
+        ], 
+        "samaka": [
+            "sama"
+        ], 
+        "samantraka": [
+            "samantra"
+        ], 
+        "samarTaka": [
+            "samarTa"
+        ], 
+        "samastaka": [
+            "samasta"
+        ], 
+        "sambanDaka": [
+            "sambanDa"
+        ], 
+        "sampAdaka": [
+            "sampAda"
+        ], 
+        "samprakASaka": [
+            "samprakASa"
+        ], 
+        "samprayuktaka": [
+            "samprayukta"
+        ], 
+        "sampuwaka": [
+            "sampuwa"
+        ], 
+        "samuYjaka": [
+            "samuYja"
+        ], 
+        "samudgaka": [
+            "samudga"
+        ], 
+        "samudraPenaka": [
+            "samudraPena"
+        ], 
+        "samudraSozaka": [
+            "samudraSoza"
+        ], 
+        "sanAmaka": [
+            "sanAma"
+        ], 
+        "sanaka": [
+            "sana"
+        ], 
+        "sanatkumAraka": [
+            "sanatkumAra"
+        ], 
+        "sapItaka": [
+            "sapIta"
+        ], 
+        "saptadaSaka": [
+            "saptadaSa"
+        ], 
+        "saptaka": [
+            "sapta"
+        ], 
+        "saptaviMSaka": [
+            "saptaviMSa"
+        ], 
+        "sarAzwraka": [
+            "sarAzwra"
+        ], 
+        "sarUpaka": [
+            "sarUpa"
+        ], 
+        "saranDraka": [
+            "saranDra"
+        ], 
+        "sarjaka": [
+            "sarja"
+        ], 
+        "sarpacCattraka": [
+            "sarpacCattra"
+        ], 
+        "sarpaka": [
+            "sarpa"
+        ], 
+        "sarvAntaka": [
+            "sarvAnta"
+        ], 
+        "sarvakAmaka": [
+            "sarvakAma"
+        ], 
+        "sarvaka": [
+            "sarva"
+        ], 
+        "sarvatoBadraka": [
+            "sarvatoBadra"
+        ], 
+        "sarzapaka": [
+            "sarzapa"
+        ], 
+        "sasUtaka": [
+            "sasUta"
+        ], 
+        "sasyaka": [
+            "sasya"
+        ], 
+        "satInaka": [
+            "satIna"
+        ], 
+        "satataka": [
+            "satata"
+        ], 
+        "satiktaka": [
+            "satikta"
+        ], 
+        "sattraka": [
+            "sattra"
+        ], 
+        "sattvaka": [
+            "sattva"
+        ], 
+        "satyaka": [
+            "satya"
+        ], 
+        "savIryaka": [
+            "savIrya"
+        ], 
+        "savarRaka": [
+            "savarRa"
+        ], 
+        "savastraka": [
+            "savastra"
+        ], 
+        "savatsaka": [
+            "savatsa"
+        ], 
+        "savikalpaka": [
+            "savikalpa"
+        ], 
+        "savyaka": [
+            "savya"
+        ], 
+        "sawwaka": [
+            "sawwa"
+        ], 
+        "sehulaka": [
+            "sehula"
+        ], 
+        "senaka": [
+            "sena"
+        ], 
+        "sendraka": [
+            "sendra"
+        ], 
+        "seraka": [
+            "sera"
+        ], 
+        "sevaka": [
+            "seva"
+        ], 
+        "sevanaka": [
+            "sevana"
+        ], 
+        "siMhalaka": [
+            "siMhala"
+        ], 
+        "siMhatuRqaka": [
+            "siMhatuRqa"
+        ], 
+        "siNGARaka": [
+            "siNGARa"
+        ], 
+        "sidDArTaka": [
+            "sidDArTa"
+        ], 
+        "sidDaka": [
+            "sidDa"
+        ], 
+        "sidDasUtraka": [
+            "sidDasUtra"
+        ], 
+        "sihlaka": [
+            "sihla"
+        ], 
+        "sikTaka": [
+            "sikTa"
+        ], 
+        "sikatayantraka": [
+            "sikatayantra"
+        ], 
+        "siktaka": [
+            "sikta"
+        ], 
+        "silhaka": [
+            "silha"
+        ], 
+        "sinDuvAraka": [
+            "sinDuvAra"
+        ], 
+        "sindUraka": [
+            "sindUra"
+        ], 
+        "sinduvAraka": [
+            "sinduvAra"
+        ], 
+        "sitABraka": [
+            "sitABra"
+        ], 
+        "sitapuzpaka": [
+            "sitapuzpa"
+        ], 
+        "skanDaka": [
+            "skanDa"
+        ], 
+        "smAraRIyaka": [
+            "smaraRIya 0"
+        ], 
+        "smAraka": [
+            "smAra", 
+            "smara 0"
+        ], 
+        "snAtaka": [
+            "snAta"
+        ], 
+        "snigDaka": [
+            "snigDa"
+        ], 
+        "snigDapattraka": [
+            "snigDapattra"
+        ], 
+        "somAlaka": [
+            "somAla"
+        ], 
+        "somaka": [
+            "soma"
+        ], 
+        "somarogaka": [
+            "somaroga"
+        ], 
+        "somatIrTaka": [
+            "somatIrTa"
+        ], 
+        "somilaka": [
+            "somila"
+        ], 
+        "sopAnaka": [
+            "sopAna"
+        ], 
+        "sopaDAnaka": [
+            "sopaDAna"
+        ], 
+        "sozRaka": [
+            "sozRa"
+        ], 
+        "sparSaka": [
+            "sparSa"
+        ], 
+        "sparSanaka": [
+            "sparSana"
+        ], 
+        "sparSaveDaka": [
+            "sparSaveDa"
+        ], 
+        "spfzwaka": [
+            "spfzwa"
+        ], 
+        "stamBaka": [
+            "stamBa"
+        ], 
+        "stamBanaka": [
+            "stamBana"
+        ], 
+        "stambaka": [
+            "stamba"
+        ], 
+        "stoBaka": [
+            "stoBa"
+        ], 
+        "stokaka": [
+            "stoka"
+        ], 
+        "stomaka": [
+            "stoma"
+        ], 
+        "suBadraka": [
+            "suBadra"
+        ], 
+        "suBojaka": [
+            "suBoja"
+        ], 
+        "suSAkaka": [
+            "suSAka"
+        ], 
+        "subAlaka": [
+            "subAla"
+        ], 
+        "subIjaka": [
+            "subIja"
+        ], 
+        "sudAnaka": [
+            "sudAna"
+        ], 
+        "sugItaka": [
+            "sugIta"
+        ], 
+        "suganDaka": [
+            "suganDa"
+        ], 
+        "suganDimUlaka": [
+            "suganDimUla"
+        ], 
+        "suhmaka": [
+            "suhma"
+        ], 
+        "sukARqaka": [
+            "sukARqa"
+        ], 
+        "sukAzWaka": [
+            "sukAzWa"
+        ], 
+        "sukandaka": [
+            "sukanda"
+        ], 
+        "sukarRaka": [
+            "sukarRa"
+        ], 
+        "sukumAraka": [
+            "sukumAra"
+        ], 
+        "sulaBaka": [
+            "sulaBa"
+        ], 
+        "sumUlaka": [
+            "sumUla"
+        ], 
+        "sumantraka": [
+            "sumantra"
+        ], 
+        "sumitraka": [
+            "sumitra"
+        ], 
+        "sunABaka": [
+            "sunABa"
+        ], 
+        "sunAdaka": [
+            "sunAda"
+        ], 
+        "sunITaka": [
+            "sunITa"
+        ], 
+        "sunIlaka": [
+            "sunIla"
+        ], 
+        "sundarasenaka": [
+            "sundarasena"
+        ], 
+        "sunetraka": [
+            "sunetra"
+        ], 
+        "sunizaRRaka": [
+            "sunizaRRa"
+        ], 
+        "supArSvaka": [
+            "supArSva"
+        ], 
+        "supUraka": [
+            "supUra"
+        ], 
+        "suparRaka": [
+            "suparRa"
+        ], 
+        "supattraka": [
+            "supattra"
+        ], 
+        "suprasannaka": [
+            "suprasanna"
+        ], 
+        "suptaka": [
+            "supta"
+        ], 
+        "suputraka": [
+            "suputra"
+        ], 
+        "supuzpaka": [
+            "supuzpa"
+        ], 
+        "surArhaka": [
+            "surArha"
+        ], 
+        "surUpaka": [
+            "surUpa"
+        ], 
+        "suraNgaka": [
+            "suraNga"
+        ], 
+        "suragopaka": [
+            "suragopa"
+        ], 
+        "suraktaka": [
+            "surakta"
+        ], 
+        "surakzaka": [
+            "surakza"
+        ], 
+        "suratnaka": [
+            "suratna"
+        ], 
+        "surezwaka": [
+            "surezwa"
+        ], 
+        "surodaka": [
+            "suroda"
+        ], 
+        "surohaka": [
+            "suroha"
+        ], 
+        "susidDaka": [
+            "susidDa"
+        ], 
+        "sutAlaka": [
+            "sutAla"
+        ], 
+        "sutIkzRaka": [
+            "sutIkzRa"
+        ], 
+        "sutIrTaka": [
+            "sutIrTa"
+        ], 
+        "sutajIvaka": [
+            "sutajIva"
+        ], 
+        "sutiktaka": [
+            "sutikta"
+        ], 
+        "suvIraka": [
+            "suvIra"
+        ], 
+        "suvarRaka": [
+            "suvarRa"
+        ], 
+        "suvarRamAzaka": [
+            "suvarRamAza"
+        ], 
+        "suvasantaka": [
+            "suvasanta"
+        ], 
+        "suzeRaka": [
+            "suzeRa"
+        ], 
+        "suziraka": [
+            "suzira"
+        ], 
+        "svANgaSItalaka": [
+            "svANgaSItala"
+        ], 
+        "svAdukaRwaka": [
+            "svAdukaRwa"
+        ], 
+        "svakIyaka": [
+            "svakIya"
+        ], 
+        "svaka": [
+            "sva"
+        ], 
+        "svarRaka": [
+            "svarRa"
+        ], 
+        "svarUpaka": [
+            "svarUpa"
+        ], 
+        "svastivAcanaka": [
+            "svastivAcana"
+        ], 
+        "svedanaka": [
+            "svedana"
+        ], 
+        "syAlaka": [
+            "syAla"
+        ], 
+        "syamantaka": [
+            "syamanta"
+        ], 
+        "tAlaka": [
+            "tAla", 
+            "tala"
+        ], 
+        "tAlapattraka": [
+            "tAlapattra"
+        ], 
+        "tAmraka": [
+            "tAmra", 
+            "tamra"
+        ], 
+        "tAmraliptaka": [
+            "tAmralipta"
+        ], 
+        "tAmrasAraka": [
+            "tAmrasAra"
+        ], 
+        "tAmravarRaka": [
+            "tAmravarRa"
+        ], 
+        "tApaka": [
+            "tApa", 
+            "tapa"
+        ], 
+        "tApyaka": [
+            "tApya", 
+            "tapya"
+        ], 
+        "tAqaka": [
+            "tAqa"
+        ], 
+        "tArABraka": [
+            "tArABra"
+        ], 
+        "tAraka": [
+            "tAra", 
+            "tara"
+        ], 
+        "tElaka": [
+            "tEla", 
+            "tela", 
+            "tila"
+        ], 
+        "tElapItaka": [
+            "tElapIta"
+        ], 
+        "tElapaka": [
+            "tElapa"
+        ], 
+        "tElaparRaka": [
+            "tElaparRa", 
+            "tilaparRa", 
+            "tIlaparRa"
+        ], 
+        "tElvaka": [
+            "tilva"
+        ], 
+        "tIkzRABraka": [
+            "tIkzRABra"
+        ], 
+        "tIkzRaka": [
+            "tIkzRa"
+        ], 
+        "tIkzRakaRwaka": [
+            "tIkzRakaRwa"
+        ], 
+        "tIkzRasAraka": [
+            "tIkzRasAra"
+        ], 
+        "tIrTaka": [
+            "tIrTa"
+        ], 
+        "tIraka": [
+            "tIra"
+        ], 
+        "tIravfkzaka": [
+            "tIravfkza"
+        ], 
+        "tIvraka": [
+            "tIvra"
+        ], 
+        "tUlaka": [
+            "tUla"
+        ], 
+        "tUrRaka": [
+            "tUrRa"
+        ], 
+        "taRqaka": [
+            "taRqa"
+        ], 
+        "taRqulIyaka": [
+            "taRqulIya"
+        ], 
+        "taRqulaka": [
+            "taRqula"
+        ], 
+        "taRqulodaka": [
+            "taRquloda"
+        ], 
+        "tadIyaka": [
+            "tadIya"
+        ], 
+        "takraka": [
+            "takra"
+        ], 
+        "takzaka": [
+            "takza"
+        ], 
+        "talaka": [
+            "tala"
+        ], 
+        "tamAlaka": [
+            "tamAla"
+        ], 
+        "tamaka": [
+            "tama"
+        ], 
+        "tanmAtraka": [
+            "tanmAtra"
+        ], 
+        "tantraka": [
+            "tantra"
+        ], 
+        "tapanIyaka": [
+            "tapanIya"
+        ], 
+        "taptaKalvaka": [
+            "taptaKalva"
+        ], 
+        "taptarUpaka": [
+            "taptarUpa"
+        ], 
+        "tarRaka": [
+            "tarRa"
+        ], 
+        "tarkaka": [
+            "tarka"
+        ], 
+        "taruRaka": [
+            "taruRa"
+        ], 
+        "tattvaka": [
+            "tattva"
+        ], 
+        "tejanaka": [
+            "tejana"
+        ], 
+        "tfRaka": [
+            "tfRa"
+        ], 
+        "tftIyaka": [
+            "tftIya"
+        ], 
+        "tiktaka": [
+            "tikta"
+        ], 
+        "tilaka": [
+            "tila"
+        ], 
+        "tilapIqaka": [
+            "tilapIqa"
+        ], 
+        "tilaparRaka": [
+            "tilaparRa"
+        ], 
+        "tilapuzpaka": [
+            "tilapuzpa"
+        ], 
+        "tilvaka": [
+            "tilva"
+        ], 
+        "tirIwaka": [
+            "tirIwa"
+        ], 
+        "tiryakpAtanaka": [
+            "tiryakpAtana"
+        ], 
+        "tiryakpAtanayantraka": [
+            "tiryakpAtanayantra"
+        ], 
+        "tolaka": [
+            "tola"
+        ], 
+        "tozaka": [
+            "toza"
+        ], 
+        "trARaka": [
+            "trARa"
+        ], 
+        "trAyamARaka": [
+            "trAyamARa"
+        ], 
+        "trEgartaka": [
+            "trEgarta", 
+            "trigarta"
+        ], 
+        "trayaka": [
+            "traya"
+        ], 
+        "trayodaSaka": [
+            "trayodaSa"
+        ], 
+        "trayoviMSaka": [
+            "trayoviMSa"
+        ], 
+        "triDAraka": [
+            "triDAra"
+        ], 
+        "triMSaka": [
+            "triMSa"
+        ], 
+        "triPalaka": [
+            "triPala"
+        ], 
+        "triSUlaka": [
+            "triSUla"
+        ], 
+        "tribIjaka": [
+            "tribIja"
+        ], 
+        "tridaRqaka": [
+            "tridaRqa"
+        ], 
+        "tridozaka": [
+            "tridoza"
+        ], 
+        "trijAtaka": [
+            "trijAta"
+        ], 
+        "trikUwaka": [
+            "trikUwa"
+        ], 
+        "trikaRwaka": [
+            "trikaRwa"
+        ], 
+        "trikoRaka": [
+            "trikoRa"
+        ], 
+        "trilohaka": [
+            "triloha"
+        ], 
+        "tripuRqraka": [
+            "tripuRqra"
+        ], 
+        "tripurAntaka": [
+            "tripurAnta"
+        ], 
+        "tripuwaka": [
+            "tripuwa"
+        ], 
+        "trivarRaka": [
+            "trivarRa"
+        ], 
+        "tuNgaka": [
+            "tuNga"
+        ], 
+        "tucCaka": [
+            "tucCa"
+        ], 
+        "tulyaka": [
+            "tulya"
+        ], 
+        "turIyaka": [
+            "turIya"
+        ], 
+        "tutTaka": [
+            "tutTa"
+        ], 
+        "tuzodaka": [
+            "tuzoda"
+        ], 
+        "tvAdfSaka": [
+            "tvAdfSa"
+        ], 
+        "tvaksuganDaka": [
+            "tvaksuganDa"
+        ], 
+        "tvaritaka": [
+            "tvarita"
+        ], 
+        "tyAjaka": [
+            "tyaja"
+        ], 
+        "uSIraka": [
+            "uSIra"
+        ], 
+        "ucCIrzaka": [
+            "ucCIrza"
+        ], 
+        "ucCUnaka": [
+            "ucCUna"
+        ], 
+        "ucCedaka": [
+            "ucCeda"
+        ], 
+        "ucCrAyaka": [
+            "ucCrAya"
+        ], 
+        "uccEHSravasaka": [
+            "uccEHSravasa"
+        ], 
+        "uccidiNgaka": [
+            "uccidiNga"
+        ], 
+        "udAraka": [
+            "udAra"
+        ], 
+        "udAvartaka": [
+            "udAvarta"
+        ], 
+        "udDAraka": [
+            "udDAra"
+        ], 
+        "udUKalaka": [
+            "udUKala"
+        ], 
+        "udaka": [
+            "uda"
+        ], 
+        "udapAnaka": [
+            "udapAna"
+        ], 
+        "udayaka": [
+            "udaya"
+        ], 
+        "udbanDaka": [
+            "udbanDa"
+        ], 
+        "uddAlaka": [
+            "uddAla"
+        ], 
+        "uddAnaka": [
+            "uddAna"
+        ], 
+        "uddaRqaka": [
+            "uddaRqa"
+        ], 
+        "uddyotaka": [
+            "uddyota"
+        ], 
+        "udraka": [
+            "udra"
+        ], 
+        "udvahanaka": [
+            "udvahana"
+        ], 
+        "udvartanaka": [
+            "udvartana"
+        ], 
+        "udvepaka": [
+            "udvepa"
+        ], 
+        "udvezwanaka": [
+            "udvezwana"
+        ], 
+        "uhyamAnaka": [
+            "uhyamAna"
+        ], 
+        "ujjayanaka": [
+            "ujjayana"
+        ], 
+        "ukzaka": [
+            "ukza"
+        ], 
+        "ulaka": [
+            "ula"
+        ], 
+        "ulkaka": [
+            "ulka"
+        ], 
+        "ullApaka": [
+            "ullApa"
+        ], 
+        "unmAdaka": [
+            "unmAda"
+        ], 
+        "unmUlanaka": [
+            "unmUlana"
+        ], 
+        "unmanTaka": [
+            "unmanTa"
+        ], 
+        "unmattaka": [
+            "unmatta"
+        ], 
+        "unmezaka": [
+            "unmeza"
+        ], 
+        "upAsanaka": [
+            "upAsana"
+        ], 
+        "upaDAnaka": [
+            "upaDAna"
+        ], 
+        "upaGAtaka": [
+            "upaGAta"
+        ], 
+        "upaSlezaka": [
+            "upaSleza"
+        ], 
+        "upacAraka": [
+            "upacAra"
+        ], 
+        "upacakraka": [
+            "upacakra"
+        ], 
+        "upacitaka": [
+            "upacita"
+        ], 
+        "upadaMSaka": [
+            "upadaMSa"
+        ], 
+        "upadeSaka": [
+            "upadeSa"
+        ], 
+        "upagrAhaka": [
+            "upagrAha"
+        ], 
+        "upahAraka": [
+            "upahAra"
+        ], 
+        "upahataka": [
+            "upahata"
+        ], 
+        "upajApaka": [
+            "upajApa"
+        ], 
+        "upajIvaka": [
+            "upajIva"
+        ], 
+        "upakAraka": [
+            "upakAra"
+        ], 
+        "upaka": [
+            "upa"
+        ], 
+        "upakurvARaka": [
+            "upakurvARa"
+        ], 
+        "upalaBedaka": [
+            "upalaBeda"
+        ], 
+        "upalaka": [
+            "upala"
+        ], 
+        "upalakzaka": [
+            "upalakza"
+        ], 
+        "upalamBaka": [
+            "upalamBa"
+        ], 
+        "upamardaka": [
+            "upamarda"
+        ], 
+        "upanItaka": [
+            "upanIta"
+        ], 
+        "upanandaka": [
+            "upananda"
+        ], 
+        "upapAdaka": [
+            "upapAda"
+        ], 
+        "upapAtaka": [
+            "upapAta"
+        ], 
+        "uparoDaka": [
+            "uparoDa"
+        ], 
+        "upasTAnaka": [
+            "upasTAna"
+        ], 
+        "upasTAyaka": [
+            "upasTAya"
+        ], 
+        "upasaMhAraka": [
+            "upasaMhAra"
+        ], 
+        "upasfptaka": [
+            "upasfpta"
+        ], 
+        "upastamBaka": [
+            "upastamBa"
+        ], 
+        "upavAsaka": [
+            "upavAsa"
+        ], 
+        "upavItaka": [
+            "upavIta"
+        ], 
+        "upavizwaka": [
+            "upavizwa"
+        ], 
+        "upayogaka": [
+            "upayoga"
+        ], 
+        "upazwamBaka": [
+            "upazwamBa"
+        ], 
+        "upekzaka": [
+            "upekza"
+        ], 
+        "uqqIyAnaka": [
+            "uqqIyAna"
+        ], 
+        "uqqiyAnaka": [
+            "uqqiyAna"
+        ], 
+        "urukAlaka": [
+            "urukAla"
+        ], 
+        "utPullaka": [
+            "utPulla"
+        ], 
+        "utTAnaka": [
+            "utTAna"
+        ], 
+        "utTApanaka": [
+            "utTApana"
+        ], 
+        "utkawaka": [
+            "utkawa"
+        ], 
+        "utkleSaka": [
+            "utkleSa"
+        ], 
+        "utkocaka": [
+            "utkoca"
+        ], 
+        "utkuwaka": [
+            "utkuwa"
+        ], 
+        "utkzepaka": [
+            "utkzepa"
+        ], 
+        "utpAdaka": [
+            "utpAda"
+        ], 
+        "utpIqitaka": [
+            "utpIqita"
+        ], 
+        "utpalaka": [
+            "utpala"
+        ], 
+        "utpalapattraka": [
+            "utpalapattra"
+        ], 
+        "utpiYjalaka": [
+            "utpiYjala"
+        ], 
+        "utprAsaka": [
+            "utprAsa"
+        ], 
+        "uttAnapattraka": [
+            "uttAnapattra"
+        ], 
+        "uttAraka": [
+            "uttAra"
+        ], 
+        "uttarIyaka": [
+            "uttarIya"
+        ], 
+        "uzRaka": [
+            "uzRa"
+        ], 
+        "uzwraDUmaka": [
+            "uzwraDUma"
+        ], 
+        "vARijaka": [
+            "vARija", 
+            "vaRija"
+        ], 
+        "vASaka": [
+            "vaSa"
+        ], 
+        "vAcaka": [
+            "vAca", 
+            "vaca"
+        ], 
+        "vAcanaka": [
+            "vAcana", 
+            "vacana"
+        ], 
+        "vAdaka": [
+            "vAda", 
+            "vada"
+        ], 
+        "vAdyaka": [
+            "vAdya", 
+            "vadya"
+        ], 
+        "vAhaka": [
+            "vAha", 
+            "vaha"
+        ], 
+        "vAhyaka": [
+            "vAhya", 
+            "vahya"
+        ], 
+        "vAjaka": [
+            "vAja"
+        ], 
+        "vAjasaneyaka": [
+            "vAjasaneya"
+        ], 
+        "vAjidantaka": [
+            "vAjidanta"
+        ], 
+        "vAlaka": [
+            "vAla", 
+            "vala"
+        ], 
+        "vAlukAyantraka": [
+            "vAlukAyantra"
+        ], 
+        "vAlukaka": [
+            "vAluka"
+        ], 
+        "vAlukayantraka": [
+            "vAlukayantra"
+        ], 
+        "vAmIyaka": [
+            "vAmIya"
+        ], 
+        "vAmaka": [
+            "vAma", 
+            "vama"
+        ], 
+        "vAmanaka": [
+            "vAmana", 
+            "vamana"
+        ], 
+        "vAnavAsaka": [
+            "vanavAsa"
+        ], 
+        "vArAhapuwaka": [
+            "vArAhapuwa"
+        ], 
+        "vAraRAvataka": [
+            "vAraRAvata"
+        ], 
+        "vAraRaka": [
+            "vAraRa", 
+            "varaRa"
+        ], 
+        "vAraka": [
+            "vara 0", 
+            "vAra"
+        ], 
+        "vArdDaka": [
+            "vArdDa"
+        ], 
+        "vArinIlaka": [
+            "vArinIla"
+        ], 
+        "vAruRaka": [
+            "vAruRa", 
+            "varuRa"
+        ], 
+        "vAsaka": [
+            "vAsa 0", 
+            "vasa 0", 
+            "vasa"
+        ], 
+        "vAsudevaka": [
+            "vAsudeva", 
+            "vasudeva"
+        ], 
+        "vAtUkaka": [
+            "vAtUka"
+        ], 
+        "vAtUlaka": [
+            "vAtUla"
+        ], 
+        "vAtaka": [
+            "vata", 
+            "vAta 0"
+        ], 
+        "vAtikazaRqaka": [
+            "vAtikazaRqa"
+        ], 
+        "vAtsaka": [
+            "vatsa 1", 
+            "vAtsa"
+        ], 
+        "vAwaka": [
+            "vAwa 0", 
+            "vawa"
+        ], 
+        "vAwyAlaka": [
+            "vAwyAla"
+        ], 
+        "vAyaka": [
+            "vAya", 
+            "vaya"
+        ], 
+        "vAyasaka": [
+            "vAyasa", 
+            "vayasa"
+        ], 
+        "vEBItaka": [
+            "vEBIta", 
+            "viBIta"
+        ], 
+        "vEDarmaka": [
+            "viDarma"
+        ], 
+        "vESAlaka": [
+            "vESAla 0", 
+            "viSAla"
+        ], 
+        "vESramBaka": [
+            "viSramBa"
+        ], 
+        "vEdarBaka": [
+            "vEdarBa", 
+            "vidarBa"
+        ], 
+        "vEdehaka": [
+            "vEdeha", 
+            "videha"
+        ], 
+        "vEdyaka": [
+            "vEdya", 
+            "vedya"
+        ], 
+        "vEkftaka": [
+            "vEkfta", 
+            "vikfta"
+        ], 
+        "vEkrAntaka": [
+            "vEkrAnta", 
+            "vikrAnta"
+        ], 
+        "vEqUryaka": [
+            "vEqUrya"
+        ], 
+        "vErAwaka": [
+            "vErAwa", 
+            "virAwa"
+        ], 
+        "vEtraka": [
+            "vetra 1"
+        ], 
+        "vIRAdattaka": [
+            "vIRAdatta"
+        ], 
+        "vIraka": [
+            "vIra"
+        ], 
+        "vIryaka": [
+            "vIrya"
+        ], 
+        "vaDaka": [
+            "vaDa"
+        ], 
+        "vaMSaka": [
+            "vaMSa"
+        ], 
+        "vaMSamUlaka": [
+            "vaMSamUla"
+        ], 
+        "vaMSapattraka": [
+            "vaMSapattra"
+        ], 
+        "vaNgABraka": [
+            "vaNgABra"
+        ], 
+        "vaNgaka": [
+            "vaNga"
+        ], 
+        "vaRijaka": [
+            "vaRija"
+        ], 
+        "vaRwaka": [
+            "vaRwa"
+        ], 
+        "vaSyaka": [
+            "vaSya"
+        ], 
+        "vadanaka": [
+            "vadana"
+        ], 
+        "vahnilohaka": [
+            "vahniloha"
+        ], 
+        "vajrABraka": [
+            "vajrABra"
+        ], 
+        "vajradaRqaka": [
+            "vajradaRqa"
+        ], 
+        "vajraka": [
+            "vajra"
+        ], 
+        "vajrakaRwaka": [
+            "vajrakaRwa"
+        ], 
+        "vajrakandaka": [
+            "vajrakanda"
+        ], 
+        "vajravIraka": [
+            "vajravIra"
+        ], 
+        "vakrakaRwaka": [
+            "vakrakaRwa"
+        ], 
+        "vaktraka": [
+            "vaktra"
+        ], 
+        "vakzyamARaka": [
+            "vakzyamARa"
+        ], 
+        "valayaka": [
+            "valaya"
+        ], 
+        "valkaloDraka": [
+            "valkaloDra"
+        ], 
+        "valkaroDraka": [
+            "valkaroDra"
+        ], 
+        "vallUraka": [
+            "vallUra"
+        ], 
+        "vallaka": [
+            "valla"
+        ], 
+        "vanaSfNgAwaka": [
+            "vanaSfNgAwa"
+        ], 
+        "vanabIjapUraka": [
+            "vanabIjapUra"
+        ], 
+        "vanaka": [
+            "vana"
+        ], 
+        "vanarAjaka": [
+            "vanarAja"
+        ], 
+        "vanatiktaka": [
+            "vanatikta"
+        ], 
+        "vanavAsaka": [
+            "vanavAsa"
+        ], 
+        "vanopalaka": [
+            "vanopala"
+        ], 
+        "varANgaka": [
+            "varANga"
+        ], 
+        "varAhaka": [
+            "varAha"
+        ], 
+        "varAlaka": [
+            "varAla"
+        ], 
+        "varAwaka": [
+            "varAwa"
+        ], 
+        "varDaka": [
+            "varDa"
+        ], 
+        "varDamAnaka": [
+            "varDamAna"
+        ], 
+        "varDanaka": [
+            "varDana"
+        ], 
+        "varRaka": [
+            "varRa"
+        ], 
+        "varaRaka": [
+            "varaRa"
+        ], 
+        "varalohaka": [
+            "varaloha"
+        ], 
+        "varjaka": [
+            "varja"
+        ], 
+        "vartIraka": [
+            "vartIra"
+        ], 
+        "vartaka": [
+            "varta"
+        ], 
+        "vartalohaka": [
+            "vartaloha"
+        ], 
+        "vartamAnaka": [
+            "vartamAna"
+        ], 
+        "vartulaka": [
+            "vartula"
+        ], 
+        "varuRaka": [
+            "varuRa"
+        ], 
+        "varzaka": [
+            "varza"
+        ], 
+        "vasantaka": [
+            "vasanta"
+        ], 
+        "vasizWaka": [
+            "vasizWa"
+        ], 
+        "vastaka": [
+            "vasta"
+        ], 
+        "vastraka": [
+            "vastra"
+        ], 
+        "vataMsaka": [
+            "vataMsa"
+        ], 
+        "vatsaka": [
+            "vatsa"
+        ], 
+        "vatsanABaka": [
+            "vatsanABa"
+        ], 
+        "vawaka": [
+            "vawa"
+        ], 
+        "vawapattraka": [
+            "vawapattra"
+        ], 
+        "vawwalohaka": [
+            "vawwaloha"
+        ], 
+        "vayasyaka": [
+            "vayasya"
+        ], 
+        "veDaka": [
+            "veDa"
+        ], 
+        "veDamuKyaka": [
+            "veDamuKya"
+        ], 
+        "veRumaRqalaka": [
+            "veRumaRqala"
+        ], 
+        "veRupattraka": [
+            "veRupattra"
+        ], 
+        "vedaka": [
+            "veda"
+        ], 
+        "vellaka": [
+            "vella"
+        ], 
+        "vellitaka": [
+            "vellita"
+        ], 
+        "vepaka": [
+            "vepa"
+        ], 
+        "vetAlaka": [
+            "vetAla"
+        ], 
+        "vetasapattraka": [
+            "vetasapattra"
+        ], 
+        "vetraka": [
+            "vetra"
+        ], 
+        "vezwaka": [
+            "vezwa"
+        ], 
+        "vezwitaka": [
+            "vezwita"
+        ], 
+        "vfScIvaka": [
+            "vfScIva"
+        ], 
+        "vfdDadAraka": [
+            "vfdDadAra"
+        ], 
+        "vfkkaka": [
+            "vfkka"
+        ], 
+        "vfkzAmlaka": [
+            "vfkzAmla"
+        ], 
+        "vfkzaDUpaka": [
+            "vfkzaDUpa"
+        ], 
+        "vfkzaka": [
+            "vfkza"
+        ], 
+        "vfndAraka": [
+            "vfndAra"
+        ], 
+        "vfndaka": [
+            "vfnda"
+        ], 
+        "vfntaka": [
+            "vfnta"
+        ], 
+        "vfttaka": [
+            "vftta"
+        ], 
+        "vfzadaMSaka": [
+            "vfzadaMSa"
+        ], 
+        "vfzaka": [
+            "vfza"
+        ], 
+        "vfzyaka": [
+            "vfzya"
+        ], 
+        "viBARqaka": [
+            "viBARqa"
+        ], 
+        "viBAsaka": [
+            "viBAsa"
+        ], 
+        "viBItaka": [
+            "viBIta"
+        ], 
+        "viBedaka": [
+            "viBeda"
+        ], 
+        "viDAnaka": [
+            "viDAna"
+        ], 
+        "viDAraka": [
+            "viDAra"
+        ], 
+        "viDvaMsaka": [
+            "viDvaMsa"
+        ], 
+        "viGAtaka": [
+            "viGAta"
+        ], 
+        "viGnaka": [
+            "viGna"
+        ], 
+        "viGnarAjaka": [
+            "viGnarAja"
+        ], 
+        "viMSaka": [
+            "viMSa"
+        ], 
+        "viSAKaka": [
+            "viSAKa"
+        ], 
+        "viSAlaka": [
+            "viSAla"
+        ], 
+        "viSalyaka": [
+            "viSalya"
+        ], 
+        "viSezaka": [
+            "viSeza"
+        ], 
+        "viSrAntaka": [
+            "viSrAnta"
+        ], 
+        "viSvaka": [
+            "viSva"
+        ], 
+        "viSvarUpaka": [
+            "viSvarUpa"
+        ], 
+        "vibanDaka": [
+            "vibanDa"
+        ], 
+        "vicAraka": [
+            "vicAra"
+        ], 
+        "vicCandaka": [
+            "vicCanda"
+        ], 
+        "vicCedaka": [
+            "vicCeda"
+        ], 
+        "vicintaka": [
+            "vicinta"
+        ], 
+        "vicitraka": [
+            "vicitra"
+        ], 
+        "vidAraka": [
+            "vidAra"
+        ], 
+        "vidDaka": [
+            "vidDa"
+        ], 
+        "vidUraka": [
+            "vidUra"
+        ], 
+        "vidrutaka": [
+            "vidruta"
+        ], 
+        "viganDaka": [
+            "viganDa"
+        ], 
+        "vihAraka": [
+            "vihAra"
+        ], 
+        "viheWaka": [
+            "viheWa"
+        ], 
+        "vijfmBaka": [
+            "vijfmBa"
+        ], 
+        "vijfmBitaka": [
+            "vijfmBita"
+        ], 
+        "vikAraka": [
+            "vikAra"
+        ], 
+        "vikalpaka": [
+            "vikalpa"
+        ], 
+        "vikatTaka": [
+            "vikatTa"
+        ], 
+        "vikftaka": [
+            "vikfta"
+        ], 
+        "vilAsaka": [
+            "vilAsa"
+        ], 
+        "vilakzaka": [
+            "vilakza"
+        ], 
+        "vilomaka": [
+            "viloma"
+        ], 
+        "vilopaka": [
+            "vilopa"
+        ], 
+        "vimAnaka": [
+            "vimAna"
+        ], 
+        "vimalaka": [
+            "vimala"
+        ], 
+        "vimarSaka": [
+            "vimarSa"
+        ], 
+        "vimardaka": [
+            "vimarda"
+        ], 
+        "vimiSraka": [
+            "vimiSra"
+        ], 
+        "vimohaka": [
+            "vimoha"
+        ], 
+        "vimuktaka": [
+            "vimukta"
+        ], 
+        "vinASaka": [
+            "vinASa"
+        ], 
+        "vinAmaka": [
+            "vinAma"
+        ], 
+        "vinDyaka": [
+            "vinDya"
+        ], 
+        "vindaka": [
+            "vinda"
+        ], 
+        "vinindaka": [
+            "vininda"
+        ], 
+        "vinodaka": [
+            "vinoda"
+        ], 
+        "vipUyaka": [
+            "vipUya"
+        ], 
+        "viparItaka": [
+            "viparIta"
+        ], 
+        "vipralamBaka": [
+            "vipralamBa"
+        ], 
+        "viqaNgaka": [
+            "viqaNga"
+        ], 
+        "viqambaka": [
+            "viqamba"
+        ], 
+        "viqvarAhaka": [
+            "viqvarAha"
+        ], 
+        "virAwaka": [
+            "virAwa"
+        ], 
+        "virUQaka": [
+            "virUQa"
+        ], 
+        "virUkzaka": [
+            "virUkza"
+        ], 
+        "virUpaka": [
+            "virUpa"
+        ], 
+        "viroDaka": [
+            "viroDa"
+        ], 
+        "viromaka": [
+            "viroma"
+        ], 
+        "visPowaka": [
+            "visPowa"
+        ], 
+        "visaMjYaka": [
+            "visaMjYa"
+        ], 
+        "visargaka": [
+            "visarga"
+        ], 
+        "visarpaka": [
+            "visarpa"
+        ], 
+        "vistAraka": [
+            "vistAra"
+        ], 
+        "vitAnaka": [
+            "vitAna"
+        ], 
+        "vitrastaka": [
+            "vitrasta"
+        ], 
+        "vittaka": [
+            "vitta"
+        ], 
+        "vitunnaka": [
+            "vitunna"
+        ], 
+        "vivItaka": [
+            "vivIta"
+        ], 
+        "viviMSaka": [
+            "viviMSa"
+        ], 
+        "vizARaka": [
+            "vizARa"
+        ], 
+        "vizRuguptaka": [
+            "vizRugupta"
+        ], 
+        "vizaRRaka": [
+            "vizaRRa"
+        ], 
+        "vizaka": [
+            "viza"
+        ], 
+        "vizakaRwaka": [
+            "vizakaRwa"
+        ], 
+        "vizapuzpaka": [
+            "vizapuzpa"
+        ], 
+        "vizkiraka": [
+            "vizkira"
+        ], 
+        "vizodaka": [
+            "vizoda"
+        ], 
+        "vizwamBaka": [
+            "vizwamBa"
+        ], 
+        "vrataka": [
+            "vrata"
+        ], 
+        "vyADiGAtaka": [
+            "vyADiGAta"
+        ], 
+        "vyAGAtaka": [
+            "vyAGAta"
+        ], 
+        "vyAGraka": [
+            "vyAGra"
+        ], 
+        "vyAGranaKaka": [
+            "vyAGranaKa"
+        ], 
+        "vyAladaMzwraka": [
+            "vyAladaMzwra"
+        ], 
+        "vyAlaka": [
+            "vyAla"
+        ], 
+        "vyAmiSraka": [
+            "vyAmiSra"
+        ], 
+        "vyAvartaka": [
+            "vyAvarta"
+        ], 
+        "vyaBicAraka": [
+            "vyaBicAra"
+        ], 
+        "vyaMsaka": [
+            "vyaMsa"
+        ], 
+        "vyapekzaka": [
+            "vyapekza"
+        ], 
+        "vyapohaka": [
+            "vyapoha"
+        ], 
+        "vyavacCedaka": [
+            "vyavacCeda"
+        ], 
+        "vyavasAyaka": [
+            "vyavasAya"
+        ], 
+        "vyozaka": [
+            "vyoza"
+        ], 
+        "waNkaRaka": [
+            "waNkaRa"
+        ], 
+        "yAcaka": [
+            "yAca"
+        ], 
+        "yAcanaka": [
+            "yAcana"
+        ], 
+        "yAcitaka": [
+            "yAcita"
+        ], 
+        "yAjaka": [
+            "yAja", 
+            "yaja"
+        ], 
+        "yAjanaka": [
+            "yAjana", 
+            "yajana"
+        ], 
+        "yAmaka": [
+            "yAma", 
+            "yama"
+        ], 
+        "yApaka": [
+            "yApa"
+        ], 
+        "yOtaka": [
+            "yuta"
+        ], 
+        "yUpaka": [
+            "yUpa"
+        ], 
+        "yUzaka": [
+            "yUza"
+        ], 
+        "yaTArTaka": [
+            "yaTArTa"
+        ], 
+        "yaTecCaka": [
+            "yaTecCa"
+        ], 
+        "yaTezwaka": [
+            "yaTezwa"
+        ], 
+        "yajYaka": [
+            "yajYa"
+        ], 
+        "yajYasUtraka": [
+            "yajYasUtra"
+        ], 
+        "yajamAnaka": [
+            "yajamAna"
+        ], 
+        "yakzaDUpaka": [
+            "yakzaDUpa"
+        ], 
+        "yamaka": [
+            "yama"
+        ], 
+        "yantraka": [
+            "yantra"
+        ], 
+        "yavAnaka": [
+            "yavAna"
+        ], 
+        "yavAsaka": [
+            "yavAsa"
+        ], 
+        "yoDaka": [
+            "yoDa"
+        ], 
+        "yogavAhaka": [
+            "yogavAha"
+        ], 
+        "yogyaka": [
+            "yogya"
+        ], 
+        "yojanaka": [
+            "yojana"
+        ], 
+        "yugaka": [
+            "yuga"
+        ], 
+        "yugalaka": [
+            "yugala"
+        ], 
+        "yugapattraka": [
+            "yugapattra"
+        ], 
+        "yugmaka": [
+            "yugma"
+        ], 
+        "yuktarUpaka": [
+            "yuktarUpa"
+        ], 
+        "yuvanASvaka": [
+            "yuvanASva"
+        ], 
+        "zaRQaka": [
+            "zaRQa"
+        ], 
+        "zaRqaka": [
+            "zaRqa"
+        ], 
+        "zaqaNgaka": [
+            "zaqaNga"
+        ], 
+        "zaqviMSaka": [
+            "zaqviMSa"
+        ], 
+        "zawcatvAriMSaka": [
+            "zawcatvAriMSa"
+        ], 
+        "zawkoRaka": [
+            "zawkoRa"
+        ], 
+        "zawpAdaka": [
+            "zawpAda"
+        ], 
+        "zawpalaka": [
+            "zawpala"
+        ], 
+        "zawtriMSaka": [
+            "zawtriMSa"
+        ], 
+        "zazWaka": [
+            "zazWa"
+        ], 
+        "zoqaSaka": [
+            "zoqaSa"
+        ]
+    }
+}

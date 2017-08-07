@@ -1,0 +1,6389 @@
+{
+    "ya": {
+	"ABijAtya": [
+            "aBijAta 1"
+        ], 
+        "Aditya": [
+            "aditi 1", 
+            "Adi"
+        ], 
+        "Agastya": [
+            "Agas"
+        ], 
+        "Anantya": [
+            "ananta 1"
+        ], 
+        "Anugatya": [
+            "anugata 1"
+        ], 
+        "Apatya": [
+            "Apa"
+        ], 
+        "Avantya": [
+            "avanti 1", 
+            "Avan"
+        ], 
+        "Bftya": [
+            "Bf"
+        ], 
+        "DEvatya": [
+            "DIvat 1"
+        ], 
+        "DOrtya": [
+            "DUrta 1"
+        ], 
+        "Ekamatya": [
+            "ekamata 1"
+        ], 
+        "Ekapatya": [
+            "ekapati 1"
+        ], 
+        "Eyatya": [
+            "iyat 1"
+        ], 
+        "Ezamastya": [
+            "Ezamas 1"
+        ], 
+        "Ocitya": [
+            "ucita 1"
+        ], 
+        "OdDatya": [
+            "udData 1"
+        ], 
+        "Onnatya": [
+            "unnata 1"
+        ], 
+        "SEtya": [
+            "SE 0", 
+            "SIta 1"
+        ], 
+        "Satya": [
+            "Sata 1"
+        ], 
+        "SvEtya": [
+            "Sveta 1"
+        ], 
+        "Svastya": [
+            "tuw Svas 1"
+        ], 
+        "acintya": [
+            "cint 1"
+        ], 
+        "ahatya": [
+            "aha"
+        ], 
+        "ajAtya": [
+            "ajA"
+        ], 
+        "amAtya": [
+            "amA 1"
+        ], 
+        "anAditya": [
+            "anAdi"
+        ], 
+        "anOcitya": [
+            "ucita 1"
+        ], 
+        "anOdDatya": [
+            "udData 1"
+        ], 
+        "anapatya": [
+            "anapa"
+        ], 
+        "anihatya": [
+            "aniha"
+        ], 
+        "anitya": [
+            "nityasu] na nityaH 1", 
+            "ani"
+        ], 
+        "antya": [
+            "an 0", 
+            "anta 1"
+        ], 
+        "apakftya": [
+            "apakf"
+        ], 
+        "apatya": [
+            "apa"
+        ], 
+        "asatya": [
+            "asa"
+        ], 
+        "atratya": [
+            "atra"
+        ], 
+        "bahvapatya": [
+            "bahvapa"
+        ], 
+        "citya": [
+            "ci 0"
+        ], 
+        "dAkziRAtya": [
+            "dakziRA 1"
+        ], 
+        "dEtya": [
+            "diti 1", 
+            "dE"
+        ], 
+        "dEvatya": [
+            "devatA 1", 
+            "dEva"
+        ], 
+        "dOrgatya": [
+            "durgata 1", 
+            "dOrga"
+        ], 
+        "dOrjIvitya": [
+            "durjIvita 1"
+        ], 
+        "dOtya": [
+            "dUta 1"
+        ], 
+        "dUtya": [
+            "dUta 1", 
+            "dU"
+        ], 
+        "dakziRAtya": [
+            "dakziRA"
+        ], 
+        "dantya": [
+            "danta 1", 
+            "dan"
+        ], 
+        "devatya": [
+            "deva"
+        ], 
+        "ditya": [
+            "diti 1"
+        ], 
+        "dotya": [
+            "do"
+        ], 
+        "hastya": [
+            "hasta 1"
+        ], 
+        "hyastya": [
+            "hyas 1"
+        ], 
+        "ihatya": [
+            "iha 1"
+        ], 
+        "itya": [
+            "i 0"
+        ], 
+        "jAtya": [
+            "jAti 1", 
+            "jA"
+        ], 
+        "jitya": [
+            "ji 0"
+        ], 
+        "kAtya": [
+            "kA"
+        ], 
+        "kftya": [
+            "kf"
+        ], 
+        "kutastya": [
+            "kutas"
+        ], 
+        "kutratya": [
+            "kutra"
+        ], 
+        "kvatya": [
+            "kvatyap 1"
+        ], 
+        "lOhitya": [
+            "lOhi"
+        ], 
+        "lohitya": [
+            "lohi"
+        ], 
+        "martya": [
+            "marta 1"
+        ], 
+        "matya": [
+            "mata 1"
+        ], 
+        "nEBftya": [
+            "niBfta 1"
+        ], 
+        "nEScitya": [
+            "niScita 1"
+        ], 
+        "nEyatya": [
+            "niyata 1"
+        ], 
+        "nftya": [
+            "nf"
+        ], 
+        "nirapatya": [
+            "nirapa"
+        ], 
+        "nitya": [
+            "ni 1"
+        ], 
+        "pANktya": [
+            "paMkti 1"
+        ], 
+        "pARqitya": [
+            "paMqita 1", 
+            "pARqi"
+        ], 
+        "pAScAtya": [
+            "paScAt 1"
+        ], 
+        "pAlitya": [
+            "palita 1", 
+            "pAli"
+        ], 
+        "pArivittya": [
+            "parivitta 1"
+        ], 
+        "pAtitya": [
+            "patita 1", 
+            "pAti"
+        ], 
+        "pAtya": [
+            "pA 0"
+        ], 
+        "pEtfmatya": [
+            "pitfmatI 1"
+        ], 
+        "pOlastya": [
+            "pulasti 1"
+        ], 
+        "pOrastya": [
+            "puras 1"
+        ], 
+        "pOrohitya": [
+            "purohita 1"
+        ], 
+        "pastya": [
+            "pas"
+        ], 
+        "patya": [
+            "pa"
+        ], 
+        "potya": [
+            "pota 1"
+        ], 
+        "prABavatya": [
+            "praBavat 1", 
+            "prABava"
+        ], 
+        "prARItya": [
+            "praRIta 1"
+        ], 
+        "prASastya": [
+            "praSasta 1"
+        ], 
+        "prAstutya": [
+            "prastuta 1"
+        ], 
+        "prAtastya": [
+            "prAtar 1"
+        ], 
+        "pretya": [
+            "pre"
+        ], 
+        "pulastya": [
+            "pulasti 1"
+        ], 
+        "rAhitya": [
+            "rahita 1"
+        ], 
+        "rEtya": [
+            "rE 0"
+        ], 
+        "sAhitya": [
+            "sahita 1", 
+            "sAhi"
+        ], 
+        "sAjAtya": [
+            "sajAti 1"
+        ], 
+        "sAtatya": [
+            "satata 1", 
+            "sAta"
+        ], 
+        "sEnApatya": [
+            "senApati 1"
+        ], 
+        "sItya": [
+            "sItA 1"
+        ], 
+        "sOhitya": [
+            "suhita 1"
+        ], 
+        "sOtya": [
+            "sUta 1"
+        ], 
+        "sTApatya": [
+            "sTapati 1"
+        ], 
+        "satya": [
+            "sat 1", 
+            "sa"
+        ], 
+        "stEmitya": [
+            "stimita 1"
+        ], 
+        "sutya": [
+            "su 0"
+        ], 
+        "svastya": [
+            "svas"
+        ], 
+        "tApatya": [
+            "tApa"
+        ], 
+        "tatastya": [
+            "tatas 1"
+        ], 
+        "tatratya": [
+            "tatra 1"
+        ], 
+        "upAntya": [
+            "upAnta 1"
+        ], 
+        "vAcaspatya": [
+            "vAcaspati 1"
+        ], 
+        "vAnaspatya": [
+            "vanaspati 1"
+        ], 
+        "vEcitya": [
+            "vicita 1"
+        ], 
+        "vEjAtya": [
+            "vijAta 1"
+        ], 
+        "vEkftya": [
+            "vikfta 1"
+        ], 
+        "vEmatya": [
+            "vimata 1"
+        ], 
+        "vEparItya": [
+            "viparIta 1"
+        ], 
+        "vEraktya": [
+            "virakta 1"
+        ], 
+        "vEyAtya": [
+            "viyAta 1"
+        ], 
+        "vastya": [
+            "vasti 1"
+        ], 
+        "vicitya": [
+            "vici"
+        ], 
+        "vrAtya": [
+            "vrA"
+        ], 
+        "yatratya": [
+            "yatra 1"
+        ],
+        "ABIkzRya": [
+            "ABIkzRa", 
+            "aBIkzRa"
+        ], 
+        "ABimuKya": [
+            "aBimuKa 1", 
+            "aBimuKI"
+        ], 
+        "ADamarRya": [
+            "aDamarRa 1", 
+            "aDamarRI"
+        ], 
+        "ADarya": [
+            "ADara", 
+            "aDara", 
+            "aDarA"
+        ], 
+        "ADikya": [
+            "aDika 1"
+        ], 
+        "ADirAjya": [
+            "aDirAja 1", 
+            "aDirAj"
+        ], 
+        "AKya": [
+            "AKa", 
+            "AKA"
+        ], 
+        "APalya": [
+            "aPala", 
+            "aPalA"
+        ], 
+        "AQya": [
+            "AQa", 
+            "AQA"
+        ], 
+        "ASaya": [
+            "ASa"
+        ], 
+        "ASmaraTya": [
+            "ASmaraTa"
+        ], 
+        "Abalya": [
+            "abala", 
+            "abalA"
+        ], 
+        "AcArya": [
+            "AcAra", 
+            "AcArA"
+        ], 
+        "Acarya": [
+            "Acara", 
+            "acara", 
+            "Acar"
+        ], 
+        "Acaya": [
+            "Aca"
+        ], 
+        "Adya": [
+            "ad 0", 
+            "Ada", 
+            "ada", 
+            "AdA", 
+            "Adi", 
+            "adi", 
+            "AdI"
+        ], 
+        "AhArya": [
+            "AhAra", 
+            "ahAra"
+        ], 
+        "Ahvaya": [
+            "Ahva"
+        ], 
+        "AjIvya": [
+            "AjIva", 
+            "ajIva", 
+            "AjIv"
+        ], 
+        "Ajya": [
+            "aj 0", 
+            "Aja", 
+            "aja", 
+            "AjA", 
+            "ajA", 
+            "Aji", 
+            "aji", 
+            "Aj"
+        ], 
+        "AkiYcanya": [
+            "akiYcana 1"
+        ], 
+        "Alakzya": [
+            "alakza", 
+            "Alakzi", 
+            "Alakz"
+        ], 
+        "Alasya": [
+            "Alasa", 
+            "alasa", 
+            "alas"
+        ], 
+        "Alaya": [
+            "Ala", 
+            "ala"
+        ], 
+        "AliNgya": [
+            "AliNga", 
+            "aliNga", 
+            "AliNg"
+        ], 
+        "AmAnasya": [
+            "amAnasa 1"
+        ], 
+        "AmAvasya": [
+            "amAvasI"
+        ], 
+        "Amanasya": [
+            "amanas 1", 
+            "Amanas"
+        ], 
+        "AmnAya": [
+            "AmnA"
+        ], 
+        "AnAya": [
+            "anA"
+        ], 
+        "AnAyya": [
+            "AnAya", 
+            "AnAyI"
+        ], 
+        "AnDya": [
+            "anDa 1", 
+            "anDA", 
+            "anD"
+        ], 
+        "AnEpuRya": [
+            "anipuRa 1"
+        ], 
+        "Anantarya": [
+            "anantara 1"
+        ], 
+        "AnarTakya": [
+            "anarTaka"
+        ], 
+        "Anaya": [
+            "Ana", 
+            "ana"
+        ], 
+        "AnfRya": [
+            "anfRa 1"
+        ], 
+        "AnfSaMsya": [
+            "AnfSaMsa", 
+            "anfSaMsa", 
+            "AnfSaMsi"
+        ], 
+        "AnuguRya": [
+            "anuguRa 1"
+        ], 
+        "AnukUlya": [
+            "anukUla 1", 
+            "anukUlA"
+        ], 
+        "Anulomya": [
+            "anuloma 1"
+        ], 
+        "AnunAsikya": [
+            "anunAsika 1"
+        ], 
+        "AnupUrvya": [
+            "AnupUrva", 
+            "anupUrva"
+        ], 
+        "AnuveSya": [
+            "anuveSa 1"
+        ], 
+        "AnyArTya": [
+            "anyArTa"
+        ], 
+        "ApANgya": [
+            "apANga"
+        ], 
+        "Apavargya": [
+            "apavarga"
+        ], 
+        "ApyAya": [
+            "ApyA"
+        ], 
+        "Apya": [
+            "Apa", 
+            "apa", 
+            "ApA", 
+            "Api", 
+            "api", 
+            "ApI", 
+            "apI", 
+            "Ap", 
+            "ap"
+        ], 
+        "ArGya": [
+            "ArGA 1", 
+            "arGa", 
+            "arG"
+        ], 
+        "AraRya": [
+            "AraRa", 
+            "araRa", 
+            "AraRi", 
+            "araRi", 
+            "araRI"
+        ], 
+        "AragvaDAdya": [
+            "AragvaDAdi"
+        ], 
+        "Arasya": [
+            "arasa 1"
+        ], 
+        "Ardrya": [
+            "Ardra", 
+            "ArdrA"
+        ], 
+        "Arogya": [
+            "aroga 1", 
+            "Aroga", 
+            "arogA"
+        ], 
+        "Artvijya": [
+            "ftvij 1", 
+            "Artvija"
+        ], 
+        "Arya": [
+            "Ara", 
+            "ara", 
+            "ArA", 
+            "arA", 
+            "ari", 
+            "ArI", 
+            "Ar"
+        ], 
+        "ArzaBya": [
+            "fzaBa 1"
+        ], 
+        "Asekya": [
+            "Aseka"
+        ], 
+        "Astikya": [
+            "Astika 1"
+        ], 
+        "AsvAdya": [
+            "AsvAda", 
+            "AsvAdA", 
+            "AsvAd"
+        ], 
+        "Asya": [
+            "as 0", 
+            "Asa", 
+            "asa", 
+            "Asi", 
+            "asi", 
+            "asI", 
+            "As"
+        ], 
+        "AtiSayya": [
+            "atiSaya 1"
+        ], 
+        "AtiTya": [
+            "atiTi 1", 
+            "atiTI"
+        ], 
+        "Atmya": [
+            "Atma", 
+            "AtmA"
+        ], 
+        "Aturya": [
+            "Atura", 
+            "atura", 
+            "AturA"
+        ], 
+        "Avanaya": [
+            "avani 1"
+        ], 
+        "AvasaTya": [
+            "AvasaTa 1", 
+            "avasaTa"
+        ], 
+        "Avawya": [
+            "avawa", 
+            "avawi"
+        ], 
+        "AvidUrya": [
+            "avidUra"
+        ], 
+        "Aya": [
+            "Ai", 
+            "A", 
+            "a"
+        ], 
+        "AyaTAtaTya": [
+            "AyaTAtaTa 1", 
+            "ayaTAtaTA"
+        ], 
+        "Ayuzya": [
+            "Ayus 1", 
+            "Ayuza", 
+            "Ayuz"
+        ], 
+        "Ayya": [
+            "ay 0", 
+            "Aya", 
+            "aya", 
+            "AyA", 
+            "ayA", 
+            "ayi", 
+            "Ay"
+        ], 
+        "BAgya": [
+            "BAga", 
+            "Baga", 
+            "BagA", 
+            "BAgI", 
+            "BagI"
+        ], 
+        "BArya": [
+            "BAra", 
+            "Bara", 
+            "BAri", 
+            "Bari", 
+            "BArI"
+        ], 
+        "BAzya": [
+            "BAza", 
+            "Baza", 
+            "BAzA", 
+            "BazI", 
+            "BAz", 
+            "Baz"
+        ], 
+        "BEkzya": [
+            "BikzA 1", 
+            "BEkza", 
+            "Bikz"
+        ], 
+        "BEzajya": [
+            "BEzaja", 
+            "Bezaja", 
+            "Bizaja", 
+            "Bizaj"
+        ], 
+        "BOjya": [
+            "Buj 0", 
+            "Buja", 
+            "BUja", 
+            "Boja", 
+            "BujA", 
+            "BojA", 
+            "BOji", 
+            "Boj"
+        ], 
+        "BUmya": [
+            "BUma", 
+            "BUmi", 
+            "BUmI"
+        ], 
+        "BUya": [
+            "BU 0"
+        ], 
+        "Bakzya": [
+            "Bakza", 
+            "Bakz"
+        ], 
+        "BaraRya": [
+            "BaraRa 1"
+        ], 
+        "BarmaRya": [
+            "Barman 1"
+        ], 
+        "Baya": [
+            "Ba"
+        ], 
+        "Bedya": [
+            "Beda", 
+            "BedI"
+        ], 
+        "Bidya": [
+            "BidA", 
+            "Bidi", 
+            "Bid"
+        ], 
+        "Bogya": [
+            "Boga", 
+            "Bogi", 
+            "BogI"
+        ], 
+        "Bojya": [
+            "Boja", 
+            "BojA", 
+            "Boj"
+        ], 
+        "BrAtrya": [
+            "BrAtf 1", 
+            "BrAtra"
+        ], 
+        "CAya": [
+            "CA", 
+            "Ca"
+        ], 
+        "Cedya": [
+            "Ceda", 
+            "Cedi"
+        ], 
+        "DAnuzya": [
+            "Danuz 1"
+        ], 
+        "DAnya": [
+            "DAna 1", 
+            "Dana", 
+            "DAnA", 
+            "DanA", 
+            "DAnI", 
+            "DanI"
+        ], 
+        "DArzwya": [
+            "DArzwa"
+        ], 
+        "DAvalya": [
+            "Davala 1"
+        ], 
+        "DAyya": [
+            "DAya", 
+            "Daya"
+        ], 
+        "DErya": [
+            "DIra 1", 
+            "DIrA", 
+            "DIr"
+        ], 
+        "DOmya": [
+            "Duma", 
+            "DUma"
+        ], 
+        "DUmya": [
+            "DUma 1"
+        ], 
+        "DUpya": [
+            "DUpa", 
+            "DUpi", 
+            "DUp"
+        ], 
+        "DanAya": [
+            "DanA"
+        ], 
+        "Danuzya": [
+            "Danuza", 
+            "Danuz"
+        ], 
+        "Danvanya": [
+            "Danvana", 
+            "Danvan"
+        ], 
+        "Danya": [
+            "Dan 1", 
+            "Dana", 
+            "DanA", 
+            "DanI"
+        ], 
+        "Darmya": [
+            "Darma 1"
+        ], 
+        "Daya": [
+            "Da"
+        ], 
+        "Dfzya": [
+            "Dfzi", 
+            "Dfz"
+        ], 
+        "DizRya": [
+            "DizRi", 
+            "DizRI"
+        ], 
+        "DrOvya": [
+            "Druva 1", 
+            "DrOva", 
+            "DruvA", 
+            "Druvi", 
+            "Druv"
+        ], 
+        "Durya": [
+            "Dur 1", 
+            "Dura", 
+            "DurA", 
+            "Duri"
+        ], 
+        "ESAnya": [
+            "ESAna", 
+            "ISAna", 
+            "ISAnA", 
+            "ESAnI", 
+            "ISAnI"
+        ], 
+        "ESvarya": [
+            "ISvara 1", 
+            "ESvara", 
+            "ISvarA", 
+            "ESvari", 
+            "ESvarI", 
+            "ISvarI"
+        ], 
+        "Edamparya": [
+            "idampara 1"
+        ], 
+        "EkADikaraRya": [
+            "ekADikaraRa 1"
+        ], 
+        "EkASramya": [
+            "ekASrama"
+        ], 
+        "EkAgrya": [
+            "ekAgra 1"
+        ], 
+        "EkArTya": [
+            "ekArTa 1"
+        ], 
+        "EkAtmya": [
+            "ekAtman 1", 
+            "ekAtma"
+        ], 
+        "EkaDya": [
+            "ekaDA"
+        ], 
+        "EkaguRya": [
+            "ekaguRa"
+        ], 
+        "Ekapadya": [
+            "ekapada 1"
+        ], 
+        "Ekya": [
+            "eka 1", 
+            "Eka", 
+            "ika", 
+            "ekA", 
+            "ekI"
+        ], 
+        "EtadAtmya": [
+            "etadAtman 1"
+        ], 
+        "Etihya": [
+            "itiha 1", 
+            "Etiha"
+        ], 
+        "Ganodaya": [
+            "Ganoda"
+        ], 
+        "ISAnya": [
+            "ISAna", 
+            "ISAnA", 
+            "ISAnI"
+        ], 
+        "Iqya": [
+            "Iqa", 
+            "IqA", 
+            "Iq"
+        ], 
+        "Irzya": [
+            "IrzA", 
+            "Irz"
+        ], 
+        "KAYjya": [
+            "KaYja", 
+            "KaYj"
+        ], 
+        "KAdya": [
+            "Kad 0", 
+            "KAda", 
+            "KadA", 
+            "KAdi", 
+            "KAd"
+        ], 
+        "Kya": [
+            "Ka", 
+            "KA", 
+            "K"
+        ], 
+        "OcaTya": [
+            "ucaTa"
+        ], 
+        "OdArya": [
+            "udAra 1"
+        ], 
+        "OdAsInya": [
+            "udAsIna 1"
+        ], 
+        "OdAsya": [
+            "udAsa 1", 
+            "udAsA", 
+            "udAs"
+        ], 
+        "Odarya": [
+            "udare BavaH[udara 1", 
+            "Odara", 
+            "udara"
+        ], 
+        "Odumbarya": [
+            "Odumbara", 
+            "udumbara", 
+            "Odumbari", 
+            "OdumbarI", 
+            "udumbarI"
+        ], 
+        "Ogrya": [
+            "ugra 1", 
+            "ugrA"
+        ], 
+        "Ojasya": [
+            "ojas 1", 
+            "Ojasa"
+        ], 
+        "Ojjvalya": [
+            "ujjvala 1", 
+            "ujjvalA", 
+            "ujjval"
+        ], 
+        "OkTikya": [
+            "ukTa 1"
+        ], 
+        "OkTya": [
+            "OkTa", 
+            "ukTa"
+        ], 
+        "OnmuKya": [
+            "unmuKa"
+        ], 
+        "OpaDarmya": [
+            "upaDarma 1"
+        ], 
+        "OpakArya": [
+            "upakAra", 
+            "upakArI"
+        ], 
+        "Opamya": [
+            "upamA 1", 
+            "upama", 
+            "upami"
+        ], 
+        "OpasTya": [
+            "upasTa 1"
+        ], 
+        "OpavAhya": [
+            "upavAha"
+        ], 
+        "OpavAsya": [
+            "upavAsa 1", 
+            "OpavAsa"
+        ], 
+        "Ormya": [
+            "Urmi", 
+            "urmI"
+        ], 
+        "OtkaRWya": [
+            "utkaRWA 1", 
+            "utkaRWa", 
+            "utkaRW"
+        ], 
+        "Otkarzya": [
+            "utkarza 1", 
+            "Otkarza"
+        ], 
+        "Otsukya": [
+            "utsuka 1"
+        ], 
+        "Ottarottarya": [
+            "uttarottara"
+        ], 
+        "OzRya": [
+            "uzRa 1", 
+            "OzRa", 
+            "ozRa", 
+            "uzRi", 
+            "uzRI"
+        ], 
+        "OzWya": [
+            "ozWa 1"
+        ], 
+        "Ozmya": [
+            "zyaYuzma 1"
+        ], 
+        "Rya": [
+            "Ra", 
+            "Ri", 
+            "R"
+        ], 
+        "SARqilya": [
+            "SaRqila 1", 
+            "SARqila", 
+            "SARqilI"
+        ], 
+        "SAWya": [
+            "SaWa 1", 
+            "SAWa", 
+            "SaWI"
+        ], 
+        "SAkalya": [
+            "SAkala", 
+            "Sakala", 
+            "SAkali", 
+            "SakalI"
+        ], 
+        "SAkya": [
+            "Sak 0", 
+            "SAka", 
+            "Saka", 
+            "Saki", 
+            "SAkI"
+        ], 
+        "SAlAkya": [
+            "SAlAka", 
+            "SalAka", 
+            "SalAkA", 
+            "SAlAkI"
+        ], 
+        "SAraBya": [
+            "SAraBa", 
+            "SaraBa"
+        ], 
+        "SAradya": [
+            "SArada", 
+            "Sarada", 
+            "SAradA", 
+            "SaradA", 
+            "SAradI", 
+            "Sarad"
+        ], 
+        "SArkarAkzya": [
+            "SArkarAkza", 
+            "SarkarAkza", 
+            "SArkarAkzi"
+        ], 
+        "SAya": [
+            "SA", 
+            "Sa"
+        ], 
+        "SEGrya": [
+            "SIGra 1", 
+            "SEGra", 
+            "SIGrA"
+        ], 
+        "SESirya": [
+            "SESira", 
+            "SiSira", 
+            "SiSirA", 
+            "SESiri", 
+            "SiSirI"
+        ], 
+        "SETilya": [
+            "SiTila 1", 
+            "SiTilI", 
+            "SiTil"
+        ], 
+        "SEbya": [
+            "Sibi 1", 
+            "SEba"
+        ], 
+        "SEkya": [
+            "SIk 0", 
+            "SEki", 
+            "Sik"
+        ], 
+        "SEkzya": [
+            "SikzA 1", 
+            "SEkza", 
+            "Sikza", 
+            "SIkzA", 
+            "Sikz"
+        ], 
+        "SElikya": [
+            "SIlika 1"
+        ], 
+        "SElya": [
+            "SilA 1"
+        ], 
+        "SEnya": [
+            "Sina", 
+            "SIna", 
+            "Sini"
+        ], 
+        "SEvya": [
+            "Sivi 1"
+        ], 
+        "SIGrya": [
+            "SIGra 1"
+        ], 
+        "SIrzaRya": [
+            "SIrzan 1", 
+            "SIrzaRI", 
+            "SIrzaR"
+        ], 
+        "SItapAkya": [
+            "SItapAkI"
+        ], 
+        "SORqIrya": [
+            "SORqIra 1"
+        ], 
+        "SOklya": [
+            "Sukla 1", 
+            "SOkla", 
+            "SuklA", 
+            "SuklI"
+        ], 
+        "SOrya": [
+            "SUra 0", 
+            "SUr 0", 
+            "SOra", 
+            "Sura", 
+            "SUrA", 
+            "SOri"
+        ], 
+        "SOwIrya": [
+            "SOwIra 1"
+        ], 
+        "SOzirya": [
+            "SOzira", 
+            "Suzira", 
+            "SuzirA"
+        ], 
+        "SUkapAkya": [
+            "SUkapAka"
+        ], 
+        "SUlya": [
+            "SUl 0", 
+            "SUla 1", 
+            "SUli", 
+            "SUlI"
+        ], 
+        "SUnya": [
+            "SUna", 
+            "SUnA"
+        ], 
+        "SabdaveDya": [
+            "SabdaveDa"
+        ], 
+        "Sakya": [
+            "Sak 0", 
+            "Saka", 
+            "Saki"
+        ], 
+        "Salya": [
+            "Sal 0", 
+            "Sala"
+        ], 
+        "SaraRya": [
+            "SaraRa", 
+            "SaraRA", 
+            "SaraRI"
+        ], 
+        "Sarmya": [
+            "Sarma"
+        ], 
+        "Sarya": [
+            "Sf 1"
+        ], 
+        "Sasya": [
+            "Sas 0", 
+            "Sasa", 
+            "SasA", 
+            "Sasi"
+        ], 
+        "Saya": [
+            "Sa"
+        ], 
+        "Sikya": [
+            "Sik"
+        ], 
+        "SilAhvaya": [
+            "SilAhva"
+        ], 
+        "Sizya": [
+            "Siz"
+        ], 
+        "Slokya": [
+            "Sloka", 
+            "Slok"
+        ], 
+        "SoDya": [
+            "SuD 1"
+        ], 
+        "SrEzWya": [
+            "SrezWa", 
+            "SrezWA", 
+            "SrezWI"
+        ], 
+        "SrIjaya": [
+            "SrIja"
+        ], 
+        "Sravasya": [
+            "Sravas 1"
+        ], 
+        "Sraya": [
+            "Sra"
+        ], 
+        "SreRya": [
+            "SreRi", 
+            "SreRI"
+        ], 
+        "SryAhvaya": [
+            "SryAhva"
+        ], 
+        "SuRWaya": [
+            "SuRW  1"
+        ], 
+        "SvEtrya": [
+            "Svitra 1", 
+            "SvEtra", 
+            "Svetra", 
+            "SvitrA"
+        ], 
+        "SvaSurya": [
+            "SvaSura 1"
+        ], 
+        "UDanya": [
+            "UDan 1"
+        ], 
+        "UDasya": [
+            "UDas 1"
+        ], 
+        "Uhya": [
+            "Uh 0", 
+            "Uha"
+        ], 
+        "Urvya": [
+            "Urva", 
+            "UrvI", 
+            "Urv"
+        ], 
+        "aBAgya": [
+            "aBAga", 
+            "aBAgI"
+        ], 
+        "aBakzya": [
+            "aBakza"
+        ], 
+        "aBedya": [
+            "aBeda"
+        ], 
+        "aBijaya": [
+            "aBija"
+        ], 
+        "aBiramya": [
+            "aBiram"
+        ], 
+        "aBogya": [
+            "aBoga"
+        ], 
+        "aByavahArya": [
+            "aByavahAra"
+        ], 
+        "aDArya": [
+            "aDAra"
+        ], 
+        "aDaHSayya": [
+            "aDaHSaya"
+        ], 
+        "aDanya": [
+            "aDana", 
+            "aDanA"
+        ], 
+        "aDarmya": [
+            "aDarma"
+        ], 
+        "aDijya": [
+            "aDija", 
+            "aDiji"
+        ], 
+        "aDikaraRya": [
+            "aDikaraRa"
+        ], 
+        "aDirAjya": [
+            "aDirAja", 
+            "aDirAj"
+        ], 
+        "aDvanya": [
+            "aDvan 1"
+        ], 
+        "aDyavasAya": [
+            "aDyavasA"
+        ], 
+        "aGnya": [
+            "aGnA"
+        ], 
+        "aKaRqya": [
+            "aKaRqa"
+        ], 
+        "aNkya": [
+            "aNka", 
+            "aNkI", 
+            "aNk"
+        ], 
+        "aSUnya": [
+            "aSUna"
+        ], 
+        "aSaNkya": [
+            "aSaNka"
+        ], 
+        "aSanAya": [
+            "aSanA"
+        ], 
+        "aSaraRya": [
+            "aSaraRa"
+        ], 
+        "aSlAGya": [
+            "aSlAGA"
+        ], 
+        "aSocya": [
+            "aSoca", 
+            "aSocA"
+        ], 
+        "abaDya": [
+            "abaDa", 
+            "abaDA"
+        ], 
+        "abalya": [
+            "abala", 
+            "abalA"
+        ], 
+        "abanDya": [
+            "abanDa"
+        ], 
+        "abrahmaRya": [
+            "brahman 1"
+        ], 
+        "acApalya": [
+            "acApala"
+        ], 
+        "acCAya": [
+            "acCAi"
+        ], 
+        "acetasya": [
+            "acetas"
+        ], 
+        "acikitsya": [
+            "acikitsA"
+        ], 
+        "adAhya": [
+            "adAha"
+        ], 
+        "adaRqya": [
+            "adaRqa"
+        ], 
+        "adaya": [
+            "ada"
+        ], 
+        "adeSya": [
+            "adeSa"
+        ], 
+        "adfSya": [
+            "adfS"
+        ], 
+        "adivya": [
+            "adivA"
+        ], 
+        "adrya": [
+            "adri", 
+            "adrI"
+        ], 
+        "adya": [
+            "ad 0", 
+            "ada", 
+            "adi"
+        ], 
+        "agamya": [
+            "agama"
+        ], 
+        "agarhya": [
+            "agarhA"
+        ], 
+        "agarvya": [
+            "agarva"
+        ], 
+        "agfhya": [
+            "agfha"
+        ], 
+        "agniveSya": [
+            "agniveSa"
+        ], 
+        "agrAhya": [
+            "agrAha"
+        ], 
+        "agrya": [
+            "agra", 
+            "agrA", 
+            "agri"
+        ], 
+        "ahArya": [
+            "ahAra"
+        ], 
+        "aharniSya": [
+            "aharniSa"
+        ], 
+        "ahiMsya": [
+            "ahiMsa", 
+            "ahiMsA"
+        ], 
+        "ajarya": [
+            "yat 1", 
+            "ajara", 
+            "ajarA"
+        ], 
+        "ajaya": [
+            "aja"
+        ], 
+        "ajayya": [
+            "ajaya", 
+            "ajayA"
+        ], 
+        "akAlya": [
+            "akAla"
+        ], 
+        "akAmya": [
+            "akAma"
+        ], 
+        "akArya": [
+            "akAra"
+        ], 
+        "akOSalya": [
+            "akOSala"
+        ], 
+        "akaRWya": [
+            "akaRWa"
+        ], 
+        "akaTya": [
+            "akaTa"
+        ], 
+        "akalya": [
+            "akala", 
+            "akalA", 
+            "akali"
+        ], 
+        "akampya": [
+            "akampa"
+        ], 
+        "akledya": [
+            "akleda"
+        ], 
+        "akzaya": [
+            "akza"
+        ], 
+        "akzayya": [
+            "akzaya"
+        ], 
+        "akzoBya": [
+            "akzoBa"
+        ], 
+        "alakzaRya": [
+            "alakzaRa"
+        ], 
+        "alakzya": [
+            "alakza"
+        ], 
+        "aloBya": [
+            "aloBa"
+        ], 
+        "alokya": [
+            "aloka"
+        ], 
+        "amAnuzya": [
+            "amAnuza", 
+            "amAnuzI"
+        ], 
+        "amAnya": [
+            "amAna"
+        ], 
+        "amAvAsya": [
+            "amAvAsI"
+        ], 
+        "amAya": [
+            "amA"
+        ], 
+        "amImAMsya": [
+            "amImAMsA"
+        ], 
+        "amUlya": [
+            "amUla", 
+            "amUlA"
+        ], 
+        "amaNgalya": [
+            "amaNgala"
+        ], 
+        "amarAhvaya": [
+            "amarAhva"
+        ], 
+        "ambazWAdya": [
+            "ambazWAdi"
+        ], 
+        "ameDya": [
+            "ameDA"
+        ], 
+        "amfgya": [
+            "amfga"
+        ], 
+        "amfzya": [
+            "amfzA"
+        ], 
+        "amuKya": [
+            "amuKa"
+        ], 
+        "anADfzya": [
+            "anADfz"
+        ], 
+        "anASaya": [
+            "anASa"
+        ], 
+        "anASvAsya": [
+            "anASvAsa"
+        ], 
+        "anATya": [
+            "anATa", 
+            "anATA"
+        ], 
+        "anAcArya": [
+            "anAcAra", 
+            "anAcArI"
+        ], 
+        "anAdya": [
+            "anAda", 
+            "anAdi"
+        ], 
+        "anAhArya": [
+            "anAhAra"
+        ], 
+        "anAlasya": [
+            "anAlasa"
+        ], 
+        "anAlaya": [
+            "anAla"
+        ], 
+        "anAlokya": [
+            "anAloka"
+        ], 
+        "anAmya": [
+            "anAma", 
+            "anAmA"
+        ], 
+        "anAstikya": [
+            "anAstika"
+        ], 
+        "anAyuzya": [
+            "anAyuzA"
+        ], 
+        "anOjasya": [
+            "ojas 1"
+        ], 
+        "anOpamya": [
+            "anOpama"
+        ], 
+        "anaBijYAya": [
+            "anaBijYA"
+        ], 
+        "anaByupagamya": [
+            "anaByupagama"
+        ], 
+        "anaDigamya": [
+            "anaDigama"
+        ], 
+        "anamya": [
+            "anama"
+        ], 
+        "ananujYAya": [
+            "ananujYA"
+        ], 
+        "ananumAnya": [
+            "ananumAna"
+        ], 
+        "ananya": [
+            "anana"
+        ], 
+        "anapekzya": [
+            "anapekza", 
+            "anapekzA"
+        ], 
+        "anarGya": [
+            "anarGa"
+        ], 
+        "anarTya": [
+            "anarTa"
+        ], 
+        "anatikramya": [
+            "anatikrama"
+        ], 
+        "anavajYAya": [
+            "anavajYA"
+        ], 
+        "anavaroDya": [
+            "anavaroDa"
+        ], 
+        "anavekzya": [
+            "anavekza", 
+            "anavekzA"
+        ], 
+        "anaya": [
+            "ana"
+        ], 
+        "anfRya": [
+            "anfRa"
+        ], 
+        "anilaya": [
+            "anila"
+        ], 
+        "anindya": [
+            "anindA"
+        ], 
+        "anirdeSya": [
+            "anirdeSa"
+        ], 
+        "anirvAhya": [
+            "anirvAha"
+        ], 
+        "aniyamya": [
+            "aniyama"
+        ], 
+        "annAdya": [
+            "annAda"
+        ], 
+        "antarAya": [
+            "antarA"
+        ], 
+        "antarya": [
+            "antara 1", 
+            "antarA", 
+            "antari", 
+            "antar"
+        ], 
+        "anuBaya": [
+            "anuBa"
+        ], 
+        "anucCvAsya": [
+            "anucCvAsa"
+        ], 
+        "anuccArya": [
+            "anuccAra"
+        ], 
+        "anudaya": [
+            "anuda"
+        ], 
+        "anukampya": [
+            "anukaMp 1"
+        ], 
+        "anupAya": [
+            "anupA"
+        ], 
+        "anutpAdya": [
+            "anutpAda"
+        ], 
+        "anuvAdya": [
+            "yad 1"
+        ], 
+        "anuvAkya": [
+            "anuvAka"
+        ], 
+        "anuvaMSya": [
+            "anuvaMSa"
+        ], 
+        "anvAhArya": [
+            "anvAhAra"
+        ], 
+        "anvazwakya": [
+            "anvazwakA 1"
+        ], 
+        "anyAya": [
+            "anyA"
+        ], 
+        "anyAyya": [
+            "anyAya", 
+            "anyAyI"
+        ], 
+        "anya": [
+            "an 0", 
+            "ana", 
+            "anA", 
+            "ani", 
+            "anI"
+        ], 
+        "apAcya": [
+            "apAcI 1"
+        ], 
+        "apESunya": [
+            "apESuna"
+        ], 
+        "apIqya": [
+            "apIqA"
+        ], 
+        "apUjya": [
+            "apUjA"
+        ], 
+        "apUrvya": [
+            "apUrva", 
+            "apUrvI"
+        ], 
+        "apUrya": [
+            "apUra"
+        ], 
+        "apaTya": [
+            "apaTa", 
+            "apaT"
+        ], 
+        "apacaya": [
+            "apaca"
+        ], 
+        "apajya": [
+            "apaji"
+        ], 
+        "aprakampya": [
+            "aprakampa"
+        ], 
+        "aprasAdya": [
+            "aprasAda"
+        ], 
+        "aprativArya": [
+            "aprativAra"
+        ], 
+        "apraveSya": [
+            "apraveSa"
+        ], 
+        "apya": [
+            "apa", 
+            "api", 
+            "apI", 
+            "ap"
+        ], 
+        "apyaya": [
+            "apya"
+        ], 
+        "arAjanya": [
+            "arAjan"
+        ], 
+        "arAjya": [
+            "arAja", 
+            "arAji"
+        ], 
+        "arGya": [
+            "arGa", 
+            "arG"
+        ], 
+        "arTya": [
+            "arTa", 
+            "arTi", 
+            "arTI", 
+            "arT"
+        ], 
+        "araRya": [
+            "araRa", 
+            "araRi", 
+            "araRI"
+        ], 
+        "arakzya": [
+            "arakza"
+        ], 
+        "aruRodaya": [
+            "aruRoda"
+        ], 
+        "arya": [
+            "f 1", 
+            "ara", 
+            "arA", 
+            "ari"
+        ], 
+        "asADAraRya": [
+            "asADAraRa"
+        ], 
+        "asAmya": [
+            "asAmi"
+        ], 
+        "asUrya": [
+            "asUra"
+        ], 
+        "asUya": [
+            "asU"
+        ], 
+        "asaBya": [
+            "asaBa"
+        ], 
+        "asaMBAzya": [
+            "asaMBAzA"
+        ], 
+        "asaMboDya": [
+            "asaMboDa"
+        ], 
+        "asaMcArya": [
+            "asaMcAra"
+        ], 
+        "asaMgamya": [
+            "asaMgama"
+        ], 
+        "asaMgrAhya": [
+            "asaMgrAha"
+        ], 
+        "asaMskArya": [
+            "asaMskAra"
+        ], 
+        "asahya": [
+            "asaha"
+        ], 
+        "asajya": [
+            "asaj"
+        ], 
+        "asamIkzya": [
+            "asamIkzA"
+        ], 
+        "asamiDya": [
+            "asamiD"
+        ], 
+        "asanAdya": [
+            "asanAdi"
+        ], 
+        "asatkArya": [
+            "asatkAra"
+        ], 
+        "asevya": [
+            "asevA"
+        ], 
+        "asnehya": [
+            "asneha"
+        ], 
+        "asvarya": [
+            "asvara"
+        ], 
+        "asvedya": [
+            "asveda"
+        ], 
+        "atIrTya": [
+            "atIrTa"
+        ], 
+        "ataTya": [
+            "ataTA"
+        ], 
+        "atanaya": [
+            "atana"
+        ], 
+        "atapasya": [
+            "atapas"
+        ], 
+        "atarkya": [
+            "atarka"
+        ], 
+        "atibAlya": [
+            "atibAla"
+        ], 
+        "atibalya": [
+            "atibala", 
+            "atibalA"
+        ], 
+        "atikalya": [
+            "atikala"
+        ], 
+        "ativIrya": [
+            "ativIra"
+        ], 
+        "ativfzya": [
+            "ativfz"
+        ], 
+        "atulya": [
+            "atula", 
+            "atulA"
+        ], 
+        "atyaya": [
+            "atya"
+        ], 
+        "avAcya": [
+            "avAca", 
+            "avAci", 
+            "avAcI", 
+            "avAc"
+        ], 
+        "avAkya": [
+            "avAk"
+        ], 
+        "avApya": [
+            "avApa", 
+            "avAp"
+        ], 
+        "avArya": [
+            "avAra"
+        ], 
+        "avIrya": [
+            "avIra", 
+            "avIrA"
+        ], 
+        "avaDArya": [
+            "avaDAra"
+        ], 
+        "avaDya": [
+            "avaDa", 
+            "avaDA", 
+            "avaDi", 
+            "avaDI"
+        ], 
+        "avaSyAya": [
+            "avaSyA"
+        ], 
+        "avaSya": [
+            "avaSa", 
+            "avaSA", 
+            "avaSi", 
+            "avaSI"
+        ], 
+        "avacaya": [
+            "avaca"
+        ], 
+        "avahArya": [
+            "avahAra"
+        ], 
+        "avakraya": [
+            "avakra"
+        ], 
+        "avamya": [
+            "avama", 
+            "avamA"
+        ], 
+        "avarRya": [
+            "avarRa"
+        ], 
+        "avasAya": [
+            "avasA"
+        ], 
+        "avasaTya": [
+            "avasaTa 1"
+        ], 
+        "aveDya": [
+            "aveDa"
+        ], 
+        "avedya": [
+            "aveda"
+        ], 
+        "aviDAya": [
+            "aviDA"
+        ], 
+        "aviSaNkya": [
+            "aviSaNka", 
+            "aviSaNkA"
+        ], 
+        "aviSvAsya": [
+            "aviSvAsa", 
+            "aviSvAsI"
+        ], 
+        "avicArya": [
+            "avicAra"
+        ], 
+        "avidya": [
+            "avida", 
+            "avid"
+        ], 
+        "avihiMsya": [
+            "avihiMsA"
+        ], 
+        "avikArya": [
+            "avikAra"
+        ], 
+        "avikalpya": [
+            "avikalpa"
+        ], 
+        "avikzoBya": [
+            "avikzoBa"
+        ], 
+        "avinASya": [
+            "avinASa", 
+            "avinASI"
+        ], 
+        "avinaya": [
+            "avina"
+        ], 
+        "avivAhya": [
+            "avivAha"
+        ], 
+        "avizaya": [
+            "aviza"
+        ], 
+        "avyaBicArya": [
+            "avyaBicAra"
+        ], 
+        "avyaNgya": [
+            "avyaNga"
+        ], 
+        "avyaTya": [
+            "avyaTa", 
+            "avyaTA", 
+            "avyaTi"
+        ], 
+        "avyapadeSya": [
+            "avyapadeSa"
+        ], 
+        "avyatikramya": [
+            "avyatikrama"
+        ], 
+        "avyaya": [
+            "avya"
+        ], 
+        "ayAsya": [
+            "ayAs"
+        ], 
+        "aya": [
+            "a"
+        ], 
+        "ayaSasya": [
+            "ayaSas"
+        ], 
+        "ayogya": [
+            "ayoga"
+        ], 
+        "bADirya": [
+            "baDira 1", 
+            "baDirA"
+        ], 
+        "bAhuBAzya": [
+            "bahuBAz 1"
+        ], 
+        "bAhuguRya": [
+            "bahuguRa 1"
+        ], 
+        "bAhulya": [
+            "bahulA 1", 
+            "bAhula", 
+            "bahula", 
+            "bAhuli", 
+            "bAhulI", 
+            "bahulI"
+        ], 
+        "bAhumAnya": [
+            "bahumAna"
+        ], 
+        "bAhvfcya": [
+            "bah vfca 1"
+        ], 
+        "bAhya": [
+            "bAh 0", 
+            "bAha", 
+            "bahI", 
+            "bah"
+        ], 
+        "bAliSya": [
+            "bAliSa 1", 
+            "baliSa"
+        ], 
+        "bAlya": [
+            "bal 0", 
+            "bAla 1", 
+            "bala", 
+            "bAlA", 
+            "balA", 
+            "bAli", 
+            "bali", 
+            "balI", 
+            "bAl"
+        ], 
+        "bEBatsya": [
+            "bIBatsa", 
+            "bIBatsA"
+        ], 
+        "bIjAhvaya": [
+            "bIjAhva"
+        ], 
+        "bIjaDAnya": [
+            "bIjaDAnI"
+        ], 
+        "bIjya": [
+            "bIja 1"
+        ], 
+        "balya": [
+            "bal 0", 
+            "bala", 
+            "balA", 
+            "bali", 
+            "balI"
+        ], 
+        "bfhatyAdya": [
+            "bfhatyAdi"
+        ], 
+        "boDya": [
+            "boDa", 
+            "boDA", 
+            "boDi"
+        ], 
+        "brAhmaRya": [
+            "brAhmaRa", 
+            "brAhmaRi", 
+            "brAhmaRI"
+        ], 
+        "brAhmya": [
+            "brahman 1", 
+            "brAhma", 
+            "brahma", 
+            "brahmA", 
+            "brAhmi", 
+            "brAhmI", 
+            "brahmI", 
+            "brahm"
+        ], 
+        "brahmaRya": [
+            "brahman 1"
+        ], 
+        "brahmajya": [
+            "brahmaja", 
+            "brahmajA"
+        ], 
+        "buDya": [
+            "buDa", 
+            "buD"
+        ], 
+        "cARakya": [
+            "cARaka", 
+            "caRaka", 
+            "cARakA", 
+            "caRakA"
+        ], 
+        "cAYcalya": [
+            "caYcala", 
+            "caYcalA"
+        ], 
+        "cAlya": [
+            "cal 0", 
+            "cAla", 
+            "cala", 
+            "calA", 
+            "cali"
+        ], 
+        "cApalya": [
+            "cApala", 
+            "capala", 
+            "cApalA", 
+            "capalA"
+        ], 
+        "cAritrya": [
+            "cAritra", 
+            "caritra", 
+            "caritrA"
+        ], 
+        "cAturmAsya": [
+            "cAturmAsa", 
+            "caturmAsa", 
+            "cAturmAsI"
+        ], 
+        "cAturvarRya": [
+            "caturvarRa"
+        ], 
+        "cAturvargya": [
+            "cAturvarga", 
+            "caturvarga"
+        ], 
+        "cAturvedya": [
+            "caturveda"
+        ], 
+        "cAturviDya": [
+            "cAturviDa", 
+            "caturviDa"
+        ], 
+        "cAturya": [
+            "cAtura", 
+            "catura", 
+            "catur"
+        ], 
+        "cEdya": [
+            "cedi", 
+            "cidi", 
+            "ced"
+        ], 
+        "cEtanya": [
+            "cEtana", 
+            "cetana", 
+            "cetanA", 
+            "cetanI"
+        ], 
+        "cEtraraTya": [
+            "cEtraraTa", 
+            "citraraTa", 
+            "citraraTA", 
+            "cEtraraTi"
+        ], 
+        "cORwya": [
+            "cuRwA", 
+            "cuRwI", 
+            "cuRw"
+        ], 
+        "cOrya": [
+            "cur 0", 
+            "cUr 0", 
+            "cOra", 
+            "cora", 
+            "curA", 
+            "cOrI", 
+            "curI", 
+            "cUrI", 
+            "corI", 
+            "cUr"
+        ], 
+        "cakrAhvaya": [
+            "cakrAhva"
+        ], 
+        "cakzuzya": [
+            "cakzuza", 
+            "cakzuzI", 
+            "cakzuz"
+        ], 
+        "candanAdya": [
+            "candanAdi"
+        ], 
+        "candrahAsya": [
+            "candrahAsa", 
+            "candrahAsA"
+        ], 
+        "carmakArya": [
+            "carmakAra"
+        ], 
+        "carya": [
+            "car 0", 
+            "cara", 
+            "carA", 
+            "cari"
+        ], 
+        "caya": [
+            "ca"
+        ], 
+        "cetasya": [
+            "cetas"
+        ], 
+        "codya": [
+            "coda"
+        ], 
+        "dARqakya": [
+            "daRqaka", 
+            "dARqaki"
+        ], 
+        "dAkzAmya": [
+            "dakz 1"
+        ], 
+        "dAkziRya": [
+            "dakziRa 1", 
+            "dAkziRa", 
+            "dakziRA"
+        ], 
+        "dAkzya": [
+            "dakza 1", 
+            "dAkza", 
+            "dakzA", 
+            "dAkzi", 
+            "dakzi", 
+            "dakz"
+        ], 
+        "dAlBya": [
+            "dAlBa", 
+            "dalBa", 
+            "dAlBi"
+        ], 
+        "dAridrya": [
+            "daridra 1", 
+            "dAridra", 
+            "daridrA", 
+            "daridrI"
+        ], 
+        "dArvya": [
+            "dArva", 
+            "darva", 
+            "darvi", 
+            "dArvI", 
+            "darvI"
+        ], 
+        "dAsya": [
+            "dAsa", 
+            "dasa", 
+            "dAsI", 
+            "dAs", 
+            "das"
+        ], 
+        "dAyAdya": [
+            "dAyAda"
+        ], 
+        "dAya": [
+            "dA", 
+            "da"
+        ], 
+        "dEhya": [
+            "deha", 
+            "diha", 
+            "dih"
+        ], 
+        "dEnya": [
+            "dEna", 
+            "dina", 
+            "dIna", 
+            "dInA"
+        ], 
+        "dErGya": [
+            "dIrGa", 
+            "dIrGA", 
+            "dIrGI"
+        ], 
+        "dEvya": [
+            "deva 1"
+        ], 
+        "dIpya": [
+            "dIpa", 
+            "dIp"
+        ], 
+        "dOHSIlya": [
+            "duHSIla 1", 
+            "dOHSIla", 
+            "duHSIlA"
+        ], 
+        "dOScarya": [
+            "duScara 1"
+        ], 
+        "dOrAtmya": [
+            "durAtman 1", 
+            "durAtmA"
+        ], 
+        "dOrbalya": [
+            "durbala 1", 
+            "dOrbala", 
+            "durbalA", 
+            "durbali"
+        ], 
+        "dOrganDya": [
+            "durganDa 1", 
+            "dOrganDa", 
+            "durganDA", 
+            "dOrganDi", 
+            "durganDi"
+        ], 
+        "dOrhfdaya": [
+            "durhfdya 1"
+        ], 
+        "dOrjanya": [
+            "durjana 1", 
+            "dOrjana"
+        ], 
+        "dOrlaBya": [
+            "durlaBa", 
+            "durlaBA"
+        ], 
+        "dOrmanasya": [
+            "durmanas 1"
+        ], 
+        "dOrmantrya": [
+            "durmantra 1"
+        ], 
+        "dOrvacasya": [
+            "durvacas 1"
+        ], 
+        "dOzkulya": [
+            "dOzkula", 
+            "duzkula"
+        ], 
+        "dUrya": [
+            "dUra 1"
+        ], 
+        "dUzya": [
+            "dUz 1", 
+            "dUza", 
+            "dUzi", 
+            "dUzI"
+        ], 
+        "dakziRya": [
+            "dakziRa", 
+            "dakziRA"
+        ], 
+        "damya": [
+            "dam 1", 
+            "dama", 
+            "dami"
+        ], 
+        "daya": [
+            "da"
+        ], 
+        "deSya": [
+            "deSa", 
+            "deSI"
+        ], 
+        "devAhvaya": [
+            "devAhva"
+        ], 
+        "devaDAnya": [
+            "devaDAnI"
+        ], 
+        "devejya": [
+            "devej"
+        ], 
+        "devya": [
+            "deva", 
+            "devA", 
+            "devi", 
+            "devI", 
+            "dev"
+        ], 
+        "dfSya": [
+            "dfSa", 
+            "dfSA", 
+            "dfSi", 
+            "dfS"
+        ], 
+        "diSya": [
+            "diS 1", 
+            "diSA"
+        ], 
+        "divya": [
+            "div 1", 
+            "diva", 
+            "divA", 
+            "divi", 
+            "divI"
+        ], 
+        "dohya": [
+            "doha"
+        ], 
+        "druhya": [
+            "druha", 
+            "druh"
+        ], 
+        "druvaya": [
+            "vayadru 1"
+        ], 
+        "duHSakya": [
+            "duHSaka"
+        ], 
+        "duHSoDya": [
+            "duHSoDa"
+        ], 
+        "duHsADya": [
+            "duHsADa"
+        ], 
+        "duHsahAya": [
+            "duHsahA"
+        ], 
+        "duHsevya": [
+            "duHsevA"
+        ], 
+        "duScAritrya": [
+            "duScAritra"
+        ], 
+        "duScikitsya": [
+            "duScikitsa"
+        ], 
+        "durASaya": [
+            "durASa"
+        ], 
+        "durArADya": [
+            "durArADa"
+        ], 
+        "durAvArya": [
+            "durAvAra"
+        ], 
+        "durBedya": [
+            "durBeda"
+        ], 
+        "duravagAhya": [
+            "duravagAha"
+        ], 
+        "durgamya": [
+            "durgama", 
+            "durgamA", 
+            "durgam"
+        ], 
+        "durgrAhya": [
+            "durgrAha"
+        ], 
+        "durlaBya": [
+            "durlaBa", 
+            "durlaBA"
+        ], 
+        "durleKya": [
+            "durleKA"
+        ], 
+        "durmelya": [
+            "durmela"
+        ], 
+        "durnirIkzya": [
+            "durnirIkza"
+        ], 
+        "durnivArya": [
+            "durnivAra"
+        ], 
+        "durupalakzya": [
+            "durupalakza"
+        ], 
+        "durvAcya": [
+            "durvAca", 
+            "durvAc"
+        ], 
+        "durvidya": [
+            "durvida"
+        ], 
+        "durvigAhya": [
+            "durvigAha"
+        ], 
+        "durvitarkya": [
+            "durvitarka"
+        ], 
+        "durvizahya": [
+            "durvizaha"
+        ], 
+        "durya": [
+            "dura", 
+            "duri"
+        ], 
+        "duzparihArya": [
+            "duzparihAra"
+        ], 
+        "duzprApya": [
+            "duzprApa"
+        ], 
+        "duzprakampya": [
+            "duzprakampa"
+        ], 
+        "duzprasahya": [
+            "duzprasaha"
+        ], 
+        "duzprekzya": [
+            "duzprekza"
+        ], 
+        "dvEDya": [
+            "dviDA 1", 
+            "dvEDa", 
+            "dviDa", 
+            "dveDA", 
+            "dvEDI", 
+            "dveDI"
+        ], 
+        "dvEguRya": [
+            "dviguRa", 
+            "dviguRA"
+        ], 
+        "dvEhfdayya": [
+            "dvihfdayA"
+        ], 
+        "dvEpya": [
+            "dvIpa 1"
+        ], 
+        "dvErAjya": [
+            "dvirAjya 1"
+        ], 
+        "dvEviDya": [
+            "dviviDa 1"
+        ], 
+        "dvaya": [
+            "dva"
+        ], 
+        "ekAhArya": [
+            "ekAhAra"
+        ], 
+        "evamAdya": [
+            "evamAdi"
+        ], 
+        "ezya": [
+            "eza", 
+            "ezA"
+        ], 
+        "fSya": [
+            "fSa"
+        ], 
+        "ftvya": [
+            "ftva"
+        ], 
+        "fzya": [
+            "fzi", 
+            "fz"
+        ], 
+        "gAYjikAya": [
+            "gaYjikA"
+        ], 
+        "gAdgadya": [
+            "gadgada"
+        ], 
+        "gAmBIrya": [
+            "gAmBIra", 
+            "gamBIra", 
+            "gamBIrA", 
+            "gamBIrI"
+        ], 
+        "gArgya": [
+            "gArga", 
+            "garga", 
+            "gArgA", 
+            "gargA", 
+            "gArgi"
+        ], 
+        "gArhasTya": [
+            "gArhasTa"
+        ], 
+        "gAya": [
+            "gA 0", 
+            "ga"
+        ], 
+        "gAyatrya": [
+            "gAyatra", 
+            "gAyatrI"
+        ], 
+        "gOlya": [
+            "gula", 
+            "gola", 
+            "gOlA", 
+            "gUlA", 
+            "golA", 
+            "gulI"
+        ], 
+        "gOqya": [
+            "gOqa", 
+            "guqa", 
+            "goqa", 
+            "guqA", 
+            "gOqI"
+        ], 
+        "gaRya": [
+            "gaRa", 
+            "gaR"
+        ], 
+        "gadAhvaya": [
+            "gadAhva"
+        ], 
+        "gadya": [
+            "gad 0", 
+            "gada", 
+            "gadA", 
+            "gadi"
+        ], 
+        "gajAhvaya": [
+            "gajAhva"
+        ], 
+        "gajaBakzya": [
+            "gajaBakzA"
+        ], 
+        "gamya": [
+            "gam 0", 
+            "gama", 
+            "gami"
+        ], 
+        "gaya": [
+            "ga"
+        ], 
+        "gfhya": [
+            "gfha", 
+            "gfhi", 
+            "gfhI", 
+            "gfh"
+        ], 
+        "goprekzya": [
+            "goprekza"
+        ], 
+        "gorakzya": [
+            "gorakza", 
+            "gorakzA", 
+            "gorakzI", 
+            "gorakz"
+        ], 
+        "grAhya": [
+            "grah 0", 
+            "grAha", 
+            "graha", 
+            "grahi"
+        ], 
+        "grAmaRya": [
+            "grAmaRa", 
+            "grAmaRi", 
+            "grAmaRI"
+        ], 
+        "grAmya": [
+            "grAma 0", 
+            "grAmi", 
+            "grAmI"
+        ], 
+        "guRya": [
+            "guRa", 
+            "guRA", 
+            "guRi", 
+            "guRI", 
+            "guR"
+        ], 
+        "guheSaya": [
+            "guheSa"
+        ], 
+        "guhya": [
+            "guh 0", 
+            "guha", 
+            "guhA"
+        ], 
+        "hArdikya": [
+            "hArdikA"
+        ], 
+        "hArya": [
+            "hAra", 
+            "hara", 
+            "harA", 
+            "hAri", 
+            "hari", 
+            "hArI", 
+            "harI"
+        ], 
+        "hAsya": [
+            "has 0", 
+            "hAsa", 
+            "hasa"
+        ], 
+        "hEraRya": [
+            "hiraRa"
+        ], 
+        "hOmya": [
+            "homa 1"
+        ], 
+        "halya": [
+            "hala 1"
+        ], 
+        "havizya": [
+            "haviz"
+        ], 
+        "haya": [
+            "ha"
+        ], 
+        "hfdaya": [
+            "hfda"
+        ], 
+        "hfdayeSaya": [
+            "hfdayeSa"
+        ], 
+        "hfdayya": [
+            "hfdaya", 
+            "hfdayA"
+        ], 
+        "hfdya": [
+            "hfd 1", 
+            "hfda", 
+            "hfdi"
+        ], 
+        "himAhvaya": [
+            "himAhva"
+        ], 
+        "himAlaya": [
+            "himAla"
+        ], 
+        "hiraRya": [
+            "hiraRa"
+        ], 
+        "hiraRyaya": [
+            "hiraRya"
+        ], 
+        "homya": [
+            "homa 1", 
+            "homi"
+        ], 
+        "iBya": [
+            "iBa", 
+            "iBI"
+        ], 
+        "indrajaya": [
+            "indraja"
+        ], 
+        "ityAdya": [
+            "ityAdi"
+        ], 
+        "jAWarya": [
+            "jAWara", 
+            "jaWara"
+        ], 
+        "jAmadagnya": [
+            "jamadagni 1", 
+            "jAmadagna"
+        ], 
+        "jApya": [
+            "jApa", 
+            "japa", 
+            "japA", 
+            "jap"
+        ], 
+        "jAqya": [
+            "jaq 1", 
+            "jaqa", 
+            "jaqA", 
+            "jaqI"
+        ], 
+        "jArUTya": [
+            "jarUTa", 
+            "jArUTI"
+        ], 
+        "jAtUkarRya": [
+            "jAtUkarRa", 
+            "jatUkarRa"
+        ], 
+        "jAvanya": [
+            "javan 1"
+        ], 
+        "jEhmya": [
+            "jihma 1", 
+            "jEhmi", 
+            "jihmI"
+        ], 
+        "jIvanikAya": [
+            "jIvanikA"
+        ], 
+        "jIvya": [
+            "jIv 0", 
+            "jIva", 
+            "jIvA", 
+            "jIvi", 
+            "jIvI"
+        ], 
+        "jUrRAhvaya": [
+            "jUrRAhva"
+        ], 
+        "jaGanya": [
+            "jaGana"
+        ], 
+        "jaleSaya": [
+            "jaleSa"
+        ], 
+        "jalecarya": [
+            "jalecara"
+        ], 
+        "jalpya": [
+            "jalpa", 
+            "jalpi", 
+            "jalp"
+        ], 
+        "janya": [
+            "jan 0", 
+            "jana", 
+            "janA", 
+            "jani", 
+            "janI"
+        ], 
+        "japya": [
+            "jap 1", 
+            "japa", 
+            "japA"
+        ], 
+        "jaya": [
+            "ja"
+        ], 
+        "jyEzWya": [
+            "jyEzWa", 
+            "jyezWa", 
+            "jyezWA", 
+            "jyEzWI"
+        ], 
+        "jya": [
+            "ji 0", 
+            "ja", 
+            "jA", 
+            "jI", 
+            "j"
+        ], 
+        "kAMsya": [
+            "kaMs 0", 
+            "kAMsa", 
+            "kaMsa", 
+            "kaMsA", 
+            "kAMs"
+        ], 
+        "kASmarya": [
+            "kASmara", 
+            "kASmarI", 
+            "kaSmarI"
+        ], 
+        "kASya": [
+            "kAS 0", 
+            "kaS 0", 
+            "kASa", 
+            "kaSa", 
+            "kASA", 
+            "kaSA", 
+            "kASi", 
+            "kaSi", 
+            "kASI", 
+            "kaS"
+        ], 
+        "kAWinya": [
+            "kAWina", 
+            "kaWina", 
+            "kaWinA", 
+            "kaWinI"
+        ], 
+        "kAYcya": [
+            "kAYci", 
+            "kAYcI", 
+            "kAYc", 
+            "kaYc"
+        ], 
+        "kAdambarya": [
+            "kAdambara", 
+            "kAdambarI"
+        ], 
+        "kAlAya": [
+            "kAlA", 
+            "kalA"
+        ], 
+        "kAluzya": [
+            "kaluza", 
+            "kaluzA"
+        ], 
+        "kAlya": [
+            "kAla 0", 
+            "kala 0", 
+            "kal 0", 
+            "kala", 
+            "kAlA", 
+            "kalA", 
+            "kali", 
+            "kAlI"
+        ], 
+        "kAmpilya": [
+            "kAmpila", 
+            "kampila"
+        ], 
+        "kAmya": [
+            "kam 0", 
+            "kAma", 
+            "kAmA", 
+            "kamA", 
+            "kami", 
+            "kAmI", 
+            "kAm"
+        ], 
+        "kApawya": [
+            "kApawa", 
+            "kapawa", 
+            "kapawA"
+        ], 
+        "kApya": [
+            "kapa", 
+            "kApA", 
+            "kapi", 
+            "kApI", 
+            "kap"
+        ], 
+        "kArSya": [
+            "kArSa"
+        ], 
+        "kArkaSya": [
+            "kArkaSa", 
+            "karkaSa", 
+            "karkaSA"
+        ], 
+        "kArpaRya": [
+            "karpaRa", 
+            "kArpaRI"
+        ], 
+        "kArtsnya": [
+            "kArtsna"
+        ], 
+        "kAruRya": [
+            "karuRa", 
+            "karuRA", 
+            "karuRI", 
+            "karuR"
+        ], 
+        "kArya": [
+            "kAra", 
+            "kara", 
+            "kArA", 
+            "kari", 
+            "kArI", 
+            "karI"
+        ], 
+        "kArzRya": [
+            "kArzRa", 
+            "kArzRi", 
+            "kArzRI"
+        ], 
+        "kArzya": [
+            "kArza", 
+            "karza", 
+            "kArzi", 
+            "karzi"
+        ], 
+        "kAtarya": [
+            "kAtara", 
+            "katara"
+        ], 
+        "kAya": [
+            "kA", 
+            "ka"
+        ], 
+        "kAzAya": [
+            "kazA"
+        ], 
+        "kEMkarya": [
+            "kiMkara", 
+            "kiMkarA", 
+            "kiMkarI"
+        ], 
+        "kESya": [
+            "keSa", 
+            "kISa", 
+            "keSi", 
+            "keSI"
+        ], 
+        "kEvalya": [
+            "kEvala", 
+            "kevala", 
+            "kevalA", 
+            "kevalI"
+        ], 
+        "kIrtanya": [
+            "kIrtana", 
+            "kIrtanA"
+        ], 
+        "kORqinya": [
+            "kORqina", 
+            "kuRqina", 
+            "kuRqinI", 
+            "kuRqin"
+        ], 
+        "kORya": [
+            "kuR 0", 
+            "kuRa", 
+            "koRa", 
+            "kuRi", 
+            "kURi", 
+            "koRi", 
+            "kUR"
+        ], 
+        "kOSalya": [
+            "kuSala  1", 
+            "kOSala", 
+            "koSala", 
+            "kuSalA", 
+            "kOSali", 
+            "kuSali", 
+            "kOSalI", 
+            "kuSalI"
+        ], 
+        "kOSikya": [
+            "kOSika", 
+            "kuSika", 
+            "kOSikA", 
+            "kuSikA", 
+            "koSikA", 
+            "kOSikI"
+        ], 
+        "kOSya": [
+            "kOSa", 
+            "kuSa", 
+            "koSa", 
+            "kuSA", 
+            "koSA", 
+            "kuSi", 
+            "kOSI", 
+            "koSI", 
+            "kuS"
+        ], 
+        "kObjya": [
+            "kubja 1", 
+            "kubjA", 
+            "kubji"
+        ], 
+        "kOlInya": [
+            "kulIna 1"
+        ], 
+        "kOlya": [
+            "kul 0", 
+            "kula 1", 
+            "kOla", 
+            "kUla", 
+            "kola", 
+            "kulA", 
+            "kUlA", 
+            "kolA", 
+            "kOli", 
+            "kuli", 
+            "kUli", 
+            "koli", 
+            "kOlI", 
+            "kulI", 
+            "kolI"
+        ], 
+        "kOmArya": [
+            "kumAra 0", 
+            "kOmAra", 
+            "kumAri", 
+            "kOmArI", 
+            "kumArI"
+        ], 
+        "kOnaKya": [
+            "kunaKa", 
+            "kunaKI"
+        ], 
+        "kOpya": [
+            "kup 0", 
+            "kOpa", 
+            "kupa", 
+            "kUpa", 
+            "kopa", 
+            "kUpA", 
+            "kUpI", 
+            "kUp"
+        ], 
+        "kOrmya": [
+            "kOrma", 
+            "kUrma", 
+            "kUrmi", 
+            "kUrmI"
+        ], 
+        "kOsIdya": [
+            "kusIda 1"
+        ], 
+        "kOsalya": [
+            "kOsala", 
+            "kusala", 
+            "kosala", 
+            "kOsalI", 
+            "kosalI"
+        ], 
+        "kOtuhalya": [
+            "kutuhala 1"
+        ], 
+        "kOwilya": [
+            "kuwila 1", 
+            "kuwilA"
+        ], 
+        "kOzWya": [
+            "kOzWa", 
+            "kuzWa", 
+            "kozWa", 
+            "kozWI"
+        ], 
+        "kUpya": [
+            "kUpa", 
+            "kUpA", 
+            "kUpI", 
+            "kUp"
+        ], 
+        "kaNkAlaya": [
+            "kaNkAla"
+        ], 
+        "kaRWya": [
+            "kaRWa", 
+            "kaRWI", 
+            "kaRW"
+        ], 
+        "kaRaya": [
+            "kaRa"
+        ], 
+        "kaSya": [
+            "kaS 0", 
+            "kaSa", 
+            "kaSA", 
+            "kaSi"
+        ], 
+        "kadarya": [
+            "kadara"
+        ], 
+        "kalAya": [
+            "kalA"
+        ], 
+        "kalya": [
+            "kala 0", 
+            "kal 0", 
+            "kalA", 
+            "kali"
+        ], 
+        "kanakAhvaya": [
+            "kanakAhva"
+        ], 
+        "kapiYjalya": [
+            "kapiYjala", 
+            "kapiYjalA", 
+            "kapiYjali"
+        ], 
+        "karavIrya": [
+            "karavIra", 
+            "karavIrA"
+        ], 
+        "karmaRya": [
+            "karmaRi", 
+            "karmaRI"
+        ], 
+        "kazAya": [
+            "kazA"
+        ], 
+        "keSya": [
+            "keSa", 
+            "keSi", 
+            "keSI"
+        ], 
+        "kfmiBakzya": [
+            "kfmiBakza"
+        ], 
+        "kisalaya": [
+            "kisala"
+        ], 
+        "klEbya": [
+            "klIb 0", 
+            "klIba 1", 
+            "klib"
+        ], 
+        "klEvya": [
+            "klIva 1"
+        ], 
+        "krOrya": [
+            "krUra 1", 
+            "krUrA"
+        ], 
+        "kraya": [
+            "kra"
+        ], 
+        "kuDya": [
+            "kuDi", 
+            "kuDI", 
+            "kuD"
+        ], 
+        "kulya": [
+            "kul 0", 
+            "kula", 
+            "kulA", 
+            "kuli", 
+            "kulI"
+        ], 
+        "kupaTya": [
+            "kupaTa"
+        ], 
+        "kupya": [
+            "kup 0", 
+            "kupa"
+        ], 
+        "kuqya": [
+            "kuqi", 
+            "kuqI", 
+            "kuq"
+        ], 
+        "kuqyamatsya": [
+            "kuqyamatsI"
+        ], 
+        "kutIrTya": [
+            "kutIrTa"
+        ], 
+        "kuvalaya": [
+            "kuvala"
+        ], 
+        "kya": [
+            "ka", 
+            "kA", 
+            "kI", 
+            "k"
+        ], 
+        "kzERya": [
+            "kzIRa 1", 
+            "kzeRa", 
+            "kziR"
+        ], 
+        "kzaya": [
+            "kza"
+        ], 
+        "kzayya": [
+            "kzaya", 
+            "kzayi"
+        ], 
+        "kzemya": [
+            "kzema", 
+            "kzemA"
+        ], 
+        "lAsya": [
+            "las 0", 
+            "lAsa", 
+            "lasa", 
+            "lasA"
+        ], 
+        "lAvaRya": [
+            "lAvaRa", 
+            "lavaRa", 
+            "lavaRA", 
+            "lAvaRI"
+        ], 
+        "lOkya": [
+            "lok 0", 
+            "loka", 
+            "luk"
+        ], 
+        "lOlupya": [
+            "lolupa", 
+            "lolupA"
+        ], 
+        "lOlya": [
+            "lola", 
+            "lolA", 
+            "lOlI", 
+            "lul"
+        ], 
+        "lakzaRya": [
+            "lakzaRa", 
+            "lakzaRA"
+        ], 
+        "lakzya": [
+            "lakza", 
+            "lakzI", 
+            "lakz"
+        ], 
+        "lalAwya": [
+            "lalAwa"
+        ], 
+        "laya": [
+            "la"
+        ], 
+        "leKya": [
+            "leKa", 
+            "leKA"
+        ], 
+        "lehya": [
+            "leha", 
+            "lehI"
+        ], 
+        "loBya": [
+            "loBa", 
+            "loBI"
+        ], 
+        "lokya": [
+            "lok 0", 
+            "loka"
+        ], 
+        "mADurya": [
+            "maDura 1", 
+            "mADura", 
+            "maDurA", 
+            "mADuri", 
+            "mADurI", 
+            "maDurI"
+        ], 
+        "mADya": [
+            "mAGa 1"
+        ], 
+        "mADyasTya": [
+            "maDyasTa 1", 
+            "mADyasTa"
+        ], 
+        "mAGya": [
+            "mAGa", 
+            "maGa", 
+            "maGA", 
+            "mAGI"
+        ], 
+        "mANgalya": [
+            "maNgala 1", 
+            "mANgala", 
+            "maNgalA", 
+            "mANgali"
+        ], 
+        "mARikya": [
+            "mARika", 
+            "maRika", 
+            "mARikA", 
+            "maRikA"
+        ], 
+        "mATarnya": [
+            "manTara 1"
+        ], 
+        "mAhAtmya": [
+            "mahAtmA"
+        ], 
+        "mAheSvarya": [
+            "mAheSvara", 
+            "maheSvara", 
+            "mAheSvarI", 
+            "maheSvarI"
+        ], 
+        "mAhizya": [
+            "mAhiza", 
+            "mahiza", 
+            "mahizi", 
+            "mahizI"
+        ], 
+        "mAlaya": [
+            "mAla", 
+            "mala"
+        ], 
+        "mAlinya": [
+            "malina", 
+            "malinA", 
+            "mAlinI", 
+            "malinI", 
+            "mAlin", 
+            "malin"
+        ], 
+        "mAlya": [
+            "mal 0", 
+            "mAla", 
+            "mala", 
+            "mAlA", 
+            "malA", 
+            "mAli", 
+            "mali", 
+            "mAl"
+        ], 
+        "mAndya": [
+            "manda 1", 
+            "mAnda", 
+            "mandA", 
+            "mandI", 
+            "mand"
+        ], 
+        "mAnuzya": [
+            "mAnuza", 
+            "manuza", 
+            "mAnuzI", 
+            "manuzI"
+        ], 
+        "mAnya": [
+            "mAn 0", 
+            "man 0", 
+            "mAna", 
+            "mana", 
+            "manA", 
+            "mAni", 
+            "mAnI", 
+            "man"
+        ], 
+        "mArtsnya": [
+            "mArtsna"
+        ], 
+        "mAtsarya": [
+            "matsara 1", 
+            "mAtsara", 
+            "matsarI"
+        ], 
+        "mAtsya": [
+            "matsa", 
+            "matsI"
+        ], 
+        "mAtulya": [
+            "mAtula", 
+            "matula", 
+            "mAtulA", 
+            "mAtulI"
+        ], 
+        "mAya": [
+            "mA 0", 
+            "ma"
+        ], 
+        "mERmiRya": [
+            "miRmiRa"
+        ], 
+        "mETunya": [
+            "mETuna", 
+            "miTuna", 
+            "mETunI", 
+            "miTunI"
+        ], 
+        "mEtrya": [
+            "mitra 1", 
+            "mEtra", 
+            "mitrA", 
+            "mEtri", 
+            "mEtrI", 
+            "mitrI"
+        ], 
+        "mImAMsya": [
+            "mImAMsA", 
+            "mImAMs"
+        ], 
+        "mODya": [
+            "mugDa 1"
+        ], 
+        "mOKya": [
+            "muKa 1"
+        ], 
+        "mOQya": [
+            "mUQa 1", 
+            "moQa", 
+            "mUQi"
+        ], 
+        "mORqya": [
+            "muRqa", 
+            "muRqI", 
+            "muRq"
+        ], 
+        "mOYjya": [
+            "mOYja", 
+            "muYja", 
+            "mOYjI", 
+            "muYj"
+        ], 
+        "mOdgalya": [
+            "mudgala", 
+            "mOdgali"
+        ], 
+        "mOgDya": [
+            "mOgDa", 
+            "mugDa", 
+            "mugDA"
+        ], 
+        "mOkya": [
+            "mUka 1", 
+            "mOka", 
+            "muka", 
+            "moka", 
+            "mukA", 
+            "muk"
+        ], 
+        "mOlya": [
+            "mUl 0", 
+            "mOla", 
+            "mUla", 
+            "mOlA", 
+            "mUlA", 
+            "mOli", 
+            "mUlI", 
+            "mul"
+        ], 
+        "mOnya": [
+            "mOna", 
+            "mOni", 
+            "muni", 
+            "mOnI"
+        ], 
+        "mOrKya": [
+            "mUrKa 1"
+        ], 
+        "mOrya": [
+            "murA 1"
+        ], 
+        "mUlya": [
+            "mUl 0", 
+            "mUla 1", 
+            "mUlA", 
+            "mUlI"
+        ], 
+        "mUrCAya": [
+            "mUrCA"
+        ], 
+        "mUrDanya": [
+            "mUrDan"
+        ], 
+        "maNgalya": [
+            "maNgala 1", 
+            "maNgalA"
+        ], 
+        "madya": [
+            "mada", 
+            "madA", 
+            "madi", 
+            "mad"
+        ], 
+        "mahABAgya": [
+            "mahABAga", 
+            "mahABAgA"
+        ], 
+        "mahASaya": [
+            "mahASa"
+        ], 
+        "mahAcArya": [
+            "mahAcArI"
+        ], 
+        "mahAnilaya": [
+            "mahAnila"
+        ], 
+        "mahArAjya": [
+            "mahArAja"
+        ], 
+        "mahAvIrya": [
+            "mahAvIra", 
+            "mahAvIrA"
+        ], 
+        "mahayya": [
+            "mahay"
+        ], 
+        "mahya": [
+            "maha 0", 
+            "mah 0", 
+            "mahA", 
+            "mahi", 
+            "mahI"
+        ], 
+        "malaya": [
+            "mala"
+        ], 
+        "manuzya": [
+            "manuza", 
+            "manuzI"
+        ], 
+        "manya": [
+            "man 0", 
+            "mana", 
+            "manA"
+        ], 
+        "marudeSya": [
+            "marudeSa"
+        ], 
+        "marya": [
+            "mf 1"
+        ], 
+        "mastizkya": [
+            "mastizka"
+        ], 
+        "matsarya": [
+            "matsara", 
+            "matsarI"
+        ], 
+        "matsya": [
+            "matsa", 
+            "matsI"
+        ], 
+        "meDya": [
+            "meDa", 
+            "meDA", 
+            "meDi", 
+            "meDI", 
+            "meD"
+        ], 
+        "medya": [
+            "med 1", 
+            "meda", 
+            "medA"
+        ], 
+        "mfgya": [
+            "mfga", 
+            "mfgA", 
+            "mfgI", 
+            "mfg"
+        ], 
+        "muKya": [
+            "muKa", 
+            "muKI"
+        ], 
+        "musalya": [
+            "musala 1"
+        ], 
+        "nABya": [
+            "nABi 1", 
+            "nABa", 
+            "naBa", 
+            "nABA", 
+            "naBA", 
+            "naBi", 
+            "nABI", 
+            "nAB"
+        ], 
+        "nAdya": [
+            "nAda", 
+            "nada", 
+            "nAdi", 
+            "nadi", 
+            "nadI", 
+            "nad"
+        ], 
+        "nAgAhvaya": [
+            "nAgAhva"
+        ], 
+        "nAgarya": [
+            "nAgara 1"
+        ], 
+        "nAkulAnDya": [
+            "nakulAnDa"
+        ], 
+        "nAnAdeSya": [
+            "nAnAdeSa"
+        ], 
+        "nApipya": [
+            "nApita 1"
+        ], 
+        "nAsikya": [
+            "nAsika", 
+            "nAsikA"
+        ], 
+        "nAstikya": [
+            "nAstika 1"
+        ], 
+        "nAsya": [
+            "nas 0", 
+            "nAsA 1", 
+            "nasa", 
+            "nasA", 
+            "nasi"
+        ], 
+        "nAwya": [
+            "nawa 1", 
+            "nAwa", 
+            "nawA", 
+            "nawI", 
+            "naw"
+        ], 
+        "nEHsnehya": [
+            "niHsneha", 
+            "niHsnehA"
+        ], 
+        "nEScalaya": [
+            "niScala 1"
+        ], 
+        "nEbiqya": [
+            "nibiqa 1"
+        ], 
+        "nEkawya": [
+            "nikawa 1", 
+            "nikawI"
+        ], 
+        "nEkfzwya": [
+            "nikfzwa"
+        ], 
+        "nElya": [
+            "nIla 1"
+        ], 
+        "nEpuRya": [
+            "nEpuRa", 
+            "nipuRa", 
+            "nipuRA", 
+            "nipuRi"
+        ], 
+        "nErASya": [
+            "nirASa 1", 
+            "nirAS"
+        ], 
+        "nErAjya": [
+            "nirAja", 
+            "nIrAj"
+        ], 
+        "nErAtmya": [
+            "nErAtma"
+        ], 
+        "nErDanya": [
+            "nirDana", 
+            "nirDanA"
+        ], 
+        "nErGfRya": [
+            "nirGfRa 1"
+        ], 
+        "nErantarya": [
+            "niraMtara 1", 
+            "nirantara"
+        ], 
+        "nErapekzya": [
+            "nirapekza 1", 
+            "nErapekza", 
+            "nirapekzA"
+        ], 
+        "nErarTakya": [
+            "nirarTaka"
+        ], 
+        "nErarTya": [
+            "nirarTa 1"
+        ], 
+        "nErguRya": [
+            "nirguRa 1", 
+            "nirguRA"
+        ], 
+        "nErlajjya": [
+            "nirlajja 1"
+        ], 
+        "nErmalya": [
+            "nirmala"
+        ], 
+        "nErujya": [
+            "niruj 1", 
+            "niruja", 
+            "nIruja", 
+            "nIruj"
+        ], 
+        "nEvEdya": [
+            "niveda 1"
+        ], 
+        "nEviqya": [
+            "niviqa 1"
+        ], 
+        "nEzWurya": [
+            "nizWura 1"
+        ], 
+        "nEzWya": [
+            "nizWazyaY 1"
+        ], 
+        "nEzaDya": [
+            "nEzaDa", 
+            "nizaDa"
+        ], 
+        "nEzkarmya": [
+            "nizkarma 1", 
+            "nizkarmI"
+        ], 
+        "nEzkramya": [
+            "nizkrama", 
+            "nizkram"
+        ], 
+        "nIrAjya": [
+            "nIrAj"
+        ], 
+        "naBasya": [
+            "naBas 1", 
+            "naBasa"
+        ], 
+        "nadya": [
+            "nada", 
+            "nadi", 
+            "nadI", 
+            "nad"
+        ], 
+        "naktAnDya": [
+            "naktAnDa"
+        ], 
+        "nakulAnDya": [
+            "nakulAnDa"
+        ], 
+        "namasya": [
+            "namas 1", 
+            "namasa"
+        ], 
+        "naqaya": [
+            "naq 1"
+        ], 
+        "nasya": [
+            "nas 0", 
+            "nasa", 
+            "nasA", 
+            "nasi"
+        ], 
+        "nawaya": [
+            "naw 1"
+        ], 
+        "naya": [
+            "na"
+        ], 
+        "netrya": [
+            "netra", 
+            "netrI"
+        ], 
+        "nfSaMsya": [
+            "nfSaMsa"
+        ], 
+        "nfpAlaya": [
+            "nfpAla"
+        ], 
+        "niSITya": [
+            "niSITa 1"
+        ], 
+        "nigAdya": [
+            "nigAda"
+        ], 
+        "nikAyya": [
+            "nikAya"
+        ], 
+        "nirASaya": [
+            "nirASa"
+        ], 
+        "nirAlasya": [
+            "nirAlasa"
+        ], 
+        "nirmAlya": [
+            "nirmAlI"
+        ], 
+        "nirmAya": [
+            "nirmA"
+        ], 
+        "nirmUlya": [
+            "nirmUla"
+        ], 
+        "nirvAkya": [
+            "nirvAka", 
+            "nirvAk"
+        ], 
+        "nirvIrya": [
+            "nirvIra", 
+            "nirvIrA"
+        ], 
+        "nirveSya": [
+            "nirveSa"
+        ], 
+        "nirvidya": [
+            "nirvid"
+        ], 
+        "nirvikalpya": [
+            "nirvikalpa"
+        ], 
+        "nirvizaya": [
+            "nirviza"
+        ], 
+        "niyojya": [
+            "yuj 1"
+        ], 
+        "nyAya": [
+            "nya"
+        ], 
+        "nyAyya": [
+            "nyAya 1", 
+            "nyaya"
+        ], 
+        "nyagroDAdya": [
+            "nyagroDAdi"
+        ], 
+        "ojasya": [
+            "ojas 1"
+        ], 
+        "ozWya": [
+            "ozWa 1", 
+            "ozWI"
+        ], 
+        "pANgulya": [
+            "paNgula"
+        ], 
+        "pARqya": [
+            "pARqa", 
+            "paRqa", 
+            "paRqA", 
+            "pARqi"
+        ], 
+        "pASikya": [
+            "pASika", 
+            "pASikA"
+        ], 
+        "pASupAlya": [
+            "paSupAla 1"
+        ], 
+        "pASya": [
+            "paS 0", 
+            "pASa 1", 
+            "pASI"
+        ], 
+        "pAYcAlya": [
+            "pAYcAla", 
+            "paYcAla", 
+            "pAYcAli", 
+            "pAYcAlI", 
+            "paYcAlI"
+        ], 
+        "pAYcadaSya": [
+            "paYcadaSan 1", 
+            "pAYcadaSa", 
+            "paYcadaSa", 
+            "paYcadaSI"
+        ], 
+        "pAYcajanya": [
+            "paYcajana 1", 
+            "pAYcajanI"
+        ], 
+        "pAYcaviDya": [
+            "paYcaviDa"
+        ], 
+        "pAcya": [
+            "pac 0", 
+            "paca", 
+            "pAcA", 
+            "pAci", 
+            "paci", 
+            "pAcI"
+        ], 
+        "pAdya": [
+            "pAda 1", 
+            "pada", 
+            "pAdi", 
+            "padi", 
+            "pAd", 
+            "pad"
+        ], 
+        "pAkya": [
+            "pAka"
+        ], 
+        "pAlaNkya": [
+            "pAlaMka 1", 
+            "pAlaNka", 
+            "palaNka", 
+            "pAlaNkI"
+        ], 
+        "pAlakya": [
+            "pAlaka", 
+            "palaka"
+        ], 
+        "pApalokya": [
+            "pApaloka"
+        ], 
+        "pArASarya": [
+            "parASara 1", 
+            "pArASara", 
+            "pArASari", 
+            "pArASarI", 
+            "parASarI"
+        ], 
+        "pArArTya": [
+            "parArTa"
+        ], 
+        "pArAvarya": [
+            "parAvara"
+        ], 
+        "pArTakya": [
+            "pfTaka 1"
+        ], 
+        "pAradArya": [
+            "paradAra"
+        ], 
+        "pAradeSya": [
+            "paradeSa 1", 
+            "paradeSI"
+        ], 
+        "pArahaMsya": [
+            "parahaMsa 1"
+        ], 
+        "pArakya": [
+            "pAraka", 
+            "paraka"
+        ], 
+        "pAralokya": [
+            "paraloka"
+        ], 
+        "pAramArTya": [
+            "paramArTa"
+        ], 
+        "pAramahaMsya": [
+            "paramahaMsa 1", 
+            "pAramahaMsa"
+        ], 
+        "pAramezWya": [
+            "pAramezWa", 
+            "paramezWa", 
+            "paramezWi", 
+            "paramezWI"
+        ], 
+        "pAramparya": [
+            "paramparA 1", 
+            "pArampara", 
+            "parampara", 
+            "pAramparI"
+        ], 
+        "pArataMtrya": [
+            "parataMtra 1"
+        ], 
+        "pAratantrya": [
+            "pAratantra", 
+            "paratantra"
+        ], 
+        "pAratrya": [
+            "pAratra", 
+            "paratra"
+        ], 
+        "pAravaSya": [
+            "paraveSa 1", 
+            "paravaSa"
+        ], 
+        "pAriRAhya": [
+            "pariRAha"
+        ], 
+        "pAriRAyya": [
+            "pariRaya 1"
+        ], 
+        "pAriSezya": [
+            "pariSeza 1", 
+            "pariSez"
+        ], 
+        "pAribrAjya": [
+            "paribrAj 1"
+        ], 
+        "pArihArya": [
+            "parihAra"
+        ], 
+        "pArihAsya": [
+            "parihAsa 1"
+        ], 
+        "pArimAMqalya": [
+            "parimaMqala 1"
+        ], 
+        "pArimARya": [
+            "parimARa"
+        ], 
+        "pArimuKya": [
+            "parimuKa 1"
+        ], 
+        "pAripAwya": [
+            "paripAwI 1"
+        ], 
+        "pAripUrRya": [
+            "paripUrRa"
+        ], 
+        "pArivetrya": [
+            "parivetf 1"
+        ], 
+        "pArizadya": [
+            "pArizada", 
+            "parizada", 
+            "pArizad", 
+            "parizad"
+        ], 
+        "pArjanya": [
+            "parjanI"
+        ], 
+        "pArovarya": [
+            "parovara 1"
+        ], 
+        "pAruzya": [
+            "paruza 1", 
+            "paruzA", 
+            "paruzI"
+        ], 
+        "pArzadya": [
+            "parzad 1"
+        ], 
+        "pAtrya": [
+            "pAtra 1"
+        ], 
+        "pAwalya": [
+            "pAwala 1"
+        ], 
+        "pAya": [
+            "pA 0", 
+            "pa"
+        ], 
+        "pAyya": [
+            "pay 0", 
+            "pAya", 
+            "paya", 
+            "pAy"
+        ], 
+        "pEMqikya": [
+            "piMqa 1"
+        ], 
+        "pEMqinya": [
+            "piMqa 1"
+        ], 
+        "pENgalya": [
+            "pENgala", 
+            "piNgala", 
+            "piNgalA", 
+            "piNgalI"
+        ], 
+        "pESAcya": [
+            "pESAca", 
+            "piSAca", 
+            "piSAci", 
+            "pESAcI", 
+            "piSAcI"
+        ], 
+        "pESalya": [
+            "peSala 1", 
+            "peSalA"
+        ], 
+        "pESunya": [
+            "pESuna", 
+            "piSuna", 
+            "piSunA"
+        ], 
+        "pEcCilya": [
+            "picCila", 
+            "picCilA"
+        ], 
+        "pEllya": [
+            "pElla", 
+            "pilla"
+        ], 
+        "pEtrya": [
+            "pEtra", 
+            "pitr"
+        ], 
+        "pOMScalya": [
+            "puMScalI 1"
+        ], 
+        "pOMsya": [
+            "puMs 0", 
+            "puMsa", 
+            "puMsI"
+        ], 
+        "pORqarya": [
+            "puRqara"
+        ], 
+        "pOnaHpunya": [
+            "punaH punaH 1", 
+            "punaHpunA"
+        ], 
+        "pOrRamAsya": [
+            "pOrRamAsa", 
+            "pUrRamAsa", 
+            "pOrRamAsI", 
+            "pUrRamAsI", 
+            "pUrRamAs"
+        ], 
+        "pOruzya": [
+            "pOruza", 
+            "puruza", 
+            "pUruza", 
+            "pOruzI"
+        ], 
+        "pOrvAparya": [
+            "pUrvApari 1", 
+            "pUrvApara"
+        ], 
+        "pOtinAsikya": [
+            "pUtinAsika"
+        ], 
+        "pOzkalya": [
+            "puzkala 1"
+        ], 
+        "pOzya": [
+            "pOza", 
+            "puza", 
+            "poza", 
+            "puzA", 
+            "pUzA", 
+            "pOzI", 
+            "puz", 
+            "pUz"
+        ], 
+        "pUjya": [
+            "pUj 0", 
+            "pUjA"
+        ], 
+        "pUrvya": [
+            "pUrva", 
+            "pUrvA", 
+            "pUrvI"
+        ], 
+        "pUya": [
+            "pU 0"
+        ], 
+        "paRya": [
+            "paRa 0", 
+            "paR 1", 
+            "paRi"
+        ], 
+        "paSupAlya": [
+            "paSupAla"
+        ], 
+        "paSya": [
+            "paS 0"
+        ], 
+        "paTya": [
+            "paTin 1", 
+            "paTa", 
+            "paTi", 
+            "paTI", 
+            "paT"
+        ], 
+        "pacya": [
+            "pac 0", 
+            "paca", 
+            "paci"
+        ], 
+        "padmakAdya": [
+            "padmakAdi"
+        ], 
+        "padya": [
+            "pada", 
+            "padi", 
+            "pad"
+        ], 
+        "pakzya": [
+            "pakza 1", 
+            "pakzi", 
+            "pakzI", 
+            "pakz"
+        ], 
+        "parArDya": [
+            "parArDa"
+        ], 
+        "parAya": [
+            "parA"
+        ], 
+        "paradArya": [
+            "paradAra 1"
+        ], 
+        "parakya": [
+            "paraka"
+        ], 
+        "parihArya": [
+            "parihAra"
+        ], 
+        "parikalpya": [
+            "parikalpa"
+        ], 
+        "pariprezya": [
+            "pariprez"
+        ], 
+        "parjanya": [
+            "parjanI"
+        ], 
+        "paya": [
+            "pa"
+        ], 
+        "payasya": [
+            "payas 1"
+        ], 
+        "pfzWya": [
+            "pfzWa 1"
+        ], 
+        "pippalyAdya": [
+            "pippalyAdi"
+        ], 
+        "pitrya": [
+            "pitr"
+        ], 
+        "piwakya": [
+            "piwaka 1"
+        ], 
+        "prADAnya": [
+            "praDAna 1", 
+            "praDAnA"
+        ], 
+        "prAKarya": [
+            "praKara 1"
+        ], 
+        "prASya": [
+            "prASa", 
+            "prASA", 
+            "praSI", 
+            "prAS", 
+            "praS"
+        ], 
+        "prATamya": [
+            "praTama 1"
+        ], 
+        "prAbalya": [
+            "prabala 1", 
+            "prabalA"
+        ], 
+        "prAcInayogya": [
+            "prAcInayoga"
+        ], 
+        "prAcaRqaya": [
+            "pracaRqa 1"
+        ], 
+        "prAcurya": [
+            "pracura 1", 
+            "pracurA", 
+            "pracurI"
+        ], 
+        "prAcya": [
+            "praca", 
+            "prAcA", 
+            "praci", 
+            "prAcI"
+        ], 
+        "prAdakziRya": [
+            "pradakziRa 1"
+        ], 
+        "prAduzya": [
+            "prAdus 1"
+        ], 
+        "prAgalBya": [
+            "pragalBa 1", 
+            "pragalBA", 
+            "prAgalBI", 
+            "pragalB"
+        ], 
+        "prAgrya": [
+            "prAgra", 
+            "prAgrA"
+        ], 
+        "prAgya": [
+            "prAgra 1"
+        ], 
+        "prAjya": [
+            "praja", 
+            "prajA", 
+            "praji"
+        ], 
+        "prAkASya": [
+            "prAkASa", 
+            "prakASa", 
+            "prakASA", 
+            "prakAS"
+        ], 
+        "prAkAmya": [
+            "prakAma 1", 
+            "prAkAma"
+        ], 
+        "prAkawaya": [
+            "prakawa 1"
+        ], 
+        "prAkawya": [
+            "prakawa", 
+            "prakawI"
+        ], 
+        "prAmARya": [
+            "pramARa 1", 
+            "pramARI"
+        ], 
+        "prAmAdya": [
+            "pramAda 1"
+        ], 
+        "prAmodya": [
+            "pramoda", 
+            "pramodA"
+        ], 
+        "prApya": [
+            "prApa", 
+            "prapA", 
+            "prApI", 
+            "prapI", 
+            "prAp"
+        ], 
+        "prAsaNgya": [
+            "prAsaMga 1"
+        ], 
+        "prAtihArya": [
+            "prAtihAra", 
+            "pratihAra", 
+            "pratihArI"
+        ], 
+        "prAtikUlya": [
+            "pratikUla 1", 
+            "pratikUl"
+        ], 
+        "prAtilomya": [
+            "pratiloma 1"
+        ], 
+        "prAtipakzya": [
+            "pratipakza 1", 
+            "prAtipakza", 
+            "pratipakzI"
+        ], 
+        "prAtiveSya": [
+            "prativeSa 1", 
+            "prativeSI"
+        ], 
+        "prAvIRya": [
+            "pravIRa 1"
+        ], 
+        "prAvfzya": [
+            "prAvfz 1", 
+            "prAvfza", 
+            "prAvfzA", 
+            "pravfz"
+        ], 
+        "prAya": [
+            "prA 0", 
+            "pra"
+        ], 
+        "prEzya": [
+            "prEza", 
+            "preza", 
+            "prez"
+        ], 
+        "praRaya": [
+            "praRa"
+        ], 
+        "praSizya": [
+            "praSiza"
+        ], 
+        "pracCAya": [
+            "pracCA"
+        ], 
+        "pracaya": [
+            "praca"
+        ], 
+        "prajApAlya": [
+            "prajApAla", 
+            "prajApAli"
+        ], 
+        "prakzaya": [
+            "prakza"
+        ], 
+        "pramuKya": [
+            "pramuKa"
+        ], 
+        "pratIcya": [
+            "pratIcI 1"
+        ], 
+        "pratiBaya": [
+            "pratiBa"
+        ], 
+        "pratiSyAya": [
+            "pratiSyA"
+        ], 
+        "pratihArya": [
+            "pratihAra", 
+            "pratihArI"
+        ], 
+        "pratikArya": [
+            "pratikAra"
+        ], 
+        "prativIrya": [
+            "prativIra"
+        ], 
+        "prativeSya": [
+            "prativeSa", 
+            "prativeSI"
+        ], 
+        "prativizaya": [
+            "prativiza"
+        ], 
+        "pratyAmnAya": [
+            "pratyAmnA"
+        ], 
+        "pratyAtmya": [
+            "pratyAtma"
+        ], 
+        "pravAcya": [
+            "pravAc"
+        ], 
+        "pravAsya": [
+            "pravAsa"
+        ], 
+        "pravargya": [
+            "pravarga"
+        ], 
+        "pravrajya": [
+            "pravraj"
+        ], 
+        "prayogya": [
+            "prayoga"
+        ], 
+        "prezya": [
+            "preza", 
+            "prez"
+        ], 
+        "puRqarya": [
+            "puRqara"
+        ], 
+        "puRya": [
+            "puR 0"
+        ], 
+        "pureSaya": [
+            "pureSa"
+        ], 
+        "purudaya": [
+            "puruda"
+        ], 
+        "putrya": [
+            "putra 1", 
+            "putrI", 
+            "putr"
+        ], 
+        "puzkarAhvaya": [
+            "puzkarAhva"
+        ], 
+        "puzwya": [
+            "puzwa", 
+            "puzwi"
+        ], 
+        "puzya": [
+            "puza", 
+            "puzA", 
+            "puz"
+        ], 
+        "rAjaDAnya": [
+            "rAjaDAna", 
+            "rAjaDAnI"
+        ], 
+        "rAjamAnya": [
+            "rAjamAna"
+        ], 
+        "rAjanya": [
+            "rAjan 1", 
+            "rAjana", 
+            "rajana", 
+            "rAjani", 
+            "rajani", 
+            "rajanI"
+        ], 
+        "rAjasUya": [
+            "rAjasU"
+        ], 
+        "rAjya": [
+            "rAj 0", 
+            "rAja", 
+            "raja", 
+            "rAjA", 
+            "rajA", 
+            "rAji", 
+            "raji", 
+            "rAjI", 
+            "raj"
+        ], 
+        "rAya": [
+            "rA 0", 
+            "ra"
+        ], 
+        "rEBya": [
+            "reB 0", 
+            "rEBa", 
+            "reBa", 
+            "riB"
+        ], 
+        "rOcya": [
+            "ruc 0", 
+            "ruca", 
+            "roca", 
+            "ruci", 
+            "roci", 
+            "rucI", 
+            "rocI", 
+            "roc"
+        ], 
+        "rOkzya": [
+            "rUkza 1", 
+            "rukza", 
+            "rUkzA", 
+            "rUkz"
+        ], 
+        "rOpya": [
+            "rUpa 0", 
+            "rupa", 
+            "ropa", 
+            "rUpA", 
+            "ropi", 
+            "rUp"
+        ], 
+        "raRya": [
+            "raRa", 
+            "raR"
+        ], 
+        "raTya": [
+            "raTa", 
+            "raTI"
+        ], 
+        "rahasya": [
+            "rahasa", 
+            "rahas"
+        ], 
+        "raktaSAlya": [
+            "raktaSAli"
+        ], 
+        "ramaRya": [
+            "ramaRa", 
+            "ramaRA", 
+            "ramaRI"
+        ], 
+        "ramya": [
+            "ram 0", 
+            "rama", 
+            "ramA"
+        ], 
+        "rasya": [
+            "rasa 0", 
+            "ras 0", 
+            "rasA"
+        ], 
+        "raya": [
+            "ra"
+        ], 
+        "rohiRya": [
+            "rohiRa", 
+            "rohiRi", 
+            "rohiRI"
+        ], 
+        "ropya": [
+            "ropa", 
+            "ropi"
+        ], 
+        "rucya": [
+            "ruc 0", 
+            "ruca", 
+            "ruci", 
+            "rucI"
+        ], 
+        "sADAraRya": [
+            "sADAraRa 1", 
+            "sADAraRI"
+        ], 
+        "sADarmya": [
+            "saDarma 1"
+        ], 
+        "sADya": [
+            "sAD 1", 
+            "sADa", 
+            "saDa", 
+            "saDi", 
+            "saDI"
+        ], 
+        "sAKya": [
+            "saKi 1"
+        ], 
+        "sAMDya": [
+            "sAMDa", 
+            "saMDa", 
+            "saMDA", 
+            "saMDi"
+        ], 
+        "sAMkASya": [
+            "saMkASa", 
+            "saMkAS"
+        ], 
+        "sAMkaTya": [
+            "saMkaTA", 
+            "saMkaT"
+        ], 
+        "sAMkarya": [
+            "saMkara", 
+            "saMkarI"
+        ], 
+        "sAMniDya": [
+            "saMniDa", 
+            "saMniDA", 
+            "saMniDi"
+        ], 
+        "sAMsidDya": [
+            "saMsidDa", 
+            "saMsidDi"
+        ], 
+        "sANkarya": [
+            "saNkara 1"
+        ], 
+        "sAPalya": [
+            "saPala 1", 
+            "saPalI"
+        ], 
+        "sAcivya": [
+            "saciva 1"
+        ], 
+        "sAdfSya": [
+            "sadfSa 1", 
+            "sAdfSa", 
+            "sadfS"
+        ], 
+        "sAdguRya": [
+            "sadguRa"
+        ], 
+        "sAhAyya": [
+            "sahAya 1", 
+            "sAhAya", 
+            "sahAyI"
+        ], 
+        "sAhacarya": [
+            "sahacara 1", 
+            "sAhacara", 
+            "sahacarI"
+        ], 
+        "sAhasikya": [
+            "sAhasika"
+        ], 
+        "sAhvaya": [
+            "sAhva"
+        ], 
+        "sAhya": [
+            "sah 0", 
+            "saha 1", 
+            "sAha", 
+            "sAhA", 
+            "sahA", 
+            "sAhi", 
+            "sahi", 
+            "sAh"
+        ], 
+        "sAjya": [
+            "sAja", 
+            "sAjI", 
+            "saj"
+        ], 
+        "sAkalya": [
+            "sakala 1", 
+            "sAkala", 
+            "sakalA", 
+            "sAkali", 
+            "sakalI"
+        ], 
+        "sAkzya": [
+            "sAkzinzyaY 1", 
+            "sAkza", 
+            "sakza", 
+            "sAkzi", 
+            "sAkzI", 
+            "sAkz", 
+            "sakz"
+        ], 
+        "sAlokya": [
+            "saloka 1"
+        ], 
+        "sAmAnADikaraRya": [
+            "samAnADikaraRa 1"
+        ], 
+        "sAmAnya": [
+            "sAmAna", 
+            "samAna", 
+            "samAnI"
+        ], 
+        "sAmIpya": [
+            "samIpa 1", 
+            "samIpI"
+        ], 
+        "sAmaYjasya": [
+            "samaYjasa 1"
+        ], 
+        "sAmagrya": [
+            "samagra 1", 
+            "sAmagrI"
+        ], 
+        "sAmakzya": [
+            "sAmakza", 
+            "samakza"
+        ], 
+        "sAmanasya": [
+            "sAmanasa", 
+            "sAmanasI", 
+            "samanas"
+        ], 
+        "sAmarTya": [
+            "samarTa 1", 
+            "samarT"
+        ], 
+        "sAmarasya": [
+            "samarasa"
+        ], 
+        "sAmasTya": [
+            "samasTa"
+        ], 
+        "sAmrAjya": [
+            "samrAja 1", 
+            "samrAj"
+        ], 
+        "sAmya": [
+            "sAma 0", 
+            "sam 0", 
+            "sama 1", 
+            "sama", 
+            "sAmA", 
+            "samA", 
+            "sAmi", 
+            "sami", 
+            "samI", 
+            "sAm"
+        ], 
+        "sAnATya": [
+            "sanATa", 
+            "sanATA"
+        ], 
+        "sAnniDya": [
+            "sanniDi 1"
+        ], 
+        "sApatnya": [
+            "sApatna", 
+            "sapatna", 
+            "sapatnI"
+        ], 
+        "sApiRqaya": [
+            "sapiRqa 1"
+        ], 
+        "sApiRqya": [
+            "sApiRqa", 
+            "sapiRqa", 
+            "sApiRqi", 
+            "sapiRqI"
+        ], 
+        "sAraTya": [
+            "sAraTi 1", 
+            "saraTa"
+        ], 
+        "sAralya": [
+            "sarala 1"
+        ], 
+        "sArivAdya": [
+            "sArivAdi"
+        ], 
+        "sArupya": [
+            "sarupa 1"
+        ], 
+        "sArvajanya": [
+            "sarvajana"
+        ], 
+        "sArvavEdya": [
+            "sarvaveda 1"
+        ], 
+        "sAsya": [
+            "sas 0", 
+            "sAsa", 
+            "sasa", 
+            "sAsi"
+        ], 
+        "sAtmya": [
+            "sAtma", 
+            "sAtmI"
+        ], 
+        "sAvarRya": [
+            "savarRa 1", 
+            "sAvarRa", 
+            "savarRA", 
+            "sAvarRi"
+        ], 
+        "sAya": [
+            "sA", 
+            "sa"
+        ], 
+        "sAyujya": [
+            "sayuja 1", 
+            "sayuj"
+        ], 
+        "sAzwarya": [
+            "sArzwi 1"
+        ], 
+        "sEkya": [
+            "sek 0", 
+            "sEka", 
+            "seka", 
+            "sik", 
+            "sIk"
+        ], 
+        "sEnya": [
+            "sena", 
+            "senA", 
+            "seni", 
+            "sinI"
+        ], 
+        "sIvya": [
+            "sIv"
+        ], 
+        "sOBAgya": [
+            "suBAga"
+        ], 
+        "sOKya": [
+            "suKa 0", 
+            "sOKa", 
+            "soKa", 
+            "suKA", 
+            "suKi", 
+            "suKI", 
+            "suK"
+        ], 
+        "sOSIlya": [
+            "suSIla 1", 
+            "suSIlA"
+        ], 
+        "sOSabdya": [
+            "sOSabda", 
+            "suSabda"
+        ], 
+        "sOdarya": [
+            "sodara 1", 
+            "sUdara", 
+            "sodarI"
+        ], 
+        "sOganDya": [
+            "suganDa 1", 
+            "sOganDa", 
+            "suganDA", 
+            "suganDi"
+        ], 
+        "sOhArdya": [
+            "suhfd 1"
+        ], 
+        "sOhfdayya": [
+            "sOhfdaya", 
+            "suhfdaya"
+        ], 
+        "sOhfdya": [
+            "suhfd 1", 
+            "sOhfda", 
+            "suhfda"
+        ], 
+        "sOjanya": [
+            "sfjana 1"
+        ], 
+        "sOkarya": [
+            "sU (su) kara 1", 
+            "sOkara", 
+            "sukara", 
+            "sUkara", 
+            "sOkarI", 
+            "sUkarI"
+        ], 
+        "sOkumArya": [
+            "sukumAra 1", 
+            "sukumArA", 
+            "sukumArI"
+        ], 
+        "sOkzmya": [
+            "sUkzma 1", 
+            "sOkzma", 
+            "sukzma", 
+            "sUkzmA", 
+            "sUkzmI"
+        ], 
+        "sOmaNgalya": [
+            "sOmaNgala", 
+            "sumaNgala", 
+            "sumaNgalA"
+        ], 
+        "sOmanasya": [
+            "sumanas 1", 
+            "sOmanasa", 
+            "sumanasa", 
+            "sumanasI"
+        ], 
+        "sOmuKya": [
+            "sumuKa", 
+            "sumuKA", 
+            "sumuKI"
+        ], 
+        "sOmya": [
+            "sOma", 
+            "suma", 
+            "soma", 
+            "somA", 
+            "sOmI"
+        ], 
+        "sOndarya": [
+            "sundara 1", 
+            "sundarI"
+        ], 
+        "sOrAjya": [
+            "surAjya 1", 
+            "surAji", 
+            "surAj"
+        ], 
+        "sOraBya": [
+            "suraBi 1", 
+            "sOraBa", 
+            "suraBa", 
+            "sOraBI", 
+            "suraBI"
+        ], 
+        "sOrasya": [
+            "sOrasa", 
+            "surasa", 
+            "surasA", 
+            "surasI"
+        ], 
+        "sOrya": [
+            "sur 0", 
+            "sOra", 
+            "sura", 
+            "sUra", 
+            "sora", 
+            "surA", 
+            "sOri", 
+            "suri", 
+            "sUri", 
+            "sOrI", 
+            "sUrI", 
+            "sUr"
+        ], 
+        "sOvIrya": [
+            "suvIra 1", 
+            "sOvIra", 
+            "sOvIrI"
+        ], 
+        "sOzirya": [
+            "sOzira", 
+            "suzira", 
+            "suzirA"
+        ], 
+        "sPAwikya": [
+            "sPAwika", 
+            "sPawika", 
+            "sPawikA", 
+            "sPAwikI"
+        ], 
+        "sPya": [
+            "sPA", 
+            "sPI"
+        ], 
+        "sTAvirya": [
+            "sTAvira", 
+            "sTavira", 
+            "sTavirA"
+        ], 
+        "sTAya": [
+            "sTA", 
+            "sTa"
+        ], 
+        "sTErya": [
+            "sTira 1", 
+            "sTirA", 
+            "sTirI", 
+            "sTir"
+        ], 
+        "sTOlalakzya": [
+            "sTUlalakza"
+        ], 
+        "sTOlya": [
+            "sTUla 1", 
+            "sTOla", 
+            "sTUlA", 
+            "sTUlI", 
+            "sTUl"
+        ], 
+        "sTUlalakzya": [
+            "sTUlalakza"
+        ], 
+        "sUpya": [
+            "sUpa"
+        ], 
+        "sUryAhvaya": [
+            "sUryAhva"
+        ], 
+        "sUrya": [
+            "sUra", 
+            "sUri", 
+            "sUrI", 
+            "sUr"
+        ], 
+        "saBAgya": [
+            "saBAga"
+        ], 
+        "saBAjya": [
+            "saBAj"
+        ], 
+        "saBakzya": [
+            "saBakza"
+        ], 
+        "saBya": [
+            "saBa", 
+            "saBA", 
+            "saB"
+        ], 
+        "saKya": [
+            "saKa", 
+            "saKA", 
+            "saKi", 
+            "saKI", 
+            "saK"
+        ], 
+        "saMjaya": [
+            "saMja"
+        ], 
+        "saMnAhya": [
+            "saMnAha"
+        ], 
+        "saMtulya": [
+            "saMtul"
+        ], 
+        "saMvedya": [
+            "saMveda"
+        ], 
+        "saMyAjya": [
+            "saMyAja"
+        ], 
+        "saSUlya": [
+            "saSUla"
+        ], 
+        "sadasya": [
+            "sadasa", 
+            "sadasI", 
+            "sadas"
+        ], 
+        "sadaya": [
+            "sada"
+        ], 
+        "sadya": [
+            "sada", 
+            "sadA", 
+            "sadi", 
+            "sad"
+        ], 
+        "sahAya": [
+            "sahA"
+        ], 
+        "sahaSayya": [
+            "sahaSaya"
+        ], 
+        "sahasya": [
+            "sahase balAya hitaH sahas 1", 
+            "sahasa", 
+            "sahasA", 
+            "sahas"
+        ], 
+        "sahya": [
+            "sah 0", 
+            "saha", 
+            "sahA", 
+            "sahi"
+        ], 
+        "sajya": [
+            "saj"
+        ], 
+        "sakulya": [
+            "sakula 1"
+        ], 
+        "samAhvaya": [
+            "samAhva"
+        ], 
+        "samAlya": [
+            "samAlI"
+        ], 
+        "samAmnAya": [
+            "samAmnA"
+        ], 
+        "samAya": [
+            "samA"
+        ], 
+        "samIkzya": [
+            "samIkza", 
+            "samIkzA", 
+            "samIkz"
+        ], 
+        "samUhya": [
+            "samUha", 
+            "samUhA", 
+            "samUh"
+        ], 
+        "sampradAya": [
+            "sampradA"
+        ], 
+        "samprajanya": [
+            "samprajan"
+        ], 
+        "samuccaya": [
+            "samucca"
+        ], 
+        "samudIrya": [
+            "samudIr"
+        ], 
+        "sanABya": [
+            "sanABi 1", 
+            "sanABa"
+        ], 
+        "sasya": [
+            "sas 0", 
+            "sasa"
+        ], 
+        "satkArya": [
+            "satkAra"
+        ], 
+        "savizaya": [
+            "saviza"
+        ], 
+        "sayUTya": [
+            "sayUTa 1"
+        ], 
+        "saya": [
+            "sa"
+        ], 
+        "senaya": [
+            "sena"
+        ], 
+        "sevya": [
+            "sev 0", 
+            "seva", 
+            "sevA", 
+            "sevI"
+        ], 
+        "sfjya": [
+            "sfja", 
+            "sfji", 
+            "sfj"
+        ], 
+        "siDya": [
+            "siD 1"
+        ], 
+        "snEgDya": [
+            "snigD 1", 
+            "snigDa", 
+            "snigDA"
+        ], 
+        "soBya": [
+            "soBa"
+        ], 
+        "sodarya": [
+            "sodara 1", 
+            "sodarI"
+        ], 
+        "somya": [
+            "soma", 
+            "somA"
+        ], 
+        "sparDya": [
+            "sparDa", 
+            "sparDA", 
+            "sparD"
+        ], 
+        "spfhya": [
+            "spfh 1"
+        ], 
+        "srAmya": [
+            "srAma"
+        ], 
+        "srotasya": [
+            "srotas 1"
+        ], 
+        "stEnya": [
+            "stEna", 
+            "stena", 
+            "stenA", 
+            "sten"
+        ], 
+        "stanaMDaya": [
+            "stanaMDa"
+        ], 
+        "stanya": [
+            "stana", 
+            "stan"
+        ], 
+        "stomya": [
+            "stoma 1"
+        ], 
+        "suSlokya": [
+            "suSloka"
+        ], 
+        "sugopya": [
+            "sugopA"
+        ], 
+        "suhfdya": [
+            "suhfda", 
+            "suhfd"
+        ], 
+        "sulaBya": [
+            "sulaBa", 
+            "sulaBA"
+        ], 
+        "sulakzya": [
+            "sulakza"
+        ], 
+        "sumaNgalya": [
+            "sumaNgala", 
+            "sumaNgalA"
+        ], 
+        "supAkya": [
+            "supAka"
+        ], 
+        "supaTya": [
+            "supaTa", 
+            "supaT"
+        ], 
+        "suprasArya": [
+            "suprasArA"
+        ], 
+        "surAhvaya": [
+            "surAhva"
+        ], 
+        "surAlaya": [
+            "surAla"
+        ], 
+        "surucya": [
+            "suruci", 
+            "suruc"
+        ], 
+        "suvIrya": [
+            "suvIra"
+        ], 
+        "suvayasya": [
+            "suvayas"
+        ], 
+        "suvicArya": [
+            "suvicAra"
+        ], 
+        "svAcCandya": [
+            "svacCanda"
+        ], 
+        "svAdya": [
+            "svAda", 
+            "svadi", 
+            "svad"
+        ], 
+        "svAlakzaRya": [
+            "svalakzaRa 1", 
+            "svAlakzaRa"
+        ], 
+        "svAmya": [
+            "svAmin 1", 
+            "svAmi", 
+            "svAmI", 
+            "svam"
+        ], 
+        "svArAjya": [
+            "svarAja 1", 
+            "svArAj", 
+            "svarAj"
+        ], 
+        "svArakzya": [
+            "svarakzA"
+        ], 
+        "svArasya": [
+            "svarasa 1"
+        ], 
+        "svAsTya": [
+            "svasTa 1"
+        ], 
+        "svAtantrya": [
+            "svatantra 1", 
+            "svAtantra", 
+            "svatantrA"
+        ], 
+        "svarAjya": [
+            "svarAj"
+        ], 
+        "svargya": [
+            "svarga 1", 
+            "svargi", 
+            "svargI"
+        ], 
+        "svarya": [
+            "svara 0", 
+            "svari", 
+            "svar"
+        ], 
+        "svastivAcya": [
+            "svastivAc"
+        ], 
+        "svedya": [
+            "sveda"
+        ], 
+        "sya": [
+            "si 0", 
+            "sa", 
+            "sA", 
+            "s"
+        ], 
+        "tARqya": [
+            "tARqa", 
+            "taRqa", 
+            "taRqA", 
+            "tARqi", 
+            "taRqi"
+        ], 
+        "tAcCIlya": [
+            "tacCIla"
+        ], 
+        "tAdAtmya": [
+            "tadAtman 1"
+        ], 
+        "tAdarTya": [
+            "tadarTa"
+        ], 
+        "tAkzaRya": [
+            "takzan 1"
+        ], 
+        "tApasya": [
+            "tApasa 1", 
+            "tapasa", 
+            "tapasA", 
+            "tApasI", 
+            "tapas"
+        ], 
+        "tApya": [
+            "tApa", 
+            "tapa", 
+            "tapA", 
+            "tApI", 
+            "tap"
+        ], 
+        "tAratamya": [
+            "taratam 1", 
+            "tAratama", 
+            "taratama"
+        ], 
+        "tArkzya": [
+            "tfkza 1", 
+            "tArkza", 
+            "tArkzI"
+        ], 
+        "tAruRya": [
+            "taruRa 1", 
+            "tAruRa", 
+            "taruRI", 
+            "taruR"
+        ], 
+        "tArya": [
+            "tAra", 
+            "tara", 
+            "tArA", 
+            "tarA", 
+            "tari", 
+            "tarI"
+        ], 
+        "tAskarya": [
+            "taskara", 
+            "taskarI"
+        ], 
+        "tAtparya": [
+            "tatpara 1"
+        ], 
+        "tAtsTya": [
+            "tatsTa"
+        ], 
+        "tAwasTya": [
+            "tawasTa 1"
+        ], 
+        "tEkzRya": [
+            "tIkzRa", 
+            "tIkzRA"
+        ], 
+        "tEmirya": [
+            "tEmira", 
+            "timira", 
+            "timirA", 
+            "timiri"
+        ], 
+        "tEryagyonya": [
+            "tEryagyona", 
+            "tiryagyona", 
+            "tEryagyoni", 
+            "tiryagyoni"
+        ], 
+        "tIrTya": [
+            "tIrTa", 
+            "tIrTI"
+        ], 
+        "tOlya": [
+            "tOla", 
+            "tula", 
+            "tUla", 
+            "tola", 
+            "tulA", 
+            "tuli", 
+            "tUli", 
+            "tOlI", 
+            "tulI", 
+            "tUlI", 
+            "tul", 
+            "tUl"
+        ], 
+        "tUrya": [
+            "tryate tAqyate tUra 1", 
+            "tUra", 
+            "tUrI", 
+            "tUr"
+        ], 
+        "taTya": [
+            "taTA"
+        ], 
+        "tallaya": [
+            "talla"
+        ], 
+        "tanaya": [
+            "tana"
+        ], 
+        "tapasya": [
+            "tapasa", 
+            "tapasA", 
+            "tapas"
+        ], 
+        "tfRya": [
+            "tfR 1"
+        ], 
+        "trEguRya": [
+            "triguRa 1"
+        ], 
+        "trEkAlya": [
+            "trikAla 1"
+        ], 
+        "trEliNgya": [
+            "trEliNga", 
+            "triliNga", 
+            "triliNgI"
+        ], 
+        "trElokya": [
+            "trilokI 1", 
+            "triloka"
+        ], 
+        "trEviDya": [
+            "triviDa"
+        ], 
+        "trEvidya": [
+            "trEvida"
+        ], 
+        "traya": [
+            "tra"
+        ], 
+        "trisaMDya": [
+            "trisaMDi", 
+            "trisaMDI"
+        ], 
+        "tuBya": [
+            "tuB"
+        ], 
+        "tulya": [
+            "tula", 
+            "tulA", 
+            "tuli", 
+            "tulI", 
+            "tul"
+        ], 
+        "turya": [
+            "tura", 
+            "turi", 
+            "turI"
+        ], 
+        "tuzya": [
+            "tuza", 
+            "tuzA", 
+            "tuz"
+        ], 
+        "tvacya": [
+            "tvaca", 
+            "tvacA", 
+            "tvac"
+        ], 
+        "uBaya": [
+            "uBa"
+        ], 
+        "uKya": [
+            "uK 0", 
+            "uKa", 
+            "uKA"
+        ], 
+        "uccaya": [
+            "ucca"
+        ], 
+        "udDya": [
+            "udDi", 
+            "udDI"
+        ], 
+        "udIcya": [
+            "udIcI 1"
+        ], 
+        "udanya": [
+            "udan"
+        ], 
+        "udarya": [
+            "udara"
+        ], 
+        "udaya": [
+            "uda"
+        ], 
+        "uddeSya": [
+            "uddeSa"
+        ], 
+        "ugravIrya": [
+            "ugravIra"
+        ], 
+        "ukTya": [
+            "ukTa"
+        ], 
+        "ullApya": [
+            "ud_lap 1", 
+            "ullApa"
+        ], 
+        "unnaya": [
+            "unna"
+        ], 
+        "upAya": [
+            "upA"
+        ], 
+        "upaBogya": [
+            "upaBoga"
+        ], 
+        "upacaya": [
+            "upaca"
+        ], 
+        "upakulya": [
+            "upa_kula 1"
+        ], 
+        "upasarya": [
+            "upa_sf 1"
+        ], 
+        "upavAhya": [
+            "upavAha"
+        ], 
+        "urasya": [
+            "uras 1", 
+            "urasa", 
+            "urasi"
+        ], 
+        "uruzya": [
+            "uruzA", 
+            "uruz"
+        ], 
+        "utpAdya": [
+            "utpAda"
+        ], 
+        "utsUrya": [
+            "utsUra"
+        ], 
+        "vARijya": [
+            "vaRij 1", 
+            "vARija", 
+            "vaRija", 
+            "vaRijA"
+        ], 
+        "vAcya": [
+            "vac 0", 
+            "vAca", 
+            "vaca", 
+            "vAcA", 
+            "vacA", 
+            "vaci", 
+            "vAcI", 
+            "vAc"
+        ], 
+        "vAdya": [
+            "vad 1", 
+            "vAda", 
+            "vada", 
+            "vAdi", 
+            "vadi", 
+            "vAdI"
+        ], 
+        "vAhya": [
+            "vAh 0", 
+            "vah 0", 
+            "vAha", 
+            "vaha", 
+            "vahA", 
+            "vahi", 
+            "vah"
+        ], 
+        "vAkya": [
+            "vAka", 
+            "vaka", 
+            "vakI", 
+            "vAk"
+        ], 
+        "vAllaBya": [
+            "vallaBa 1", 
+            "vallaBA"
+        ], 
+        "vAmadevya": [
+            "vAmadeva", 
+            "vAmadevI"
+        ], 
+        "vAnaprasTya": [
+            "vAnaprasTa", 
+            "vanaprasTa"
+        ], 
+        "vAnya": [
+            "vana 1"
+        ], 
+        "vApya": [
+            "vap 0", 
+            "vApa", 
+            "vapA", 
+            "vApi", 
+            "vapi", 
+            "vApI"
+        ], 
+        "vArdDakya": [
+            "vArdDaka 1", 
+            "vardDaka"
+        ], 
+        "vArdDuzya": [
+            "vArdDuzi 1", 
+            "vArdDuza", 
+            "vArdDuzI"
+        ], 
+        "vAriSaya": [
+            "vAriSa"
+        ], 
+        "vAruRya": [
+            "vAruRa", 
+            "varuRa", 
+            "varuRA", 
+            "vAruRi", 
+            "vAruRI"
+        ], 
+        "vArzagaRya": [
+            "vArzagaRa", 
+            "varzagaRa"
+        ], 
+        "vArzikya": [
+            "vArzika", 
+            "varzika", 
+            "vArzikI"
+        ], 
+        "vAsikya": [
+            "vAsika", 
+            "vasika", 
+            "vAsikA"
+        ], 
+        "vAstuvidya": [
+            "vAstuvid"
+        ], 
+        "vAstvya": [
+            "vAstva", 
+            "vastv"
+        ], 
+        "vAtsalya": [
+            "vatsala"
+        ], 
+        "vAtsya": [
+            "vAtsa", 
+            "vatsa", 
+            "vatsA", 
+            "vAtsi", 
+            "vAtsI"
+        ], 
+        "vAwya": [
+            "vAwa 0", 
+            "vawa", 
+            "vAwi", 
+            "vawi", 
+            "vAwI", 
+            "vawI", 
+            "vAw", 
+            "vaw"
+        ], 
+        "vEDarmya": [
+            "viDarma 1"
+        ], 
+        "vEDurya": [
+            "viDura 1", 
+            "vEDurI"
+        ], 
+        "vEPalya": [
+            "viPala 1", 
+            "viPalA", 
+            "viPalI", 
+            "viPal"
+        ], 
+        "vESAKya": [
+            "vESAKa", 
+            "viSAKa", 
+            "vESAKA", 
+            "viSAKA", 
+            "vESAKI"
+        ], 
+        "vESAradya": [
+            "vESArada", 
+            "viSArada", 
+            "viSAradA"
+        ], 
+        "vESadya": [
+            "viSada 1", 
+            "viSadA"
+        ], 
+        "vESalya": [
+            "viSala", 
+            "viSalA", 
+            "vESalI"
+        ], 
+        "vESezya": [
+            "viSeza 1"
+        ], 
+        "vESizwya": [
+            "viSizwa 1", 
+            "vESizwa"
+        ], 
+        "vESya": [
+            "viSa 1", 
+            "veSa", 
+            "veSi", 
+            "viSi", 
+            "veSI", 
+            "viSI", 
+            "veS", 
+            "viS"
+        ], 
+        "vEcakzaRya": [
+            "vicakzaRa 1", 
+            "vicakzaRA"
+        ], 
+        "vEcitrya": [
+            "vicitra 1", 
+            "vEcitra", 
+            "vicitrA"
+        ], 
+        "vEdUrya": [
+            "vidUra 1"
+        ], 
+        "vEdagDya": [
+            "vidagDa 1", 
+            "vEdagDa", 
+            "vidagDA", 
+            "vEdagDI"
+        ], 
+        "vEdeSya": [
+            "videSa 1", 
+            "vEdeSa", 
+            "vedeSa", 
+            "vEdeSI", 
+            "videSI"
+        ], 
+        "vEduzya": [
+            "vidvas 1", 
+            "vEduza", 
+            "viduzA", 
+            "vEduzI", 
+            "viduzI", 
+            "viduz"
+        ], 
+        "vEdya": [
+            "veda 1", 
+            "vida", 
+            "vedA", 
+            "vidA", 
+            "vEdi", 
+            "vedi", 
+            "vidi", 
+            "vedI", 
+            "vid"
+        ], 
+        "vEganDya": [
+            "vEganDa", 
+            "veganDa", 
+            "viganDa", 
+            "viganDA", 
+            "viganDi"
+        ], 
+        "vEguRya": [
+            "viguRa 1"
+        ], 
+        "vEhArya": [
+            "vEhAra", 
+            "vehAra", 
+            "vihAra", 
+            "vIhAra", 
+            "vihArI"
+        ], 
+        "vEkalya": [
+            "vikala 1", 
+            "vikalA"
+        ], 
+        "vElakzaRya": [
+            "vilakzaRa"
+        ], 
+        "vElakzya": [
+            "vilakza 1", 
+            "vilakz"
+        ], 
+        "vElomya": [
+            "viloma 1", 
+            "vilomA"
+        ], 
+        "vEmalya": [
+            "vimala", 
+            "vimalA"
+        ], 
+        "vEmanasya": [
+            "vimanas 1"
+        ], 
+        "vEmuKya": [
+            "vimuKa 1", 
+            "vimuKI"
+        ], 
+        "vEnDya": [
+            "vinDa", 
+            "vinD"
+        ], 
+        "vEnya": [
+            "vEna", 
+            "vena", 
+            "vinA", 
+            "vInA", 
+            "vinI", 
+            "ven", 
+            "vIn"
+        ], 
+        "vEpulya": [
+            "vipula 1", 
+            "vipulA"
+        ], 
+        "vEqUrya": [
+            "viqUra"
+        ], 
+        "vErAgya": [
+            "vErAga", 
+            "virAga", 
+            "vErAgI"
+        ], 
+        "vErAjya": [
+            "vErAja", 
+            "virAja", 
+            "virAj"
+        ], 
+        "vEralya": [
+            "virala 1"
+        ], 
+        "vErasya": [
+            "vErasa", 
+            "virasa", 
+            "viras"
+        ], 
+        "vEriYcya": [
+            "vEriYca", 
+            "viriYca", 
+            "viriYci"
+        ], 
+        "vEsaMjYya": [
+            "visaMjYa"
+        ], 
+        "vEsvarya": [
+            "visvara"
+        ], 
+        "vEtaRqya": [
+            "vetaRqa", 
+            "vitaRqa", 
+            "vitaRqA", 
+            "vEtaRqI"
+        ], 
+        "vEtfzRya": [
+            "vitfzRa", 
+            "vitfzRA"
+        ], 
+        "vEttapAlya": [
+            "vittapAla"
+        ], 
+        "vEvAhya": [
+            "vEvAha", 
+            "vivAha", 
+            "vIvAha"
+        ], 
+        "vEvarRya": [
+            "vivarRa", 
+            "vivarR"
+        ], 
+        "vEviDya": [
+            "viviDa", 
+            "vIviDa"
+        ], 
+        "vEyAGrapadya": [
+            "vEyAGrapadI"
+        ], 
+        "vEyaDikaraRya": [
+            "vyaDikaraRa 1"
+        ], 
+        "vEyagrya": [
+            "vyagra 1", 
+            "vEyagra"
+        ], 
+        "vEyarTya": [
+            "vyarTa 1"
+        ], 
+        "vEzamya": [
+            "vizama 1", 
+            "vEzama", 
+            "vizamI", 
+            "vizam"
+        ], 
+        "vEzaya": [
+            "veza", 
+            "viza"
+        ], 
+        "vEzwamBya": [
+            "vEzwamBa", 
+            "vizwamBa", 
+            "vizwamB"
+        ], 
+        "vIjya": [
+            "vIja 1"
+        ], 
+        "vIratarAdya": [
+            "vIratarAdi"
+        ], 
+        "vIrya": [
+            "vIra 0", 
+            "vIr 1", 
+            "vIrA"
+        ], 
+        "vaDrya": [
+            "vaDra 1"
+        ], 
+        "vaDya": [
+            "vaDamarhati 1", 
+            "vaDa", 
+            "vaDA", 
+            "vaDi", 
+            "vaD"
+        ], 
+        "vaMSya": [
+            "vaMSa", 
+            "vaMSI"
+        ], 
+        "vaRijya": [
+            "vaRij 1", 
+            "vaRija", 
+            "vaRijA"
+        ], 
+        "vaSya": [
+            "vaS 0", 
+            "vaSa", 
+            "vaSA", 
+            "vaSI"
+        ], 
+        "vacAdya": [
+            "vacAdi"
+        ], 
+        "vadya": [
+            "vad 1"
+        ], 
+        "vahya": [
+            "vah 0", 
+            "vaha", 
+            "vahA", 
+            "vahi"
+        ], 
+        "valaya": [
+            "vala"
+        ], 
+        "vanDya": [
+            "vanDA"
+        ], 
+        "vanejya": [
+            "vanejA"
+        ], 
+        "vanya": [
+            "van 0", 
+            "vana", 
+            "vani", 
+            "vanI"
+        ], 
+        "varRya": [
+            "varR 0", 
+            "varRa", 
+            "varRA", 
+            "varRI"
+        ], 
+        "varcasya": [
+            "varcasa", 
+            "varcas"
+        ], 
+        "vareRya": [
+            "vareRa", 
+            "vareR"
+        ], 
+        "vargya": [
+            "varga", 
+            "vargA"
+        ], 
+        "varya": [
+            "vara 0", 
+            "vf 1", 
+            "varA", 
+            "varI"
+        ], 
+        "vatsakAdya": [
+            "vatsakAdi"
+        ], 
+        "vaya": [
+            "va"
+        ], 
+        "vayasya": [
+            "vayasa", 
+            "vayas"
+        ], 
+        "veDya": [
+            "veDa", 
+            "veDA", 
+            "veD"
+        ], 
+        "veRuvAdya": [
+            "veRuvAda"
+        ], 
+        "veSya": [
+            "veS 1"
+        ], 
+        "vedya": [
+            "veda", 
+            "vedA", 
+            "vedi", 
+            "vedI"
+        ], 
+        "vfkzya": [
+            "vfkza", 
+            "vfkz"
+        ], 
+        "vfzya": [
+            "vfza", 
+            "vfzA", 
+            "vfzi", 
+            "vfz"
+        ], 
+        "viDAnya": [
+            "viDAna"
+        ], 
+        "viSalya": [
+            "viSala", 
+            "viSalA"
+        ], 
+        "viSezya": [
+            "viSeza"
+        ], 
+        "viSvadevya": [
+            "viSvadeva", 
+            "viSvadevA"
+        ], 
+        "viSvajanya": [
+            "viSvajana"
+        ], 
+        "viSvedevya": [
+            "viSvedeva", 
+            "viSvedevA"
+        ], 
+        "vidAriganDAdya": [
+            "vidAriganDAdi"
+        ], 
+        "vidvezya": [
+            "vidveza"
+        ], 
+        "vihaya": [
+            "viha"
+        ], 
+        "vijya": [
+            "vij 0", 
+            "viji"
+        ], 
+        "vilakzya": [
+            "vilakza", 
+            "vilakz"
+        ], 
+        "vilaya": [
+            "vila"
+        ], 
+        "vimAya": [
+            "vimA"
+        ], 
+        "vimfgya": [
+            "vimfga"
+        ], 
+        "vinDya": [
+            "vinDa", 
+            "vinD"
+        ], 
+        "vipUya": [
+            "vipU"
+        ], 
+        "vipaRya": [
+            "vipaRa", 
+            "vipaRi", 
+            "vipaR"
+        ], 
+        "viparyaya": [
+            "viparya"
+        ], 
+        "viriYcya": [
+            "viriYca", 
+            "viriYci"
+        ], 
+        "vitaTya": [
+            "vitaTa 1"
+        ], 
+        "vivAhya": [
+            "vivAha"
+        ], 
+        "vizahya": [
+            "vizaha", 
+            "vizahA", 
+            "vizah"
+        ], 
+        "vizaya": [
+            "viza"
+        ], 
+        "vizya": [
+            "viza 1"
+        ], 
+        "vraRya": [
+            "vraRa", 
+            "vraR"
+        ], 
+        "vyApya": [
+            "vyApi", 
+            "vyAp", 
+            "vyap"
+        ], 
+        "vyAya": [
+            "vyA"
+        ], 
+        "vyaNgya": [
+            "vyaNga"
+        ], 
+        "vyavahArya": [
+            "vyavahAra"
+        ], 
+        "vyavasAya": [
+            "vyavasA"
+        ], 
+        "yATArTya": [
+            "yaTArTa 1", 
+            "yaTArTA"
+        ], 
+        "yATAtaTya": [
+            "yaTAtaTa 1"
+        ], 
+        "yAjYavalkya": [
+            "yAjYavalka", 
+            "yajYavalka"
+        ], 
+        "yAjya": [
+            "yaj 0", 
+            "yAja", 
+            "yaja", 
+            "yAji", 
+            "yaji", 
+            "yAj"
+        ], 
+        "yAmya": [
+            "yam 0", 
+            "yama 1", 
+            "yAma", 
+            "yamA", 
+            "yAmi", 
+            "yAmI", 
+            "yamI"
+        ], 
+        "yApya": [
+            "yApa"
+        ], 
+        "yOgapadya": [
+            "yugapad 1", 
+            "yOgapada", 
+            "yogapada"
+        ], 
+        "yOvarAjya": [
+            "yuvarAja 1"
+        ], 
+        "yUTya": [
+            "yUTa", 
+            "yUTI"
+        ], 
+        "yUya": [
+            "yU"
+        ], 
+        "ya": [
+            "i 0", 
+            "a", 
+            "A", 
+            "I"
+        ], 
+        "yaSasya": [
+            "yaSasa", 
+            "yaSas"
+        ], 
+        "yaTAtaTya": [
+            "yaTAtaTa"
+        ], 
+        "yajYayogya": [
+            "yajYayoga"
+        ], 
+        "yamahAsya": [
+            "yamahAsa"
+        ], 
+        "yazwyAhvaya": [
+            "yazwyAhva"
+        ], 
+        "yogya": [
+            "yoga", 
+            "yogA", 
+            "yogI"
+        ], 
+        "yugya": [
+            "yuga"
+        ], 
+        "zARQya": [
+            "zaRQa", 
+            "zaRQ"
+        ], 
+        "zAqguRya": [
+            "zaqguRa 1"
+        ], 
+        "zaRmAsya": [
+            "zaRmAsa"
+        ]
+    }
+}
