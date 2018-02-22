@@ -36,7 +36,7 @@ def createUniversal():
 		add all nodes worth considering to a dict to be used later
 	"""
 	U = dict()
-	nodesFrom("../gold_labels.txt",U)
+	nodesFrom("gold_labels.txt",U)
 	nodesFrom("seeds.txt",U)
 	#print "\nI matter : \n",U
 	return U
@@ -47,11 +47,11 @@ def getLList(L,L1,L2):
 		opens gold_labels.txt and sorts all nodes into L1 or L2
 
 	"""
-	if not os.path.isfile("../gold_labels.txt"):
+	if not os.path.isfile("gold_labels.txt"):
 		print "Gold labels missing ! Exitting"
 		quit()
 
-	goldy = open("../gold_labels.txt",'r')
+	goldy = open("gold_labels.txt",'r')
 	text = goldy.read()
 	data = text.split("\n")
 	for each in data:
@@ -60,7 +60,7 @@ def getLList(L,L1,L2):
 		node = each.split("\t")[0]
 		label = each.split("\t")[1]
 		L[node] = label
-
+	
 	for key in L:
 		if L[key]=="L2":
 			L2[key] = L[key]
@@ -69,7 +69,7 @@ def getLList(L,L1,L2):
 
 	goldy.close()
 	#print "The lists"
-	#print L
+	#print L		
 	#print L1
 	#print L2
 
@@ -123,7 +123,7 @@ def getPredicted(Lp,L1p,L2p,U):
 
 	out.close()
 	return L1prediction,L2prediction
-
+		
 
 
 def  getIntersection(L,M,label):
@@ -164,9 +164,7 @@ def allcounts(L1g,L2g,Lg,Lp):
 					givenL2predictL1 += 1
 				elif Lp[key]=="L2":
 					givenL2predictL2 += 1
-
-	now = datetime.datetime.now()
-	print "\n All counts done by", now.strftime("%d-%m-%Y %H:%M")+"\n\n"
+				time.sleep(0.5)
 
 	return givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2
 
@@ -175,7 +173,7 @@ def analyzeForStep(STEPnum,partnum):
 	"""
 		run the process for each step
 	"""
-	os.chdir("part"+str(partnum)+"/"+"Step"+str(STEPnum)+"/")
+	os.chdir("STEP"+str(STEPnum)+"/part"+str(partnum)+"/")
 	#print "dir : "+os.getcwd()
 
 	#first , generate a universal set comprising of nodes in seeds and gold_labels
@@ -189,7 +187,7 @@ def analyzeForStep(STEPnum,partnum):
 	getLList(Lg,L1g,L2g)
 
 	Lp = dict()#p stands for prediction value
-	L1p = dict()#L1 p and L2 p hold the predicted values
+	L1p = dict()#L1 p and L2 p hold the predicted values 
 	L2p = dict()#
 	#print "\nI matter : \n",U
 	#go to label_prop_output
@@ -205,7 +203,7 @@ def analyzeForStep(STEPnum,partnum):
 	print'+--- Computing...'
 	givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2 = allcounts(L1g,L2g,Lg,Lp)
 	print "Stats"
-	print givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2
+	print givenL1predictL1,givenL1predictL2,givenL2predictL1,givenL2predictL2 
 
 #report stats
 	now = datetime.datetime.now()
@@ -242,7 +240,7 @@ def analyzeForStep(STEPnum,partnum):
 		recall2 = 100.0*givenL2predictL2/(givenL1predictL2+givenL2predictL2)
 		recall2 = 0.001 * int(1000*recall2)
 	else:
-		recall2 = "-"
+		recall2 = "-"	
 
 #	print "Recall : ",recall1," and ",recall2
 	statsTable.add_row(['Recall',recall1,recall2])
@@ -269,7 +267,7 @@ def analyzeForStep(STEPnum,partnum):
 	connectionTable = PrettyTable(['Node','Mapping','Goldlabel','Predict',
 		'L1 confidence','L2confidence'])
 	#make connections between edges and their code names
-	with open("../nodes_dict.txt") as f:
+	with open("nodes_dict.txt") as f:
 		dic = json.loads(f.read())
 
 		for each in dic:
@@ -304,20 +302,20 @@ def analyzeForStep(STEPnum,partnum):
 	result_string += "\n"+connections+"\n"
 
 	os.chdir("../..")
-	# os.system("mkdir results")
+	os.system("mkdir results")
 	outstr = "results/step_"+str(STEPnum)+"_part_"+str(partnum)+"_.txt"
-
+	
 
 	with open('results/step'+str(STEPnum)+"_part_"+str(partnum)+'_results.csv','wb') as csvfile:
 		writer = csv.writer(csvfile , delimiter = ',')
-		for eachrow in label_data :
+		for eachrow in label_data : 
 			 writer.writerow(eachrow)
 
 	if os.path.isfile(outstr):
 		os.system("rm -f "+outstr)
 		print "Updating results ..."
 
-	outFile = open(outstr,'wb')
+	outFile = open(outstr,'wb')		
 	outFile.write(result_string)
 	outFile.close()
 
@@ -325,12 +323,10 @@ def analyzeForStep(STEPnum,partnum):
 
 
 #MAIN PART
-def main():
+if __name__=="__main__":
 	#validate part
-	# print "Checking if format available.... "
-	# os.system("pip install PrettyTable")
-	now = datetime.datetime.now()
-	print "\nStarted at ", now.strftime("%d-%m-%Y %H:%M")+"\n\n"
+	print "Checking if format available.... "
+	os.system("pip install PrettyTable")
 
 	partnum = raw_input("Enter part num : ")
 	nope = (5,10,12,18,22,24)
@@ -340,18 +336,17 @@ def main():
 		if partnum in nope:
 			print "This is an ignored part"
 			quit()
-	else :
+	else : 
 		print "not even in range"
 
-	# STEPnum = raw_input("Enter which Step : ")
-	# STEPnum = int(STEPnum)
-	# if STEPnum not in range(1,4):
-	# 	print "Not valid"
-	# 	quit()
+	STEPnum = raw_input("Enter which Step : ")
+	STEPnum = int(STEPnum)
+	if STEPnum not in range(1,4):
+		print "Not valid"
+		quit()
 
-	STEPnum = 3
-	base_path = "part"+str(partnum)+"/"+"Step"+str(STEPnum)+"/"
-	gold = "../gold_labels.txt"
+	base_path = "STEP"+str(STEPnum)+"/part"+str(partnum)+"/"
+	gold = "gold_labels.txt"
 	out = "label_prop_output.txt"
 	if not os.path.isfile(base_path+gold):
 		print "Gold labels missing! ...Closing"
@@ -361,7 +356,3 @@ def main():
 		quit()
 	else:
 		analyzeForStep(STEPnum,partnum)
-
-
-if __name__=="__main__":
-	main()
